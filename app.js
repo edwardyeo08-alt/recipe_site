@@ -1244,11 +1244,13 @@
     });
 
     elements.recipeModal.hidden = false;
+    elements.recipeModal.classList.add('open');
     document.body.style.overflow = 'hidden';
   }
 
   function closeModal() {
     elements.recipeModal.hidden = true;
+    elements.recipeModal.classList.remove('open');
     document.body.style.overflow = '';
   }
 
