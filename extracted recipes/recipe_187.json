@@ -122,15 +122,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 668.0,
-    "energy_kcal": 160.0,
-    "protein_g": null,
-    "carbs_g": 15.0,
+    "energy_kj": 668,
+    "energy_kcal": 160,
+    "protein_g": 6,
+    "carbs_g": 15,
     "sugars_g": 2.3,
-    "fibre_g": 3.0,
+    "fibre_g": 3,
     "fat_g": 8.8,
     "saturated_fat_g": 2.9,
-    "sodium_mg": 315.0
+    "sodium_mg": 315
   },
   "allergens": [
     "Dairy",
@@ -139,6 +139,6 @@
     "Alcohol"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Protein value in nutritional information table is punched out by binder ring hole"
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

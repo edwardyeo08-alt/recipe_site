@@ -120,15 +120,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 713.0,
-    "energy_kcal": 170.0,
+    "energy_kj": 713,
+    "energy_kcal": 170,
     "protein_g": 5.7,
-    "carbs_g": 19.0,
+    "carbs_g": 19,
     "sugars_g": 4.3,
     "fibre_g": 2.2,
     "fat_g": 8.1,
     "saturated_fat_g": 4.4,
-    "sodium_mg": 387.0
+    "sodium_mg": 387
   },
   "allergens": [
     "Gluten",
@@ -138,6 +138,6 @@
     "Sulphites"
   ],
   "chef_tip": "Black beans are a great source of fiber, protein and folate. Folate contributes to normal amino acid production and is necessary for normal blood formation.",
-  "card_obscured_flag": true,
-  "obscured_details": "The allergen 'Sulphites' is partially obscured by the binder ring hole."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

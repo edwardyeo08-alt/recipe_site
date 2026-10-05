@@ -113,15 +113,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 662.0,
-    "energy_kcal": 158.0,
+    "energy_kj": 662,
+    "energy_kcal": 158,
     "protein_g": 13.3,
-    "carbs_g": 9.0,
+    "carbs_g": 9,
     "sugars_g": 2.2,
     "fibre_g": 1.7,
     "fat_g": 7.7,
     "saturated_fat_g": 2.6,
-    "sodium_mg": 315.0
+    "sodium_mg": 315
   },
   "allergens": [
     "Egg",
@@ -133,6 +133,6 @@
     "Fish"
   ],
   "chef_tip": "To cook food 'al dente' means that it should still be firm when bitten. It must be tender, but not soft. This typically refers to pasta, but applies to other grains, as well as a range of veg. In the case of your green beans, they should still have a snap to them once cooked.",
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole partially obscures a word in Chef's Tip ('have a ... to them') and the allergen 'Wheat' ('Whe...')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

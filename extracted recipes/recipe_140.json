@@ -13,73 +13,73 @@
   "ingredients": [
     {
       "name": "Chickpeas",
-      "quantity": 240.0,
+      "quantity": 240,
       "unit": "g",
       "prep": "drained & rinsed"
     },
     {
       "name": "Walnuts",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Guacamole",
-      "quantity": 160.0,
+      "quantity": 160,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Low Fat Plain Yoghurt",
-      "quantity": 50.0,
+      "quantity": 50,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Raspberry Vinegar",
-      "quantity": 10.0,
+      "quantity": 10,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Panko Breadcrumbs",
-      "quantity": 120.0,
+      "quantity": 120,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "NOMU Roast Rub",
-      "quantity": 10.0,
+      "quantity": 10,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Camembert",
-      "quantity": 250.0,
+      "quantity": 250,
       "unit": "g",
       "prep": "sliced into 1cm thick slices"
     },
     {
       "name": "Peas",
-      "quantity": 100.0,
+      "quantity": 100,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Apple",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "rinsed"
     },
     {
       "name": "Salad Leaves",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": "rinsed & roughly shredded"
     },
     {
       "name": "Fresh Parsley",
-      "quantity": 8.0,
+      "quantity": 8,
       "unit": "g",
       "prep": "rinsed, picked & roughly chopped"
     }
@@ -125,15 +125,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 793.0,
-    "energy_kcal": 189.0,
-    "protein_g": null,
-    "carbs_g": 12.0,
+    "energy_kj": 793,
+    "energy_kcal": 189,
+    "protein_g": 9.1,
+    "carbs_g": 12,
     "sugars_g": 2.4,
     "fibre_g": 3.5,
     "fat_g": 11.1,
     "saturated_fat_g": 4.6,
-    "sodium_mg": 299.0
+    "sodium_mg": 299
   },
   "allergens": [
     "Gluten",
@@ -144,6 +144,6 @@
     "Tree Nuts"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Protein value in Nutritional Information is obscured/punched out by the binder ring hole."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

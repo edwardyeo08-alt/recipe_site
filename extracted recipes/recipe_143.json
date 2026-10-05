@@ -13,55 +13,55 @@
   "ingredients": [
     {
       "name": "Walnuts",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Spinach & Ricotta Ravioli",
-      "quantity": 350.0,
+      "quantity": 350,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Garlic Cloves",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "Fresh Oregano",
-      "quantity": 10.0,
+      "quantity": 10,
       "unit": "g",
       "prep": "rinsed & picked"
     },
     {
       "name": "Italian-Style Hard Cheese",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "g",
       "prep": "grated"
     },
     {
       "name": "Crème Fraîche",
-      "quantity": 85.0,
+      "quantity": 85,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Lemon",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "zested & cut into wedges"
     },
     {
       "name": "Spinach",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": "rinsed"
     },
     {
       "name": "Truffle",
-      "quantity": 4.0,
+      "quantity": 4,
       "unit": "g",
       "prep": null
     }
@@ -99,15 +99,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 1053.0,
-    "energy_kcal": 252.0,
+    "energy_kj": 1053,
+    "energy_kcal": 252,
     "protein_g": 8.6,
-    "carbs_g": 24.0,
+    "carbs_g": 24,
     "sugars_g": 4.3,
     "fibre_g": 3.5,
     "fat_g": 13.3,
     "saturated_fat_g": 6.3,
-    "sodium_mg": 320.0
+    "sodium_mg": 320
   },
   "allergens": [
     "Egg",
@@ -119,6 +119,6 @@
     "Tree Nuts"
   ],
   "chef_tip": "Cooking pasta in salted water allows it to absorb the salt, enhancing its flavour, because the salt is dispersed throughout the dish and not just on the surface of the pasta, so you get a better end result!",
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole clips 'Wheat' in the allergens list."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

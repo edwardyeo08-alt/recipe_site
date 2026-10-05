@@ -110,15 +110,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 634.0,
-    "energy_kcal": 152.0,
-    "protein_g": null,
-    "carbs_g": null,
+    "energy_kj": 634,
+    "energy_kcal": 152,
+    "protein_g": 9,
+    "carbs_g": 13.3,
     "sugars_g": 2.4,
     "fibre_g": 1.4,
     "fat_g": 6.3,
     "saturated_fat_g": 1.3,
-    "sodium_mg": 371.0
+    "sodium_mg": 371
   },
   "allergens": [
     "Egg",
@@ -132,6 +132,6 @@
     "Shellfish/Seafood"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole punch obscures the Protein and Carbs values in the Nutritional Information table."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

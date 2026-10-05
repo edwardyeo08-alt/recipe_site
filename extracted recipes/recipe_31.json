@@ -119,15 +119,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 603.0,
-    "energy_kcal": 144.0,
+    "energy_kj": 603,
+    "energy_kcal": 144,
     "protein_g": 6.2,
-    "carbs_g": 14.0,
+    "carbs_g": 14,
     "sugars_g": 4.2,
     "fibre_g": 2.2,
     "fat_g": 6.8,
     "saturated_fat_g": 2.2,
-    "sodium_mg": 265.0
+    "sodium_mg": 265
   },
   "allergens": [
     "Gluten",
@@ -139,6 +139,6 @@
     "Soy"
   ],
   "chef_tip": "For a nuttier flavour, place the peanuts in a pan over a medium heat. Toast for 3-5 minutes until golden, shifting occasionally. Remove from the pan and roughly chop.",
-  "card_obscured_flag": true,
-  "obscured_details": "The allergen 'Wheat' is partially clipped by the binder ring hole."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

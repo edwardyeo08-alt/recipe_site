@@ -117,15 +117,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 678.0,
-    "energy_kcal": 162.0,
-    "protein_g": 11.0,
-    "carbs_g": 19.0,
+    "energy_kj": 678,
+    "energy_kcal": 162,
+    "protein_g": 11,
+    "carbs_g": 19,
     "sugars_g": 2.4,
     "fibre_g": 1.7,
     "fat_g": 3.8,
     "saturated_fat_g": 1.9,
-    "sodium_mg": 65.0
+    "sodium_mg": 65
   },
   "allergens": [
     "Gluten",
@@ -135,6 +135,6 @@
     "Sulphites"
   ],
   "chef_tip": "Avoid overcrowding the pan when frying the mushrooms and cook them in batches if necessary. Mushrooms release water, so if there are too many in the pan, they could end up boiled instead of caramelised",
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring clips letters of 'could' in the Chef's Tip ('they co[uld] end up') and the middle of 'Sulphites' in Allergens ('Su[l]phites')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

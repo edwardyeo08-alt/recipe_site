@@ -117,15 +117,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 585.0,
-    "energy_kcal": 140.0,
+    "energy_kj": 585,
+    "energy_kcal": 140,
     "protein_g": 8.5,
-    "carbs_g": 16.0,
+    "carbs_g": 16,
     "sugars_g": 3.8,
     "fibre_g": 1.8,
     "fat_g": 4.2,
     "saturated_fat_g": 0.8,
-    "sodium_mg": 390.0
+    "sodium_mg": 390
   },
   "allergens": [
     "Egg",
@@ -137,6 +137,6 @@
     "Soy"
   ],
   "chef_tip": "The mushrooms need to marinate for a while to get them fully flavourful. So, get step one done first before completing the rest of your prep.",
-  "card_obscured_flag": true,
-  "obscured_details": "Ring binder hole clips 'Sulphites' in the allergens list on the reverse side."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

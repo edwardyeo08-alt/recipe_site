@@ -13,55 +13,55 @@
   "ingredients": [
     {
       "name": "Hazelnuts",
-      "quantity": 60.0,
+      "quantity": 60,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Cannellini Beans",
-      "quantity": 480.0,
+      "quantity": 480,
       "unit": "g",
       "prep": "drained & rinsed"
     },
     {
       "name": "NOMU Italian Rub",
-      "quantity": 10.0,
+      "quantity": 10,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Butternut & Ricotta Ravioli",
-      "quantity": 600.0,
+      "quantity": 600,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Fresh Sage",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": "rinsed & picked"
     },
     {
       "name": "Garlic Clove",
-      "quantity": 4.0,
+      "quantity": 4,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "Baby Spinach",
-      "quantity": 160.0,
+      "quantity": 160,
       "unit": "g",
       "prep": "rinsed"
     },
     {
       "name": "Grated Italian-Style Hard Cheese",
-      "quantity": 60.0,
+      "quantity": 60,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Lemon",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "zested & cut into wedges"
     }
@@ -100,15 +100,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 525.0,
-    "energy_kcal": 125.0,
+    "energy_kj": 525,
+    "energy_kcal": 125,
     "protein_g": 5.9,
-    "carbs_g": 21.0,
+    "carbs_g": 21,
     "sugars_g": 1.8,
     "fibre_g": 3.7,
     "fat_g": 4.4,
     "saturated_fat_g": 1.1,
-    "sodium_mg": 200.0
+    "sodium_mg": 200
   },
   "allergens": [
     "Egg",
@@ -120,6 +120,6 @@
     "Tree Nuts"
   ],
   "chef_tip": "Beurre noisette translates to \"brown butter\" or \"hazelnut butter\". It's a popular sauce in French cuisine where butter is slightly burnt in a pan, giving it a nutty, sweet aroma. It's a stunning sauce for pastas, steaks, steamed or blanched and fish.",
-  "card_obscured_flag": true,
-  "obscured_details": "Chef's tip has a word punched out by binder ring hole after 'blanched', and allergens has 'Wheat' slightly clipped."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

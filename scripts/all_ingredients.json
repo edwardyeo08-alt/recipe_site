@@ -1,0 +1,8277 @@
+[
+  {
+    "name": "Almond Flour",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 61,
+        "qty": 50,
+        "unit": "ml"
+      },
+      {
+        "recipe": 71,
+        "qty": 100,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Almonds",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 16,
+        "qty": 45,
+        "unit": "g"
+      },
+      {
+        "recipe": 63,
+        "qty": 30,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Anchovy Pieces",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 64,
+        "qty": 36,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Apple",
+    "count": 2,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 90,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 140,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Apples",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 190,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Arborio Rice",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 164,
+        "qty": 250,
+        "unit": "ml"
+      },
+      {
+        "recipe": 166,
+        "qty": 200,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Artichoke Hearts",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 124,
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "recipe": 130,
+        "qty": 120,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Artichoke Quarters",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 149,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Asian BBQ Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 191,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Asian Marinade",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 94,
+        "qty": 80,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Asian-Style Slaw Mix",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 179,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Aubergine",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 33,
+        "qty": 800,
+        "unit": "g"
+      },
+      {
+        "recipe": 135,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Avocado",
+    "count": 5,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 24,
+        "qty": 1,
+        "unit": null
+      },
+      {
+        "recipe": 44,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Avocado Hummus",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 81,
+        "qty": 100,
+        "unit": "ml"
+      },
+      {
+        "recipe": 97,
+        "qty": 85,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Avocados",
+    "count": 2,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 96,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 171,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "BBQ Sauce",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 9,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 157,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "BIO XXI Gluten-free Multigrain Fettuccine",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 128,
+        "qty": 160,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Baby Carrot Medley",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 16,
+        "qty": 360,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Baby Marrow",
+    "count": 13,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 63,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 86,
+        "qty": 200,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Baby Onions",
+    "count": 3,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 3,
+        "qty": 8,
+        "unit": null
+      },
+      {
+        "recipe": 162,
+        "qty": 6,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Baby Potatoes",
+    "count": 13,
+    "units": [
+      "kg",
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 1,
+        "qty": 1,
+        "unit": "kg"
+      },
+      {
+        "recipe": 2,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Baby Spinach",
+    "count": 7,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 66,
+        "qty": 80,
+        "unit": "g"
+      },
+      {
+        "recipe": 136,
+        "qty": 160,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Baby Tomato Medley",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 82,
+        "qty": 160,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Baby Tomatoes",
+    "count": 33,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 20,
+        "qty": 400,
+        "unit": "g"
+      },
+      {
+        "recipe": 21,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Balsamic Glaze",
+    "count": 6,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 2,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 133,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Balsamic Reduction",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 135,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 137,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Balsamic Vinegar",
+    "count": 6,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 49,
+        "qty": 15,
+        "unit": "ml"
+      },
+      {
+        "recipe": 56,
+        "qty": 45,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Basa Fillet",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 100,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Basa Fillets",
+    "count": 2,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 86,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 94,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Basil Pesto Mayo",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 180,
+        "qty": 140,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Beef Mince",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 36,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 52,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Beef Schnitzel",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 42,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Beef Schnitzel (without crumb)",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 41,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Beef Stock",
+    "count": 11,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 6,
+        "qty": 15,
+        "unit": "ml"
+      },
+      {
+        "recipe": 7,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Beetroot",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 95,
+        "qty": 400,
+        "unit": "g"
+      },
+      {
+        "recipe": 155,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Beetroot Chunks",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 161,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Black Beans",
+    "count": 11,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 9,
+        "qty": 120,
+        "unit": "g"
+      },
+      {
+        "recipe": 36,
+        "qty": 120,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Black Rice",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 72,
+        "qty": 150,
+        "unit": "ml"
+      },
+      {
+        "recipe": 155,
+        "qty": 150,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Black Sesame Seeds",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 43,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 145,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Bocconcini Balls",
+    "count": 4,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 37,
+        "qty": 6,
+        "unit": null
+      },
+      {
+        "recipe": 56,
+        "qty": 6,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Brandy",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 190,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Broccoli",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 124,
+        "qty": 200,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Broccoli Florets",
+    "count": 6,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 45,
+        "qty": 600,
+        "unit": "g"
+      },
+      {
+        "recipe": 101,
+        "qty": 200,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Brown Basmati Rice",
+    "count": 17,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 42,
+        "qty": 400,
+        "unit": "ml"
+      },
+      {
+        "recipe": 52,
+        "qty": 150,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Brown Rice",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 13,
+        "qty": 150,
+        "unit": "ml"
+      },
+      {
+        "recipe": 73,
+        "qty": 200,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Bulgur & Stock Mix",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 136,
+        "qty": 320,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Bulgur Wheat",
+    "count": 7,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 5,
+        "qty": 150,
+        "unit": "ml"
+      },
+      {
+        "recipe": 44,
+        "qty": 300,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Bulgur Wheat & Vegetable Stock",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 21,
+        "qty": 315,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Butter Beans",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 85,
+        "qty": 120,
+        "unit": "g"
+      },
+      {
+        "recipe": 155,
+        "qty": 120,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Butter Chicken Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 78,
+        "qty": 40,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Butter Lettuce",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 108,
+        "qty": 80,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Butternut",
+    "count": 12,
+    "units": [
+      "kg",
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 12,
+        "qty": 1,
+        "unit": "kg"
+      },
+      {
+        "recipe": 14,
+        "qty": 500,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Butternut & Ricotta Ravioli",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 137,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 141,
+        "qty": 600,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Butternut Chunks",
+    "count": 4,
+    "units": [
+      "g",
+      "kg"
+    ],
+    "samples": [
+      {
+        "recipe": 128,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 151,
+        "qty": 500,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Butternut Chunks & Cauliflower Florets",
+    "count": 3,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 52,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 90,
+        "qty": 600,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Butternut Gnocchi",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 115,
+        "qty": 350,
+        "unit": "g"
+      },
+      {
+        "recipe": 123,
+        "qty": 700,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Button Mushrooms",
+    "count": 6,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 6,
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "recipe": 43,
+        "qty": 250,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cabbage",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 191,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cabbage & Julienne Carrot",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 74,
+        "qty": 150,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cabernet Sauvignon Balsamic Vinegar",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 16,
+        "qty": 45,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Cabernet Sauvignon Vinegar",
+    "count": 6,
+    "units": [
+      "ml",
+      "sachets"
+    ],
+    "samples": [
+      {
+        "recipe": 30,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 44,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Cajun Spice",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 85,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Cake Flour",
+    "count": 9,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 5,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 23,
+        "qty": 300,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Camembert",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 140,
+        "qty": 250,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cannellini Beans",
+    "count": 9,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 12,
+        "qty": 240,
+        "unit": "g"
+      },
+      {
+        "recipe": 103,
+        "qty": 480,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cape Herb & Spice Thai 7 Spice",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 75,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Capers",
+    "count": 5,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 4,
+        "qty": 10,
+        "unit": "g"
+      },
+      {
+        "recipe": 54,
+        "qty": 30,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "CarbSmart BBQ Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 183,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Carrot",
+    "count": 20,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 1,
+        "qty": 480,
+        "unit": "g"
+      },
+      {
+        "recipe": 5,
+        "qty": 240,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Carrots",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 3,
+        "qty": 960,
+        "unit": "g"
+      },
+      {
+        "recipe": 81,
+        "qty": 960,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cashew Cream Cheese",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 165,
+        "qty": 200,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Cashew Nut",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 154,
+        "qty": 30,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cashew Nut Cream Cheese",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 126,
+        "qty": 125,
+        "unit": "ml"
+      },
+      {
+        "recipe": 128,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Cashew Nut Pieces",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 42,
+        "qty": 40,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cashew Nuts",
+    "count": 8,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 40,
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "recipe": 72,
+        "qty": 30,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cauliflower Florets",
+    "count": 3,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 85,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 99,
+        "qty": 200,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cheese Mix",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 180,
+        "qty": 260,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Cheesy Crumb",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 55,
+        "qty": 140,
+        "unit": "ml"
+      },
+      {
+        "recipe": 106,
+        "qty": 260,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Chevin Goat's Cheese",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 162,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Chicken Stock",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 160,
+        "qty": 40,
+        "unit": "ml"
+      },
+      {
+        "recipe": 188,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Chickpeas",
+    "count": 18,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 8,
+        "qty": 120,
+        "unit": "g"
+      },
+      {
+        "recipe": 11,
+        "qty": 120,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Chillies",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 26,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Chinese 5-Spice",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 185,
+        "qty": 5,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Chipotle Chillies in Adobo",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 9,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Chipotle in Adobo Sauce",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 176,
+        "qty": 60,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Chives",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 114,
+        "qty": 10,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Clarks Kitchen Bourbon BBQ Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 184,
+        "qty": 100,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Cocktail Rotis",
+    "count": 2,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 108,
+        "qty": 16,
+        "unit": null
+      },
+      {
+        "recipe": 158,
+        "qty": 6,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Coconut Cream",
+    "count": 16,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 40,
+        "qty": 400,
+        "unit": "ml"
+      },
+      {
+        "recipe": 42,
+        "qty": 400,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Coconut Milk",
+    "count": 6,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 75,
+        "qty": 800,
+        "unit": "ml"
+      },
+      {
+        "recipe": 85,
+        "qty": 200,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Coconut Yoghurt",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 7,
+        "qty": 65,
+        "unit": "ml"
+      },
+      {
+        "recipe": 150,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Conchiglie Pasta",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 67,
+        "qty": 500,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cooked Chopped Tomato",
+    "count": 20,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 12,
+        "qty": 400,
+        "unit": "g"
+      },
+      {
+        "recipe": 23,
+        "qty": 200,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cooked Chopped Tomatoes",
+    "count": 9,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 1,
+        "qty": 800,
+        "unit": "g"
+      },
+      {
+        "recipe": 66,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cooksister Sosatie Marinade",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 180,
+        "qty": 80,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Corn",
+    "count": 21,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 12,
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "recipe": 36,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Corn Nachos",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 34,
+        "qty": 160,
+        "unit": "g"
+      },
+      {
+        "recipe": 120,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Corn On The Cob",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 13,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Corn Tortilla",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 187,
+        "qty": 8,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Corn Tortillas",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 13,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Cornflour",
+    "count": 6,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 39,
+        "qty": 5,
+        "unit": "ml"
+      },
+      {
+        "recipe": 49,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Cos Lettuce",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 64,
+        "qty": 160,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cremè Fraîche",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 118,
+        "qty": 85,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Crispy Onions",
+    "count": 7,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 7,
+        "qty": 40,
+        "unit": "ml"
+      },
+      {
+        "recipe": 108,
+        "qty": 40,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Crushed Black Peppercorns",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 113,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Crème Fraîche",
+    "count": 21,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 2,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 4,
+        "qty": 100,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Cucumber",
+    "count": 28,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 8,
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "recipe": 16,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Cucumber Raita",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 52,
+        "qty": 125,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 23,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Danish-Style Feta",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 21,
+        "qty": 160,
+        "unit": "g"
+      },
+      {
+        "recipe": 22,
+        "qty": 160,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Danish-style Feta",
+    "count": 15,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 4,
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "recipe": 14,
+        "qty": 40,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "De-alcoholised Red Wine",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 10,
+        "qty": 250,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "De-alcoholised White Wine",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 106,
+        "qty": 125,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Deboned Lamb Leg",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 21,
+        "qty": 640,
+        "unit": "g"
+      },
+      {
+        "recipe": 27,
+        "qty": 640,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Desiccated Coconut",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 102,
+        "qty": 65,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Diced Piquanté Peppers",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 178,
+        "qty": 80,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Dijon & Lemon",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 64,
+        "qty": 77.5,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Dijon Dressing",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 59,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 134,
+        "qty": 55,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Dijon Mustard",
+    "count": 5,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 2,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 20,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Dorado Fillets",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 98,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Double Cream Yoghurt",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 158,
+        "qty": 100,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Dried Apricots",
+    "count": 3,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 92,
+        "qty": 80,
+        "unit": "g"
+      },
+      {
+        "recipe": 155,
+        "qty": 40,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Dried Chilli Flakes",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 46,
+        "qty": 5,
+        "unit": "ml"
+      },
+      {
+        "recipe": 54,
+        "qty": 5,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Dried Cranberries",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 190,
+        "qty": 60,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Dried Tarragon",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 4,
+        "qty": 5,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Dukkah",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 10,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 51,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Edamame Beans",
+    "count": 7,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 39,
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "recipe": 43,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Egg Noodles",
+    "count": 2,
+    "units": [
+      "cakes"
+    ],
+    "samples": [
+      {
+        "recipe": 79,
+        "qty": 2,
+        "unit": "cakes"
+      },
+      {
+        "recipe": 84,
+        "qty": 2,
+        "unit": "cakes"
+      }
+    ]
+  },
+  {
+    "name": "Emmental Cheese",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 123,
+        "qty": 120,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Flaked Almonds",
+    "count": 13,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 12,
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "recipe": 46,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Flat Rice Noodles",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 40,
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "recipe": 41,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Flatbreads",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 25,
+        "qty": 3,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Free-Range Beef Biltong",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 160,
+        "qty": 200,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-Range Beef Fillet",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 44,
+        "qty": 600,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-Range Beef Mince",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 32,
+        "qty": 600,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-Range Beef Rump",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 20,
+        "qty": 640,
+        "unit": "g"
+      },
+      {
+        "recipe": 22,
+        "qty": 640,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-Range Beef Strips",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 45,
+        "qty": 600,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-Range Chicken Breasts",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 64,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Free-Range Chicken Mini Fillets",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 66,
+        "qty": 600,
+        "unit": "g"
+      },
+      {
+        "recipe": 68,
+        "qty": 600,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-Range Chicken Pieces",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 80,
+        "qty": 8,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Free-Range Deboned Lamb Leg",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 1,
+        "qty": 640,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-Range Lamb Shoulder",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 15,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-Range Ostrich Fillet",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 178,
+        "qty": 600,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-Range Ostrich Mince",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 184,
+        "qty": 600,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Beef Fillet",
+    "count": 6,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 2,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 4,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Beef Mince",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 34,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 37,
+        "qty": 450,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Beef Rump",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 18,
+        "qty": 320,
+        "unit": "g"
+      },
+      {
+        "recipe": 39,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Beef Rump Strips",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 24,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 47,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Beef Schnitzel",
+    "count": 3,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 40,
+        "qty": 600,
+        "unit": "g"
+      },
+      {
+        "recipe": 43,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Beef Sirloin",
+    "count": 7,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 6,
+        "qty": 320,
+        "unit": "g"
+      },
+      {
+        "recipe": 8,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Beef Strips",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 49,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Chicken Breasts",
+    "count": 13,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 54,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 55,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Free-range Chicken Mince",
+    "count": 3,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 53,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 69,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Chicken Mini Fillets",
+    "count": 6,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 57,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 61,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Chicken Pieces",
+    "count": 2,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 60,
+        "qty": 4,
+        "unit": null
+      },
+      {
+        "recipe": 70,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Free-range Duck Breasts",
+    "count": 2,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 186,
+        "qty": 4,
+        "unit": null
+      },
+      {
+        "recipe": 188,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Free-range Lamb",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 5,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Lamb Chunks",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 35,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Lamb Goulash",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 9,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Lamb Leg",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 29,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Lamb Mince",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 13,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Lamb Rump",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 31,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Lamb Rump Steak",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 11,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Lamb Shoulder",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 17,
+        "qty": 320,
+        "unit": "g"
+      },
+      {
+        "recipe": 23,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Free-range Lamb Shoulder Cubes",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 25,
+        "qty": 480,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Basil",
+    "count": 16,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 24,
+        "qty": 5,
+        "unit": "g"
+      },
+      {
+        "recipe": 54,
+        "qty": 5,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Chilli",
+    "count": 23,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 1,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 13,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Fresh Chillies",
+    "count": 2,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 71,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 76,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Fresh Chives",
+    "count": 11,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 36,
+        "qty": 8,
+        "unit": "g"
+      },
+      {
+        "recipe": 64,
+        "qty": 10,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Coriander",
+    "count": 47,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 1,
+        "qty": 20,
+        "unit": "g"
+      },
+      {
+        "recipe": 13,
+        "qty": 8,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Cream",
+    "count": 10,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 25,
+        "qty": 150,
+        "unit": "ml"
+      },
+      {
+        "recipe": 47,
+        "qty": 125,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Dill",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 57,
+        "qty": 5,
+        "unit": "g"
+      },
+      {
+        "recipe": 83,
+        "qty": 10,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Ginger",
+    "count": 20,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 1,
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "recipe": 35,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Linguine Pasta",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 58,
+        "qty": 375,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Milk",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 77,
+        "qty": 400,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Mint",
+    "count": 25,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 3,
+        "qty": 20,
+        "unit": "g"
+      },
+      {
+        "recipe": 7,
+        "qty": 8,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Oregano",
+    "count": 6,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 17,
+        "qty": 8,
+        "unit": "g"
+      },
+      {
+        "recipe": 53,
+        "qty": 8,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Parsley",
+    "count": 33,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 2,
+        "qty": 5,
+        "unit": "g"
+      },
+      {
+        "recipe": 5,
+        "qty": 8,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Rosemary",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 28,
+        "qty": 8,
+        "unit": "g"
+      },
+      {
+        "recipe": 30,
+        "qty": 10,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Sage",
+    "count": 9,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 117,
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "recipe": 119,
+        "qty": 15,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Tagliatelle Pasta",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 124,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Fresh Thyme",
+    "count": 5,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 2,
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "recipe": 10,
+        "qty": 8,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Garlic Clove",
+    "count": 28,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 1,
+        "qty": 3,
+        "unit": null
+      },
+      {
+        "recipe": 2,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Garlic Cloves",
+    "count": 47,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 6,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 10,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Gem Squash",
+    "count": 2,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 160,
+        "qty": 4,
+        "unit": null
+      },
+      {
+        "recipe": 182,
+        "qty": 8,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Gherkins",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 83,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Gluten-free Crumb",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 128,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 151,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Goat's Cheese",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 151,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Gochujang",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 191,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Gochujang Paste",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 48,
+        "qty": 20,
+        "unit": "ml"
+      },
+      {
+        "recipe": 145,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Golden Sultanas",
+    "count": 3,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 32,
+        "qty": 80,
+        "unit": "g"
+      },
+      {
+        "recipe": 70,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Golden Wine",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 104,
+        "qty": 97.5,
+        "unit": "ml"
+      },
+      {
+        "recipe": 164,
+        "qty": 125,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Grated Cheddar & Mozzarella Cheese Mix",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 118,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Grated Cheddar & Mozzarella Mix",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 114,
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "recipe": 167,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Grated Cheese Mix",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 121,
+        "qty": 220,
+        "unit": "g"
+      },
+      {
+        "recipe": 125,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Grated Italian Style Hard Cheese",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 149,
+        "qty": 50,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Grated Italian-Style Hard Cheese",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 141,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Grated Italian-style Hard Cheese",
+    "count": 12,
+    "units": [
+      "ml",
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 6,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 58,
+        "qty": 150,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Grated Mozzarella",
+    "count": 8,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 9,
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "recipe": 55,
+        "qty": 80,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Grated Mozzarella & Cheddar Cheese",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 34,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Grated Mozzarella & Cheddar Cheese Mix",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 28,
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "recipe": 36,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Grated White Cheddar",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 120,
+        "qty": 200,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Greek Yoghurt",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 57,
+        "qty": 125,
+        "unit": "ml"
+      },
+      {
+        "recipe": 66,
+        "qty": 400,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Green Beans",
+    "count": 11,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 4,
+        "qty": 160,
+        "unit": "g"
+      },
+      {
+        "recipe": 55,
+        "qty": 160,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Green Bell Pepper",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 158,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Green Leaves",
+    "count": 49,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 2,
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "recipe": 4,
+        "qty": 40,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Green Pepper",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 79,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Ground Almonds",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 20,
+        "qty": 120,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Ground Cumin",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 8,
+        "qty": 5,
+        "unit": "ml"
+      },
+      {
+        "recipe": 46,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Ground Paprika",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 67,
+        "qty": 40,
+        "unit": "ml"
+      },
+      {
+        "recipe": 127,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Guacamole",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 13,
+        "qty": 80,
+        "unit": "g"
+      },
+      {
+        "recipe": 34,
+        "qty": 80,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Hake Fillets",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 81,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Halloumi",
+    "count": 6,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 130,
+        "qty": 160,
+        "unit": "g"
+      },
+      {
+        "recipe": 132,
+        "qty": 160,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Hazelnuts",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 4,
+        "qty": 20,
+        "unit": "g"
+      },
+      {
+        "recipe": 141,
+        "qty": 60,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Heirloom Corn Nachos",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 62,
+        "qty": 160,
+        "unit": "g"
+      },
+      {
+        "recipe": 114,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Hemp Seeds",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 26,
+        "qty": 40,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Honey",
+    "count": 9,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 16,
+        "qty": 45,
+        "unit": "ml"
+      },
+      {
+        "recipe": 74,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Honey-Mustard Baste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 186,
+        "qty": 150,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Horseradish Sauce",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 2,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 10,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Hot Smoked Trout Fillets",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 84,
+        "qty": 250,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Hummus",
+    "count": 6,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 29,
+        "qty": 100,
+        "unit": "ml"
+      },
+      {
+        "recipe": 46,
+        "qty": 85,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Indian Butter Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 144,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Italian-Style Hard Cheese",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 143,
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "recipe": 182,
+        "qty": 60,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Italian-style Hard Cheese",
+    "count": 6,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 2,
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "recipe": 47,
+        "qty": 50,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Jalapeño Relish",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 163,
+        "qty": 40,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Jasmine Rice",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 80,
+        "qty": 400,
+        "unit": "ml"
+      },
+      {
+        "recipe": 145,
+        "qty": 150,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Julienne Carrot",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 89,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Kale",
+    "count": 6,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 6,
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "recipe": 10,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Karoo Lamb Rib Chops",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 3,
+        "qty": 8,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Kewpie Mayo",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 191,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Kidney Beans",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 114,
+        "qty": 480,
+        "unit": "g"
+      },
+      {
+        "recipe": 122,
+        "qty": 480,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Kimchi",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 145,
+        "qty": 120,
+        "unit": "g"
+      },
+      {
+        "recipe": 177,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Korean BBQ Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 43,
+        "qty": 145,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Labneh",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 11,
+        "qty": 65,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Lamb Mince",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 33,
+        "qty": 600,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Lamb Rump",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 19,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Lamb Shoulder",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 7,
+        "qty": 320,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Leeks",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 147,
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "recipe": 160,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Lemon",
+    "count": 45,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 3,
+        "qty": 3,
+        "unit": null
+      },
+      {
+        "recipe": 6,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Lemon Juice",
+    "count": 5,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 14,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 17,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Lemons",
+    "count": 8,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 10,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 20,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Lentils",
+    "count": 3,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 69,
+        "qty": 120,
+        "unit": "g"
+      },
+      {
+        "recipe": 76,
+        "qty": 240,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Lime",
+    "count": 11,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 7,
+        "qty": 1,
+        "unit": null
+      },
+      {
+        "recipe": 13,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Lime Juice",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 46,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 48,
+        "qty": 40,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Limes",
+    "count": 6,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 40,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 42,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Line-Caught Hake Fillet",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 83,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Line-caught Hake Fillets",
+    "count": 3,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 85,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 87,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Line-caught Tuna Fillets",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 96,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Line-caught Yellowtail Fillets",
+    "count": 2,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 88,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 92,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Long Stem Broccoli",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 192,
+        "qty": 150,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Low Fat Cottage Cheese",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 122,
+        "qty": 250,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Low Fat Plain Yoghurt",
+    "count": 5,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 14,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 15,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Low Sodium Soy Sauce",
+    "count": 5,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 145,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 172,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Maple Syrup",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 63,
+        "qty": 15,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Medium Curry Powder",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 32,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 158,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Mexican Spice Mix",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 187,
+        "qty": 15,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Mild Piquanté Peppers",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 139,
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "recipe": 160,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Milk",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 127,
+        "qty": 200,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Millet",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 51,
+        "qty": 300,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Mirin",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 172,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Mirin (contains alcohol)",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 41,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Miso Mayo",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 84,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 89,
+        "qty": 115,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Mixed Exotic Mushrooms",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 150,
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "recipe": 173,
+        "qty": 250,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Mixed Herbs",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 16,
+        "qty": 24,
+        "unit": "g"
+      },
+      {
+        "recipe": 173,
+        "qty": 24,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Mixed Sesame Seeds",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 48,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 177,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Multigrain Fusilli",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 54,
+        "qty": 160,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Mung Bean Vermicelli Noodles",
+    "count": 2,
+    "units": [
+      "cakes"
+    ],
+    "samples": [
+      {
+        "recipe": 43,
+        "qty": 2,
+        "unit": "cakes"
+      },
+      {
+        "recipe": 74,
+        "qty": 2,
+        "unit": "cakes"
+      }
+    ]
+  },
+  {
+    "name": "Mushrooms",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 49,
+        "qty": 125,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Mussels",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 106,
+        "qty": 800,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Mustard Vinegar",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 4,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU African Rub",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 136,
+        "qty": 20,
+        "unit": "ml"
+      },
+      {
+        "recipe": 169,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU BBQ Rub",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 24,
+        "qty": 20,
+        "unit": "ml"
+      },
+      {
+        "recipe": 27,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Beef Rub",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 16,
+        "qty": 15,
+        "unit": "ml"
+      },
+      {
+        "recipe": 22,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Cajun Rub",
+    "count": 8,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 12,
+        "qty": 20,
+        "unit": "ml"
+      },
+      {
+        "recipe": 83,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Chipotle Flakes",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 181,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Coffee Rub",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 18,
+        "qty": 15,
+        "unit": "ml"
+      },
+      {
+        "recipe": 44,
+        "qty": 40,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Indian Rub",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 68,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 150,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Italian Rub",
+    "count": 10,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 9,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 37,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Lamb Rub",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 3,
+        "qty": 20,
+        "unit": "ml"
+      },
+      {
+        "recipe": 19,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Mexican Rub",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 114,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Mexican Spice Blend",
+    "count": 9,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 34,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 38,
+        "qty": 15,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Mexican Spice Rub",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 13,
+        "qty": 15,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Moroccan Rub",
+    "count": 7,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 14,
+        "qty": 20,
+        "unit": "ml"
+      },
+      {
+        "recipe": 31,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU One For All Rub",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 2,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 95,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU One for All",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 5,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Oriental Rub",
+    "count": 5,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 8,
+        "qty": 15,
+        "unit": "ml"
+      },
+      {
+        "recipe": 41,
+        "qty": 15,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Provençal Rub",
+    "count": 6,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 17,
+        "qty": 20,
+        "unit": "ml"
+      },
+      {
+        "recipe": 26,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Roast Rub",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 21,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 52,
+        "qty": 5,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Seafood Rub",
+    "count": 5,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 86,
+        "qty": 20,
+        "unit": "ml"
+      },
+      {
+        "recipe": 98,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Smoked Chipotle Flakes",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 159,
+        "qty": 5,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Spanish Rub",
+    "count": 8,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 29,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 57,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "NOMU Tandoori Rub",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 99,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 146,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Nish Nush Falafel Balls",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 171,
+        "qty": 12,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Non-Alcoholic White Wine",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 160,
+        "qty": 120,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Nori Sheet",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 145,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Nutritional Yeast",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 54,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 128,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Ong's Sweet Chilli Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 45,
+        "qty": 120,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Onion",
+    "count": 51,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 1,
+        "qty": 3,
+        "unit": null
+      },
+      {
+        "recipe": 5,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Onions",
+    "count": 14,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 18,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 25,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Orange Juice",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 191,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Orzo Pasta",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 49,
+        "qty": 200,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Ostrich Steak",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 180,
+        "qty": 640,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Outcast Classic Falafel Mix",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 163,
+        "qty": 110,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Outcast Crazy Falafel Mix",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 159,
+        "qty": 110,
+        "unit": "g"
+      },
+      {
+        "recipe": 174,
+        "qty": 110,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Outcast Vegan Burger Mix",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 157,
+        "qty": 220,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Oyster-soy Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 79,
+        "qty": 80,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pak Choi",
+    "count": 5,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 39,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 40,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Paneer Cheese",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 148,
+        "qty": 200,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Panko Breadcrumbs",
+    "count": 8,
+    "units": [
+      "ml",
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 28,
+        "qty": 200,
+        "unit": "ml"
+      },
+      {
+        "recipe": 37,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Peanuts",
+    "count": 7,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 31,
+        "qty": 20,
+        "unit": "g"
+      },
+      {
+        "recipe": 84,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pearled Barley",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 16,
+        "qty": 225,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pearled Spelt",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 60,
+        "qty": 150,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pears",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 192,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Peas",
+    "count": 24,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 3,
+        "qty": 400,
+        "unit": "g"
+      },
+      {
+        "recipe": 11,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pecan Nuts",
+    "count": 3,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 93,
+        "qty": 20,
+        "unit": "g"
+      },
+      {
+        "recipe": 105,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pecorino Romano Cheese",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 170,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pesto Princess Basil & Lemon Pesto",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 63,
+        "qty": 90,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pesto Princess Basil Pesto",
+    "count": 6,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 55,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 56,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pesto Princess Chimichurri",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 22,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 38,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pesto Princess Coriander & Chilli Pesto",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 68,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pesto Princess Harissa",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 165,
+        "qty": 120,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pesto Princess Harissa Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 153,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pesto Princess Red Pepper Pesto",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 134,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pesto Princess Rocket Pesto",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 107,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 138,
+        "qty": 50,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pickled Bell Peppers",
+    "count": 10,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 53,
+        "qty": 20,
+        "unit": "g"
+      },
+      {
+        "recipe": 62,
+        "qty": 40,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pickled Ginger",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 45,
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "recipe": 191,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pickled Jalapeño",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 114,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Pickled Jalapeños",
+    "count": 6,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 11,
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "recipe": 36,
+        "qty": 50,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pickled Peppers",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 159,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pickling Liquid",
+    "count": 5,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 27,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 33,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pine Nuts",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 117,
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "recipe": 162,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pineapple Rings",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 132,
+        "qty": 3,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Pink Peppercorns",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 108,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Piquanté Peppers",
+    "count": 8,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 12,
+        "qty": 80,
+        "unit": "g"
+      },
+      {
+        "recipe": 40,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pistachio Nuts",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 152,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pita Breads",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 17,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Pitted Dates",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 165,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pitted Green Olives",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 110,
+        "qty": 60,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pitted Kalamata Olives",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 17,
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "recipe": 35,
+        "qty": 30,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pizza Base",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 167,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Plain Greek Yoghurt",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 83,
+        "qty": 170,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Plain Peanut Butter",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 175,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Plain Yoghurt",
+    "count": 5,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 3,
+        "qty": 200,
+        "unit": "ml"
+      },
+      {
+        "recipe": 19,
+        "qty": 50,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Plum Tomato",
+    "count": 3,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 8,
+        "qty": 1,
+        "unit": null
+      },
+      {
+        "recipe": 56,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Pomegranate Molasses",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 69,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 155,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Poppadom",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 66,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Poppadoms",
+    "count": 3,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 78,
+        "qty": 4,
+        "unit": null
+      },
+      {
+        "recipe": 144,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Pork Belly",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 185,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pork Belly Pieces",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 191,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pork Belly Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 191,
+        "qty": 45,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Pork Fillet",
+    "count": 3,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 183,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 190,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pork Kassler Loin Steak",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 181,
+        "qty": 360,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pork Mince",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 175,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pork Schnitzel",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 179,
+        "qty": 600,
+        "unit": "g"
+      },
+      {
+        "recipe": 189,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Portobellini Mushrooms",
+    "count": 5,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 89,
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "recipe": 119,
+        "qty": 250,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Potato",
+    "count": 14,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 4,
+        "qty": 400,
+        "unit": "g"
+      },
+      {
+        "recipe": 7,
+        "qty": 400,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Potato Gnocchi",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 113,
+        "qty": 350,
+        "unit": "g"
+      },
+      {
+        "recipe": 117,
+        "qty": 800,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pumpkin & Sunflower Mix",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 51,
+        "qty": 40,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pumpkin & Sunflower Seed Mix",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 19,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Pumpkin Chunks",
+    "count": 9,
+    "units": [
+      "g",
+      "kg"
+    ],
+    "samples": [
+      {
+        "recipe": 8,
+        "qty": 500,
+        "unit": "g"
+      },
+      {
+        "recipe": 51,
+        "qty": 1,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "count": 16,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 8,
+        "qty": 20,
+        "unit": "g"
+      },
+      {
+        "recipe": 24,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Radish",
+    "count": 7,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 15,
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "recipe": 27,
+        "qty": 80,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Rainbow Baby Tomato Medley",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 133,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 139,
+        "qty": 600,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Rainbow Peppercorns",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 30,
+        "qty": 20,
+        "unit": "ml"
+      },
+      {
+        "recipe": 182,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Rainbow Trout Fillet",
+    "count": 2,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 103,
+        "qty": 4,
+        "unit": null
+      },
+      {
+        "recipe": 111,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Rainbow Trout Fillets",
+    "count": 9,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 82,
+        "qty": 1,
+        "unit": null
+      },
+      {
+        "recipe": 91,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Ranch Dressing",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 181,
+        "qty": 165,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Raspberry Vinegar",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 140,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Red Bell Pepper",
+    "count": 2,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 73,
+        "qty": 1,
+        "unit": null
+      },
+      {
+        "recipe": 153,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Red Lentils",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 150,
+        "qty": 150,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Red Onion",
+    "count": 17,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 11,
+        "qty": 1,
+        "unit": null
+      },
+      {
+        "recipe": 17,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Red Onions",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 79,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Red Quinoa",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 19,
+        "qty": 150,
+        "unit": "ml"
+      },
+      {
+        "recipe": 59,
+        "qty": 150,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Red Wine",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 5,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 28,
+        "qty": 100,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Red Wine Vinegar",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 1,
+        "qty": 40,
+        "unit": "ml"
+      },
+      {
+        "recipe": 18,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Red Wine Vinegar Dressing",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 97,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Rice & Lentils",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 132,
+        "qty": 200,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Rice Noodles",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 45,
+        "qty": 200,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Rice Wine Vinegar",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 41,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 99,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Ricotta",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 135,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Ricotta Cheese",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 59,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Risotto Rice",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 104,
+        "qty": 300,
+        "unit": "ml"
+      },
+      {
+        "recipe": 162,
+        "qty": 200,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Rocket",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 117,
+        "qty": 80,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Rocket & Baby Spinach Mix",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 27,
+        "qty": 80,
+        "unit": "g"
+      },
+      {
+        "recipe": 139,
+        "qty": 80,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Rosé Wine",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 90,
+        "qty": 125,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Salad Dressing",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 119,
+        "qty": 40,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Salad Leaves",
+    "count": 31,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 8,
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "recipe": 14,
+        "qty": 40,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Salad Tomatoes",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 91,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Salty Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 80,
+        "qty": 100,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Sambal Oelek",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 179,
+        "qty": 40,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Schoon Burger Buns",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 56,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Schoon Mini Sourdough Baguette",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 64,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Self-raising Flour",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 148,
+        "qty": 200,
+        "unit": "ml"
+      },
+      {
+        "recipe": 191,
+        "qty": 400,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Sesame Oil",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 39,
+        "qty": 15,
+        "unit": "ml"
+      },
+      {
+        "recipe": 185,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Sherry Dressing",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 111,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Shimeji Mushrooms",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 172,
+        "qty": 250,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Shredded Cabbage & Julienne Carrot",
+    "count": 5,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 40,
+        "qty": 400,
+        "unit": "g"
+      },
+      {
+        "recipe": 57,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Shredded Green Cabbage",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 26,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Sliced Chorizo",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 168,
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "recipe": 187,
+        "qty": 120,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Sliced Pickled Jalapeños",
+    "count": 3,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 34,
+        "qty": 20,
+        "unit": "g"
+      },
+      {
+        "recipe": 120,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Slivered Almonds",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 11,
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "recipe": 174,
+        "qty": 30,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Smoked Paprika",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 49,
+        "qty": 5,
+        "unit": "ml"
+      },
+      {
+        "recipe": 82,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Smoked Trout Ribbons",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 105,
+        "qty": 80,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Smoky Coating",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 189,
+        "qty": 65,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Smooth Cottage Cheese",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 176,
+        "qty": 100,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Smooth Low Fat Cottage Cheese",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 160,
+        "qty": 160,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Soba Noodles",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 89,
+        "qty": 180,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Soft Wheat Flour Tortillas",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 38,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Sour Cream",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 34,
+        "qty": 90,
+        "unit": "ml"
+      },
+      {
+        "recipe": 62,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Soy Marinade",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 89,
+        "qty": 170,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Soy Sauce",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 45,
+        "qty": 40,
+        "unit": "ml"
+      },
+      {
+        "recipe": 156,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Soy Vinegar",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 84,
+        "qty": 50,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spice & All Things Nice Balti Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 72,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spice & All Things Nice Cape Malay Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 52,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spice & All Things Nice Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 142,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spice & All Things Nice Korma Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 71,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spice & All Things Nice Massaman Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 188,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spice & All Things Nice Rogan Josh Curry Paste",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 7,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 25,
+        "qty": 22.5,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spice And All Things Nice Butter Chicken Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 66,
+        "qty": 40,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spice and All Things Nice Balti Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 156,
+        "qty": 40,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spice and All Things Nice Cape Malay Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 152,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spice and All Things Nice Durban Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 1,
+        "qty": 80,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spice and All Things Nice Korma Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 61,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spicy Peanut Butter",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 31,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Spinach",
+    "count": 34,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 5,
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "recipe": 9,
+        "qty": 40,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Spinach & Ricotta Ravioli",
+    "count": 3,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 133,
+        "qty": 350,
+        "unit": "g"
+      },
+      {
+        "recipe": 139,
+        "qty": 700,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Spring Onion",
+    "count": 12,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 21,
+        "qty": 4,
+        "unit": null
+      },
+      {
+        "recipe": 41,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Spring Onions",
+    "count": 13,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 69,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 72,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Squid Heads & Tubes",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 102,
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "recipe": 104,
+        "qty": 450,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Stir Fry Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 179,
+        "qty": 130,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Stock & Herb Mix",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 49,
+        "qty": 15,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Story Time Spicy Peanut Butter",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 74,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Streaky Bacon",
+    "count": 1,
+    "units": [
+      "strips"
+    ],
+    "samples": [
+      {
+        "recipe": 123,
+        "qty": 12,
+        "unit": "strips"
+      }
+    ]
+  },
+  {
+    "name": "Streaky Pork Bacon",
+    "count": 5,
+    "units": [
+      "strips"
+    ],
+    "samples": [
+      {
+        "recipe": 50,
+        "qty": 4,
+        "unit": "strips"
+      },
+      {
+        "recipe": 113,
+        "qty": 6,
+        "unit": "strips"
+      }
+    ]
+  },
+  {
+    "name": "Sun-dried Tomato & Aubergine Ravioli",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 135,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Sun-dried Tomatoes",
+    "count": 5,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 57,
+        "qty": 50,
+        "unit": "g"
+      },
+      {
+        "recipe": 59,
+        "qty": 50,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Sunflower Seeds",
+    "count": 11,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 15,
+        "qty": 20,
+        "unit": "g"
+      },
+      {
+        "recipe": 17,
+        "qty": 10,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Sweet Chilli Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 107,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Sweet Harissa Dressing",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 136,
+        "qty": 180,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Sweet Potato",
+    "count": 17,
+    "units": [
+      "kg",
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 20,
+        "qty": 1,
+        "unit": "kg"
+      },
+      {
+        "recipe": 22,
+        "qty": 1000,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Sweet Potato Chunks",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 68,
+        "qty": 800,
+        "unit": "g"
+      },
+      {
+        "recipe": 183,
+        "qty": 500,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Sweet Potato Gnocchi",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 121,
+        "qty": 700,
+        "unit": "g"
+      },
+      {
+        "recipe": 125,
+        "qty": 700,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Sweet Sesame-Soy",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 41,
+        "qty": 105,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Tagliatelle",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 101,
+        "qty": 200,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Tagliatelle Pasta",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 47,
+        "qty": 200,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Tahini",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 14,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 33,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Tamari",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 74,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Temptations Spice Blend",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 76,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Teriyaki Glaze",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 39,
+        "qty": 120,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Terra Madre Spanakopita",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 169,
+        "qty": 8,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Thai Green Curry Paste",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 154,
+        "qty": 20,
+        "unit": "ml"
+      },
+      {
+        "recipe": 172,
+        "qty": 15,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Thai Red Curry Paste",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 40,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 42,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Thai red curry paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 175,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "That Mayo (Garlic)",
+    "count": 3,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 56,
+        "qty": 65,
+        "unit": "ml"
+      },
+      {
+        "recipe": 82,
+        "qty": 50,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "That Mayo (Original)",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 83,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 96,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "That Mayo (Vegan)",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 157,
+        "qty": 120,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "That Mayo Original",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 102,
+        "qty": 65,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "The Larder Spiced Guava Chutney",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 32,
+        "qty": 180,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "The Real Food Factory Coriander & Hemp Pesto",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 163,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "The Real Food Factory Hemp Seed & Coriander Pesto",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 12,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 178,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Tikka Curry Paste",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 15,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Tomato",
+    "count": 10,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 13,
+        "qty": 1,
+        "unit": null
+      },
+      {
+        "recipe": 14,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Tomato Passata",
+    "count": 6,
+    "units": [
+      "ml",
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 9,
+        "qty": 200,
+        "unit": "ml"
+      },
+      {
+        "recipe": 31,
+        "qty": 200,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Tomato Paste",
+    "count": 8,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 5,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 7,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Tomato Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 37,
+        "qty": 125,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Tomatoes",
+    "count": 5,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 63,
+        "qty": 2,
+        "unit": null
+      },
+      {
+        "recipe": 96,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Tonkatsu Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 48,
+        "qty": 50,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Trout smoked (ribbon sliced)",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 101,
+        "qty": 120,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Truffle",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 143,
+        "qty": 4,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Truffle Oil",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 18,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Truffle Zest",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 124,
+        "qty": 5,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Turmeric & Stock Mix",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 33,
+        "qty": 25,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Turmeric Powder",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 32,
+        "qty": 5,
+        "unit": "ml"
+      },
+      {
+        "recipe": 110,
+        "qty": 2.5,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Tzatziki",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 17,
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "recipe": 26,
+        "qty": 200,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Umami Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 131,
+        "qty": 35,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Vegan Burger Buns",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 157,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Vegetable Stock",
+    "count": 27,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 11,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 19,
+        "qty": 10,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Venison Steak",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 182,
+        "qty": 640,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Venison Strips",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 176,
+        "qty": 300,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Vermicelli Noodles",
+    "count": 1,
+    "units": [
+      "cakes"
+    ],
+    "samples": [
+      {
+        "recipe": 156,
+        "qty": 4,
+        "unit": "cakes"
+      }
+    ]
+  },
+  {
+    "name": "Vinaigrette",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 24,
+        "qty": 35,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Vinaigrette Niçoise",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 103,
+        "qty": 80,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Walnut Pieces",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 151,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Walnuts",
+    "count": 4,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 140,
+        "qty": 20,
+        "unit": "g"
+      },
+      {
+        "recipe": 143,
+        "qty": 20,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Wheat Flour Tortillas",
+    "count": 4,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 36,
+        "qty": 4,
+        "unit": null
+      },
+      {
+        "recipe": 57,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "White Basmati Rice",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 32,
+        "qty": 300,
+        "unit": "ml"
+      },
+      {
+        "recipe": 33,
+        "qty": 300,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "White Button Mushrooms",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 145,
+        "qty": 250,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "White Quinoa",
+    "count": 5,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 6,
+        "qty": 200,
+        "unit": "ml"
+      },
+      {
+        "recipe": 65,
+        "qty": 150,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "White Sesame Seeds",
+    "count": 4,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 39,
+        "qty": 10,
+        "unit": "ml"
+      },
+      {
+        "recipe": 45,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "White Wine",
+    "count": 6,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 47,
+        "qty": 85,
+        "unit": "ml"
+      },
+      {
+        "recipe": 67,
+        "qty": 120,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "White Wine (optional)",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 110,
+        "qty": 60,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "White Wine Vinegar",
+    "count": 9,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 8,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 29,
+        "qty": 40,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Whole Italian-Style Hard Cheese",
+    "count": 2,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 64,
+        "qty": 80,
+        "unit": "g"
+      },
+      {
+        "recipe": 117,
+        "qty": 100,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Whole Red Peppers",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 42,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Whole Spices",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 76,
+        "qty": 7.5,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Whole Wheat Cocktail Rotis",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 176,
+        "qty": 8,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Whole Wheat Couscous",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 11,
+        "qty": 150,
+        "unit": "ml"
+      },
+      {
+        "recipe": 35,
+        "qty": 150,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Whole Wheat Fusilli Pasta",
+    "count": 1,
+    "units": [
+      "g"
+    ],
+    "samples": [
+      {
+        "recipe": 126,
+        "qty": 375,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "name": "Whole Wheat Pita Breads",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 53,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Whole Wheat Roti",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 7,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Whole Wheat Rotis",
+    "count": 4,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 1,
+        "qty": 4,
+        "unit": null
+      },
+      {
+        "recipe": 31,
+        "qty": 2,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Whole Wheat Tortillas",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 171,
+        "qty": 8,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Wholegrain Mustard",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 63,
+        "qty": 7.5,
+        "unit": "ml"
+      },
+      {
+        "recipe": 190,
+        "qty": 30,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Wholegrain Mustard Dressing",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 95,
+        "qty": 35,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Willow Creek Cabernet Sauvignon Vinegar",
+    "count": 2,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 112,
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "recipe": 174,
+        "qty": 20,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Skewers",
+    "count": 2,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 15,
+        "qty": 4,
+        "unit": null
+      },
+      {
+        "recipe": 41,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Worcestershire Sauce",
+    "count": 1,
+    "units": [
+      "ml"
+    ],
+    "samples": [
+      {
+        "recipe": 37,
+        "qty": 45,
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "name": "Yellow Bell Pepper",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 138,
+        "qty": 1,
+        "unit": null
+      }
+    ]
+  },
+  {
+    "name": "Yellowtail Fillet",
+    "count": 1,
+    "units": [],
+    "samples": [
+      {
+        "recipe": 90,
+        "qty": 4,
+        "unit": null
+      }
+    ]
+  }
+]

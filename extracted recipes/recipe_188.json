@@ -124,15 +124,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 547.0,
-    "energy_kcal": 131.0,
+    "energy_kj": 547,
+    "energy_kcal": 131,
     "protein_g": 8.5,
-    "carbs_g": 13.0,
+    "carbs_g": 13,
     "sugars_g": 2.4,
-    "fibre_g": 2.0,
+    "fibre_g": 2,
     "fat_g": 4.4,
-    "saturated_fat_g": 2.0,
-    "sodium_mg": 183.0
+    "saturated_fat_g": 2,
+    "sodium_mg": 183
   },
   "allergens": [
     "Allium",
@@ -141,6 +141,6 @@
     "Sulphites"
   ],
   "chef_tip": "The purpose of cutting cross-hatch into the duck skin is to allow the fat to melt and leave you with crispy duck skin! If you have any leftover duck fat, keep it for another use",
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole clips the allergen text ('Sulphi' partially cut off for Sulphites) on the right edge."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

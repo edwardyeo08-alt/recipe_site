@@ -115,15 +115,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 434.0,
-    "energy_kcal": 104.0,
-    "protein_g": 7.0,
-    "carbs_g": 9.0,
+    "energy_kj": 434,
+    "energy_kcal": 104,
+    "protein_g": 7,
+    "carbs_g": 9,
     "sugars_g": 1.4,
     "fibre_g": 1.8,
     "fat_g": 2.1,
     "saturated_fat_g": 0.6,
-    "sodium_mg": 146.0
+    "sodium_mg": 146
   },
   "allergens": [
     "Dairy",
@@ -133,6 +133,6 @@
     "Tree Nuts"
   ],
   "chef_tip": "For a thicker sauce, you can make a slurry - a mixture of flour and water. A slurry, when whisked into a sauce, reduces the risk of clumping when being added. This way, it gets easily and evenly disper[sed.]",
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring partially obscures the end of the last word in Chef's Tip ('dispersed.') and part of the allergen list ('Sulphites, Tree Nuts')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

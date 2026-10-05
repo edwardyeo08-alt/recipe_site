@@ -13,73 +13,73 @@
   "ingredients": [
     {
       "name": "Brown Basmati Rice",
-      "quantity": 400.0,
+      "quantity": 400,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Vegetable Stock",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Onions",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "peeled & finely diced"
     },
     {
       "name": "Fresh Ginger",
-      "quantity": 60.0,
+      "quantity": 60,
       "unit": "g",
       "prep": "peeled & grated"
     },
     {
       "name": "Spice & All Things Nice Korma Curry Paste",
-      "quantity": 60.0,
+      "quantity": 60,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Fresh Chillies",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "deseeded & finely sliced"
     },
     {
       "name": "Almond Flour",
-      "quantity": 100.0,
+      "quantity": 100,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Baby Tomatoes",
-      "quantity": 400.0,
+      "quantity": 400,
       "unit": "g",
       "prep": "quartered"
     },
     {
       "name": "Coconut Cream",
-      "quantity": 400.0,
+      "quantity": 400,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Fresh Coriander",
-      "quantity": 10.0,
+      "quantity": 10,
       "unit": "g",
       "prep": "rinsed & roughly chopped"
     },
     {
       "name": "Free-range Chicken Mini Fillets",
-      "quantity": 600.0,
+      "quantity": 600,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Peas",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": null
     }
@@ -125,15 +125,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 622.0,
-    "energy_kcal": 149.0,
+    "energy_kj": 622,
+    "energy_kcal": 149,
     "protein_g": 6.7,
-    "carbs_g": 16.0,
+    "carbs_g": 16,
     "sugars_g": 1.7,
     "fibre_g": 2.5,
     "fat_g": 5.7,
     "saturated_fat_g": 2.9,
-    "sodium_mg": 205.0
+    "sodium_mg": 205
   },
   "allergens": [
     "Allium",
@@ -141,6 +141,6 @@
     "Tree Nuts"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Ring binder hole partially obscures the nutritional information on Side B, specifically the leading character of the protein value ('[hole]7g', calculated as ~6.7g) and the unit text for Energy kcal."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

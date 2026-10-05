@@ -123,15 +123,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 605.0,
-    "energy_kcal": 145.0,
+    "energy_kj": 605,
+    "energy_kcal": 145,
     "protein_g": 9.1,
-    "carbs_g": 15.0,
+    "carbs_g": 15,
     "sugars_g": 2.1,
     "fibre_g": 2.1,
     "fat_g": 5.8,
     "saturated_fat_g": 3.3,
-    "sodium_mg": 147.0
+    "sodium_mg": 147
   },
   "allergens": [
     "Allium",
@@ -139,6 +139,6 @@
     "Tree Nuts"
   ],
   "chef_tip": "If you don't feel like frying the poppadoms, you can cook them in the microwave! Simply heat them one at a time in 10 second bursts. Do this until puffed up and crispy – about 30 seconds.",
-  "card_obscured_flag": true,
-  "obscured_details": "A stain partially obscures letters in step 5 heading and text ('GET CREAMY', 'coconut cream', '7-8 minutes', 'During the', 'Season')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 592.0,
-    "energy_kcal": 108.0,
+    "energy_kj": 592,
+    "energy_kcal": 108,
     "protein_g": 10.1,
-    "carbs_g": 19.0,
-    "sugars_g": 4.0,
+    "carbs_g": 19,
+    "sugars_g": 4,
     "fibre_g": 2.2,
     "fat_g": 2.4,
     "saturated_fat_g": 0.5,
-    "sodium_mg": 520.0
+    "sodium_mg": 520
   },
   "allergens": [
     "Dairy",
@@ -134,6 +134,6 @@
     "Sulphites"
   ],
   "chef_tip": "Quinoa is a great high-protein, high-fiber alternative to other grains. Plus, it's high in magnesium, which helps to produce oxygen-carrying red blood cells. It can be eaten warm as a side, or cool as a healthy addition to a salad.",
-  "card_obscured_flag": true,
-  "obscured_details": "Chef's Tip text has a word ('healthy') partially punched through by binder ring hole."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

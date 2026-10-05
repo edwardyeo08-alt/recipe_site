@@ -105,15 +105,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 433.0,
-    "energy_kcal": 104.0,
-    "protein_g": null,
-    "carbs_g": 13.0,
+    "energy_kj": 433,
+    "energy_kcal": 104,
+    "protein_g": 5.6,
+    "carbs_g": 13,
     "sugars_g": 4.5,
     "fibre_g": 2.2,
     "fat_g": 4.3,
     "saturated_fat_g": 2.1,
-    "sodium_mg": 43.0
+    "sodium_mg": 43
   },
   "allergens": [
     "Egg",
@@ -123,6 +123,6 @@
     "Sulphites"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole punch punches through and obscures the protein value (in grams) in the Nutritional Information table."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

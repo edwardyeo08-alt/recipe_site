@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 577.0,
-    "energy_kcal": 138.0,
+    "energy_kj": 577,
+    "energy_kcal": 138,
     "protein_g": 8.8,
-    "carbs_g": 12.0,
+    "carbs_g": 12,
     "sugars_g": 3.8,
     "fibre_g": 2.1,
     "fat_g": 6.7,
     "saturated_fat_g": 2.8,
-    "sodium_mg": 172.0
+    "sodium_mg": 172
   },
   "allergens": [
     "Dairy",
@@ -135,6 +135,6 @@
     "Alcohol"
   ],
   "chef_tip": "Due to the amount of starch in potatoes, they brown quickly when exposed to fresh air. When preparing your potatoes [submerge] them in a bowl of water to preven[t thi]s from happening.",
-  "card_obscured_flag": true,
-  "obscured_details": "Chef's tip text is partially obscured by the binder ring: word between 'potatoes' and 'them', and letters between 'preven' and 's'."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

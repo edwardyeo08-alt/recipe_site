@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 502.0,
-    "energy_kcal": 120.0,
+    "energy_kj": 502,
+    "energy_kcal": 120,
     "protein_g": 5.5,
-    "carbs_g": 13.0,
+    "carbs_g": 13,
     "sugars_g": 1.8,
     "fibre_g": 2.3,
     "fat_g": 4.7,
     "saturated_fat_g": 2.8,
-    "sodium_mg": 102.0
+    "sodium_mg": 102
   },
   "allergens": [
     "Egg",
@@ -137,6 +137,6 @@
     "Sulphites"
   ],
   "chef_tip": "You will notice the prep action for squid is 'quills removed'. The quill is found in the squid tubes and looks like a long piece of plastic. To remove it, simply grab it and pull it out slowly.",
-  "card_obscured_flag": true,
-  "obscured_details": "Allergen 'Wheat' partially obscured/punched through by binder ring hole ('W...')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

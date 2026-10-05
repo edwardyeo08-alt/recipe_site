@@ -99,21 +99,21 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 372.0,
-    "energy_kcal": 89.0,
+    "energy_kj": 372,
+    "energy_kcal": 89,
     "protein_g": 5.9,
-    "carbs_g": 11.0,
+    "carbs_g": 11,
     "sugars_g": 2.4,
     "fibre_g": 1.9,
     "fat_g": 1.9,
     "saturated_fat_g": 0.4,
-    "sodium_mg": 114.0
+    "sodium_mg": 114
   },
   "allergens": [
     "Sulphites",
     "Fish"
   ],
   "chef_tip": "Cannellini beans have a great source of fiber and protein, making them a strong support for a healthy body weight, lean muscle mass, and optimal digestion. Use them blended into dips, roasted for salads or stirred into stews and soups",
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole punches through text in Chef's Tip ('roasted for s[...]')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

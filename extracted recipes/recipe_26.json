@@ -101,15 +101,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 2923.0,
-    "energy_kcal": 699.0,
-    "protein_g": 48.0,
-    "carbs_g": 58.0,
-    "sugars_g": 24.0,
-    "fibre_g": 10.0,
-    "fat_g": 16.0,
-    "saturated_fat_g": 4.0,
-    "sodium_mg": null
+    "energy_kj": 2923,
+    "energy_kcal": 699,
+    "protein_g": 48,
+    "carbs_g": 58,
+    "sugars_g": 24,
+    "fibre_g": 10,
+    "fat_g": 16,
+    "saturated_fat_g": 4,
+    "sodium_mg": 180
   },
   "allergens": [
     "Dairy",

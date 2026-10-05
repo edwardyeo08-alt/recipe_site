@@ -13,67 +13,67 @@
   "ingredients": [
     {
       "name": "Cashew Nuts",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Shredded Cabbage & Julienne Carrot",
-      "quantity": 400.0,
+      "quantity": 400,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Piquanté Peppers",
-      "quantity": 100.0,
+      "quantity": 100,
       "unit": "g",
       "prep": "drained & roughly chopped"
     },
     {
       "name": "Fresh Coriander",
-      "quantity": 15.0,
+      "quantity": 15,
       "unit": "g",
       "prep": "rinsed & roughly chopped"
     },
     {
       "name": "Limes",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "zested & cut into wedges"
     },
     {
       "name": "Vegetable Stock",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Pak Choi",
-      "quantity": 400.0,
+      "quantity": 400,
       "unit": "g",
       "prep": "trimmed at the base & rinsed"
     },
     {
       "name": "Free-range Beef Schnitzel",
-      "quantity": 600.0,
+      "quantity": 600,
       "unit": "g",
       "prep": "(without crumb)"
     },
     {
       "name": "Thai Red Curry Paste",
-      "quantity": 60.0,
+      "quantity": 60,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Coconut Cream",
-      "quantity": 400.0,
+      "quantity": 400,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Flat Rice Noodles",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": null
     }
@@ -113,15 +113,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 538.0,
-    "energy_kcal": 129.0,
+    "energy_kj": 538,
+    "energy_kcal": 129,
     "protein_g": 8.2,
-    "carbs_g": 12.0,
+    "carbs_g": 12,
     "sugars_g": 2.3,
     "fibre_g": 1.1,
     "fat_g": 5.3,
     "saturated_fat_g": 3.4,
-    "sodium_mg": 252.0
+    "sodium_mg": 252
   },
   "allergens": [
     "Allium",
@@ -129,6 +129,6 @@
     "Tree Nuts"
   ],
   "chef_tip": "Always add curry paste to your taste – you don't have to add it all! Taste to test the sauces' spice levels when nearing completion. Gradually stir in the remaining curry paste for increased heat.",
-  "card_obscured_flag": true,
-  "obscured_details": "The end of the Chef's Tip is partially obscured by the binder ring ('Gradually stir in the remaining curry paste for increased [heat]')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

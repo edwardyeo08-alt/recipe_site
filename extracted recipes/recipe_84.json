@@ -105,15 +105,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 836.0,
-    "energy_kcal": 206.0,
+    "energy_kj": 836,
+    "energy_kcal": 206,
     "protein_g": 13.2,
-    "carbs_g": 22.0,
+    "carbs_g": 22,
     "sugars_g": 2.1,
     "fibre_g": 1.4,
     "fat_g": 6.9,
     "saturated_fat_g": 1.8,
-    "sodium_mg": 965.0
+    "sodium_mg": 965
   },
   "allergens": [
     "Egg",
@@ -125,6 +125,6 @@
     "Soy"
   ],
   "chef_tip": "To emulsify means to combine two ingredients that do not usually mix together. In cooking, it is usually a fat or oil and a water-based liquid. In this case, it's the soy sauce and olive oil!",
-  "card_obscured_flag": true,
-  "obscured_details": "The allergen 'Sulphites' is partially obscured by the binder ring."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

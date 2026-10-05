@@ -107,21 +107,21 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 530.0,
-    "energy_kcal": 127.0,
+    "energy_kj": 530,
+    "energy_kcal": 127,
     "protein_g": 6.2,
-    "carbs_g": 9.0,
+    "carbs_g": 9,
     "sugars_g": 3.6,
     "fibre_g": 2.4,
     "fat_g": 7.6,
     "saturated_fat_g": 3.2,
-    "sodium_mg": 78.0
+    "sodium_mg": 78
   },
   "allergens": [
     "Dairy",
     "Allium"
   ],
   "chef_tip": "If time is on your side, marinate the lamb chops for an hour or two before cooking. You can even do step 1 the day before and allow them to marinate overnight! Just remember to cook them within 2 days.",
-  "card_obscured_flag": true,
-  "obscured_details": "Chef's tip on the top right is partially obscured by the binder ring (words 'cooking', 'before', 'overnight', 'days')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

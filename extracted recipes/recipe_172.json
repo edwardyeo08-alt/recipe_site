@@ -119,15 +119,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 643.0,
-    "energy_kcal": 154.0,
-    "protein_g": null,
-    "carbs_g": 20.0,
+    "energy_kj": 643,
+    "energy_kcal": 154,
+    "protein_g": 4.2,
+    "carbs_g": 20,
     "sugars_g": 2.4,
     "fibre_g": 3.2,
     "fat_g": 6.2,
     "saturated_fat_g": 3.7,
-    "sodium_mg": 313.0
+    "sodium_mg": 313
   },
   "allergens": [
     "Gluten",
@@ -138,6 +138,6 @@
     "Soy"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Protein value in Nutritional Information table is obscured and punched out by the binder ring hole."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

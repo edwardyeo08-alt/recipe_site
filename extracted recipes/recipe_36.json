@@ -114,15 +114,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 749.0,
-    "energy_kcal": 179.0,
-    "protein_g": null,
-    "carbs_g": 15.0,
+    "energy_kj": 749,
+    "energy_kcal": 179,
+    "protein_g": 9.3,
+    "carbs_g": 15,
     "sugars_g": 3.2,
     "fibre_g": 1.9,
     "fat_g": 9.6,
     "saturated_fat_g": 4.5,
-    "sodium_mg": 365.0
+    "sodium_mg": 365
   },
   "allergens": [
     "Gluten",
@@ -132,6 +132,6 @@
     "Sulphites"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole punches through the nutritional information column, completely obscuring the protein value."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

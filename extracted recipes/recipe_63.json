@@ -124,15 +124,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 487.0,
-    "energy_kcal": null,
-    "protein_g": null,
-    "carbs_g": 5.0,
+    "energy_kj": 487,
+    "energy_kcal": 106,
+    "protein_g": 5.4,
+    "carbs_g": 5,
     "sugars_g": 3.5,
     "fibre_g": 1.4,
     "fat_g": 7.2,
     "saturated_fat_g": 1.6,
-    "sodium_mg": 87.0
+    "sodium_mg": 87
   },
   "allergens": [
     "Dairy",
@@ -141,6 +141,6 @@
     "Tree Nuts"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole partially obscures Energy kcal (shows 11...) and Protein (shows ...6g) in the Nutritional Information table."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

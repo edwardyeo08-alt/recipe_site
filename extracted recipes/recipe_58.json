@@ -13,31 +13,31 @@
   "ingredients": [
     {
       "name": "Fresh Linguine Pasta",
-      "quantity": 375.0,
+      "quantity": 375,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Onions",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "1½ peeled & roughly sliced"
     },
     {
       "name": "Garlic Cloves",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "Tomato Paste",
-      "quantity": 45.0,
+      "quantity": 45,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Tomato Passata",
-      "quantity": 600.0,
+      "quantity": 600,
       "unit": "ml",
       "prep": null
     },
@@ -49,37 +49,37 @@
     },
     {
       "name": "Free-range Chicken Breasts",
-      "quantity": 3.0,
+      "quantity": 3,
       "unit": null,
       "prep": null
     },
     {
       "name": "Panko Breadcrumbs",
-      "quantity": 150.0,
+      "quantity": 150,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Cake Flour",
-      "quantity": 90.0,
+      "quantity": 90,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Grated Italian-style Hard Cheese",
-      "quantity": 150.0,
+      "quantity": 150,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Green Leaves",
-      "quantity": 60.0,
+      "quantity": 60,
       "unit": "g",
       "prep": "rinsed"
     },
     {
       "name": "Fresh Basil",
-      "quantity": 8.0,
+      "quantity": 8,
       "unit": "g",
       "prep": "rinsed, picked & roughly sliced"
     }
@@ -127,15 +127,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 655.0,
-    "energy_kcal": 156.0,
+    "energy_kj": 655,
+    "energy_kcal": 156,
     "protein_g": 10.6,
-    "carbs_g": 23.0,
-    "sugars_g": 3.0,
+    "carbs_g": 23,
+    "sugars_g": 3,
     "fibre_g": 1.9,
     "fat_g": 2.5,
     "saturated_fat_g": 0.9,
-    "sodium_mg": 149.0
+    "sodium_mg": 149
   },
   "allergens": [
     "Egg",
@@ -146,6 +146,6 @@
     "Sulphites"
   ],
   "chef_tip": "If you have an air fryer, why not use it to cook the chicken parm? Pop a piece of tinfoil in the air fryer. Add the fried chicken topped with ⅓ of the sauce and ½ the grated cheese. Cook at 200°C for 4-5 minutes or until the cheese has melted.",
-  "card_obscured_flag": true,
-  "obscured_details": "Ring binder clip partially obscures the end of Chef's Tip ('melted') and the Allergens list ('Wheat')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

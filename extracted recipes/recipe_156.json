@@ -123,15 +123,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 560.0,
-    "energy_kcal": 134.0,
+    "energy_kj": 560,
+    "energy_kcal": 134,
     "protein_g": 2.2,
-    "carbs_g": 18.0,
+    "carbs_g": 18,
     "sugars_g": 2.2,
     "fibre_g": 1.7,
     "fat_g": 5.8,
     "saturated_fat_g": 3.9,
-    "sodium_mg": 310.0
+    "sodium_mg": 310
   },
   "allergens": [
     "Gluten",
@@ -142,6 +142,6 @@
     "Soy"
   ],
   "chef_tip": "Always add curry paste to your taste preference — you don't have to add it all! When the sauce is nearing completion, taste to test the spice levels and gradually add in any remaining curry paste if you'd like to increase the heat.",
-  "card_obscured_flag": true,
-  "obscured_details": "Ring binder hole clips 'Tree' in 'Tree Nuts' in Allergens list."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

@@ -13,73 +13,73 @@
   "ingredients": [
     {
       "name": "Butternut Chunks & Cauliflower Florets",
-      "quantity": 300.0,
+      "quantity": 300,
       "unit": "g",
       "prep": "cut into bite-sized pieces"
     },
     {
       "name": "Brown Basmati Rice",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Vegetable Stock",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Chickpeas",
-      "quantity": 240.0,
+      "quantity": 240,
       "unit": "g",
       "prep": "drained & rinsed"
     },
     {
       "name": "Coconut Cream",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Fresh Coriander",
-      "quantity": 8.0,
+      "quantity": 8,
       "unit": "g",
       "prep": "rinsed & finely chopped"
     },
     {
       "name": "Garlic Cloves",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "Fresh Ginger",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": "peeled & grated"
     },
     {
       "name": "Fresh Chilli",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "deseeded & thinly sliced"
     },
     {
       "name": "Spice & All Things Nice Curry Paste",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Cooked Chopped Tomato",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Spinach",
-      "quantity": 100.0,
+      "quantity": 100,
       "unit": "g",
       "prep": "rinsed & roughly shredded"
     }
@@ -122,21 +122,21 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 571.0,
-    "energy_kcal": 137.0,
+    "energy_kj": 571,
+    "energy_kcal": 137,
     "protein_g": 4.4,
-    "carbs_g": 19.0,
+    "carbs_g": 19,
     "sugars_g": 2.3,
     "fibre_g": 3.4,
     "fat_g": 4.3,
     "saturated_fat_g": 2.7,
-    "sodium_mg": 263.0
+    "sodium_mg": 263
   },
   "allergens": [
     "Allium",
     "Sulphites"
   ],
   "chef_tip": "Ginger has superpowers! It strengthens the immune system, stops inflammation, eases digestion, and alleviates cold and flu symptoms. Whizz it up fresh with smoothies or juices for extra zing, or add it to just about any curry dish!",
-  "card_obscured_flag": true,
-  "obscured_details": "Chef's tip has the word 'add' partially punched out by the binder ring hole."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

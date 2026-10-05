@@ -13,67 +13,67 @@
   "ingredients": [
     {
       "name": "Brown Basmati Rice",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Onion",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "peeled & roughly diced"
     },
     {
       "name": "Tomato Paste",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Fresh Ginger",
-      "quantity": 15.0,
+      "quantity": 15,
       "unit": "g",
       "prep": "peeled & grated"
     },
     {
       "name": "Garlic Clove",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "NOMU Tandoori Rub",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Cooked Chopped Tomato",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Chickpeas",
-      "quantity": 240.0,
+      "quantity": 240,
       "unit": "g",
       "prep": "drained & rinsed"
     },
     {
       "name": "Coconut Cream",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Spinach",
-      "quantity": 80.0,
+      "quantity": 80,
       "unit": "g",
       "prep": "rinsed"
     },
     {
       "name": "Fresh Coriander",
-      "quantity": 8.0,
+      "quantity": 8,
       "unit": "g",
       "prep": "rinsed, picked & roughly chopped"
     }
@@ -107,21 +107,21 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 616.0,
-    "energy_kcal": 147.0,
-    "protein_g": null,
-    "carbs_g": 21.0,
+    "energy_kj": 616,
+    "energy_kcal": 147,
+    "protein_g": 4.7,
+    "carbs_g": 21,
     "sugars_g": 2.8,
     "fibre_g": 3.7,
     "fat_g": 4.8,
     "saturated_fat_g": 3.1,
-    "sodium_mg": 118.0
+    "sodium_mg": 118
   },
   "allergens": [
     "Allium",
     "Sulphites"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole completely punches out the protein value in Nutritional Information."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

@@ -117,15 +117,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 479.0,
-    "energy_kcal": 114.0,
+    "energy_kj": 479,
+    "energy_kcal": 114,
     "protein_g": 5.4,
-    "carbs_g": 11.0,
+    "carbs_g": 11,
     "sugars_g": 1.8,
     "fibre_g": 3.4,
     "fat_g": 5.2,
     "saturated_fat_g": 2.8,
-    "sodium_mg": 159.0
+    "sodium_mg": 159
   },
   "allergens": [
     "Gluten",
@@ -136,6 +136,6 @@
     "Tree Nuts"
   ],
   "chef_tip": "If you have an air fryer, why not use it to cook the beetroot and onion wedges? Coat in oil, season, and pop in the air fryer at 200°C. Cook for 20-30 minutes or until cooked through and crispy.",
-  "card_obscured_flag": true,
-  "obscured_details": "Allergen 'Sulphites' is partially punched through by binder ring hole."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

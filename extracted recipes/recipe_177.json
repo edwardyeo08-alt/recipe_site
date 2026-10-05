@@ -124,10 +124,10 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 781.0,
-    "energy_kcal": 187.0,
+    "energy_kj": 781,
+    "energy_kcal": 187,
     "protein_g": 9.2,
-    "carbs_g": 19.0,
+    "carbs_g": 19,
     "sugars_g": 2.6,
     "fibre_g": 3.3,
     "fat_g": 8.9,
@@ -143,6 +143,6 @@
     "Sugar Alcohol (Xylitol)"
   ],
   "chef_tip": "Making kimchi involves lacto-fermentation. This gives kimchi its impressive probiotic content!",
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole punches through after 'Sugar Alcohol (Xylitol', obscuring the closing parenthesis and potentially additional allergens (such as Soy)."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

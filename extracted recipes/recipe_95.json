@@ -100,15 +100,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 343.0,
-    "energy_kcal": 82.0,
-    "protein_g": null,
-    "carbs_g": 9.0,
+    "energy_kj": 343,
+    "energy_kcal": 82,
+    "protein_g": 5.4,
+    "carbs_g": 9,
     "sugars_g": 2.6,
     "fibre_g": 2.4,
     "fat_g": 1.8,
     "saturated_fat_g": 0.4,
-    "sodium_mg": 93.0
+    "sodium_mg": 93
   },
   "allergens": [
     "Allium",
@@ -116,6 +116,6 @@
     "Fish"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Protein value in Nutritional Information is partially obscured and punched out by the binder ring hole (only '.7g' is visible)."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

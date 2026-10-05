@@ -138,15 +138,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 309.0,
-    "energy_kcal": 74.0,
+    "energy_kj": 309,
+    "energy_kcal": 74,
     "protein_g": 2.7,
-    "carbs_g": 10.0,
+    "carbs_g": 10,
     "sugars_g": 3.5,
     "fibre_g": 1.9,
     "fat_g": 2.6,
     "saturated_fat_g": 1.5,
-    "sodium_mg": 184.0
+    "sodium_mg": 184
   },
   "allergens": [
     "Gluten",
@@ -157,6 +157,6 @@
     "Soy"
   ],
   "chef_tip": "Your mint and coriander have been packaged together to prevent the use of unnecessary extra plastic. If you struggle to tell the difference between them, do a quick online search to find some pics for reference!",
-  "card_obscured_flag": true,
-  "obscured_details": "Allergen 'Sulphites' is partially punched through by binder ring hole."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

@@ -106,15 +106,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 366.0,
-    "energy_kcal": 88.0,
-    "protein_g": null,
-    "carbs_g": 16.0,
+    "energy_kj": 366,
+    "energy_kcal": 88,
+    "protein_g": 4.5,
+    "carbs_g": 16,
     "sugars_g": 2.1,
     "fibre_g": 2.6,
     "fat_g": 0.9,
     "saturated_fat_g": 0.2,
-    "sodium_mg": 184.0
+    "sodium_mg": 184
   },
   "allergens": [
     "Egg",
@@ -125,6 +125,6 @@
     "Sulphites"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Nutritional information partially obscured by binder ring hole (Energy kcal unit and Protein value)."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

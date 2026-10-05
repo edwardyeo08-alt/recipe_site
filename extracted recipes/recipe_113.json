@@ -100,13 +100,13 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 1097.0,
-    "energy_kcal": 262.0,
-    "protein_g": 9.0,
-    "carbs_g": 11.0,
+    "energy_kj": 1097,
+    "energy_kcal": 262,
+    "protein_g": 9,
+    "carbs_g": 11,
     "sugars_g": 2.6,
     "fibre_g": 3.8,
-    "fat_g": 20.0,
+    "fat_g": 20,
     "saturated_fat_g": 9.7,
     "sodium_mg": 542.6
   },
@@ -118,6 +118,6 @@
     "Sulphites"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Nutritional information partially obscured by binder ring hole (Energy kcal unit and potentially Protein digit)."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

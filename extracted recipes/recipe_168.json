@@ -97,15 +97,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 701.0,
-    "energy_kcal": 168.0,
-    "protein_g": 5.0,
-    "carbs_g": 19.0,
+    "energy_kj": 701,
+    "energy_kcal": 168,
+    "protein_g": 5,
+    "carbs_g": 19,
     "sugars_g": 3.1,
     "fibre_g": 1.6,
     "fat_g": 7.2,
     "saturated_fat_g": 3.9,
-    "sodium_mg": 7.0
+    "sodium_mg": 7
   },
   "allergens": [
     "Egg",
@@ -115,6 +115,6 @@
     "Alcohol"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Protein value partially obscured by binder ring hole ('5g')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

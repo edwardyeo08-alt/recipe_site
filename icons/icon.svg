@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C84B31"/>
+      <stop offset="100%" stop-color="#8E2812"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD166"/>
+      <stop offset="100%" stop-color="#F4A261"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Rounded Background -->
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  
+  <!-- Subtle Inner Ring -->
+  <circle cx="256" cy="256" r="210" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="4"/>
+  
+  <g filter="url(#shadow)">
+    <!-- Cloche Base / Serving Platter -->
+    <rect x="116" y="336" width="280" height="20" rx="10" fill="#FFFFFF"/>
+    
+    <!-- Cloche Dome -->
+    <path d="M136,324 C136,218 214,170 256,170 C298,170 376,218 376,324 Z" fill="url(#accent)"/>
+    
+    <!-- Cloche Handle -->
+    <circle cx="256" cy="150" r="22" fill="#FFFFFF"/>
+    <rect x="250" y="166" width="12" height="12" rx="4" fill="#FFFFFF"/>
+    
+    <!-- Fork & Knife Motif below plate -->
+    <!-- Fork -->
+    <g transform="translate(196, 376) scale(0.6)" fill="#FFFFFF" opacity="0.9">
+      <path d="M0,0 L0,30 C0,45 10,55 25,58 L25,120 C25,125 30,130 35,130 C40,130 45,125 45,120 L45,58 C60,55 70,45 70,30 L70,0 L60,0 L60,30 C60,38 52,45 42,45 L42,0 L32,0 L32,45 C22,45 14,38 14,30 L14,0 Z"/>
+    </g>
+    <!-- Knife -->
+    <g transform="translate(276, 376) scale(0.6)" fill="#FFFFFF" opacity="0.9">
+      <path d="M10,0 C25,15 35,40 35,65 L35,120 C35,125 30,130 25,130 C20,130 15,125 15,120 L15,10 C15,5 12,0 10,0 Z"/>
+    </g>
+  </g>
+  
+  <!-- Steam Curves -->
+  <path d="M210,130 Q200,105 215,85" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <path d="M256,120 Q246,95 260,75" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity="0.8"/>
+  <path d="M302,130 Q312,105 298,85" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+</svg>

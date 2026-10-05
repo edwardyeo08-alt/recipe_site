@@ -13,67 +13,67 @@
   "ingredients": [
     {
       "name": "Leeks",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": "trimmed at the base & halved lengthways"
     },
     {
       "name": "Butternut",
-      "quantity": 500.0,
+      "quantity": 500,
       "unit": "g",
       "prep": "deseeded, peeled (optional) & cut into bite-sized chunks"
     },
     {
       "name": "Baby Marrow",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": "rinsed, trimmed & cut into bite-sized chunks"
     },
     {
       "name": "Panko Breadcrumbs",
-      "quantity": 100.0,
+      "quantity": 100,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Flaked Almonds",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Cake Flour",
-      "quantity": 65.0,
+      "quantity": 65,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Fresh Cream",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Grated Mozzarella & Cheddar Cheese Mix",
-      "quantity": 100.0,
+      "quantity": 100,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Peas",
-      "quantity": 80.0,
+      "quantity": 80,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Salad Leaves",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": "rinsed"
     },
     {
       "name": "Cucumber",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": "cut into half-moons"
     }
@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 499.0,
-    "energy_kcal": 119.0,
-    "protein_g": null,
-    "carbs_g": 11.0,
+    "energy_kj": 499,
+    "energy_kcal": 119,
+    "protein_g": 3.4,
+    "carbs_g": 11,
     "sugars_g": 2.6,
     "fibre_g": 1.7,
     "fat_g": 6.7,
     "saturated_fat_g": 3.8,
-    "sodium_mg": 39.0
+    "sodium_mg": 39
   },
   "allergens": [
     "Gluten",
@@ -135,6 +135,6 @@
     "Tree Nuts"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole completely punches out the protein value in Nutritional Information."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

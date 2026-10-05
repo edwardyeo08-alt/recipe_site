@@ -127,15 +127,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 459.0,
-    "energy_kcal": 110.0,
-    "protein_g": null,
-    "carbs_g": 12.0,
+    "energy_kj": 459,
+    "energy_kcal": 110,
+    "protein_g": 4.8,
+    "carbs_g": 12,
     "sugars_g": 3.3,
     "fibre_g": 2.4,
     "fat_g": 4.4,
     "saturated_fat_g": 2.2,
-    "sodium_mg": 221.0
+    "sodium_mg": 221
   },
   "allergens": [
     "Dairy",
@@ -145,6 +145,6 @@
     "Tree Nuts"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Protein value is partially punched out by the binder ring hole (shows ...3g); Energy kcal unit slightly clipped."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

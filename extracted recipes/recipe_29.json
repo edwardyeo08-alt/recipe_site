@@ -101,15 +101,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 480.0,
-    "energy_kcal": null,
-    "protein_g": null,
-    "carbs_g": 7.0,
+    "energy_kj": 480,
+    "energy_kcal": 125,
+    "protein_g": 7.8,
+    "carbs_g": 7,
     "sugars_g": 2.8,
     "fibre_g": 2.1,
     "fat_g": 7.3,
     "saturated_fat_g": 2.8,
-    "sodium_mg": 192.0
+    "sodium_mg": 192
   },
   "allergens": [
     "Allium",
@@ -117,6 +117,6 @@
     "Sulphites"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Energy (kcal) and Protein values in Nutritional Information are partially obscured/punched out by the binder ring."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

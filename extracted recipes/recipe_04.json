@@ -113,15 +113,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 651.0,
-    "energy_kcal": 156.0,
+    "energy_kj": 651,
+    "energy_kcal": 156,
     "protein_g": 9.2,
-    "carbs_g": 9.0,
+    "carbs_g": 9,
     "sugars_g": 1.3,
     "fibre_g": 2.1,
     "fat_g": 8.9,
     "saturated_fat_g": 4.4,
-    "sodium_mg": 152.0
+    "sodium_mg": 152
   },
   "allergens": [
     "Dairy",
@@ -129,6 +129,6 @@
     "Tree Nuts"
   ],
   "chef_tip": "To make the salad dressing, place the ingredients in a clean jar, close the lid up tight, and shake, shake, shake! Using a jar emulsifies the dressing much more successfully than just mixing it in a bowl.",
-  "card_obscured_flag": true,
-  "obscured_details": "Chef's tip has the last word ('bowl') partially obscured by the binder ring."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

@@ -117,15 +117,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 373.0,
-    "energy_kcal": 89.0,
+    "energy_kj": 373,
+    "energy_kcal": 89,
     "protein_g": 7.5,
-    "carbs_g": 13.0,
+    "carbs_g": 13,
     "sugars_g": 3.3,
     "fibre_g": 2.1,
     "fat_g": 1.2,
     "saturated_fat_g": 0.2,
-    "sodium_mg": 138.0
+    "sodium_mg": 138
   },
   "allergens": [
     "Allium",
@@ -133,6 +133,6 @@
     "Fish"
   ],
   "chef_tip": "If you have a mandolin, use it to slice up your carrots before dicing them. Carrots are hard vegetables and take a good amount of time and effort to chop, so make your prep as easy for yourself as possible!",
-  "card_obscured_flag": true,
-  "obscured_details": "The word 'possible!' at the end of Chef's Tip is partially obscured by the binder ring."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

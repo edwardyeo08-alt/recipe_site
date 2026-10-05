@@ -112,21 +112,21 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 355.0,
-    "energy_kcal": 85.0,
-    "protein_g": null,
-    "carbs_g": null,
+    "energy_kj": 355,
+    "energy_kcal": 85,
+    "protein_g": 4.7,
+    "carbs_g": 10.2,
     "sugars_g": 3.1,
     "fibre_g": 3.3,
     "fat_g": 1.8,
     "saturated_fat_g": 0.2,
-    "sodium_mg": 168.0
+    "sodium_mg": 168
   },
   "allergens": [
     "Allium",
     "Fish"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole punch partially obscures the Energy units, and punches out parts of the Protein and Carbs values in the Nutritional Information table."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

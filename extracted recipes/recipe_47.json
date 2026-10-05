@@ -96,15 +96,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 912.0,
-    "energy_kcal": 218.0,
+    "energy_kj": 912,
+    "energy_kcal": 218,
     "protein_g": 11.5,
-    "carbs_g": 12.0,
+    "carbs_g": 12,
     "sugars_g": 1.6,
     "fibre_g": 1.3,
     "fat_g": 9.5,
     "saturated_fat_g": 4.4,
-    "sodium_mg": 61.0
+    "sodium_mg": 61
   },
   "allergens": [
     "Egg",
@@ -115,6 +115,6 @@
     "Alcohol"
   ],
   "chef_tip": "If you want toasted sunflower seeds, pop them in a pan over a medium heat. Toast for 2-4 minutes until lightly browned, shifting occasionally. Remove from the pan on completion and set aside to cool.",
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring and hole punch clip the end of Chef's Tip ('cool.') and the word 'Wheat' in Allergens."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

@@ -105,15 +105,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 941.0,
-    "energy_kcal": 225.0,
+    "energy_kj": 941,
+    "energy_kcal": 225,
     "protein_g": 11.7,
-    "carbs_g": 22.0,
+    "carbs_g": 22,
     "sugars_g": 1.6,
     "fibre_g": 2.9,
     "fat_g": 10.5,
     "saturated_fat_g": 3.7,
-    "sodium_mg": 153.0
+    "sodium_mg": 153
   },
   "allergens": [
     "Gluten",
@@ -122,6 +122,6 @@
     "Sulphites"
   ],
   "chef_tip": "Pop any leftover chilli in a bag and store it in the freezer. It's fantastic when finely grated directly from frozen, creating tasty chilli dust that's great for cooking or sprinkling over dishes!",
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole punch slightly clips the word 'cooking' in the Chef's Tip text box."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

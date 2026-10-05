@@ -13,67 +13,67 @@
   "ingredients": [
     {
       "name": "Honey",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Fresh Parsley",
-      "quantity": 5.0,
+      "quantity": 5,
       "unit": "g",
       "prep": "rinsed, picked & roughly chopped"
     },
     {
       "name": "Lemon",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "zested & cut into wedges"
     },
     {
       "name": "Artichoke Hearts",
-      "quantity": 120.0,
+      "quantity": 120,
       "unit": "g",
       "prep": "drained & halved"
     },
     {
       "name": "Baby Tomatoes",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": "rinsed & halved"
     },
     {
       "name": "Edamame Beans",
-      "quantity": 100.0,
+      "quantity": 100,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Pumpkin Seeds",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Cannellini Beans",
-      "quantity": 120.0,
+      "quantity": 120,
       "unit": "g",
       "prep": "drained & rinsed"
     },
     {
       "name": "NOMU Italian Rub",
-      "quantity": 15.0,
+      "quantity": 15,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Halloumi",
-      "quantity": 160.0,
+      "quantity": 160,
       "unit": "g",
       "prep": "cut into 1cm thick slabs"
     },
     {
       "name": "Green Leaves",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": "rinsed"
     }
@@ -117,15 +117,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 589.0,
-    "energy_kcal": 141.0,
+    "energy_kj": 589,
+    "energy_kcal": 141,
     "protein_g": 7.4,
-    "carbs_g": 11.0,
-    "sugars_g": 4.0,
+    "carbs_g": 11,
+    "sugars_g": 4,
     "fibre_g": 4.1,
     "fat_g": 7.1,
     "saturated_fat_g": 4.4,
-    "sodium_mg": 285.0
+    "sodium_mg": 285
   },
   "allergens": [
     "Dairy",
@@ -133,6 +133,6 @@
     "Sulphites"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Protein and Carbs values in nutritional information are partially obscured by binder ring hole punch (readable as 7.4g and 11g)."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

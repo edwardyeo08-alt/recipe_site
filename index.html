@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>MealPlan - Recipe & Shopping Planner</title>
+  <meta name="description" content="Weekly meal planning with portion scaling, aggregated shopping list, and offline grocery support.">
+  <meta name="theme-color" content="#C84B31">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="MealPlan">
+
+  <!-- PWA Manifest & Icons -->
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+  <link rel="apple-touch-icon" href="icons/icon.svg">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Offline Status Banner -->
+  <aside id="offlineBanner" class="offline-banner" hidden aria-live="polite">
+    <span class="offline-icon">📡</span>
+    <span><strong>Offline Grocery Mode:</strong> Recipes & shopping list are saved locally.</span>
+  </aside>
+
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand" role="banner">
+        <a href="#recipes" class="brand-link" id="brandLogoBtn">
+          <img src="icons/icon.svg" alt="MealPlan Logo" class="brand-logo" width="36" height="36">
+          <div class="brand-text">
+            <h1 class="brand-title">MealPlan</h1>
+            <span class="brand-subtitle">Smart Meal & Grocery Planner</span>
+          </div>
+        </a>
+      </div>
+
+      <div class="header-actions">
+        <button id="themeToggleBtn" class="icon-btn" title="Toggle Theme" aria-label="Toggle Theme">
+          <span class="theme-icon">🌙</span>
+        </button>
+        <button id="quickPlanBtn" class="plan-badge-btn" title="View Active Plan">
+          <span class="plan-badge-icon">📅</span>
+          <span id="headerPlanCount" class="plan-badge-count">0</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Sticky Search & Filter Bar (Only visible on Recipes tab) -->
+    <div id="searchFilterBar" class="search-filter-bar">
+      <div class="search-input-wrapper">
+        <span class="search-icon" aria-hidden="true">🔍</span>
+        <input 
+          type="search" 
+          id="searchInput" 
+          class="search-input" 
+          placeholder="Search 192 recipes, ingredients, chefs..." 
+          autocomplete="off"
+          aria-label="Search recipes"
+        >
+        <button id="clearSearchBtn" class="clear-search-btn" title="Clear search" hidden aria-label="Clear search">×</button>
+      </div>
+
+      <!-- Protein & Meat Filter Chips -->
+      <nav class="filter-chips-container" aria-label="Meat and diet filters">
+        <div class="filter-chips-scroll" id="meatFilterChips">
+          <button class="chip active" data-filter="all">All</button>
+          <button class="chip" data-filter="Beef">🥩 Beef</button>
+          <button class="chip" data-filter="Chicken">🍗 Chicken</button>
+          <button class="chip" data-filter="Lamb">🍖 Lamb</button>
+          <button class="chip" data-filter="Pork">🥓 Pork</button>
+          <button class="chip" data-filter="Fish & Seafood">🐟 Fish & Seafood</button>
+          <button class="chip" data-filter="Game">🦌 Game</button>
+          <button class="chip" data-filter="Vegetarian">🥑 Vegetarian</button>
+        </div>
+      </nav>
+
+      <!-- Secondary Filters (Cooking time & Category) -->
+      <div class="secondary-filters-bar">
+        <div class="secondary-filters-scroll" id="secondaryFilters">
+          <button class="filter-pill" data-time="30">⚡ &le; 30 mins</button>
+          <button class="filter-pill" data-time="45">⏱️ &le; 45 mins</button>
+          <button class="filter-pill" data-category="Carb Conscious">🥗 Carb Conscious</button>
+          <button class="filter-pill" data-category="Easy Peasy">👶 Easy Peasy</button>
+          <button class="filter-pill" data-category="Fan Faves">⭐ Fan Faves</button>
+          <button class="filter-pill" data-category="Health Nut">🌿 Health Nut</button>
+          <button id="resetAllFiltersBtn" class="filter-pill reset-pill" hidden>↺ Reset All</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content Areas -->
+  <main class="main-content" id="mainContent">
+
+    <!-- 1. RECIPES VIEW -->
+    <section id="recipesView" class="view-section active" aria-label="Recipe Directory">
+      <div class="section-meta-bar">
+        <span id="recipesResultCount" class="result-count">Loading recipes...</span>
+        <div class="sort-wrapper">
+          <label for="recipeSortSelect" class="sr-only">Sort by</label>
+          <select id="recipeSortSelect" class="recipe-sort-select">
+            <option value="default">Default Order</option>
+            <option value="time-asc">Quickest First</option>
+            <option value="time-desc">Longest First</option>
+            <option value="title-asc">Title (A-Z)</option>
+          </select>
+        </div>
+      </div>
+
+      <div id="recipesGrid" class="recipes-grid">
+        <!-- Recipe cards rendered dynamically via app.js -->
+      </div>
+
+      <div id="recipesEmptyState" class="empty-state" hidden>
+        <span class="empty-emoji">🔍</span>
+        <h3>No matching recipes found</h3>
+        <p>Try clearing your search keyword or switching your meat and time filters.</p>
+        <button id="emptyStateResetBtn" class="primary-btn">Reset All Filters</button>
+      </div>
+    </section>
+
+    <!-- 2. MEAL PLAN VIEW -->
+    <section id="planView" class="view-section" hidden aria-label="Active Meal Plan">
+      <div class="view-header">
+        <div>
+          <h2 class="view-title">Active Meal Plan</h2>
+          <p class="view-description">Adjust portions per meal to scale ingredients automatically.</p>
+        </div>
+        <div class="plan-actions-group">
+          <button id="addRandomMealBtn" class="secondary-btn" title="Add a random surprise dish">
+            <span>🎲</span> Surprise Me
+          </button>
+          <button id="clearPlanBtn" class="danger-outline-btn" title="Clear all planned meals">
+            <span>🗑️</span> Clear
+          </button>
+        </div>
+      </div>
+
+      <!-- Plan Summary Stats -->
+      <div id="planSummaryCard" class="plan-summary-card">
+        <div class="summary-metric">
+          <span class="metric-val" id="planTotalMeals">0</span>
+          <span class="metric-label">Meals</span>
+        </div>
+        <div class="summary-metric">
+          <span class="metric-val" id="planTotalPortions">0</span>
+          <span class="metric-label">Total Portions</span>
+        </div>
+        <button id="goToShoppingBtn" class="primary-btn pulse-glow">
+          <span>🛒</span> Generate Shopping List
+        </button>
+      </div>
+
+      <div id="planItemsList" class="plan-items-list">
+        <!-- Planned meals rendered dynamically via app.js -->
+      </div>
+
+      <div id="planEmptyState" class="empty-state" hidden>
+        <span class="empty-emoji">🍽️</span>
+        <h3>Your Meal Plan is Empty</h3>
+        <p>Browse through 192 delicious recipes and tap <strong>"+ Add to Plan"</strong> to build your week.</p>
+        <button id="planBrowseBtn" class="primary-btn">Browse Recipes</button>
+      </div>
+    </section>
+
+    <!-- 3. SHOPPING LIST VIEW -->
+    <section id="shoppingView" class="view-section" hidden aria-label="Aggregated Shopping List">
+      <div class="view-header">
+        <div>
+          <h2 class="view-title">Shopping List</h2>
+          <p id="shoppingProgressSummary" class="view-description">Combined totals for your planned meals.</p>
+        </div>
+        <div class="shopping-actions-group">
+          <button id="copyShoppingBtn" class="secondary-btn" title="Copy formatted checklist to clipboard">
+            <span>📋</span> Copy
+          </button>
+          <button id="uncheckAllBtn" class="secondary-btn" title="Uncheck all items">
+            <span>🔄</span> Uncheck All
+          </button>
+        </div>
+      </div>
+
+      <!-- Shopping List Progress Bar -->
+      <div class="shopping-progress-wrapper" id="shoppingProgressWrapper">
+        <div class="shopping-progress-bar">
+          <div id="shoppingProgressBarFill" class="progress-fill" style="width: 0%;"></div>
+        </div>
+        <div class="progress-text">
+          <span id="shoppingCheckedCount">0 of 0 items checked</span>
+          <label class="hide-checked-label">
+            <input type="checkbox" id="hideCheckedToggle">
+            <span>Hide checked</span>
+          </label>
+        </div>
+      </div>
+
+      <!-- Aggregated Grocery Aisles -->
+      <div id="shoppingAislesContainer" class="shopping-aisles-container">
+        <!-- Aisle accordions rendered dynamically via app.js -->
+      </div>
+
+      <div id="shoppingEmptyState" class="empty-state" hidden>
+        <span class="empty-emoji">🛒</span>
+        <h3>No Shopping Items Yet</h3>
+        <p>Add at least one meal to your plan to generate a combined supermarket shopping list.</p>
+        <button id="shoppingBrowseBtn" class="primary-btn">Plan Meals First</button>
+      </div>
+    </section>
+
+    <!-- 4. COOK & PRINT VIEW -->
+    <section id="cookView" class="view-section" hidden aria-label="Printable Cooking Guides">
+      <!-- Screen Toolbar (hidden in @media print) -->
+      <div class="view-header print-hide">
+        <div>
+          <h2 class="view-title">Cooking & Printout</h2>
+          <p class="view-description">Clean, printable recipe cards with scaled ingredients and instructions.</p>
+        </div>
+        <div class="cook-actions-group">
+          <button id="wakeLockBtn" class="secondary-btn" title="Keep screen awake while cooking">
+            <span id="wakeLockIcon">💡</span>
+            <span id="wakeLockText">Keep Screen Awake</span>
+          </button>
+          <button id="printBtn" class="primary-btn" title="Print recipe cards or save as PDF">
+            <span>🖨️</span> Print / Save PDF
+          </button>
+        </div>
+      </div>
+
+      <!-- Printable Area -->
+      <div id="printableArea" class="printable-area">
+        <!-- Rendered dynamically via app.js -->
+      </div>
+
+      <div id="cookEmptyState" class="empty-state print-hide" hidden>
+        <span class="empty-emoji">🍳</span>
+        <h3>No Meals Selected to Cook</h3>
+        <p>Add recipes to your plan to generate printable kitchen cards and step-by-step instructions.</p>
+        <button id="cookBrowseBtn" class="primary-btn">Browse Recipes</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- Recipe Detail Modal Drawer -->
+  <div id="recipeModal" class="modal-backdrop" hidden role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-container">
+      <button id="modalCloseBtn" class="modal-close-btn" aria-label="Close recipe details">×</button>
+      <div id="modalContent" class="modal-content">
+        <!-- Populated dynamically via app.js -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile Bottom Navigation Bar -->
+  <nav class="bottom-nav" aria-label="App Navigation">
+    <button class="nav-item active" data-tab="recipes" id="navTabRecipes">
+      <span class="nav-icon">🍲</span>
+      <span class="nav-label">Recipes</span>
+    </button>
+    <button class="nav-item" data-tab="plan" id="navTabPlan">
+      <span class="nav-icon">
+        📅
+        <span id="navPlanBadge" class="nav-badge" hidden>0</span>
+      </span>
+      <span class="nav-label">Meal Plan</span>
+    </button>
+    <button class="nav-item" data-tab="shopping" id="navTabShopping">
+      <span class="nav-icon">
+        🛒
+        <span id="navShoppingBadge" class="nav-badge" hidden>0</span>
+      </span>
+      <span class="nav-label">Shopping</span>
+    </button>
+    <button class="nav-item" data-tab="cook" id="navTabCook">
+      <span class="nav-icon">🍳</span>
+      <span class="nav-label">Cook & Print</span>
+    </button>
+  </nav>
+
+  <!-- Toast Notification Container -->
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <!-- App Script -->
+  <script src="app.js"></script>
+</body>
+</html>

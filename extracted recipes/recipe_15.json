@@ -105,15 +105,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 562.0,
-    "energy_kcal": 134.0,
+    "energy_kj": 562,
+    "energy_kcal": 134,
     "protein_g": 7.5,
-    "carbs_g": 6.0,
+    "carbs_g": 6,
     "sugars_g": 2.5,
     "fibre_g": 1.8,
     "fat_g": 8.7,
     "saturated_fat_g": 3.1,
-    "sodium_mg": 38.0
+    "sodium_mg": 38
   },
   "allergens": [
     "Dairy",
@@ -121,6 +121,6 @@
     "Sulphites"
   ],
   "chef_tip": "If you want to toast your sunflower seeds, place in a pan over a medium heat. Toast for 2-4 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside to cool.",
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole punch clips the right ends of lines in the Chef's Tip box."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

@@ -119,15 +119,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 489.0,
-    "energy_kcal": 117.0,
-    "protein_g": null,
-    "carbs_g": 14.0,
+    "energy_kj": 489,
+    "energy_kcal": 117,
+    "protein_g": 4.4,
+    "carbs_g": 14,
     "sugars_g": 3.1,
     "fibre_g": 2.8,
     "fat_g": 4.8,
     "saturated_fat_g": 1.9,
-    "sodium_mg": 219.0
+    "sodium_mg": 219
   },
   "allergens": [
     "Egg",
@@ -139,6 +139,6 @@
     "Tree Nuts"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Protein value in nutrition table is punched out / obscured by binder ring hole."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

@@ -117,15 +117,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 735.0,
-    "energy_kcal": 176.0,
+    "energy_kj": 735,
+    "energy_kcal": 176,
     "protein_g": 6.9,
-    "carbs_g": 25.0,
+    "carbs_g": 25,
     "sugars_g": 5.4,
     "fibre_g": 2.5,
     "fat_g": 5.2,
     "saturated_fat_g": 2.7,
-    "sodium_mg": 392.0
+    "sodium_mg": 392
   },
   "allergens": [
     "Dairy",
@@ -135,6 +135,6 @@
     "Alcohol"
   ],
   "chef_tip": "To cook food 'al dente' means that it should still be firm when bitten. It must be tender, but not soft. This typically refers to pasta, but also applies to other grains, as well as a range of veg. Remember this when you see 'al dente' in other recipes!",
-  "card_obscured_flag": true,
-  "obscured_details": "Chef's tip end of text partially clipped by binder ring hole ('other reci[pes!]')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

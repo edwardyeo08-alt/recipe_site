@@ -13,67 +13,67 @@
   "ingredients": [
     {
       "name": "Butternut Chunks",
-      "quantity": 300.0,
+      "quantity": 300,
       "unit": "g",
       "prep": "cut into bite-sized pieces"
     },
     {
       "name": "Fresh Rosemary",
-      "quantity": 4.0,
+      "quantity": 4,
       "unit": "g",
       "prep": "rinsed"
     },
     {
       "name": "Gluten-free Crumb",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "ml",
       "prep": "15ml BIO XXI Quinoa Flakes & 15ml Almond Flour"
     },
     {
       "name": "Fresh Parsley",
-      "quantity": 10.0,
+      "quantity": 10,
       "unit": "g",
       "prep": "rinsed, picked & roughly chopped"
     },
     {
       "name": "Lemon",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "zested & cut into wedges"
     },
     {
       "name": "BIO XXI Gluten-free Multigrain Fettuccine",
-      "quantity": 160.0,
+      "quantity": 160,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Onion",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "peeled & finely diced"
     },
     {
       "name": "Garlic Cloves",
-      "quantity": 4.0,
+      "quantity": 4,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "Nutritional Yeast",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Cashew Nut Cream Cheese",
-      "quantity": 60.0,
+      "quantity": 60,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Sun-dried Tomatoes",
-      "quantity": 80.0,
+      "quantity": 80,
       "unit": "g",
       "prep": "drained & roughly chopped"
     }
@@ -117,15 +117,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 688.0,
-    "energy_kcal": 164.0,
-    "protein_g": null,
-    "carbs_g": 23.0,
+    "energy_kj": 688,
+    "energy_kcal": 164,
+    "protein_g": 5.7,
+    "carbs_g": 23,
     "sugars_g": 4.9,
-    "fibre_g": 4.0,
+    "fibre_g": 4,
     "fat_g": 4.1,
     "saturated_fat_g": 0.3,
-    "sodium_mg": 32.0
+    "sodium_mg": 32
   },
   "allergens": [
     "Allium",
@@ -133,6 +133,6 @@
     "Tree Nuts"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Protein value in nutritional information is obscured by the binder ring hole punch."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

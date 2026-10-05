@@ -112,15 +112,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 527.0,
-    "energy_kcal": 126.0,
-    "protein_g": null,
-    "carbs_g": 9.0,
+    "energy_kj": 527,
+    "energy_kcal": 126,
+    "protein_g": 10.6,
+    "carbs_g": 9,
     "sugars_g": 1.4,
     "fibre_g": 2.4,
     "fat_g": 3.8,
-    "saturated_fat_g": 1.0,
-    "sodium_mg": 80.0
+    "saturated_fat_g": 1,
+    "sodium_mg": 80
   },
   "allergens": [
     "Allium",
@@ -129,6 +129,6 @@
     "Tree Nuts"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Protein value in the Nutritional Information table is obscured and punched out by the binder ring."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

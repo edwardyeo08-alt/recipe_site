@@ -119,15 +119,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": null,
-    "energy_kcal": null,
-    "protein_g": null,
-    "carbs_g": 13.0,
+    "energy_kj": 561,
+    "energy_kcal": 134,
+    "protein_g": 13.8,
+    "carbs_g": 13,
     "sugars_g": 1.6,
     "fibre_g": 2.7,
-    "fat_g": 3.0,
+    "fat_g": 3,
     "saturated_fat_g": 0.6,
-    "sodium_mg": 162.0
+    "sodium_mg": 162
   },
   "allergens": [
     "Allium",
@@ -136,6 +136,6 @@
     "Tree Nuts"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole punch obscures Energy (kJ), Energy (kcal), and Protein (g) values in the Nutritional Information table."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

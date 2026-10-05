@@ -125,15 +125,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 455.0,
-    "energy_kcal": 109.0,
-    "protein_g": null,
-    "carbs_g": 18.0,
+    "energy_kj": 455,
+    "energy_kcal": 109,
+    "protein_g": 6.8,
+    "carbs_g": 18,
     "sugars_g": 3.6,
-    "fibre_g": 2.0,
+    "fibre_g": 2,
     "fat_g": 0.6,
     "saturated_fat_g": 0.1,
-    "sodium_mg": 189.0
+    "sodium_mg": 189
   },
   "allergens": [
     "Allium",
@@ -142,6 +142,6 @@
     "Shellfish/Seafood"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Protein value in nutritional information table is punched out by the binder ring hole."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

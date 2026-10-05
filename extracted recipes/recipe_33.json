@@ -116,15 +116,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 575.0,
-    "energy_kcal": 138.0,
+    "energy_kj": 575,
+    "energy_kcal": 138,
     "protein_g": 7.4,
-    "carbs_g": 15.0,
+    "carbs_g": 15,
     "sugars_g": 2.9,
     "fibre_g": 2.4,
     "fat_g": 5.2,
     "saturated_fat_g": 1.8,
-    "sodium_mg": 171.0
+    "sodium_mg": 171
   },
   "allergens": [
     "Allium",
@@ -132,6 +132,6 @@
     "Sulphites"
   ],
   "chef_tip": "Draining and rinsing tinned beans, lentils, and chickpeas before use drastically reduces the amount of sodium you're adding to your meal. It also reduces complex sugar content (which humans can't digest!) and improves the flavour and texture of the food.",
-  "card_obscured_flag": true,
-  "obscured_details": "Right-hand binder ring hole clips text on the right side of Chef's Tip ('which humans can't digest!' and 'flavour and')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

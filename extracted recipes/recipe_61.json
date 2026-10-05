@@ -13,73 +13,73 @@
   "ingredients": [
     {
       "name": "Brown Basmati Rice",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Vegetable Stock",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Onion",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "peeled & finely diced"
     },
     {
       "name": "Fresh Ginger",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "g",
       "prep": "peeled & grated"
     },
     {
       "name": "Spice and All Things Nice Korma Curry Paste",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Fresh Chilli",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "deseeded & finely sliced"
     },
     {
       "name": "Almond Flour",
-      "quantity": 50.0,
+      "quantity": 50,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Baby Tomatoes",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": "rinsed & quartered"
     },
     {
       "name": "Coconut Cream",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Fresh Coriander",
-      "quantity": 5.0,
+      "quantity": 5,
       "unit": "g",
       "prep": "rinsed & roughly chopped"
     },
     {
       "name": "Free-range Chicken Mini Fillets",
-      "quantity": 300.0,
+      "quantity": 300,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Green Beans",
-      "quantity": 160.0,
+      "quantity": 160,
       "unit": "g",
       "prep": "rinsed, trimmed & sliced into thirds"
     }
@@ -124,15 +124,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 598.0,
-    "energy_kcal": 143.0,
+    "energy_kj": 598,
+    "energy_kcal": 143,
     "protein_g": 8.1,
-    "carbs_g": 16.0,
+    "carbs_g": 16,
     "sugars_g": 1.6,
     "fibre_g": 2.4,
     "fat_g": 5.2,
     "saturated_fat_g": 2.9,
-    "sodium_mg": 223.0
+    "sodium_mg": 223
   },
   "allergens": [
     "Allium",
@@ -140,6 +140,6 @@
     "Tree Nuts"
   ],
   "chef_tip": "Ginger has superpowers! It strengthens the immune system, stops inflammation, eases digestion, and alleviates cold and flu symptoms. Whizz it up fresh with smoothies or juices for extra zing, or add it to just about any curry dish!",
-  "card_obscured_flag": true,
-  "obscured_details": "Ring binder partially covers 'add' in Chef's Tip."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

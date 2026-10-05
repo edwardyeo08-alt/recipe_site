@@ -112,15 +112,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 603.0,
-    "energy_kcal": 144.0,
+    "energy_kj": 603,
+    "energy_kcal": 144,
     "protein_g": 5.5,
-    "carbs_g": 18.0,
+    "carbs_g": 18,
     "sugars_g": 3.7,
     "fibre_g": 2.3,
     "fat_g": 5.7,
-    "saturated_fat_g": 2.0,
-    "sodium_mg": 225.0
+    "saturated_fat_g": 2,
+    "sodium_mg": 225
   },
   "allergens": [
     "Gluten",
@@ -131,6 +131,6 @@
     "Soy"
   ],
   "chef_tip": "Veg peels are rich in fiber, vitamins, minerals and antioxidants, making them one of the most nutritious parts of a plant. Eat your fruits and vegetables unpeeled whenever possible.",
-  "card_obscured_flag": true,
-  "obscured_details": "Top binder ring partially obscures the end of lines in Chef's Tip ('parts of a...', 'unpeeled'). Bottom binder ring partially covers 'Sulphites' in Allergens."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

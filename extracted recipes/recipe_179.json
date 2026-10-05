@@ -111,15 +111,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 389.0,
-    "energy_kcal": 93.0,
+    "energy_kj": 389,
+    "energy_kcal": 93,
     "protein_g": 8.1,
-    "carbs_g": 8.0,
+    "carbs_g": 8,
     "sugars_g": 3.8,
     "fibre_g": 2.1,
     "fat_g": 2.9,
     "saturated_fat_g": 0.7,
-    "sodium_mg": 371.0
+    "sodium_mg": 371
   },
   "allergens": [
     "Allium",
@@ -128,6 +128,6 @@
     "Soy"
   ],
   "chef_tip": "You can use a wok for this recipe if you have one. The best things about wok are that they distribute heat more evenly and require less oil. It also ensures that food tossed during stir frying lands back in the pan and not all over the stove!",
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole partially clips the Chef's Tip ('lands back i[n the] pan')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

@@ -13,61 +13,61 @@
   "ingredients": [
     {
       "name": "Almonds",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Potato Gnocchi",
-      "quantity": 350.0,
+      "quantity": 350,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Green Leaves",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": "rinsed"
     },
     {
       "name": "Lemon",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "zested & cut into wedge"
     },
     {
       "name": "Portobellini Mushrooms",
-      "quantity": 250.0,
+      "quantity": 250,
       "unit": "g",
       "prep": "wiped clean & quartered"
     },
     {
       "name": "Crème Fraîche",
-      "quantity": 125.0,
+      "quantity": 125,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Umami Sauce",
-      "quantity": 35.0,
+      "quantity": 35,
       "unit": "ml",
       "prep": "10ml Marmite, 15ml Mushroom Soy Sauce & 10ml Maple"
     },
     {
       "name": "Italian-style Hard Cheese",
-      "quantity": 50.0,
+      "quantity": 50,
       "unit": "g",
       "prep": "grated"
     },
     {
       "name": "Pickled Bell Peppers",
-      "quantity": 80.0,
+      "quantity": 80,
       "unit": "g",
       "prep": "drained & roughly chopped"
     },
     {
       "name": "Fresh Chives",
-      "quantity": 8.0,
+      "quantity": 8,
       "unit": "g",
       "prep": "rinsed & finely chopped"
     }
@@ -112,15 +112,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 611.0,
-    "energy_kcal": 146.0,
+    "energy_kj": 611,
+    "energy_kcal": 146,
     "protein_g": 6.8,
-    "carbs_g": 12.0,
+    "carbs_g": 12,
     "sugars_g": 3.3,
     "fibre_g": 2.7,
     "fat_g": 7.9,
     "saturated_fat_g": 4.3,
-    "sodium_mg": 1026.0
+    "sodium_mg": 1026
   },
   "allergens": [
     "Egg",
@@ -134,6 +134,6 @@
     "Soy"
   ],
   "chef_tip": "Deglazing is a cooking technique for lifting browned food residue from the base of a pan by adding in liquid and stirring it into the residue using a cooking utensil. This mixture is then used to add flavour sauces, soups, and gravies.",
-  "card_obscured_flag": true,
-  "obscured_details": "Minor clipping from binder ring hole punch on Chef's Tip ('add') and Allergens ('Sesame')."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

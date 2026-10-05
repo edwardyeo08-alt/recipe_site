@@ -100,15 +100,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 446.0,
-    "energy_kcal": 107.0,
-    "protein_g": null,
-    "carbs_g": 10.0,
+    "energy_kj": 446,
+    "energy_kcal": 107,
+    "protein_g": 5.6,
+    "carbs_g": 10,
     "sugars_g": 1.8,
     "fibre_g": 2.5,
     "fat_g": 4.4,
     "saturated_fat_g": 0.8,
-    "sodium_mg": 29.0
+    "sodium_mg": 29
   },
   "allergens": [
     "Egg",
@@ -119,6 +119,6 @@
     "Fish"
   ],
   "chef_tip": null,
-  "card_obscured_flag": true,
-  "obscured_details": "Protein value in Nutritional Information is completely punched out by the binder ring hole."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }

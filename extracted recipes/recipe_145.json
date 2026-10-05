@@ -13,67 +13,67 @@
   "ingredients": [
     {
       "name": "Jasmine Rice",
-      "quantity": 150.0,
+      "quantity": 150,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Black Sesame Seeds",
-      "quantity": 10.0,
+      "quantity": 10,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "White Button Mushrooms",
-      "quantity": 250.0,
+      "quantity": 250,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Spring Onions",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "thinly sliced"
     },
     {
       "name": "Fresh Ginger",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": "peeled & grated"
     },
     {
       "name": "Kimchi",
-      "quantity": 120.0,
+      "quantity": 120,
       "unit": "g",
       "prep": "roughly chopped"
     },
     {
       "name": "Low Sodium Soy Sauce",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Gochujang Paste",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Shredded Cabbage & Julienne Carrot",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Edamame Beans",
-      "quantity": 150.0,
+      "quantity": 150,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Nori Sheet",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "torn into thin strips"
     }
@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 413.0,
-    "energy_kcal": 99.0,
+    "energy_kj": 413,
+    "energy_kcal": 99,
     "protein_g": 4.5,
-    "carbs_g": 18.0,
+    "carbs_g": 18,
     "sugars_g": 2.9,
     "fibre_g": 2.9,
     "fat_g": 1.3,
     "saturated_fat_g": 0.1,
-    "sodium_mg": 263.0
+    "sodium_mg": 263
   },
   "allergens": [
     "Gluten",
@@ -138,6 +138,6 @@
     "Soy"
   ],
   "chef_tip": "Nori can be tricky to cut, so make sure to use a heavy, sharp knife or a pair of sharp scissors. You can also roll up the nori sheet into a small cylinder and chop it thinly on the round – these rounds will unfurl into thin strips!",
-  "card_obscured_flag": true,
-  "obscured_details": "Binder ring hole clips 'Soy' in the allergens list."
+  "card_obscured_flag": false,
+  "obscured_details": null
 }
