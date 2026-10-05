@@ -64,16 +64,20 @@
     emptyStateResetBtn: document.getElementById('emptyStateResetBtn'),
 
     // Plan View Elements
+    planSummaryCard: document.getElementById('planSummaryCard'),
     planTotalMeals: document.getElementById('planTotalMeals'),
     planTotalPortions: document.getElementById('planTotalPortions'),
     planItemsList: document.getElementById('planItemsList'),
     planEmptyState: document.getElementById('planEmptyState'),
     planBrowseBtn: document.getElementById('planBrowseBtn'),
+    planQuickPlanBtn: document.getElementById('planQuickPlanBtn'),
+    quick3MealPlanBtn: document.getElementById('quick3MealPlanBtn'),
     addRandomMealBtn: document.getElementById('addRandomMealBtn'),
     clearPlanBtn: document.getElementById('clearPlanBtn'),
     goToShoppingBtn: document.getElementById('goToShoppingBtn'),
 
     // Shopping List Elements
+    shoppingProgressWrapper: document.getElementById('shoppingProgressWrapper'),
     shoppingProgressSummary: document.getElementById('shoppingProgressSummary'),
     shoppingProgressBarFill: document.getElementById('shoppingProgressBarFill'),
     shoppingCheckedCount: document.getElementById('shoppingCheckedCount'),
@@ -81,6 +85,7 @@
     shoppingAislesContainer: document.getElementById('shoppingAislesContainer'),
     shoppingEmptyState: document.getElementById('shoppingEmptyState'),
     shoppingBrowseBtn: document.getElementById('shoppingBrowseBtn'),
+    shoppingQuickPlanBtn: document.getElementById('shoppingQuickPlanBtn'),
     copyShoppingBtn: document.getElementById('copyShoppingBtn'),
     uncheckAllBtn: document.getElementById('uncheckAllBtn'),
 
@@ -122,7 +127,14 @@
       const saved = localStorage.getItem(STORAGE_KEY);
       if (saved) {
         const parsed = JSON.parse(saved);
-        if (Array.isArray(parsed.plan)) state.plan = parsed.plan;
+        if (Array.isArray(parsed.plan)) {
+          state.plan = parsed.plan
+            .map(p => ({
+              id: Number(p.id),
+              portions: Math.max(1, Math.min(12, Number(p.portions) || 4))
+            }))
+            .filter(p => !isNaN(p.id) && p.id > 0);
+        }
         if (parsed.checkedShopping && typeof parsed.checkedShopping === 'object') {
           state.checkedShopping = parsed.checkedShopping;
         }
@@ -334,9 +346,27 @@
 
     // Meal Plan Actions
     elements.planBrowseBtn.addEventListener('click', () => switchTab('recipes'));
-    elements.shoppingBrowseBtn.addEventListener('click', () => switchTab('plan'));
+    elements.shoppingBrowseBtn.addEventListener('click', () => switchTab('recipes'));
     elements.cookBrowseBtn.addEventListener('click', () => switchTab('recipes'));
-    elements.goToShoppingBtn.addEventListener('click', () => switchTab('shopping'));
+
+    // Quick 3-Meal Plan triggers
+    if (elements.quick3MealPlanBtn) {
+      elements.quick3MealPlanBtn.addEventListener('click', () => generateQuickPlan(3));
+    }
+    if (elements.planQuickPlanBtn) {
+      elements.planQuickPlanBtn.addEventListener('click', () => generateQuickPlan(3));
+    }
+    if (elements.shoppingQuickPlanBtn) {
+      elements.shoppingQuickPlanBtn.addEventListener('click', () => generateQuickPlan(3));
+    }
+
+    elements.goToShoppingBtn.addEventListener('click', () => {
+      if (state.plan.length === 0) {
+        generateQuickPlan(3);
+      } else {
+        switchTab('shopping');
+      }
+    });
 
     elements.addRandomMealBtn.addEventListener('click', addRandomMealToPlan);
     elements.clearPlanBtn.addEventListener('click', confirmClearPlan);
@@ -519,10 +549,11 @@
     const fragment = document.createDocumentFragment();
 
     filtered.forEach(r => {
-      const isPlanned = state.plan.some(p => p.id === r.recipe_number);
+      const recipeId = Number(r.recipe_number);
+      const isPlanned = state.plan.some(p => Number(p.id) === recipeId);
       const card = document.createElement('article');
       card.className = 'recipe-card';
-      card.setAttribute('data-id', r.recipe_number);
+      card.setAttribute('data-id', recipeId);
 
       const isVeg = r.protein === 'Vegetarian';
 
@@ -550,18 +581,23 @@
           </div>
         </div>
         <div class="recipe-card-footer">
-          <button class="btn-add-plan ${isPlanned ? 'in-plan' : ''}" data-action="toggle-plan" data-id="${r.recipe_number}">
+          <button class="btn-add-plan ${isPlanned ? 'in-plan' : ''}" data-action="toggle-plan" data-id="${recipeId}">
             ${isPlanned ? '✓ In Plan' : '+ Add to Plan'}
           </button>
         </div>
       `;
 
-      // Card click opens modal (unless button was clicked)
-      card.addEventListener('click', e => {
-        if (e.target.closest('[data-action="toggle-plan"]')) {
+      // Separate event listeners for button vs card click
+      const addBtn = card.querySelector('[data-action="toggle-plan"]');
+      if (addBtn) {
+        addBtn.addEventListener('click', e => {
           e.stopPropagation();
-          toggleRecipeInPlan(r.recipe_number);
-        } else {
+          toggleRecipeInPlan(recipeId);
+        });
+      }
+
+      card.addEventListener('click', e => {
+        if (!e.target.closest('[data-action="toggle-plan"]')) {
           openRecipeModal(r);
         }
       });
@@ -574,15 +610,16 @@
 
   // --- PLAN MANAGEMENT ---
   function toggleRecipeInPlan(recipeId) {
-    const existingIndex = state.plan.findIndex(p => p.id === recipeId);
-    const recipe = recipes.find(r => r.recipe_number === recipeId);
+    const numId = Number(recipeId);
+    const existingIndex = state.plan.findIndex(p => Number(p.id) === numId);
+    const recipe = recipes.find(r => Number(r.recipe_number) === numId);
 
     if (existingIndex > -1) {
       state.plan.splice(existingIndex, 1);
       showToast(`Removed "${recipe ? recipe.title : 'Meal'}" from plan`);
     } else {
-      const defaultPortions = recipe ? (recipe.servings || 4) : 4;
-      state.plan.push({ id: recipeId, portions: defaultPortions });
+      const defaultPortions = recipe ? (Number(recipe.servings) || 4) : 4;
+      state.plan.push({ id: numId, portions: defaultPortions });
       showToast(`Added "${recipe ? recipe.title : 'Meal'}" (${defaultPortions} portions)`);
     }
 
@@ -590,41 +627,89 @@
     updateBadgeCounts();
     renderRecipes();
     if (state.activeTab === 'plan') renderPlan();
+    if (state.activeTab === 'shopping') renderShoppingList();
+    if (state.activeTab === 'cook') renderCookView();
   }
 
   function setPlanPortions(recipeId, newPortions) {
-    const item = state.plan.find(p => p.id === recipeId);
+    const numId = Number(recipeId);
+    const item = state.plan.find(p => Number(p.id) === numId);
     if (!item) return;
 
-    item.portions = Math.max(1, Math.min(12, newPortions));
+    item.portions = Math.max(1, Math.min(12, Number(newPortions) || 4));
     saveState();
     updateBadgeCounts();
     renderPlan();
+    if (state.activeTab === 'shopping') renderShoppingList();
+    if (state.activeTab === 'cook') renderCookView();
   }
 
   function removeRecipeFromPlan(recipeId) {
-    const recipe = recipes.find(r => r.recipe_number === recipeId);
-    state.plan = state.plan.filter(p => p.id !== recipeId);
+    const numId = Number(recipeId);
+    const recipe = recipes.find(r => Number(r.recipe_number) === numId);
+    state.plan = state.plan.filter(p => Number(p.id) !== numId);
     saveState();
     updateBadgeCounts();
     showToast(`Removed "${recipe ? recipe.title : 'Meal'}" from plan`);
     renderPlan();
     renderRecipes();
+    if (state.activeTab === 'shopping') renderShoppingList();
+    if (state.activeTab === 'cook') renderCookView();
   }
 
   function addRandomMealToPlan() {
-    const unselected = recipes.filter(r => !state.plan.some(p => p.id === r.recipe_number));
+    const unselected = recipes.filter(r => !state.plan.some(p => Number(p.id) === Number(r.recipe_number)));
     if (unselected.length === 0) {
       showToast('All recipes are already in your plan!');
       return;
     }
     const randomPick = unselected[Math.floor(Math.random() * unselected.length)];
-    state.plan.push({ id: randomPick.recipe_number, portions: randomPick.servings || 4 });
+    state.plan.push({ id: Number(randomPick.recipe_number), portions: Number(randomPick.servings) || 4 });
     saveState();
     updateBadgeCounts();
     showToast(`Added random dish: "${randomPick.title}"`);
     renderPlan();
     renderRecipes();
+    if (state.activeTab === 'shopping') renderShoppingList();
+    if (state.activeTab === 'cook') renderCookView();
+  }
+
+  function generateQuickPlan(count = 3) {
+    if (!recipes || recipes.length === 0) return;
+
+    const desiredProteins = ['Chicken', 'Beef', 'Vegetarian', 'Fish & Seafood', 'Pork', 'Lamb'];
+    const chosen = [];
+    const usedIds = new Set();
+
+    for (const prot of desiredProteins) {
+      if (chosen.length >= count) break;
+      const candidates = recipes.filter(r => r.protein === prot && !usedIds.has(Number(r.recipe_number)));
+      if (candidates.length > 0) {
+        const pick = candidates[Math.floor(Math.random() * candidates.length)];
+        chosen.push(pick);
+        usedIds.add(Number(pick.recipe_number));
+      }
+    }
+
+    while (chosen.length < count && chosen.length < recipes.length) {
+      const candidates = recipes.filter(r => !usedIds.has(Number(r.recipe_number)));
+      if (candidates.length === 0) break;
+      const pick = candidates[Math.floor(Math.random() * candidates.length)];
+      chosen.push(pick);
+      usedIds.add(Number(pick.recipe_number));
+    }
+
+    state.plan = chosen.map(r => ({
+      id: Number(r.recipe_number),
+      portions: Number(r.servings) || 4
+    }));
+    state.checkedShopping = {};
+    saveState();
+    updateBadgeCounts();
+    renderRecipes();
+    renderPlan();
+    switchTab('shopping');
+    showToast(`⚡ Generated a 3-meal plan & full shopping list!`);
   }
 
   function confirmClearPlan() {
@@ -647,6 +732,7 @@
 
     if (planItems.length === 0) {
       elements.planEmptyState.hidden = false;
+      if (elements.planSummaryCard) elements.planSummaryCard.hidden = true;
       elements.planTotalMeals.textContent = '0';
       elements.planTotalPortions.textContent = '0';
       elements.goToShoppingBtn.disabled = true;
@@ -654,13 +740,15 @@
     }
 
     elements.planEmptyState.hidden = true;
+    if (elements.planSummaryCard) elements.planSummaryCard.hidden = false;
     elements.goToShoppingBtn.disabled = false;
 
     let totalPortions = 0;
     const fragment = document.createDocumentFragment();
 
     planItems.forEach(item => {
-      const recipe = recipes.find(r => r.recipe_number === item.id);
+      const planId = Number(item.id);
+      const recipe = recipes.find(r => Number(r.recipe_number) === planId);
       if (!recipe) return;
 
       totalPortions += item.portions;
@@ -685,13 +773,13 @@
 
       // Stepper button events
       card.querySelector('[data-action="decrement"]').addEventListener('click', () => {
-        setPlanPortions(item.id, item.portions - 1);
+        setPlanPortions(planId, item.portions - 1);
       });
       card.querySelector('[data-action="increment"]').addEventListener('click', () => {
-        setPlanPortions(item.id, item.portions + 1);
+        setPlanPortions(planId, item.portions + 1);
       });
       card.querySelector('.plan-item-remove-btn').addEventListener('click', () => {
-        removeRecipeFromPlan(item.id);
+        removeRecipeFromPlan(planId);
       });
 
       fragment.appendChild(card);
@@ -700,26 +788,33 @@
     elements.planTotalMeals.textContent = planItems.length;
     elements.planTotalPortions.textContent = totalPortions;
     elements.planItemsList.appendChild(fragment);
+
+    const shoppingItems = calculateAggregatedShopping();
+    elements.goToShoppingBtn.innerHTML = `<span>🛒</span> View Shopping List (${shoppingItems.length} items)`;
   }
 
   // --- SHOPPING LIST AGGREGATION ALGORITHM ---
   function calculateAggregatedShopping() {
-    if (state.plan.length === 0) return [];
+    if (!state.plan || state.plan.length === 0) return [];
 
     const aggregated = new Map(); // key -> { name, quantity, unit, category, recipesUsed: Set }
 
     state.plan.forEach(planItem => {
-      const recipe = recipes.find(r => r.recipe_number === planItem.id);
+      const planId = Number(planItem.id);
+      const recipe = recipes.find(r => Number(r.recipe_number) === planId);
       if (!recipe) return;
 
-      const factor = planItem.portions / (recipe.servings || 4);
+      const factor = (Number(planItem.portions) || 4) / (recipe.servings || 4);
 
       // 1. Ingredients
       (recipe.ingredients || []).forEach(ing => {
+        if (!ing || !ing.name) return;
         const rawName = ing.name.trim();
         const baseName = normalizeIngredientName(rawName);
         const unit = ing.unit || null;
-        let qty = ing.quantity !== null && ing.quantity !== undefined ? ing.quantity * factor : null;
+        let qty = ing.quantity !== null && ing.quantity !== undefined && !isNaN(ing.quantity)
+          ? ing.quantity * factor
+          : null;
 
         // Normalize mass (kg to g)
         let normalizedUnit = unit;
@@ -741,8 +836,8 @@
           });
         } else {
           const entry = aggregated.get(mapKey);
-          if (qty !== null && entry.quantity !== null) {
-            entry.quantity += qty;
+          if (qty !== null) {
+            entry.quantity = (entry.quantity || 0) + qty;
           }
           entry.recipesUsed.add(recipe.title);
         }
@@ -750,6 +845,7 @@
 
       // 2. Kitchen staples ("from_your_kitchen")
       (recipe.from_your_kitchen || []).forEach(staple => {
+        if (!staple) return;
         const cleanName = staple.trim();
         const mapKey = `staple_${cleanName.toLowerCase()}`;
 
@@ -870,13 +966,13 @@
 
     if (items.length === 0) {
       elements.shoppingEmptyState.hidden = false;
-      elements.shoppingProgressWrapper.hidden = true;
+      if (elements.shoppingProgressWrapper) elements.shoppingProgressWrapper.hidden = true;
       elements.shoppingProgressSummary.textContent = 'Add meals to your plan to generate a list.';
       return;
     }
 
     elements.shoppingEmptyState.hidden = true;
-    elements.shoppingProgressWrapper.hidden = false;
+    if (elements.shoppingProgressWrapper) elements.shoppingProgressWrapper.hidden = false;
 
     // Calculate progress
     const totalCount = items.length;
@@ -1039,10 +1135,11 @@
     const fragment = document.createDocumentFragment();
 
     state.plan.forEach(planItem => {
-      const recipe = recipes.find(r => r.recipe_number === planItem.id);
+      const planId = Number(planItem.id);
+      const recipe = recipes.find(r => Number(r.recipe_number) === planId);
       if (!recipe) return;
 
-      const factor = planItem.portions / (recipe.servings || 4);
+      const factor = (Number(planItem.portions) || 4) / (recipe.servings || 4);
       const card = document.createElement('article');
       card.className = 'cook-recipe-card';
 
@@ -1156,9 +1253,10 @@
 
   // --- RECIPE DETAIL MODAL ---
   function openRecipeModal(recipe) {
-    const isPlanned = state.plan.some(p => p.id === recipe.recipe_number);
-    const planItem = state.plan.find(p => p.id === recipe.recipe_number);
-    const portions = planItem ? planItem.portions : (recipe.servings || 4);
+    const recipeId = Number(recipe.recipe_number);
+    const isPlanned = state.plan.some(p => Number(p.id) === recipeId);
+    const planItem = state.plan.find(p => Number(p.id) === recipeId);
+    const portions = planItem ? planItem.portions : (Number(recipe.servings) || 4);
 
     const n = recipe.nutrition_per_100g || {};
 
@@ -1238,10 +1336,13 @@
       </div>
     `;
 
-    document.getElementById('modalPlanToggleBtn').addEventListener('click', () => {
-      toggleRecipeInPlan(recipe.recipe_number);
-      closeModal();
-    });
+    const modalBtn = document.getElementById('modalPlanToggleBtn');
+    if (modalBtn) {
+      modalBtn.onclick = () => {
+        toggleRecipeInPlan(recipeId);
+        closeModal();
+      };
+    }
 
     elements.recipeModal.hidden = false;
     elements.recipeModal.classList.add('open');

@@ -130,6 +130,9 @@
           <p class="view-description">Adjust portions per meal to scale ingredients automatically.</p>
         </div>
         <div class="plan-actions-group">
+          <button id="quick3MealPlanBtn" class="secondary-btn" title="Quick 3-meal dinner plan">
+            <span>⚡</span> 3-Meal Plan
+          </button>
           <button id="addRandomMealBtn" class="secondary-btn" title="Add a random surprise dish">
             <span>🎲</span> Surprise Me
           </button>
@@ -140,7 +143,7 @@
       </div>
 
       <!-- Plan Summary Stats -->
-      <div id="planSummaryCard" class="plan-summary-card">
+      <div id="planSummaryCard" class="plan-summary-card" hidden>
         <div class="summary-metric">
           <span class="metric-val" id="planTotalMeals">0</span>
           <span class="metric-label">Meals</span>
@@ -161,8 +164,11 @@
       <div id="planEmptyState" class="empty-state" hidden>
         <span class="empty-emoji">🍽️</span>
         <h3>Your Meal Plan is Empty</h3>
-        <p>Browse through 192 delicious recipes and tap <strong>"+ Add to Plan"</strong> to build your week.</p>
-        <button id="planBrowseBtn" class="primary-btn">Browse Recipes</button>
+        <p>Choose recipes to build your weekly plan, or let us generate a delicious 3-meal plan with 1 tap.</p>
+        <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 14px;">
+          <button id="planQuickPlanBtn" class="primary-btn pulse-glow">⚡ Auto-Generate 3-Meal Plan</button>
+          <button id="planBrowseBtn" class="secondary-btn">🍲 Browse 192 Recipes</button>
+        </div>
       </div>
     </section>
 
@@ -205,8 +211,11 @@
       <div id="shoppingEmptyState" class="empty-state" hidden>
         <span class="empty-emoji">🛒</span>
         <h3>No Shopping Items Yet</h3>
-        <p>Add at least one meal to your plan to generate a combined supermarket shopping list.</p>
-        <button id="shoppingBrowseBtn" class="primary-btn">Plan Meals First</button>
+        <p>Add meals to your plan to generate a combined supermarket shopping list, or generate a 3-meal plan instantly.</p>
+        <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 14px;">
+          <button id="shoppingQuickPlanBtn" class="primary-btn pulse-glow">⚡ Auto-Generate 3-Meal Plan</button>
+          <button id="shoppingBrowseBtn" class="secondary-btn">🍲 Browse Recipes</button>
+        </div>
       </div>
     </section>
 
