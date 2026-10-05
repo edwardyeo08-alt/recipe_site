@@ -1,0 +1,139 @@
+{
+  "recipe_number": 131,
+  "title": "Taphuis Umami Mushroom Gnocchi",
+  "subtitle": "with zesty crème fraîche sauce & an umami marmite swirl",
+  "description": "Taphuis' head chef brings you a flavour explosion you won't forget! This crisped gnocchi is awash with creamy sauce that's bursting with umami from soy and marmite (for some local charm!) and punctuated by the crunch of almonds and the tang of pickled peppers.",
+  "chef": "Stephen Fraser",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Lanzerac Estate | Syrah",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "quantity": 20.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Potato Gnocchi",
+      "quantity": 350.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "zested & cut into wedge"
+    },
+    {
+      "name": "Portobellini Mushrooms",
+      "quantity": 250.0,
+      "unit": "g",
+      "prep": "wiped clean & quartered"
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 125.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Umami Sauce",
+      "quantity": 35.0,
+      "unit": "ml",
+      "prep": "10ml Marmite, 15ml Mushroom Soy Sauce & 10ml Maple"
+    },
+    {
+      "name": "Italian-style Hard Cheese",
+      "quantity": 50.0,
+      "unit": "g",
+      "prep": "grated"
+    },
+    {
+      "name": "Pickled Bell Peppers",
+      "quantity": 80.0,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Fresh Chives",
+      "quantity": 8.0,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "TOASTY ALMONDS",
+      "text": "Place the almonds in a pan over a medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside. Roughly chop when cool enough to handle."
+    },
+    {
+      "step": 2,
+      "title": "SOFT POCKETS OF DELIGHT",
+      "text": "Boil the kettle. Place a pot for the gnocchi over a high heat. Fill with boiling water and add a pinch of salt. Once bubbling rapidly, cook the gnocchi for 2-3 minutes until they begin to float and are heated through. Drain on completion, setting aside 125ml of the pasta water for step 3. Pat the gnocchi dry with paper towel (this helps to prevent sticking). Return it to the pot and toss through some oil."
+    },
+    {
+      "step": 3,
+      "title": "TOSS THE SALAD & FRY THE GNOCCHI",
+      "text": "Place the rinsed green leaves in a bowl with ½ of the chopped almonds and a drizzle of olive oil. Toss together with some lemon juice and zest to taste. Season and set aside for serving. Return the pan to a medium-high heat with a small drizzle of oil and a knob of butter. When hot, fry the gnocchi in a single layer for 2-4 minutes until crisp, shifting as they colour. Remove from the pan on completion, cover to keep warm, and set aside."
+    },
+    {
+      "step": 4,
+      "title": "CREAMY & UMAMI",
+      "text": "Return the pan to a high heat with another drizzle of oil and knob of butter. When hot, fry the quartered mushrooms for 3-5 minutes until soft and golden, shifting as they colour. You may need to do this step in batches, adding more oil and butter between batches. On completion, return the mushrooms to the pan. Pour in the pasta water to deglaze the pan. Lower the heat and stir through the crème fraîche until combined. Allow to simmer for 2-3 minutes until slightly thickened, stirring occasionally."
+    },
+    {
+      "step": 5,
+      "title": "FINISH UP",
+      "text": "When the mushroom sauce has 1 minute remaining, mix in the umami sauce to taste and ½ of the grated cheese. Remove from the heat and stir through the gnocchi until coated. If the sauce is too thick, loosen with a small splash of water. Season to taste."
+    },
+    {
+      "step": 6,
+      "title": "WHAT A FEAST!",
+      "text": "Dish up spoonfuls of creamy mushroom gnocchi, and scatter over the chopped pickled peppers and chopped chives. Sprinkle with the remaining grated cheese, almonds, and zest. Serve the salad on the side and finish it all off with a squeeze of lemon. Yum!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 611.0,
+    "energy_kcal": 146.0,
+    "protein_g": 6.8,
+    "carbs_g": 12.0,
+    "sugars_g": 3.3,
+    "fibre_g": 2.7,
+    "fat_g": 7.9,
+    "saturated_fat_g": 4.3,
+    "sodium_mg": 1026.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts",
+    "Soy"
+  ],
+  "chef_tip": "Deglazing is a cooking technique for lifting browned food residue from the base of a pan by adding in liquid and stirring it into the residue using a cooking utensil. This mixture is then used to add flavour sauces, soups, and gravies.",
+  "card_obscured_flag": true,
+  "obscured_details": "Minor clipping from binder ring hole punch on Chef's Tip ('add') and Allergens ('Sesame')."
+}

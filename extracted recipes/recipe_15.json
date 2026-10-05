@@ -1,0 +1,126 @@
+{
+  "recipe_number": 15,
+  "title": "Indian Tikka Lamb Skewers",
+  "subtitle": "with radish & fresh coriander",
+  "description": "Make restaurant-quality lamb skewers in the comfort of your own kitchen! Cubes of lamb and onion are coated in a fragrant tikka curry paste before being threaded onto skewers and baked to perfection. It is served with a grated carrot, radish rounds and sunflower seed salad for some crunch and acidity. Finally, a lush coriander yoghurt seals the deal!",
+  "chef": "Ella Nasser",
+  "category": "Fan Faves",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 25,
+  "wine_pairing": "Harry Hartman | Somesay Shiraz",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Wooden Skewers",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & cut into wedges"
+    },
+    {
+      "name": "Free-Range Lamb Shoulder",
+      "quantity": 320,
+      "unit": "g",
+      "prep": "cut into cubes"
+    },
+    {
+      "name": "Tikka Curry Paste",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Low Fat Plain Yoghurt",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "grated"
+    },
+    {
+      "name": "Radish",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & sliced into rounds"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "SOAK THE SKEWERS",
+      "text": "Preheat the oven to 200°C. Place the skewers in a shallow dish, cover with water, and allow to soak for 10 minutes (this prevents them from burning). Separate the layers of the onion wedges into petals."
+    },
+    {
+      "step": 2,
+      "title": "THREAD & BAKE",
+      "text": "In a bowl, add the onion petals, the lamb cubes, a drizzle of oil, and the curry paste (to taste). Toss until fully coated. Thread 1 lamb cube and 2-3 onion petals on to a skewer, making sure they are secure. Repeat in the same order, filling up each skewer until all the skewers are full. On completion, place on a greased baking tray. Pop in the hot oven and bake for 10-12 minutes."
+    },
+    {
+      "step": 3,
+      "title": "FLAVOUR TOWN",
+      "text": "When the skewers have 5 minutes remaining, increase to the highest temperature or the grill setting. On completion, the lamb should be browned. In a bowl, combine ¾ of the chopped coriander, the yoghurt, and seasoning. Add water in 5ml increments until a drizzling consistency."
+    },
+    {
+      "step": 4,
+      "title": "CRUNCHY SALAD",
+      "text": "In a salad bowl, combine the rinsed salad leaves, the grated carrot, the radish rounds, the sunflower seeds, a drizzle of oil, and seasoning."
+    },
+    {
+      "step": 5,
+      "title": "TASTY LAMB DINNER!",
+      "text": "Plate up the lamb skewers. Side with the loaded salad and the coriander yoghurt for dunking. Sprinkle over the remaining coriander. Dig in, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 562.0,
+    "energy_kcal": 134.0,
+    "protein_g": 7.5,
+    "carbs_g": 6.0,
+    "sugars_g": 2.5,
+    "fibre_g": 1.8,
+    "fat_g": 8.7,
+    "saturated_fat_g": 3.1,
+    "sodium_mg": 38.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "If you want to toast your sunflower seeds, place in a pan over a medium heat. Toast for 2-4 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside to cool.",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punch clips the right ends of lines in the Chef's Tip box."
+}

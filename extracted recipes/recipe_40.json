@@ -1,0 +1,134 @@
+{
+  "recipe_number": 40,
+  "title": "Sumptuous Thai Beef Curry",
+  "subtitle": "with pak choi, noodles & cashew nuts",
+  "description": "Warm up your night and delight the palate with this deliciously more-ish Thai curry. Glassy noodles, topped with a silky curry of pak choi and Free-range beef strips. Finished off with a scattering of toasted cashews and a spicy lime slaw for freshness.",
+  "chef": "Kate Gomba",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 45,
+  "overall_time_minutes": 60,
+  "wine_pairing": "No paired wines",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Cashew Nuts",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Shredded Cabbage & Julienne Carrot",
+      "quantity": 400.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Piquanté Peppers",
+      "quantity": 100.0,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 15.0,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Limes",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 20.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pak Choi",
+      "quantity": 400.0,
+      "unit": "g",
+      "prep": "trimmed at the base & rinsed"
+    },
+    {
+      "name": "Free-range Beef Schnitzel",
+      "quantity": 600.0,
+      "unit": "g",
+      "prep": "(without crumb)"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "quantity": 60.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Coconut Cream",
+      "quantity": 400.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Flat Rice Noodles",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GO NUTS",
+      "text": "Boil the kettle. Place the cashews in a pan over a medium heat. Toast for 3-5 minutes until golden, shifting occasionally. Remove from the pan on completion and set aside. Roughly chop when cool enough to handle. Place ½ of the shredded cabbage and julienne carrots into a bowl. Add the chopped piquanté peppers, ½ of the chopped coriander, lime zest to taste and 3 tbsp of olive oil. Toss to combine and season generously with a squeeze of lime juice to taste and a pinch of salt. Set aside until serving."
+    },
+    {
+      "step": 2,
+      "title": "THAI TIME!",
+      "text": "Dilute the stock with 320ml of boiling water. Separate the pak choi leaves and stems, slice the leaves in half lengthways, and roughly slice the stems. Place a pot over a high heat with a drizzle of oil. Pat the beef schnitzels dry with paper towel. When the oil is hot, fry the schnitzels for 1-2 minutes per side until browned but not cooked through, you may need to do this in batches. Remove from the pot and season. Keep the pot on the heat and reduce to a medium-high heat. Add another drizzle of oil if necessary, and fry the pak choi stems for 2-3 minutes until lightly browned. Stir through ½ of the Thai red curry paste and continue to cook for 1-2 minutes until fragrant. Pour in the diluted stock and coconut cream. Stir to combine, reduce the heat, and let simmer for 15-20 minutes."
+    },
+    {
+      "step": 3,
+      "title": "WHILE THE CURRY IS SIMMERING...",
+      "text": "Place the noodles in a shallow bowl, submerge in boiling water, and add a pinch of salt. Give them a stir, cover with a plate, and set aside to soak for 6-8 minutes until cooked through and glassy. Drain on completion, toss through some oil to prevent sticking, and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "KEEP CALM AND CURRY ON",
+      "text": "Slice the browned beef schnitzels into strips. When the curry has reduced and thickened, add the beef strips (and the remaining Thai red curry paste if you'd like it to be spicier). Stir to combine and add the remaining cabbage, carrots, and pak choi leaves. Cook for a further 3-4 minutes until the vegetables are wilted and the beef strips are cooked through. Remove from the heat, season to taste, and add a sweetener of choice to taste."
+    },
+    {
+      "step": 5,
+      "title": "CURRY TO THE MOON",
+      "text": "Plate up the glassy noodles, top with the silky loaded curry, and garnish with toasted cashew nuts and the remaining fresh coriander. Finish off with a squeeze of lime juice and serve the spicy slaw on the side. Well done, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 538.0,
+    "energy_kcal": 129.0,
+    "protein_g": 8.2,
+    "carbs_g": 12.0,
+    "sugars_g": 2.3,
+    "fibre_g": 1.1,
+    "fat_g": 5.3,
+    "saturated_fat_g": 3.4,
+    "sodium_mg": 252.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "Always add curry paste to your taste – you don't have to add it all! Taste to test the sauces' spice levels when nearing completion. Gradually stir in the remaining curry paste for increased heat.",
+  "card_obscured_flag": true,
+  "obscured_details": "The end of the Chef's Tip is partially obscured by the binder ring ('Gradually stir in the remaining curry paste for increased [heat]')."
+}

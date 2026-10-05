@@ -1,0 +1,138 @@
+{
+  "recipe_number": 64,
+  "title": "Grilled Chicken Caesar Salad",
+  "subtitle": "with homemade sourdough croutons, hard cheese shavings & fresh chives",
+  "description": "Nothing refreshes like the crispy textures and tangy flavours of a Caesar salad. Whip up your very own freshly toasted croutons and a classic Caesar dressing of Dijon mustard, lemon, hard cheese, and anchovies. Stylish and delish!",
+  "chef": "Alex Maresch",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Whole Italian-Style Hard Cheese",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Dijon & Lemon",
+      "quantity": 77.5,
+      "unit": "ml",
+      "prep": "(7,5ml Dijon Mustard & 70ml Lemon Juice)"
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 3,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Anchovy Pieces",
+      "quantity": 36,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Green Beans",
+      "quantity": 320,
+      "unit": "g",
+      "prep": "rinsed, trimmed & sliced into thirds"
+    },
+    {
+      "name": "Peas",
+      "quantity": 160,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Schoon Mini Sourdough Baguette",
+      "quantity": 2,
+      "unit": null,
+      "prep": "cut into bite-size chunks"
+    },
+    {
+      "name": "Free-Range Chicken Breasts",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Cos Lettuce",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "rinsed & shredded"
+    },
+    {
+      "name": "Fresh Chives",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Egg/s",
+    "Paper Towel",
+    "Butter",
+    "Blender"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "WHIZZ THE CAESAR DRESSING",
+      "text": "Measure out 200ml of oil. Using a peeler, shave a quarter of the hard cheese into ribbons and set aside for garnish. Grate the remainder and place in a blender with the Dijon & Lemon and half of the grated garlic. Add in 2 egg yolks, three-quarters of the drained anchovy pieces, and a splash of the 200ml of oil. Blend the dressing, stopping at regular intervals to add the oil in small increments until used up. On completion, it should be thick and creamy. Gradually whisk in warm water until drizzling consistency. Season and set aside for serving."
+    },
+    {
+      "step": 2,
+      "title": "BEANS & PEAS",
+      "text": "Boil the kettle. Place a pot over a high heat, fill with boiling water, and add a pinch of salt. Once boiling rapidly, blanch the sliced green beans for 2-3 minutes until cooked al dente. In the last 30 seconds, pop in the peas to plump them up. Drain on completion, run under cold water to stop the cooking process, and set aside."
+    },
+    {
+      "step": 3,
+      "title": "TOAST THE CROUTONS",
+      "text": "Place the remaining grated garlic in a bowl with 60ml of olive oil and a pinch of salt. Toss through the sourdough chunks until coated. Place a large pan (that has a lid) over a medium heat. When hot, toast the sourdough for 3-4 minutes until crispy, shifting occasionally. Remove from the pan on completion and allow to drain on paper towel. You may need to do this step in batches for the crispiest results."
+    },
+    {
+      "step": 4,
+      "title": "BUTTERY CHICKEN",
+      "text": "Pat the chicken breasts dry with some paper towel and season. Wipe down the pan and return it to a medium-high heat with a drizzle of oil. When hot, fry the chicken skin-side down for 5-7 minutes until crispy. Flip, pop on the lid, and fry for a further 5-7 minutes until cooked through. During the final 1-2 minutes, baste the chicken with a knob of butter. Remove from the pan on completion and set aside to rest for 5 minutes before slicing."
+    },
+    {
+      "step": 5,
+      "title": "TOSS IT UP",
+      "text": "Place the green beans, peas, and shredded lettuce in a bowl with as many croutons as you'd like. Toss through a small drizzle of Caesar dressing, reserving the remainder for plating."
+    },
+    {
+      "step": 6,
+      "title": "YOUR CAESAR SALAD IS SERVED!",
+      "text": "Pile up some crunchy salad and top with the golden chicken slices. Scatter over the hard cheese shavings and the remaining anchovy pieces. Drizzle with the Caesar dressing to taste and garnish with the fresh, chopped chives. Look at that, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 662.0,
+    "energy_kcal": 158.0,
+    "protein_g": 13.3,
+    "carbs_g": 9.0,
+    "sugars_g": 2.2,
+    "fibre_g": 1.7,
+    "fat_g": 7.7,
+    "saturated_fat_g": 2.6,
+    "sodium_mg": 315.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Fish"
+  ],
+  "chef_tip": "To cook food 'al dente' means that it should still be firm when bitten. It must be tender, but not soft. This typically refers to pasta, but applies to other grains, as well as a range of veg. In the case of your green beans, they should still have a snap to them once cooked.",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole partially obscures a word in Chef's Tip ('have a ... to them') and the allergen 'Wheat' ('Whe...')."
+}

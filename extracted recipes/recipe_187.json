@@ -1,0 +1,144 @@
+{
+  "recipe_number": 187,
+  "title": "Charred Corn & Chorizo Tacos",
+  "subtitle": "with fresh green leaves, lemon & avocado",
+  "description": "These charred corn and chorizo tacos are a tasty and satisfying meal, loaded with juicy & spicy chorizo, charred corn, shredded greens, black beans, avocado, feta, and sour cream. Served with a zesty lemon and tomato salsa, these tacos are perfect for a quick and easy weeknight dinner.",
+  "chef": "Megan Bure",
+  "category": "Adventurous Foodie",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Simonsig | Gewürztraminer",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": null,
+      "prep": "roughly diced"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": 80,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Sliced Chorizo",
+      "quantity": 120,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Corn",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Black Beans",
+      "quantity": 120,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Mexican Spice Mix",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": "(10ml NOMU Spice Blend & 5ml Ground Cumin)"
+    },
+    {
+      "name": "Avocado",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Corn Tortilla",
+      "quantity": 8,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "SALSA",
+      "text": "In a bowl, combine the diced tomato, ½ the diced onion (to taste), the juice from 2 lemon wedges, a drizzle of olive oil, and seasoning. Set aside."
+    },
+    {
+      "step": 2,
+      "title": "ZESTY SOUR CREAM",
+      "text": "In a small bowl, combine the sour cream, the lemon zest, and a splash of water. Season and set aside."
+    },
+    {
+      "step": 3,
+      "title": "CHORIZO",
+      "text": "Place a pan over medium-high heat with a small drizzle of oil. When hot, add the sliced chorizo, the corn, and the remaining onion. Fry for 5-6 minutes until golden, shifting occasionally. Add the drained black beans and the Mexican spice mix. Fry for 1-2 minutes until fragrant, shifting constantly. Season, remove from the pan, and cover to keep warm."
+    },
+    {
+      "step": 4,
+      "title": "AVO",
+      "text": "Halve the avocado and remove the pip. Thinly slice, squeeze over some lemon juice, and season."
+    },
+    {
+      "step": 5,
+      "title": "TORTILLAS",
+      "text": "Return the pan to a medium heat. When hot, dry toast the tortillas one at a time for 30-60 seconds per side until heated and lightly crisped. Alternatively, spread them out on a plate in a single layer and heat up in the microwave for 30-60 seconds."
+    },
+    {
+      "step": 6,
+      "title": "DIVE IN!",
+      "text": "Lay down the toasted tortillas. Top with the shredded green leaves, the chorizo mix, some of the tomato salsa, and the avo slices. Sprinkle over the drained feta and drizzle over the zesty sour cream. Serve with any remaining lemon wedges and any remaining salsa and fillings. Fold up and enjoy, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 668.0,
+    "energy_kcal": 160.0,
+    "protein_g": null,
+    "carbs_g": 15.0,
+    "sugars_g": 2.3,
+    "fibre_g": 3.0,
+    "fat_g": 8.8,
+    "saturated_fat_g": 2.9,
+    "sodium_mg": 315.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Alcohol"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in nutritional information table is punched out by binder ring hole"
+}

@@ -1,0 +1,127 @@
+{
+  "recipe_number": 3,
+  "title": "Crispy Lamb Chops",
+  "subtitle": "with carrot chips, fragrant peas & a minty yoghurt dressing",
+  "description": "Local comfort food at its low-carb best. South Africans love a braai, especially when it involves juicy, flavourful chops. So, light up the coals and grill them to crispy perfection! No braai? No problem! Just follow our pan frying method for equally mouthwatering results.",
+  "chef": "Tess Witney",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 60,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Karoo Lamb Rib Chops",
+      "quantity": 8,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Lamb Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 4,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Baby Onions",
+      "quantity": 8,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Carrots",
+      "quantity": 960,
+      "unit": "g",
+      "prep": "rinsed, trimmed & cut into long wedges"
+    },
+    {
+      "name": "Plain Yoghurt",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly sliced"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 3,
+      "unit": null,
+      "prep": "zested & cut in half horizontally"
+    },
+    {
+      "name": "Peas",
+      "quantity": 400,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Tinfoil",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "MARINATE THE CHOPS",
+      "text": "Preheat the oven to 200°C. Pat the lamb chops dry with some paper towel and place in a shallow dish. Coat in oil, the Lamb Rub, half of the grated garlic, and plenty of seasoning. Set aside to marinate for 20 minutes to 1 hour before cooking."
+    },
+    {
+      "step": 2,
+      "title": "CARAMELISED VEG",
+      "text": "Peel the baby onions and halve them lengthways. Don't remove the tip that keeps the layers joined together. Place the halved baby onions and carrot wedges on separate roasting trays. Coat both in oil and season to taste. Spread out evenly and turn the onions cut-side down. Pop both trays in the oven to roast for 35-40 minutes until softened on the inside and crispy at the edges."
+    },
+    {
+      "step": 3,
+      "title": "TANGY MINT DRESSING",
+      "text": "Place the yoghurt in a bowl with three-quarters of the sliced mint and mix to combine. Add some lemon juice, lemon zest, and seasoning to taste. Set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "SEAR THE LAMB TJOPS",
+      "text": "Place a regular pan or grill pan over a medium-high heat with a drizzle of oil. When hot, char the unused lemon halves, cut-side down, for 1-2 minutes until browned. Remove from the pan on completion and set aside. Keep the pan over the heat and sear the marinated chops fat-side down for 3-5 minutes until crispy. Then, cook each side for 5-7 minutes or until cooked to your preference. (The time this takes will depend on the thickness of the chops.) On completion, remove from the pan and place all together in a piece of tinfoil. Pour in the pan juices and squeeze over the charred lemon to taste. Close up tightly and set aside to rest for 5 minutes."
+    },
+    {
+      "step": 5,
+      "title": "FRAGRANT GREEN PEAS",
+      "text": "Wipe down the pan and return it to a medium heat with another drizzle of oil or a knob of butter. When hot, sauté the remaining grated garlic for about a minute until fragrant. Add the peas and fry for 3-4 minutes until heated through. Remove from the heat on completion."
+    },
+    {
+      "step": 6,
+      "title": "LEKKER EET!",
+      "text": "Serve up some roast baby onions and carrot chips alongside the crispy lamb chops. Drizzle over the juices from the tinfoil (to taste) and side with spoonfuls of garlicky peas. Garnish with the remaining sliced mint and serve with the minty yoghurt on the side to drizzle over as you please. Delish!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 530.0,
+    "energy_kcal": 127.0,
+    "protein_g": 6.2,
+    "carbs_g": 9.0,
+    "sugars_g": 3.6,
+    "fibre_g": 2.4,
+    "fat_g": 7.6,
+    "saturated_fat_g": 3.2,
+    "sodium_mg": 78.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium"
+  ],
+  "chef_tip": "If time is on your side, marinate the lamb chops for an hour or two before cooking. You can even do step 1 the day before and allow them to marinate overnight! Just remember to cook them within 2 days.",
+  "card_obscured_flag": true,
+  "obscured_details": "Chef's tip on the top right is partially obscured by the binder ring (words 'cooking', 'before', 'overnight', 'days')."
+}

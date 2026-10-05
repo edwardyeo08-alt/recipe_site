@@ -1,0 +1,141 @@
+{
+  "recipe_number": 161,
+  "title": "Grilled Baby Marrow & Halloumi Salad",
+  "subtitle": "with beetroot, bulgur wheat & walnuts",
+  "description": "A bed of bulgur wheat is loaded with roasted root veggies, chopped walnuts and charred baby marrow chunks. Pumped up even further with salty pieces of halloumi cheese and slices of fresh chilli. Dressed with a lemony-caper garlic butter sauce. This dish is the definition of delish, Chef!",
+  "chef": "Kate Gomba",
+  "category": "Veggie",
+  "servings": 2,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Strandveld | Pofadderbos Sauvignon Blanc",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Beetroot Chunks",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & cut into wedges"
+    },
+    {
+      "name": "Bulgur Wheat",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Capers",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "drained & finely chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed, trimmed & sliced into 1cm thick strips"
+    },
+    {
+      "name": "Halloumi",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "sliced lengthways into 1cm thick slabs"
+    },
+    {
+      "name": "Walnuts",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1,
+      "unit": null,
+      "prep": "deseeded & finely sliced"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROOTING FOR YOU",
+      "text": "Preheat the oven to 200°C. Boil the kettle. Place the beetroot pieces and the onion wedges on a roasting tray. Coat in oil and season. Roast in the hot oven for 30-35 minutes until cooked through and crispy, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "BULGUR KING",
+      "text": "Using a shallow bowl, submerge the bulgur wheat in 200ml of boiling water. Add a drizzle of oil. Cover and steam for 15-20 minutes until cooked. Fluff up with a fork, cover, and set aside."
+    },
+    {
+      "step": 3,
+      "title": "LEMON CAPER BUTTER SAUCE",
+      "text": "Place a pan over medium heat with 60g of butter. When melted, add the chopped capers and the grated garlic. Fry for 30-60 seconds, shifting constantly. Remove from the heat and add the juice of 2 lemon wedges and seasoning. Remove from the pan and set aside."
+    },
+    {
+      "step": 4,
+      "title": "YES BABY!",
+      "text": "Return the pan to a medium heat with a drizzle of oil. When hot, add the baby marrow strips and fry for 2-3 minutes per side until charred and cooked al dente. Remove from the pan and cut into bite-sized chunks."
+    },
+    {
+      "step": 5,
+      "title": "YOU HAD ME AT HALLOUMI",
+      "text": "Return the pan, wiped down, to a medium heat with a drizzle of oil. When hot, add the halloumi and fry for 1-2 minutes per side until crispy. Drain on paper towel. Cut into bite-sized chunks."
+    },
+    {
+      "step": 6,
+      "title": "FINAL ASSEMBLY",
+      "text": "In a salad bowl, combine the cooked bulgur, the roast veggies, ½ the chopped walnuts, the baby marrow chunks, and seasoning."
+    },
+    {
+      "step": 7,
+      "title": "DRESS IT UP",
+      "text": "Make a bed of the loaded salad. Scatter over the halloumi chunks, the sliced chilli (to taste), and the remaining walnuts. Drizzle over the lemony-caper dressing. Serve with a lemon wedge. Well done, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 479.0,
+    "energy_kcal": 114.0,
+    "protein_g": 5.4,
+    "carbs_g": 11.0,
+    "sugars_g": 1.8,
+    "fibre_g": 3.4,
+    "fat_g": 5.2,
+    "saturated_fat_g": 2.8,
+    "sodium_mg": 159.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "If you have an air fryer, why not use it to cook the beetroot and onion wedges? Coat in oil, season, and pop in the air fryer at 200°C. Cook for 20-30 minutes or until cooked through and crispy.",
+  "card_obscured_flag": true,
+  "obscured_details": "Allergen 'Sulphites' is partially punched through by binder ring hole."
+}

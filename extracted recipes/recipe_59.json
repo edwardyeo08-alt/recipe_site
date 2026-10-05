@@ -1,0 +1,138 @@
+{
+  "recipe_number": 59,
+  "title": "Ricotta-Stuffed Chicken Breast",
+  "subtitle": "with sun-dried tomatoes, a red quinoa salad & Dijon dressing",
+  "description": "Juicy baked chicken, infused with the refreshing flavours of a creamy ricotta and sun-dried tomato stuffing. With a jumble of roast chickpeas and tomatoes, parsley, and quinoa for wholehearted Mediterranean nourishment.",
+  "chef": "Emma Dittmer",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Free-range Chicken Breasts",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Ricotta Cheese",
+      "quantity": 100.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 4.0,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Red Quinoa",
+      "quantity": 150.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Sun-dried Tomatoes",
+      "quantity": 50.0,
+      "unit": "g",
+      "prep": "drained & roughly chopped, reserving the oil"
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 240.0,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "NOMU Spanish Rub",
+      "quantity": 10.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Dijon Dressing",
+      "quantity": 30.0,
+      "unit": "ml",
+      "prep": "(20ml Honey & 10ml Dijon Mustard)"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "SPICY ROAST CHICKPEAS",
+      "text": "Preheat the oven to 200°C. Place the drained chickpeas in a deep roasting tray. Coat in oil, seasoning, and the Spanish Rub to taste. Spread out in a single layer and roast in the hot oven for 20-25 minutes until crispy."
+    },
+    {
+      "step": 2,
+      "title": "RUBY RED QUINOA",
+      "text": "Rinse the quinoa and place in a pot. Submerge in 600ml of salted water, place over a medium-high heat, and bring to a simmer uncovered. Cook for 20-25 minutes until the quinoa is fluffy and the tails have popped out, adding more water if required during the cooking process. On completion, drain if necessary and return to the pot. Cover with a lid and allow to stand off the heat for 5 minutes."
+    },
+    {
+      "step": 3,
+      "title": "PREP THE CHICKY",
+      "text": "In a bowl, mix the reserved sun-dried tomato oil with the ricotta until well combined. Mix in the chopped sun-dried tomatoes and some seasoning. Pat the chicken breasts dry with paper towel and place on a chopping board. Where the flesh is thicker, make a small, horizontal incision along the side of each breast. Using your fingers or a knife, gently pull the flesh apart to make little pockets for the stuffing."
+    },
+    {
+      "step": 4,
+      "title": "INFUSE THE CHICKY",
+      "text": "Transfer the breasts to a lightly greased baking tray and stuff the pockets with ricotta filling – don't worry if it spills out. Scatter the rinsed baby tomatoes around them, drizzle over some oil, and season. Bake in the oven for 20 minutes until the chicken is cooked through and the tomatoes are blistered."
+    },
+    {
+      "step": 5,
+      "title": "HEARTY QUINOA SALAD",
+      "text": "Combine the Dijon dressing with the juice of 3 lemon wedges and season to taste. When the chickpeas are crispy, remove from the oven and allow to cool for 5 minutes before adding the cooked quinoa to the tray. Be careful in case it's still hot! Add in ¾ of the chopped parsley, some lemon zest to taste, and any leftover ricotta stuffing if you'd like. Toss together with the Dijon dressing to taste. In a bowl, toss the rinsed salad leaves with a drizzle of oil and some seasoning."
+    },
+    {
+      "step": 6,
+      "title": "LOAD UP & TUCK IN!",
+      "text": "Make a bed of jam-packed quinoa and scatter with the roast tomatoes. Place the stuffed chicken on top and pour over any juices from its tray. Side with the dressed leaves and sprinkle over the remaining chopped parsley and lemon zest to taste. Delish!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 606.0,
+    "energy_kcal": 145.0,
+    "protein_g": 10.9,
+    "carbs_g": 16.0,
+    "sugars_g": 4.1,
+    "fibre_g": 3.0,
+    "fat_g": 3.8,
+    "saturated_fat_g": 1.1,
+    "sodium_mg": 113.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "To make the salad dressing, place the ingredients in a clean jar, close the lid tight, and shake, shake, shake! Using a jar emulsifies the dressing much better than just mixing it in a bowl!",
+  "card_obscured_flag": true,
+  "obscured_details": "Ring binder partially covers 'than' in Chef's Tip."
+}

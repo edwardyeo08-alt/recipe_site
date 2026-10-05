@@ -1,0 +1,140 @@
+{
+  "recipe_number": 110,
+  "title": "Stress-Free Squid Paella",
+  "subtitle": "with smoked paprika, baby tomatoes & green olives",
+  "description": "An easy, speedy spin on the Spanish classic. Flavours of the Med Sea swirl through loaded turmeric rice: crisp, pan-fried squid, peas, fresh parsley, white wine (optional), lemon, and blistered baby tomatoes.",
+  "chef": "Lauren Todd",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Lanzerac Estate | Keldermeester Versameling Bergpad",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Turmeric Powder",
+      "quantity": 2.5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Squid Heads & Tubes",
+      "quantity": 240,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "White Wine (optional)",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Smoked Paprika",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "NOMU Seafood Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pitted Green Olives",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Peas",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GOLDEN RICE",
+      "text": "Rinse the rice and place in a pot with the turmeric. Submerge in 400ml of salted water and stir through. Place over a medium-high heat and pop a lid on. Once boiling, reduce the heat and simmer for 15-20 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. On completion, drain if necessary."
+    },
+    {
+      "step": 2,
+      "title": "SAUTÉ THE SQUID",
+      "text": "Rinse the squid to get rid of any residue from the packet and pat completely dry with paper towel. Place a large, deep pan for the paella over a high heat and add a drizzle of oil. When hot, sauté the squid for 3-4 minutes until cooked through and starting to brown. You may need to do this step in batches to avoid overcrowding the pan. Transfer to a bowl on completion. Toss through some lemon zest to taste, reserving some for step 3. Season and set aside. Boil the kettle. Dilute the stock with 50ml of boiling water and set aside."
+    },
+    {
+      "step": 3,
+      "title": "SPEEDY PAELLA",
+      "text": "When the rice has 10 minutes remaining, return the pan to a medium heat with another drizzle of oil. When hot, fry the halved baby tomatoes for 4-5 minutes until soft and blistered, shifting occasionally. Pour in the white wine (optional) and the diluted stock. Mix in the smoked paprika and remaining zest to taste, the Seafood Rub, and the chopped olives. Simmer for 3-4 minutes, stirring continuously, until reduced and sticky."
+    },
+    {
+      "step": 4,
+      "title": "FINISHING TOUCHES",
+      "text": "Once the sauce has thickened, add in the cooked squid and stir until coated and reheated. Add in the cooked rice, the peas, ¾ of the chopped parsley, and the juice of 2 lemon wedges. Stir for about a minute until combined. Season to taste and remove the pan from the heat."
+    },
+    {
+      "step": 5,
+      "title": "TIME TO TUCK IN!",
+      "text": "Dish up a pile of steamy, speedy squid paella. Sprinkle over the remaining parsley and garnish with a lemon wedge. Disfrute de su comida! Enjoy your meal!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 458.0,
+    "energy_kcal": 109.0,
+    "protein_g": 6.4,
+    "carbs_g": 16.0,
+    "sugars_g": 1.1,
+    "fibre_g": 2.9,
+    "fat_g": 2.1,
+    "saturated_fat_g": 0.3,
+    "sodium_mg": 327.0
+  },
+  "allergens": [
+    "Allium",
+    "Shellfish",
+    "Sulphites",
+    "Alcohol"
+  ],
+  "chef_tip": "Squid releases water when it cooks, so make sure you don't overcrowd the pan or you could end up with too much moisture in it. Then you'll have boiled squid instead of deliciously crispy squid!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

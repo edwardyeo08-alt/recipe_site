@@ -1,0 +1,136 @@
+{
+  "recipe_number": 167,
+  "title": "Butternut & Caramelised Onion Flatbread",
+  "subtitle": "with balsamic glaze, crispy chickpeas & crème fraîche",
+  "description": "A crispy pizza base crammed with melted cheddar and mozzarella, roast butternut, caramelised onion, crispy chickpeas, chimichurri, and crème fraîche. This veggie medley will have your feet tapping under the table!",
+  "chef": "Tess Witney",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 60,
+  "wine_pairing": null,
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Butternut Chunks",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "cut into bite-size pieces"
+    },
+    {
+      "name": "NOMU Cajun Rub",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & thinly sliced"
+    },
+    {
+      "name": "Pizza Base",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Grated Cheddar & Mozzarella Mix",
+      "quantity": 400,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Pesto Princess Chimichurri",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Balsamic Glaze",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Tinfoil",
+    "Butter (optional)",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "CAJUN-SPICED VEG",
+      "text": "Preheat the oven to 200°C. Spread out the drained chickpeas and butternut pieces on a tinfoil-lined roasting tray. Coat in oil and the Cajun Rub. Roast in the hot oven for 35-40 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "SWEEEET CARAMELISED, BUH, BUH, BUH!",
+      "text": "Place a pan over a medium heat with a drizzle of oil and a knob of butter (optional). When hot, fry the sliced onion for 12-15 minutes until soft and caramelised, shifting occasionally. At the halfway mark, add a sweetener of choice (to taste) to caramelise it further. Remove from the pan on completion, cover to keep warm, and set aside. Place a second roasting tray in the oven to heat up for the pizzas."
+    },
+    {
+      "step": 3,
+      "title": "PIZZA PARTY",
+      "text": "When the veg has finished roasting, remove from the oven and set aside in a bowl. Discard the tinfoil. Remove the second tray from the oven and increase the temperature to 220°C. Slide the pizza bases onto the hot trays and par bake for 3 minutes until lightly golden. Remove the bases from the oven, leaving the trays inside to keep hot."
+    },
+    {
+      "step": 4,
+      "title": "TIME TO ASSEMBLE YOUR FLATBREADS",
+      "text": "Flip the bases onto the other side and sprinkle over the cheese. Top with the caramelised onion, roast butternut, and crispy chickpeas. Slide back onto the hot trays and bake for 6-8 minutes until the cheese is melted and golden and the bases are crispy."
+    },
+    {
+      "step": 5,
+      "title": "FINISH THE TOPPINGS",
+      "text": "Season the crème fraîche and set aside for serving. Toss the rinsed green leaves with a drizzle of oil and some seasoning."
+    },
+    {
+      "step": 6,
+      "title": "IT’S CRUNCH TIME!",
+      "text": "Place the crispy flatbreads on boards or plates. Cover in dollops of the crème fraîche and the chimichurri to taste. Scatter over the dressed green leaves and drizzle with the balsamic glaze. Finish off with a crack of black pepper. Grab a slice, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 675.0,
+    "energy_kcal": 165.0,
+    "protein_g": 5.9,
+    "carbs_g": 18.0,
+    "sugars_g": 5.2,
+    "fibre_g": 2.7,
+    "fat_g": 6.3,
+    "saturated_fat_g": 3.0,
+    "sodium_mg": 271.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "Pizza bases are sneaky things and can burn very easily, so keep your eyes peeled for rapidly browning edges!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

@@ -1,0 +1,144 @@
+{
+  "recipe_number": 149,
+  "title": "Aubergine Parmigiana",
+  "subtitle": "with an artichoke salad & pesto",
+  "description": "The best aubergine parm you will ever taste has arrived! Aubergine gets a delicious crispy breadcrumb coating before being smothered in a rich tomato sauce and melty mozzarella. It is served with an artichoke salad and fragrant basil pesto. This dish is the ultimate definition of comfort food!",
+  "chef": "Ella Nasser",
+  "category": "Veggie",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Leopard's Leap | Cabernet Sauvignon",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Panko Breadcrumbs",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cake Flour",
+      "quantity": 65,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Grated Italian Style Hard Cheese",
+      "quantity": 50,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "NOMU Italian Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Aubergine",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "rinsed, trimmed & sliced into 1cm rounds"
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Grated Mozzarella",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Fresh Oregano",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Artichoke Quarters",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained & quartered"
+    },
+    {
+      "name": "Pesto Princess Basil Pesto",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Egg/s"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "OH CRUMBS!",
+      "text": "Preheat the oven to 200°C. Whisk 1 egg in a shallow dish with a splash of water. Prepare a second shallow dish containing the breadcrumbs, the flour, ½ the grated Italian-style cheese, the rub, and seasoning. Mix until fully combined. Coat the aubergine rounds in the egg mixture, and then in the crumb. When passing through the crumb, press it into the rounds so it sticks. Set aside. In a bowl, combine the cooked chopped tomato, the grated garlic (to taste), and seasoning."
+    },
+    {
+      "step": 2,
+      "title": "SAUCY AUBS",
+      "text": "Place a pan over a medium-high heat with enough oil to cover the base. When hot, add the crumbed aubergine and fry for 2-3 minutes per side until golden. Drain on paper towel."
+    },
+    {
+      "step": 3,
+      "title": "GET BAKING",
+      "text": "Place the fried and crumbed aubergine rounds on a greased baking tray. Top with the garlicky cooked chopped tomato, 40ml of water, the grated mozzarella, and the remaining Italian-style cheese. Bake for 10-12 minutes or until the cheese is melted, and the aubergine is cooked through."
+    },
+    {
+      "step": 4,
+      "title": "ARTICHOKE SALAD",
+      "text": "In a bowl, combine the rinsed salad leaves, ½ the chopped oregano, the artichoke quarters, a drizzle of oil, and seasoning."
+    },
+    {
+      "step": 5,
+      "title": "THIS PARM CAN DO NO WRONG!",
+      "text": "Plate up the aubergine parm. Dollop over the pesto and sprinkle with the remaining oregano. Serve the salad on the side. Dig in, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 489.0,
+    "energy_kcal": 117.0,
+    "protein_g": null,
+    "carbs_g": 14.0,
+    "sugars_g": 3.1,
+    "fibre_g": 2.8,
+    "fat_g": 4.8,
+    "saturated_fat_g": 1.9,
+    "sodium_mg": 219.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in nutrition table is punched out / obscured by binder ring hole."
+}

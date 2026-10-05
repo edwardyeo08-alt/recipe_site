@@ -1,0 +1,141 @@
+{
+  "recipe_number": 57,
+  "title": "Mediterranean Chicken Wraps",
+  "subtitle": "with crunchy basil slaw & creamy tzatziki dip",
+  "description": "These Mediterranean chicken wraps will take your taste buds on a real getaway! Whole wheat tortillas slathered with a crisp tzatziki, filled with yogurt marinated chicken, a crunchy basil, feta and sundried tomato slaw and fresh dill. Talk about perfection!",
+  "chef": "Ella Nasser",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Cavalli Estate | Filly",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "NOMU Spanish Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Greek Yoghurt",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Chicken Mini Fillets",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely sliced"
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "finely diced"
+    },
+    {
+      "name": "Fresh Dill",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Shredded Cabbage & Julienne Carrot",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Sun-dried Tomatoes",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Pesto Princess Basil Pesto",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Wheat Flour Tortillas",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "MARINATION STATION",
+      "text": "Place the Spanish rub and 1/3 of the yoghurt in a bowl with a drizzle of oil and mix to combine. Add in the chicken mini fillets, toss to coat, and set aside to marinate."
+    },
+    {
+      "step": 2,
+      "title": "ONION PERFECTION!",
+      "text": "Place a pan over a medium heat with a drizzle of oil. When hot, fry the sliced onion for 8-9 minutes until soft and caramelised, shifting occasionally. Remove from the pan on completion, cover, and set aside to keep warm."
+    },
+    {
+      "step": 3,
+      "title": "DREAMY TZATZIKI & SLAW",
+      "text": "In a bowl combine the diced cucumber, 1/2 the chopped dill, the remaining yoghurt and 10ml of olive oil. Mix to combine, season and set aside. In a separate bowl, toss the shredded cabbage, drained crumbled feta, sun-dried tomatoes and basil pesto together, season to taste and set aside."
+    },
+    {
+      "step": 4,
+      "title": "YOU'RE ALMOST THERE...",
+      "text": "Place a nonstick pan over a medium heat with a drizzle of oil. When hot, fry the chicken mini fillets for 2-3 minutes per side until golden and cooked through. Remove from the heat on completion and set aside to rest for a few minutes."
+    },
+    {
+      "step": 5,
+      "title": "HEAT THOSE WRAPS!",
+      "text": "Place a clean pan over a medium heat. When hot, dry toast the tortillas one at a time for 30-60 seconds per side until heated and lightly crisped. Remove from the pan on completion."
+    },
+    {
+      "step": 6,
+      "title": "LET'S WRAP IT UP!",
+      "text": "Spread the tortilla with homemade tzatziki then fill with the mediterranean coleslaw, top with caramelised onions, chicken fillets and garnish with the remaining dill. Easy feasting!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 572.0,
+    "energy_kcal": 137.0,
+    "protein_g": 9.0,
+    "carbs_g": 12.0,
+    "sugars_g": 3.0,
+    "fibre_g": 1.7,
+    "fat_g": 5.8,
+    "saturated_fat_g": 2.3,
+    "sodium_mg": 304.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "Caramelised onions reach their full potential when sliced finely and cooked slowly. If you have the time, fry yours over a low heat for an extra 10-15 minutes.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

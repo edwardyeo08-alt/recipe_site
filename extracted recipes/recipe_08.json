@@ -1,0 +1,135 @@
+{
+  "recipe_number": 8,
+  "title": "Sizzling Sirloin & Perfect Pumpkin Hummus",
+  "subtitle": "with crispy chickpeas & fresh salad leaves",
+  "description": "Sizzling spiced sirloin sliced and laid over a bed of dreamy homemade pumpkin and chickpea hummus! Served with a side of tangy pickled veggies.",
+  "chef": "Kate Gomba",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Niel Joubert | Reserve Shiraz",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Pumpkin Chunks",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Ground Cumin",
+      "quantity": 5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "White Wine Vinegar",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "sliced into matchsticks"
+    },
+    {
+      "name": "Plum Tomato",
+      "quantity": 1,
+      "unit": null,
+      "prep": "roughly diced"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Sirloin",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Oriental Rub",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Blender",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "TIME TO ROAST",
+      "text": "Preheat the oven to 200°C. Place the pumpkin pieces on a roasting tray, coat in oil and seasoning. Pop in the hot oven and roast for 25-30 minutes, shifting halfway. In a bowl, coat the drained chickpeas with oil, the ground cumin, and some seasoning."
+    },
+    {
+      "step": 2,
+      "title": "PICKLE THE VEGGIES",
+      "text": "Place the white wine vinegar, 3 tbsp of water, and 2 tsp of a sweetener of choice in a bowl. Mix until the sweetener is fully dissolved. Add the cucumber matchsticks and the diced tomatoes. Toss until fully combined and set aside to pickle. Place the pumpkin seeds in a pan over a medium heat. Toast for 3-5 minutes until beginning to pop and turn brown. Remove from the pan."
+    },
+    {
+      "step": 3,
+      "title": "CRISPY CHICKS",
+      "text": "When the pumpkin has 15-20 minutes remaining, remove the tray from the oven and scatter over the dressed chickpeas. Roast for the remaining time until the pumpkin is cooked through and the chickpeas are crispy."
+    },
+    {
+      "step": 4,
+      "title": "SIZZLING SIRLOIN",
+      "text": "Return the pan to a medium high heat with a drizzle of oil. Pat the steaks dry with paper towel. When the pan is hot, sear the steaks fat-side down, for 3-5 minutes until crispy. Then, fry for 2-4 minutes per side, or until cooked to your preference (this time frame may depend on the thickness of the steaks). During the final 1-2 minutes, baste with a knob of butter (optional) and the rub. Remove from the pan on completion and allow to rest for 5 minutes before slicing. Lightly season the slices."
+    },
+    {
+      "step": 5,
+      "title": "FINAL TOUCHES",
+      "text": "When the chickpeas and pumpkin are done, place ½ the pumpkin chunks and ¾ the chickpeas in a blender or food processor. Pulse until smooth, adding a drizzle of water or olive oil if it's too thick for your liking. In the bowl with the pickled veg, add the rinsed salad leaves, seasoning, and a drizzle of olive oil. Toss until fully combined."
+    },
+    {
+      "step": 6,
+      "title": "LET THEM EAT STEAK!",
+      "text": "Smear the homemade hummus, top with the steak slices, and side with the salad and the remaining roasted veg. Done and dusted, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 384.0,
+    "energy_kcal": 92.0,
+    "protein_g": 7.1,
+    "carbs_g": 7.0,
+    "sugars_g": 2.2,
+    "fibre_g": 2.0,
+    "fat_g": 1.9,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 59.0
+  },
+  "allergens": [
+    "Allium",
+    "Sesame",
+    "Sulphites"
+  ],
+  "chef_tip": "Draining and rinsing tinned chickpeas before use reduces the amount of sodium you're adding to your meal. It also improves the flavour and texture of the food.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

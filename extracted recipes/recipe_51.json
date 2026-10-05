@@ -1,0 +1,141 @@
+{
+  "recipe_number": 51,
+  "title": "Seared Beef & Hummus Tabbouleh",
+  "subtitle": "with dukkah-crusted pumpkin, millet & a tangy pickle",
+  "description": "This deconstructed tabbouleh features a whirl of inviting flavours: a lean, juicy cut of beef, pumpkin roasted in nutty dukkah, pickled tomato and cucumber, and fragrant millet — all soaked in a thick hummus and parsley dressing.",
+  "chef": "Alex Levett",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 55,
+  "wine_pairing": "No paired wines",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Pumpkin Chunks",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "peeled (optional) & cut into bite-sized chunks"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 320,
+      "unit": "g",
+      "prep": "quartered"
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "roughly diced"
+    },
+    {
+      "name": "Millet",
+      "quantity": 300,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Dukkah",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pumpkin & Sunflower Mix",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Hummus",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed, picked & finely chopped"
+    },
+    {
+      "name": "Free-range Beef Schnitzel",
+      "quantity": 600,
+      "unit": "g",
+      "prep": "(without crumb)"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET GOING",
+      "text": "Preheat the oven to 200°C. Place the pumpkin pieces on a roasting tray. Coat in oil, season, and spread out. Roast in the hot oven for 35-40 minutes. Place the vinegar in a salad bowl with 160ml of warm water. Whisk in 1 tsp of a sweetener of choice until dissolved. Add in the quartered tomatoes and diced cucumber, toss, and set aside to pickle."
+    },
+    {
+      "step": 2,
+      "title": "COOK THE MILLET",
+      "text": "Place a large pot over a medium heat. When hot, toast the millet for 2-4 minutes until slightly toasted, shifting occasionally. Pour in 600ml of salted water, stir through the stock, and cover with a lid. Once boiling, reduce the heat and simmer for 10-12 minutes until the water has been absorbed and the millet is cooked. If it starts to dry out, add more water in small increments to continue cooking. On completion, drain if necessary and return to the pot. Fluff up with a fork and toss through a drizzle of oil. Replace the lid and set aside to keep warm."
+    },
+    {
+      "step": 3,
+      "title": "HALF-TIME",
+      "text": "When the pumpkin reaches halfway, remove from the oven, and give it a shift. Sprinkle over the dukkah and return to the oven for the remaining roasting time until cooked through and crisping up."
+    },
+    {
+      "step": 4,
+      "title": "SEEDS & DRESSING",
+      "text": "Place the seeds in a pan over a medium heat. Toast for 3-5 minutes until lightly browned, shifting occasionally. Remove from the pan on completion and set aside to cool. In a small bowl combine the hummus with 4 tsp of olive oil and 3/4 of the chopped parsley. Loosen with water in 5ml increments until drizzling consistency. Season to taste and set aside."
+    },
+    {
+      "step": 5,
+      "title": "ALMOST THERE",
+      "text": "Pat the beef dry with paper towel. Return the pan to a medium-high heat with a drizzle of oil. When hot, fry the beef for 1-2 minutes on one side until golden. Flip, add in a knob of butter (optional), and fry for a further 1-2 minutes until cooked through. Remove from the pan on completion, season, and cut into 2cm thick slices. Drain the pickling liquid from the tomatoes and cucumber — use to drizzle over your meal when plating or discard! On completion, gently toss the roasted pumpkin through the millet."
+    },
+    {
+      "step": 6,
+      "title": "EAT UP, CHEF",
+      "text": "Make a bed of pumpkin laced millet, top with the pickled veg, and finish with the tender beef slices. Drizzle over the hummus dressing. Garnish with the toasted seeds and the remaining chopped parsley. Warming, filling, and nourishing!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": null,
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbs_g": 13.0,
+    "sugars_g": 1.6,
+    "fibre_g": 2.7,
+    "fat_g": 3.0,
+    "saturated_fat_g": 0.6,
+    "sodium_mg": 162.0
+  },
+  "allergens": [
+    "Allium",
+    "Sesame",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punch obscures Energy (kJ), Energy (kcal), and Protein (g) values in the Nutritional Information table."
+}

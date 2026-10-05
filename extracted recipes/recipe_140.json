@@ -1,0 +1,149 @@
+{
+  "recipe_number": 140,
+  "title": "Green Goddess Camembert Salad",
+  "subtitle": "with tart green apple, crunchy walnuts & creamy guacamole",
+  "description": "Sweet dreams are made of greens! Crumbed camembert tossed with peas, salad leaves, chickpeas and coated in our famous Green Goddess dressing: yoghurt, guacamole, and raspberry vinegar. Walnuts and fresh apples finish off this fresh dish with a divine crunch!",
+  "chef": "Ella Nasser",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Robertson Winery | Sauvignon Blanc",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "quantity": 240.0,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Walnuts",
+      "quantity": 20.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Guacamole",
+      "quantity": 160.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Low Fat Plain Yoghurt",
+      "quantity": 50.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Raspberry Vinegar",
+      "quantity": 10.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "quantity": 120.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "NOMU Roast Rub",
+      "quantity": 10.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Camembert",
+      "quantity": 250.0,
+      "unit": "g",
+      "prep": "sliced into 1cm thick slices"
+    },
+    {
+      "name": "Peas",
+      "quantity": 100.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Apple",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "rinsed"
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 8.0,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Milk (optional)",
+    "Egg/s"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "HOT CHICK",
+      "text": "Preheat the oven to 200°C. Place the drained chickpeas on a roasting tray. Coat in oil and seasoning. Spread out in a single layer and roast in the hot oven for 15-20 minutes until crispy, shifting at the halfway mark."
+    },
+    {
+      "step": 2,
+      "title": "WAL STREET",
+      "text": "Place the walnuts in a pan over a medium heat. Toast for 3-5 minutes until browned, shifting occasionally. Remove from the pan and roughly chop."
+    },
+    {
+      "step": 3,
+      "title": "GET DRESSED!",
+      "text": "In a bowl, combine the guacamole and the yoghurt. Gradually loosen with milk or water in 30ml increments until drizzling consistency. Pour in the raspberry vinegar (to taste), seasoning, and mix until combined."
+    },
+    {
+      "step": 4,
+      "title": "GRIN AND CAMEMBERT IT",
+      "text": "In a shallow dish, combine the breadcrumbs and the rub (seasoned lightly). Prepare another shallow dish with 1 egg whisked with 1 tbsp of water. Dip each camembert slice into the egg, and then lightly coat in the breadcrumbs. Return the pan to a medium-high heat with enough oil to coat the base. When hot, fry the crumbed camembert for 1 minute each side, until golden brown. Remove from the pan and drain on paper towel."
+    },
+    {
+      "step": 5,
+      "title": "LET'S ASSEMBLE!",
+      "text": "Boil the kettle. Submerge the peas in boiling water for 2-3 minutes until plump and heated through. Drain on completion and place in a salad bowl. Cut the rinsed apple into cubes and place in the salad bowl with the peas. Add the salad leaves, ½ the crispy chickpeas and ½ the green goddess dressing. Toss until fully coated."
+    },
+    {
+      "step": 6,
+      "title": "FEAST LIKE A GODDESS",
+      "text": "Bowl up a portion of crunchy salad. Top with the crispy camembert and drizzle over the remaining green goddess dressing. Garnish with the remaining chickpeas, chopped parsley, and chopped walnuts. Gorgeous!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 793.0,
+    "energy_kcal": 189.0,
+    "protein_g": null,
+    "carbs_g": 12.0,
+    "sugars_g": 2.4,
+    "fibre_g": 3.5,
+    "fat_g": 11.1,
+    "saturated_fat_g": 4.6,
+    "sodium_mg": 299.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is obscured/punched out by the binder ring hole."
+}

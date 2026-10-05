@@ -1,0 +1,133 @@
+{
+  "recipe_number": 134,
+  "title": "Crispy Halloumi & Pesto Jumble",
+  "subtitle": "with quinoa, charred baby marrow & a Dijon dressing",
+  "description": "The yellow gold of fried halloumi, the hillside green of baby marrow, and the fiery rouge of pickled tomatoes and red pesto. This dazzling colour palette blends with Dijon-dressed quinoa for a fresh but substantial finish.",
+  "chef": "Runet Van Heerden",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "White Quinoa",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Dijon Dressing",
+      "quantity": 55,
+      "unit": "ml",
+      "prep": "30ml White Wine Vinegar, 15ml Honey & 10ml Dijon Mustard"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "rinsed & quartered"
+    },
+    {
+      "name": "Pesto Princess Red Pepper Pesto",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & trimmed"
+    },
+    {
+      "name": "Halloumi",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "sliced into 1cm thick slabs"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Water",
+    "Salt & Pepper",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "COOK YOUR GRAIN",
+      "text": "Rinse the quinoa and place in a pot with the stock. Submerge in 400ml of water and stir through. Place over a medium-high heat and bring to a simmer uncovered. Cook for 12-15 minutes until the quinoa is tender and its tails have popped out, adding more water if required during the cooking process. On completion, drain if necessary and return to the pot. Cover with a lid and allow to stand off the heat for at least 5 minutes."
+    },
+    {
+      "step": 2,
+      "title": "TOAST THE SEEDS",
+      "text": "Place the pumpkin seeds in a pan over a medium heat. Toast for 3-5 minutes until they begin to pop and brown. On completion, remove from the pan and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "PICKLE & PESTO",
+      "text": "In a salad bowl, combine the Dijon dressing with 2 tsp of oil, a pinch of salt, and a small splash of warm water. Toss through the quartered baby tomatoes and set aside to pickle. Place ½ of the red pesto in a small bowl with 2 tsp of oil. Loosen with water in 5ml increments until drizzling consistency and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "STRIPS OF BABY MARROW",
+      "text": "Slice the trimmed baby marrow lengthways into 1cm thick strips. Return the pan (or use a grill pan if you have one) to a medium-high heat with a drizzle of oil. When hot, fry the baby marrow for 2-3 minutes per side until lightly charred. Remove from the pan on completion, season, and set aside to cool."
+    },
+    {
+      "step": 5,
+      "title": "FRY UP THE HALLOUMI",
+      "text": "Return the pan to a medium-high heat with another drizzle of oil if necessary. When hot, fry the halloumi slabs for 1-2 minutes per side until crispy and golden. Remove on completion and allow to drain on some paper towel. Just before serving, add the marinated tomatoes to the pot of quinoa and toss together with the Dijon dressing to taste. Mix through the other ½ of the red pesto until coated. Cut the baby marrow into bite-size chunks."
+    },
+    {
+      "step": 6,
+      "title": "A GORGEOUS VEGGIE JUMBLE!",
+      "text": "Make a bed of rinsed green leaves and top with the quinoa, baby marrow, and golden halloumi. Finish off with the toasted pumpkin seeds, the mint leaves, and drizzles of red pesto dressing. Nice one, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 621.0,
+    "energy_kcal": 148.0,
+    "protein_g": 7.0,
+    "carbs_g": 14.0,
+    "sugars_g": 3.8,
+    "fibre_g": 3.3,
+    "fat_g": 6.6,
+    "saturated_fat_g": 3.7,
+    "sodium_mg": 371.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "To make the salad dressing, place the ingredients in a clean jar, close the lid up tight, and shake, shake, shake! Using a jar emulsifies the dressing much more successfully than just mixing it in a bowl!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

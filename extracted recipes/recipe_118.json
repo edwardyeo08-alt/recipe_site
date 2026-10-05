@@ -1,0 +1,151 @@
+{
+  "recipe_number": 118,
+  "title": "Fully Loaded Sweet Potato Fries",
+  "subtitle": "with chilli cheese, cremè fraîche & a spinach and charred corn salad",
+  "description": "Would you believe, we put chilli cheese on BBQ basted sweet potato fries? Well, we did, and not only that, we added a charred corn and spinach salad! Oh, and sprinkles of coriander and crispy onions? Yes indeed! Dollops of cremè fraîche? You betcha!",
+  "chef": "Thea Richter",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 55,
+  "wine_pairing": "Haute Cabrière | Pierre Jourdan Brut",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "peeled (optional) & cut into 1cm thick fries"
+    },
+    {
+      "name": "Corn",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & roughly diced"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1,
+      "unit": null,
+      "prep": "deseeded & roughly chopped"
+    },
+    {
+      "name": "Black Beans",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Cornflour",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "NOMU BBQ Rub",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Grated Cheddar & Mozzarella Cheese Mix",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cremè Fraîche",
+      "quantity": 85,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Crispy Onions",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "LET'S GO!",
+      "text": "Fill a pot, large enough for the sweet potato fries, with salted water. Place over high heat and bring to a boil. Once boiling, add the fries and boil for 5-6 minutes until slightly softened. On completion, drain the fries on paper towel."
+    },
+    {
+      "step": 2,
+      "title": "CHAR",
+      "text": "Place a pan over high heat with a drizzle of oil. Once hot, add the corn and fry for 3-5 minutes until slightly charred, shifting constantly. Place in a salad bowl."
+    },
+    {
+      "step": 3,
+      "title": "BEAN CHILLI",
+      "text": "Preheat the oven to the grill setting or the highest temperature. Return the pan to a medium-high heat with a drizzle of oil. Fry the diced onion and for 4-5 minutes until softened, add the chopped chilli and fry for about a minute until fragrant. Stir through the drained beans, cooked chopped tomato, sweetener of choice, 150ml of water and leave to simmer for 8-9 minutes until reduced and thickened. In the final minute, stir through 1/2 of the rinsed spinach and some seasoning."
+    },
+    {
+      "step": 4,
+      "title": "GOLDEN FRIES",
+      "text": "Return the pot to a medium-high heat and fill with enough oil to deep fry the fries. Place the corn flour in a bowl with some seasoning and gently toss through the fries until fully coated. Once the oil is hot, deep fry the fries for about 3-5 minutes until crispy and golden. Remove from the oil and drain on paper towel. On completion, place the sweet potato fries in a bowl, toss until coated with BBQ rub and season."
+    },
+    {
+      "step": 5,
+      "title": "CHEESY CHILLI",
+      "text": "Place the bean chilli in an ovenproof dish and sprinkle over the grated cheese. Place in the oven and leave for 3-5 minutes until the cheese is melted and golden. In a bowl toss together the remaining spinach, charred corn with a drizzle of oil and seasoning."
+    },
+    {
+      "step": 6,
+      "title": "OMG!",
+      "text": "Cover a plate in the crispy sweet potato fries. Top with the cheesy chilli and side with the charred corn salad. Sprinkle over the chopped coriander, crispy onions, and dollop with some cremè fraîche. The wait is over!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 433.0,
+    "energy_kcal": 104.0,
+    "protein_g": 3.5,
+    "carbs_g": 13.0,
+    "sugars_g": 5.0,
+    "fibre_g": 2.3,
+    "fat_g": 4.2,
+    "saturated_fat_g": 2.3,
+    "sodium_mg": 145.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat"
+  ],
+  "chef_tip": "If you have an airfryer, use it to fry your fries instead of deep frying them!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

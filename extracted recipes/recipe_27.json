@@ -1,0 +1,126 @@
+{
+  "recipe_number": 27,
+  "title": "Roast Lamb Leg & Mint Sauce",
+  "subtitle": "with crispy baby potatoes, smashed peas & Danish-style feta",
+  "description": "Lamb and mint: a timeless pair! Oven-crisped lamb leg cloaked in a BBQ rub and dripped with a sweet, vinegary mint sauce. With sides of roast baby potatoes, a spiced pea smash, and a rocket, baby spinach, radish, and feta salad.",
+  "chef": "Alex Levett",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 60,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Baby Potatoes",
+      "quantity": 800,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Pickling Liquid",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": "40ml Red Wine Vinegar & 20ml Honey"
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "rinsed, picked & finely sliced"
+    },
+    {
+      "name": "Deboned Lamb Leg",
+      "quantity": 640,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU BBQ Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Rocket & Baby Spinach Mix",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Radish",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed & sliced into thin rounds"
+    },
+    {
+      "name": "Danish-Style Feta",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "drained"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROAST BABY 'TATERS",
+      "text": "Preheat the oven to 200°C. Place the halved baby potatoes on a roasting tray. Coat in oil, season, and spread out in a single layer. Roast in the hot oven for 35-40 minutes until crispy on the outside and soft on the inside."
+    },
+    {
+      "step": 2,
+      "title": "A CLASSIC MINT SAUCE",
+      "text": "Place the pickling liquid and three-quarters of the sliced mint in a bowl. Add 2 tbsp of oil and mix well to combine. Season to taste and set aside."
+    },
+    {
+      "step": 3,
+      "title": "BBQ LAMB",
+      "text": "When the potatoes reach the halfway mark, give them a shift and turn the oven temperature up to 220°C. Place a large, nonstick pan over a medium-high heat with a small drizzle of oil. Pat the lamb dry with paper towel and coat in oil, the BBQ Rub, and seasoning to taste. When the pan is hot, fry the lamb for 5-7 minutes until browned but not cooked through, shifting as it colours. Transfer to a roasting tray and set the pan of meat juices aside for use in step 4. Pop the lamb in the oven for 5-8 minutes or until cooked through to your liking. Remove on completion and allow to rest for 5 minutes before slicing."
+    },
+    {
+      "step": 4,
+      "title": "SMASHED PEAS",
+      "text": "Return the pan to a medium heat. When hot, add in the peas and use a spatula to lift the juices from the base of the pan. Toss for 2-3 minutes until heated through, then place in a bowl. Roughly crush using a masher or fork, season to taste, and set aside for serving."
+    },
+    {
+      "step": 5,
+      "title": "ASSEMBLE THE SALAD",
+      "text": "Place the rinsed rocket and spinach, the sliced radish, and the drained feta in a bowl. Toss through a quarter of the mint sauce until coated."
+    },
+    {
+      "step": 6,
+      "title": "IT'S SUPPERTIME",
+      "text": "Plate up the juicy lamb slices and pour over the remaining mint sauce. Serve alongside the crispy baby potatoes, the crushed peas, and the tossed salad. Garnish with the remaining mint and get to it, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 631.0,
+    "energy_kcal": 151.0,
+    "protein_g": 7.9,
+    "carbs_g": 11.0,
+    "sugars_g": 3.5,
+    "fibre_g": 2.0,
+    "fat_g": 8.3,
+    "saturated_fat_g": 3.9,
+    "sodium_mg": 152.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "Meat continues to cook while resting. Remember this when cooking the delicious lamb leg to your preference.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

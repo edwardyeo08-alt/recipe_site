@@ -1,0 +1,120 @@
+{
+  "recipe_number": 168,
+  "title": "Ravishing Chorizo Risotto",
+  "subtitle": "with crème fraîche & fresh spinach",
+  "description": "Enjoy this delicious tomato-based risotto, cooked with crème fraîche for a creamy finish and mixed with crispy chorizo for deliciousness in every bite! Topped with Italian-style hard cheese and served over a bed of fresh spinach. It really doesn't get any better than this!",
+  "chef": "Kate Gomba",
+  "category": "Fan Faves",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Boschendal | Nicolas",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "NOMU Provençal Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Risotto Rice",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Sliced Chorizo",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "sliced in half"
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 85,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Oregano",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Spinach",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Grated Italian-style Hard Cheese",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GO, GO RISOTTO!",
+      "text": "Boil the kettle. Set aside 800ml of boiling water. Place a pot for the risotto over a medium heat with a drizzle of oil. When hot, add the diced onion and fry for 5-6 minutes until soft and translucent, shifting occasionally. Add the rub and fry for 1-2 minutes until fragrant, shifting constantly. Pour in the cooked chopped tomato and leave to simmer for 3-4 minutes until slightly reduced. Stir through the rice for 30-60 seconds. Add a ladleful of the reserved boiling water and allow it to be absorbed by gently simmering, stirring regularly. Only add the next ladle of boiling water when the previous one has been fully absorbed. Repeat this process for 25-30 minutes until the rice is cooked al dente. Season to taste."
+    },
+    {
+      "step": 2,
+      "title": "CRISPY CHORIZO",
+      "text": "Place a pan over a medium heat with a drizzle of oil. When hot, fry the halved chorizo for 2-4 minutes until crispy, shifting halfway. On completion, drain on paper towel."
+    },
+    {
+      "step": 3,
+      "title": "FINISHING TOUCHES!",
+      "text": "When the risotto is done, stir through the crispy chorizo, ½ the crème fraîche, ½ the picked oregano, ½ the rinsed spinach, and a generous knob of butter (optional). Add a sweetener of choice and some seasoning."
+    },
+    {
+      "step": 4,
+      "title": "RISOTT-OH YEAH!",
+      "text": "Make a bed of the remaining spinach. Top with the creamy risotto and sprinkle over the grated-cheese. Dollop over the remaining crème fraîche and garnish with the remaining oregano. Well done, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 701.0,
+    "energy_kcal": 168.0,
+    "protein_g": 5.0,
+    "carbs_g": 19.0,
+    "sugars_g": 3.1,
+    "fibre_g": 1.6,
+    "fat_g": 7.2,
+    "saturated_fat_g": 3.9,
+    "sodium_mg": 7.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Alcohol"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value partially obscured by binder ring hole ('5g')."
+}

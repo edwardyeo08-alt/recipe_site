@@ -1,0 +1,122 @@
+{
+  "recipe_number": 29,
+  "title": "Lamb Bliss Bowl",
+  "subtitle": "with hummus, pickled cucumber & roasted carrot",
+  "description": "Enjoy this protein-packed dinner number! Succulent lamb leg and roasted carrots lay on a bed of zesty hummus. Served with pickled cucumber ribbons and finished off with a scattering of sunflower seeds and fresh mint leaves.",
+  "chef": "Thea Richter",
+  "category": "Carb Conscious",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Boschendal | Nicolas",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "rinsed, trimmed & cut into wedges"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "peeled into ribbons"
+    },
+    {
+      "name": "Hummus",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Free-range Lamb Leg",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Spanish Rub",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Sunflower Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "LET'S GET GOING!",
+      "text": "Preheat the oven to 200°C. Spread out the carrot wedges on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes until cooked through and crisping up."
+    },
+    {
+      "step": 2,
+      "title": "IN A PICKLE",
+      "text": "In a bowl, add the vinegar (to taste), 10ml of a sweetener of choice, and 20ml of water. Mix until the sweetener is fully dissolved. Add the cucumber ribbons, toss until fully coated, and set aside to pickle."
+    },
+    {
+      "step": 3,
+      "title": "ZESTY HUMMUS",
+      "text": "In a bowl, combine the hummus with the lemon zest (to taste), a squeeze of lemon juice (to taste), and seasoning."
+    },
+    {
+      "step": 4,
+      "title": "SUCCULENT LAMB",
+      "text": "When the carrots have 15-20 minutes remaining, place a nonstick pan over a medium-high heat. Pat the lamb leg dry with a paper towel. Coat in oil, the rub, and seasoning. When the pan is hot, brown the lamb for 3-4 minutes in total, shifting as it colours. Once browned, add to the roasting tray, with the carrots, to finish cooking in the oven for 5-8 minutes or until cooked to your liking. On completion, rest for 5 minutes before slicing. Lightly season the slices. Drain the pickling liquid from the cucumber."
+    },
+    {
+      "step": 5,
+      "title": "MARY HAD A TASTY LAMB!",
+      "text": "Make a bed of the zesty hummus. Top with the succulent lamb slices. Side with the carrot wedges and the pickled cucumber. Sprinkle over the sunflower seeds and the mint leaves. Serve with any remaining lemon wedges. Great work, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 480.0,
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbs_g": 7.0,
+    "sugars_g": 2.8,
+    "fibre_g": 2.1,
+    "fat_g": 7.3,
+    "saturated_fat_g": 2.8,
+    "sodium_mg": 192.0
+  },
+  "allergens": [
+    "Allium",
+    "Sesame",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Energy (kcal) and Protein values in Nutritional Information are partially obscured/punched out by the binder ring."
+}

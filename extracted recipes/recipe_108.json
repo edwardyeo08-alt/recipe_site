@@ -1,0 +1,142 @@
+{
+  "recipe_number": 108,
+  "title": "Babylonstoren's Pepper Squid Tacos",
+  "subtitle": "with cocktail rotis, crispy onions & pink peppercorn crème",
+  "description": "Whip up some exciting mini roti tacos, inspired by the beloved Babylonstoren! Swirled with a pink peppercorn and crème fraîche sauce and piled with corn, salt-charred spring onion, and crispy squid, coated in crushed peppercorns and flavoured with lime zest and garlic.",
+  "chef": "Babylonstoren",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 50,
+  "wine_pairing": null,
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Squid Heads & Tubes",
+      "quantity": 480,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pink Peppercorns",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 3,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Lime",
+      "quantity": 2,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Corn",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spring Onions",
+      "quantity": 3,
+      "unit": null,
+      "prep": "finely sliced"
+    },
+    {
+      "name": "Butter Lettuce",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed & gently shredded"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & quartered"
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 160,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cocktail Rotis",
+      "quantity": 16,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Crispy Onions",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "MARINATE THE SQUID",
+      "text": "Rinse the squid to remove any residue from the packet and pat dry with some paper towel. Crush the pink peppercorns using a pestle and mortar or the back of a sturdy knife. Place the squid in a bowl with the grated garlic and half of the crushed peppercorns. Add a drizzle of olive oil, some seasoning, and the lime zest to taste. Toss to coat and set aside to marinate until frying."
+    },
+    {
+      "step": 2,
+      "title": "CHARRED ELEMENTS",
+      "text": "Place a large, nonstick pan over a high heat with a drizzle of oil. When hot, fry the corn for 4-5 minutes until charred, shifting occasionally. Transfer to a bowl and season to taste. Cover to keep warm and set aside for serving. Keep the pan over the heat and add another drizzle of oil. When hot, pop in the sliced spring onion and a pinch of salt. Fry for 3-4 minutes until charred, shifting regularly. Remove from the pan on completion and set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "SALAD & PEPPER CRÈME",
+      "text": "Place the shredded lettuce and quartered baby tomatoes in a bowl with a drizzle of olive oil and the juice of 4 lime wedges. Toss together, season to taste, and set aside for serving. Place a small pot over a medium heat with a drizzle of oil or a knob of butter. When hot, add the remaining crushed peppercorns (to taste) and fry for 1-2 minutes until fragrant. Remove the pot from the heat, add in the crème fraîche, and stir until combined. Season to taste, pop on a lid, and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "CRISPY, FRIED SQUID",
+      "text": "Return the pan to a high heat with another drizzle of oil. When the oil is extremely hot, fry the marinated squid for 3-4 minutes until cooked through and crispy, shifting occasionally. You will need to do this step in batches. Remove from the heat on completion and allow to rest in the pan until serving."
+    },
+    {
+      "step": 5,
+      "title": "WARM THE ROTIS",
+      "text": "Place a dry pan over a medium heat. When hot, warm the rotis for about 1 minute per side until heated through and lightly toasted. Remove from the pan on completion and lay out on 4 plates, ready for serving. (Alternatively, spread them out on a plate in a single layer and heat up in the microwave for 30-60 seconds.)"
+    },
+    {
+      "step": 6,
+      "title": "YOU'LL WANNA TACO 'BOUT IT!",
+      "text": "Smear some pink pepper crème on each roti. Add some shredded lettuce and baby tomato in the centre. Load up with the charred corn and spring onion, and top with the crispy squid. Finish off with any remaining pink pepper crème, a squeeze of lime juice, and the crispy onions. Time to go to taco town!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 617.0,
+    "energy_kcal": 147.0,
+    "protein_g": 6.6,
+    "carbs_g": 16.0,
+    "sugars_g": 2.9,
+    "fibre_g": 1.8,
+    "fat_g": 6.0,
+    "saturated_fat_g": 2.8,
+    "sodium_mg": 223.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Shellfish",
+    "Wheat",
+    "Soy"
+  ],
+  "chef_tip": "Ensure that the squid is patted completely dry before marinating it. Fry it in batches if necessary to avoid overcrowding the pan and ending up with mushy or tough squid, instead of deliciously crispy squid!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

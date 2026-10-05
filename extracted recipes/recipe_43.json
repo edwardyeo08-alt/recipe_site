@@ -1,0 +1,129 @@
+{
+  "recipe_number": 43,
+  "title": "Korean BBQ Beef",
+  "subtitle": "with mushrooms, mung bean noodles & an umami BBQ sauce",
+  "description": "Tender strips of free-range beef lathered in a thick, sticky Korean BBQ sauce. Tumbled with silky vermicelli and mushrooms fried in garlic, ginger, and chilli. Watch out, there'll be no holding back!",
+  "chef": "Thandi Mamacos",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Black Sesame Seeds",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Button Mushrooms",
+      "quantity": 250,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1,
+      "unit": null,
+      "prep": "deseeded & finely chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Mung Bean Vermicelli Noodles",
+      "quantity": 2,
+      "unit": "cakes",
+      "prep": null
+    },
+    {
+      "name": "Edamame Beans",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Schnitzel",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "(without crumb)"
+    },
+    {
+      "name": "Korean BBQ Sauce",
+      "quantity": 145,
+      "unit": "ml",
+      "prep": "(40ml Soy Sauce, 30ml Rice Wine Vinegar, 15ml Honey & 60ml Clarks Kitchen Asian BBQ Sauce)"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BLACK SESAMES",
+      "text": "Place a nonstick pan over a medium heat. When hot, toast the seeds for 2-4 minutes until they begin to pop, shifting regularly. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 2,
+      "title": "PAN FRY THE MUSHIES",
+      "text": "Return the pan to a medium-high.heat with a drizzle of oil. Wipe the mushrooms clean with damp cloth or paper towel and thickly slice. When the pan is hot, fry for 4-5 minutes until golden. In the final minute, add the chopped chilli (to taste), the grated garlic, and the grated ginger. Shift continuously for the remaining time until combined and fragrant. Transfer to a bowl on completion, cover to keep warm, and set aside."
+    },
+    {
+      "step": 3,
+      "title": "NOODLES & EDAMAME",
+      "text": "Boil the kettle. Using a shallow bowl, submerge the noodles in boiling water and add a pinch of salt. Give a stir, cover with a plate, and set aside to soak for 6-8 minutes until cooked and glassy. Drain on completion and return to the bowl. Toss through some oil to prevent sticking and set aside. Submerge the edamame beans in boiling water and set aside."
+    },
+    {
+      "step": 4,
+      "title": "BBQ BEEF",
+      "text": "Pat the beef dry with paper towel and cut into 2cm thick strips. Return the pan to a medium-high heat with a drizzle of oil. When hot, fry the strips for 1 minute per side until browned but not cooked through. On completion, pour in the Korean BBQ sauce and toss until coated. Allow to simmer for 3-4 minutes until the sauce has thickened, stirring occasionally."
+    },
+    {
+      "step": 5,
+      "title": "FINISH IT UP",
+      "text": "Once the sauce has finished simmering, add the cooked noodles and mushrooms to the pan. Stir for about a minute until reheated and coated, and remove from the heat on completion. Drain the edamame beans."
+    },
+    {
+      "step": 6,
+      "title": "BOWL IT UP",
+      "text": "Serve up a bowl of delish Korean BBQ-style noodles. Finish off by garnishing with the edamame beans and sprinklings of toasted sesame seeds. Good job, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 545.0,
+    "energy_kcal": 130.0,
+    "protein_g": 10.1,
+    "carbs_g": 16.0,
+    "sugars_g": 3.9,
+    "fibre_g": 1.5,
+    "fat_g": 2.6,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 240.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Sulphites",
+    "Soy"
+  ],
+  "chef_tip": "Avoid overcrowding the pan when frying the mushrooms and cook them in batches if necessary, adding more oil in between. Mushrooms release water, so if there are too many in the pan, they can end up boiled instead of caramelised!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

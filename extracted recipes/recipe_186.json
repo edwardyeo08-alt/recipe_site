@@ -1,0 +1,116 @@
+{
+  "recipe_number": 186,
+  "title": "Honey-Mustard Basted Duck",
+  "subtitle": "with carrot and potato mash & minted peas",
+  "description": "Spoil yourself! Our classic dish is pure luxury, you'll want to savour it. Plump duck breasts basted in dreamy honey and mustard. Sided with minty peas and a light carrot and potato mash. Treat your palate to a trip with no passport required!",
+  "chef": "Ella Nasser",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 50,
+  "wine_pairing": "No paired wines",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": 800,
+      "unit": "g",
+      "prep": "peeled & cut into bite-sized chunks"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "peeled, trimmed & cut into bite-sized chunks"
+    },
+    {
+      "name": "Free-range Duck Breasts",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Honey-Mustard Baste",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": "(80ml Honey, 40ml Apple Cider Vinegar & 30ml Dijon Mustard)"
+    },
+    {
+      "name": "Peas",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Spring Onions",
+      "quantity": 4,
+      "unit": null,
+      "prep": "finely sliced"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Milk (optional)",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BUBBLE IT UP!",
+      "text": "Pop the potato and carrot chunks into a pot of salted water over a high heat with a lid. Once boiling, remove the lid and reduce the heat. Simmer the veg for 20-25 minutes until soft and cooked through. Drain on completion, return to the pot with the lid and set aside."
+    },
+    {
+      "step": 2,
+      "title": "GET QUACKING!",
+      "text": "Place a large pan over a medium heat. Pat the duck breasts dry with some paper towel. Using a sharp knife, cut broad, cross-hatch slits into the duck skin, without piercing the flesh. When hot, place the duck breasts in the pan skin-side down without oil (the duck breasts will render their own fat). Fry for 5-8 minutes until the skin is golden and crispy. Turn up the heat to medium-high, flip, and cook for 4-5 minutes on the other side. Drain the duck fat and reserve for step 3. Remove from the heat, add the honey-mustard basting and baste the duck breasts. Remove from the pan on completion, reserving the honey-mustard pan juices, and allow to rest for 3 minutes before slicing."
+    },
+    {
+      "step": 3,
+      "title": "MINTY PEAS",
+      "text": "Wipe down the pan and place it on a medium-high heat with a drizzle of the drained duck fat. Once hot, add the peas and fry for 3-5 minutes until heated through. On completion, remove from the heat and stir through ¾ of the chopped mint and ¾ of the sliced spring onion. Season to taste and cover to keep warm until serving."
+    },
+    {
+      "step": 4,
+      "title": "MARVELOUS MASH",
+      "text": "Put a generous knob of butter or coconut oil (optional) into the pot of cooked, drained veg. Add a splash of milk or water, mash with a fork or potato masher until desired consistency and season to taste. In a separate bowl toss the green leaves with a drizzle of olive oil and some seasoning. Set aside for serving."
+    },
+    {
+      "step": 5,
+      "title": "TASTE OF LUXURY!",
+      "text": "Dish up a mound of nourishing mash and place the honey-mustard basted duck breast and peas alongside. Sprinkle over the remaining chopped mint and a drizzle of the honey-mustard pan juices. Serve the dressed leaves on the side. Beautiful work!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 386.0,
+    "energy_kcal": 92.0,
+    "protein_g": 7.7,
+    "carbs_g": 12.0,
+    "sugars_g": 5.2,
+    "fibre_g": 2.0,
+    "fat_g": 1.6,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 54.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "The purpose of cutting cross-hatch into the duck skin is to allow the fat to melt and leave you with crispy duck skin! If you have any leftover duck fat, keep it for another use; it's great as an oil replacement for roasting crispy potatoes, or use it to veggies or meat.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

@@ -1,0 +1,152 @@
+{
+  "recipe_number": 99,
+  "title": "Tandoori Spiced Trout",
+  "subtitle": "with roasted cauliflower & pickled cucumber",
+  "description": "Tandoori spiced trout in a coconut curry sauce on a bed of fluffy white basmati rice. Served with roasted cauliflower, pickled cucumber, toasted cashews and fresh coriander",
+  "chef": "Thea Richter",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Fat Bastard | Rosé",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Cauliflower Florets",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "cut into bite-sized chunks"
+    },
+    {
+      "name": "White Basmati Rice",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "finely diced"
+    },
+    {
+      "name": "Cashew Nuts",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Rainbow Trout Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "NOMU Tandoori Rub",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Coconut Milk",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lime Juice",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "LET'S GO!",
+      "text": "Preheat the oven to 200°C. Spread out the cauliflower chunks on a roasting tray, coat in oil and season. Roast in the hot oven for 20-25 minutes until cooked through and starting to crisp."
+    },
+    {
+      "step": 2,
+      "title": "RICE & SHINE",
+      "text": "Rinse the rice and place in a pot over a medium-high heat. Submerge in 300ml of salted water and pop on a lid. Once boiling, reduce the heat and simmer for 8-10 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and steam for a further 10 minutes. On completion, drain if necessary and fluff up with a fork."
+    },
+    {
+      "step": 3,
+      "title": "PICKLE TIME",
+      "text": "Place the rice wine vinegar, 2 tbsp of water, and 2 tsp of a sweetener of choice in a bowl. Mix until the sweetener is fully dissolved. Toss through the diced cucumber and set aside to pickle."
+    },
+    {
+      "step": 4,
+      "title": "IT'S TOASTY IN HERE",
+      "text": "Place the cashews in a pan over a medium heat. Toast for 3-5 minutes until golden, shifting occasionally. Remove from the pan on completion and roughly chop."
+    },
+    {
+      "step": 5,
+      "title": "ALL TOGETHER NOW",
+      "text": "Pat the trout fillets dry with some paper towel. Season with salt, pepper and ½ of the Tandoori Rub. Return the pan to a medium-high heat with a drizzle of oil. When hot, fry the trout fillets skin-side down for 2-3 minutes until crispy. Flip and fry for a further 30-60 seconds or until cooked through to your preference. Remove from the pan on completion. Keeping the pan on the heat, add the diced onion. Fry for 4-6 minutes until soft and translucent, shifting occasionally. Add the grated ginger, the grated garlic and the remaining Tandoori Rub (to taste). Fry for 1-2 minutes, until fragrant, shifting constantly. Stir in the coconut milk and bring up to a simmer for 5-6 minutes until silky consistency. Add the trout back to the pan, skin side up, and cook for a further 30-60 seconds until warmed through. Season to taste with lime juice, a sweetener of choice, salt and pepper. Drain the pickling liquid from the cucumber."
+    },
+    {
+      "step": 6,
+      "title": "PLATE IT UP",
+      "text": "Plate up the fluffy basmati rice, top with the spiced trout, and pour over the tandoori curry sauce. Top with the roasted cauliflower and spoon on some pickled cucumber. Garnish with the toasted cashews and coriander. Delish!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 531.0,
+    "energy_kcal": 127.0,
+    "protein_g": 8.0,
+    "carbs_g": 14.0,
+    "sugars_g": 1.7,
+    "fibre_g": 1.6,
+    "fat_g": 4.9,
+    "saturated_fat_g": 2.6,
+    "sodium_mg": 119.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Fish",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value partially clipped/punched by binder ring hole (reads 8g)."
+}

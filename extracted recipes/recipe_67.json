@@ -1,0 +1,149 @@
+{
+  "recipe_number": 67,
+  "title": "Creamy Chicken Paprika Pasta",
+  "subtitle": "with mushrooms, fresh cream & grated Italian-style hard cheese",
+  "description": "Chicken is cooked until golden and tender and laid on top of conchiglie pasta mixed with a paprika-infused cream sauce with mushrooms and white wine for even more richness. Sprinkles of grated Italian-style cheese take it over the top, making it a dish that you'll crave again and again.",
+  "chef": "Rhea Hsu",
+  "category": "Quick & Easy",
+  "servings": 4,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Waterford Estate | Waterford Pecan Stream Chenin Blanc 2021",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Conchiglie Pasta",
+      "quantity": 500,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-range Chicken Breasts",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Button Mushrooms",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "cut into quarters"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Tomato Paste",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "White Wine",
+      "quantity": 120,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cake Flour",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Cream",
+      "quantity": 400,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Ground Paprika",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon Juice",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Grated Italian-style Hard Cheese",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "PERFECT PASTA",
+      "text": "Boil a full kettle. Place a pot for the pasta over high heat. Fill with boiling water, add a pinch of salt, and bring back up to the boil. When boiling, cook the pasta for 8-10 minutes until al dente. Drain, reserving a cup of pasta water, and toss through some oil to prevent sticking."
+    },
+    {
+      "step": 2,
+      "title": "SEARED CHICKEN",
+      "text": "While the pasta is boiling, place a pan with a lid over medium-high heat with a drizzle of oil. Pat the chicken breasts dry with paper towel. When the pan is hot, fry the chicken on one side for 4-6 minutes until golden. Flip, pop on the lid, and fry for 4-6 minutes until cooked through. During the final 1-2 minutes, baste with a knob of butter. Remove from the pan and set aside to rest for 5 minutes before slicing and seasoning. Cover to keep warm."
+    },
+    {
+      "step": 3,
+      "title": "WHILE THE CHICKEN IS COOKING...",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil. When hot, add the quartered mushrooms and fry for 6-7 minutes until golden. Remove from the pan and set aside."
+    },
+    {
+      "step": 4,
+      "title": "CREAMY PAPRI SAUCE",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil. When hot, add the grated garlic, the tomato paste, and the wine. Cook for 1-2 minutes or until almost all evaporated. Add 80g of butter and the flour. Fry for 1-2 minutes, shifting constantly. Remove from the heat and gradually stir in the cream, making sure there are no lumps. Loosen the sauce with the reserved pasta water until the desired consistency."
+    },
+    {
+      "step": 5,
+      "title": "WHEN IT ALL COMES TOGETHER",
+      "text": "Return the pan with the sauce to a medium-high heat and bring to a simmer. Add the paprika, the lemon juice (to taste), the cooked pasta, the cooked mushrooms, ½ the grated cheese, ½ the chopped parsley, a sweetener of choice (to taste), and seasoning. Mix until combined and remove from the heat."
+    },
+    {
+      "step": 6,
+      "title": "PLATE IT UP",
+      "text": "Plate up the creamy paprika pasta and sprinkle over the remaining cheese. Top with the chicken slices and garnish with the remaining parsley. Indulge yourself, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 875.0,
+    "energy_kcal": 209.0,
+    "protein_g": 11.6,
+    "carbs_g": 20.0,
+    "sugars_g": 1.9,
+    "fibre_g": 1.7,
+    "fat_g": 8.8,
+    "saturated_fat_g": 4.8,
+    "sodium_mg": 46.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Alcohol"
+  ],
+  "chef_tip": "If you have an air fryer, why not use it to cook the chicken? Coat in oil, season, and pop in the air fryer at 200°C. Cook for 10-12 minutes until cooked through and browned. Rest for 5 minutes before slicing.",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole clips the 'e' in 'before' in Chef's Tip ('Rest for 5 minutes befor... slicing')."
+}

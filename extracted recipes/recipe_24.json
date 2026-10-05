@@ -1,0 +1,139 @@
+{
+  "recipe_number": 24,
+  "title": "Beef & Roast Sweet Potato Salad",
+  "subtitle": "with avocado, tomato & a red wine vinaigrette",
+  "description": "Stuck in a salad rut? Then this recipe will remind you how versatile of a dish it can be. On a bed of dijon mustard & red wine vinaigrette dressed salad leaves lie juicy strips of browned beef & slices of creamy avo. Finished with a sprinkling of toasted seeds & salty feta crumbs.",
+  "chef": "Rhea Hsu",
+  "category": "Fan Faves",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Waterford Estate | Waterford Cabernet Sauvignon",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "rinsed, peeled (optional) & cut into bite-sized chunks"
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 5,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Avocado",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "½ peeled & finely diced"
+    },
+    {
+      "name": "Vinaigrette",
+      "quantity": 35,
+      "unit": "ml",
+      "prep": "30ml Red Wine Vinegar & 5ml Dijon Mustard"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Rump Strips",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU BBQ Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "drained"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "CRISPY SWEET POTATO CHUNKS",
+      "text": "Preheat the oven to 200°C. Spread out the sweet potato chunks on a roasting tray. Coat in oil and season. Roast in the hot oven for 30-35 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "SET YOUR SIGHTS ON SALAD",
+      "text": "While the sweet potato is roasting, rinse and roughly shred the salad leaves. Roughly dice the tomato. Rinse and pick the basil. Roughly chop ½ the basil and set aside. Halve the avocado and remove the pip. Peel off the avocado skin, keeping the flesh intact. Slice the avocado flesh and season."
+    },
+    {
+      "step": 3,
+      "title": "GET DRESSED FOR DINNER",
+      "text": "In a small bowl, add the chopped onion (to taste), the chopped basil, the vinaigrette, a drizzle of olive oil, a sweetener of choice (to taste), and seasoning. Set aside."
+    },
+    {
+      "step": 4,
+      "title": "TOAST THE SEEDS, BROWN THE BEEF",
+      "text": "When the sweet potato has 8-10 minutes remaining, place the pumpkin seeds in a pan over medium heat. Toast for 3-5 minutes until beginning to pop and turn brown. Remove from the pan. Return the pan to a medium-high heat with a drizzle of oil and a knob of butter. When hot, add the beef strips and the rub. Fry for 1-2 minutes per side until browned. Season to taste."
+    },
+    {
+      "step": 5,
+      "title": "A FLAVOUR COMBINATION",
+      "text": "In a salad bowl, combine the shredded salad leaves, the diced tomato, the roasted sweet potato chunks, ½ the toasted pumpkin seeds, and ½ the drained feta. Pour over ½ the dressing and toss to combine."
+    },
+    {
+      "step": 6,
+      "title": "SENSATIONAL SALAD",
+      "text": "Plate up the dressed salad. Top with the beef strips and the avocado slices. Scatter over the remaining pumpkin seeds and feta. Drizzle over the remaining dressing and garnish with the remaining basil leaves. Dig in, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 488.0,
+    "energy_kcal": 117.0,
+    "protein_g": 6.1,
+    "carbs_g": 9.0,
+    "sugars_g": 3.1,
+    "fibre_g": 2.5,
+    "fat_g": 5.5,
+    "saturated_fat_g": 1.5,
+    "sodium_mg": 128.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "Air fryer method: Coat the sweet potato in oil and season. Air fry at 200°C for 15-20 minutes or until cooked through and crispy.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

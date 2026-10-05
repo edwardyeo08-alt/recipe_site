@@ -1,0 +1,143 @@
+{
+  "recipe_number": 162,
+  "title": "Goat's Cheese & Sage Risotto",
+  "subtitle": "with toasted pine nuts & baby onions",
+  "description": "This delicious goat's cheese risotto is made with garlic, white wine, veggie stock, and is topped with crispy sage, toasted pine nuts and roasted baby onions. You'll feel like you're at a luxury restaurant at your dining room table with this divine, fragrant and decadent dish right in front of you!",
+  "chef": "Sarah Hewitt",
+  "category": "Veggie",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Boschendal | Grande Cuvée Vintage Brut",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Vegetable Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Onions",
+      "quantity": 6,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Pine Nuts",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Sage",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & dried"
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Risotto Rice",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "White Wine",
+      "quantity": 85,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Chevin Goat's Cheese",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Balsamic Reduction",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter",
+    "Tinfoil",
+    "Paper Towel",
+    "Tea Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "STOCK MARKET",
+      "text": "Preheat the oven to 200°C. Boil the kettle. Dilute the stock with 800ml of boiling water. Peel the baby onions and halve lengthways. Don't remove the tip that keeps the layers joined together. Place the halved onions, cut-side down, on a tinfoil-lined roasting tray, coat in oil, and season. Spread out evenly on the tray. Roast in the hot oven for 20-25 minutes until soft and caramelised."
+    },
+    {
+      "step": 2,
+      "title": "PINNING FOR YOU",
+      "text": "Place the pine nuts in a pot, large enough for the risotto, over a medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pot on completion and set aside."
+    },
+    {
+      "step": 3,
+      "title": "SAGE BUTTER",
+      "text": "Return the pot to a medium-high heat with a drizzle of oil and 80g of butter. Once foaming, fry the picked sage leaves for 1 minute per side until crispy. (To make this easier, use tongs if you have them!) On completion, allow to drain on some paper towel. Remove the infused butter from the pot and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "RISOTTO RAZZLE",
+      "text": "Return the pot to a medium heat with a drizzle of oil. When hot, add the grated garlic and fry for 30-60 seconds until fragrant, shifting constantly. Stir through the rice for 30 seconds until coated in the oil. Pour in the wine and simmer until evaporated. Add a ladleful of stock and allow it to be absorbed by gently simmering, stirring regularly. Only add the next ladle of stock when the previous one has been fully absorbed. Repeat this process for 20-25 minutes until the rice is cooked al dente."
+    },
+    {
+      "step": 5,
+      "title": "FINISHING THE RISO",
+      "text": "When the risotto is done, add a squeeze of lemon juice (to taste), the lemon zest, the goat's cheese, and a knob of butter. Loosen with a splash of warm water, if necessary. Season to taste. Dress the rinsed green leaves with a squeeze of lemon juice, a drizzle of oil, and seasoning."
+    },
+    {
+      "step": 6,
+      "title": "IT'S TIME TO DINE!",
+      "text": "Plate up a generous helping of the creamy goat's cheese risotto and top with the caramelised baby onions. Sprinkle over the crispy sage and the toasted pine nuts. Drizzle over the infused butter and the balsamic reduction. Serve with the dressed green leaves and a lemon wedge on the side. Enjoy, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 768.0,
+    "energy_kcal": 184.0,
+    "protein_g": null,
+    "carbs_g": 30.0,
+    "sugars_g": 6.3,
+    "fibre_g": 3.3,
+    "fat_g": 4.7,
+    "saturated_fat_g": 2.4,
+    "sodium_mg": 194.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Tree Nuts",
+    "Alcohol"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is completely punched out by the binder ring hole."
+}

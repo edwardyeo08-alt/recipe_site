@@ -1,0 +1,139 @@
+{
+  "recipe_number": 150,
+  "title": "Marvelous Mushroom Dhal",
+  "subtitle": "with poppadoms & parsley coconut yoghurt",
+  "description": "Dhal is a classic Indian dish, delicious in every way! This veggie take is loaded with kale, mushrooms, red lentils and coconut cream. It is served with a crispy poppadom and a dollop of creamy parsley-dotted coconut yoghurt. Perfect for a chilly winter's night!",
+  "chef": "Kate Gomba",
+  "category": "Veggie",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Boschendal | 1685 Shiraz",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & roughly diced"
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "NOMU Indian Rub",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Red Lentils",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Mixed Exotic Mushrooms",
+      "quantity": 250,
+      "unit": "g",
+      "prep": "trimmed & roughly sliced"
+    },
+    {
+      "name": "Poppadoms",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Kale",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Coconut Cream",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Dried Chilli Flakes",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Coconut Yoghurt",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BE LENTIL WITH ME",
+      "text": "Place a pot over a medium heat with a drizzle of oil. When hot, add the diced onion and fry for 3-4 minutes until soft, shifting occasionally. Add the grated garlic and the rub and fry for 1-2 minutes until fragrant, shifting constantly. Add the rinsed lentils and 300ml of water. Bring up to a simmer then reduce the heat to medium-low and pop on a lid. Leave to cook for 10-12 minutes until the lentils are soft, only stirring occasionally and adding more water if necessary."
+    },
+    {
+      "step": 2,
+      "title": "GOLDEN MUSHIES",
+      "text": "Place a nonstick pan over a medium-high heat with a drizzle of oil. When hot, add the sliced mushrooms and fry for 3-5 minutes until soft and golden, shifting as they colour. You may need to do this step in batches, adding more oil in between batches. Remove from the pan on completion and season to taste."
+    },
+    {
+      "step": 3,
+      "title": "POPPADOMS",
+      "text": "Return the pan, wiped down if necessary, to a medium-high heat with enough oil to cover the base. When hot, shallow fry the poppadoms one at a time for 30 seconds per side. As soon as the poppadom starts curling, use a spatula or tongs to flip it over and flatten it out. Keep flipping and flattening until golden and puffed up. Drain on paper towel."
+    },
+    {
+      "step": 4,
+      "title": "IT'S CHILLI OUTSIDE",
+      "text": "Once the lentils are cooked, set the lid aside and add the shredded kale, the coconut cream, the chilli flakes (to taste), and ½ the fried mushrooms to the pot. Mix until fully combined. Leave to cook for 4-5 minutes until the kale is wilted, stirring occasionally. Season to taste."
+    },
+    {
+      "step": 5,
+      "title": "PARSLEY YOGHURT",
+      "text": "In a small bowl, combine the coconut yoghurt, ½ the chopped parsley, and seasoning."
+    },
+    {
+      "step": 6,
+      "title": "DHAL-ICIOUS!",
+      "text": "Bowl up the dhal and top with the remaining mushrooms. Side with the crispy poppadoms. Dollop over the parsley coconut yoghurt and sprinkle over the remaining parsley. Wow, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 588.0,
+    "energy_kcal": 141.0,
+    "protein_g": null,
+    "carbs_g": 18.0,
+    "sugars_g": 2.3,
+    "fibre_g": 3.7,
+    "fat_g": 5.1,
+    "saturated_fat_g": 3.8,
+    "sodium_mg": 177.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value is punched out by binder ring hole (only .3g visible). Carbs value (18g) is partially touched by the binder ring."
+}

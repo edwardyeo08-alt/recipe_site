@@ -1,0 +1,144 @@
+{
+  "recipe_number": 152,
+  "title": "Fragrant Cape Malay Dahl",
+  "subtitle": "with cucumber raita, toasted pistachios & whole wheat rotis",
+  "description": "A nod to Cape Town's 300-year-old Cape Malay cuisine. This lush tomato and lentil dahl is given an edge by cool raita, a pistachio crunch, vitamin-packed spinach, and toasted chickpeas tumbled with plump golden sultanas.",
+  "chef": "Tami Schrire",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Golden Sultanas",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spice and All Things Nice Cape Malay Curry Paste",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lentils",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Cooked Chopped Tomatoes",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "grated"
+    },
+    {
+      "name": "Greek Yoghurt",
+      "quantity": 250,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    },
+    {
+      "name": "Pistachio Nuts",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 150,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Whole Wheat Rotis",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Tea Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "A PAN OF GOLDEN DELIGHT",
+      "text": "Place a pan over a medium-high heat with a drizzle of oil. When hot, toast the drained chickpeas for 12-15 minutes until crispy and caramel in colour. For best results, only shift them occasionally. If they start to pop out, use a lid to rein them in. During the final 2 minutes, stir through the sultanas and a knob of butter (optional). Remove from the heat and season to taste. Cover to keep warm and set aside for serving."
+    },
+    {
+      "step": 2,
+      "title": "GET YOUR DAHL STARTED",
+      "text": "Place a pot over a medium heat with a drizzle of oil. When hot, fry the curry paste to taste for 1-2 minutes until fragrant, shifting constantly. Add the drained lentils, the cooked chopped tomatoes, and 125ml of water. Stir until the curry paste is incorporated into the liquid and bring to the boil. Once boiling, reduce the heat and simmer for 8-10 minutes until thickened."
+    },
+    {
+      "step": 3,
+      "title": "WHILE THE CURRY IS SIMMERING...",
+      "text": "Using a cloth, squeeze out and discard the excess liquid from the grated cucumber. Combine with a third of the yoghurt and stir through three-quarters of the chopped coriander. Season to taste and set aside for serving. Place the pistachios in a pan over a medium heat. Toast for 2-3 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside. Roughly chop when cool enough to handle."
+    },
+    {
+      "step": 4,
+      "title": "ROTI O'CLOCK",
+      "text": "When the dahl has thickened, stir through the shredded spinach and cook for 3-4 minutes until wilted. In the meantime, return the pistachio pan to a medium heat. When hot, warm the rotis for 30-60 seconds per side until heated through and lightly toasted. Alternatively, place on a plate in a single layer and heat up in the microwave for 30-60 seconds. As you go, stack the heated ones on a plate and cover with a tea towel to keep warm."
+    },
+    {
+      "step": 5,
+      "title": "ALMOST THERE!",
+      "text": "Once the dahl is cooked, remove from the heat and stir through the remaining yoghurt. Season to taste with salt, pepper, and a sweetener of choice."
+    },
+    {
+      "step": 6,
+      "title": "TIME TO DEVOUR...",
+      "text": "Spoon the silky Cape Malay dahl into bowls and top with the chickpeas and sultanas. Garnish with the chopped, toasted pistachios and the remaining coriander. Serve with the cucumber raita and rotis on the side. Scoop up and enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 636.0,
+    "energy_kcal": 152.0,
+    "protein_g": 7.8,
+    "carbs_g": 23.0,
+    "sugars_g": 4.4,
+    "fibre_g": 4.8,
+    "fat_g": 3.1,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 323.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Tree Nuts",
+    "Soy",
+    "Wheat",
+    "Gluten"
+  ],
+  "chef_tip": "Draining and rinsing tinned beans, lentils, and chickpeas reduces the amount of sodium you're ingesting. It also reduces the complex sugar content (which humans can't digest!) and improves the flavour and texture of the food.",
+  "card_obscured_flag": true,
+  "obscured_details": "Bottom binder ring hole punch partially clips the word 'Soy' in the Allergens section."
+}

@@ -1,0 +1,124 @@
+{
+  "recipe_number": 143,
+  "title": "Creamy Truffled Ravioli",
+  "subtitle": "with walnuts, ricotta & fresh oregano",
+  "description": "A fancy and unforgettable dinner awaits you with all the flavour and elegance, but so much ease you won't believe it's true! Spinach and ricotta stuffed ravioli tossed through a creamy garlic sauce and topped with truffle - absolute royalty.",
+  "chef": "Thea Richter",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Haute Cabrière | Pierre Jourdan Tranquille",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Walnuts",
+      "quantity": 20.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spinach & Ricotta Ravioli",
+      "quantity": 350.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Oregano",
+      "quantity": 10.0,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Italian-Style Hard Cheese",
+      "quantity": 30.0,
+      "unit": "g",
+      "prep": "grated"
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 85.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Spinach",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Truffle",
+      "quantity": 4.0,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "LET'S GO NUTS!",
+      "text": "Boil the kettle. Place the walnuts in a pan over a medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside. Finely chop when cool enough to handle."
+    },
+    {
+      "step": 2,
+      "title": "RAVISHING RAVIOLI",
+      "text": "Place a pot for the ravioli over a high heat. Fill with boiling water, add a pinch of salt, and bring back up to the boil. Once boiling, cook the ravioli for 2-3 minutes until they begin to float and are heated through. Drain on completion, reserving 200ml of pasta water, and toss through some oil to prevent sticking."
+    },
+    {
+      "step": 3,
+      "title": "CREAMY SAUCE",
+      "text": "Return the pan to a medium high heat with a drizzle of oil. When hot, add the grated garlic and ½ the rinsed oregano. Fry until fragrant, shifting constantly. Remove from the heat. Mix through the grated cheese, ¾ of the chopped nuts, the crème fraîche, some lemon zest and some seasoning until fully combined. While stirring, slowly add in some of the reserved pasta water until a saucy consistency."
+    },
+    {
+      "step": 4,
+      "title": "ALMOST THERE!",
+      "text": "Add the creamy sauce to the pot of the drained ravioli and mix until fully coated. Place the green leaves in a salad bowl and toss through some olive oil and some seasoning."
+    },
+    {
+      "step": 5,
+      "title": "SIMPLY STUNNING",
+      "text": "Plate up some creamy ravioli. Top with the truffle, the remaining chopped nuts and the remaining fresh oregano. Side with the fresh spinach leaves. Serve with a lemon wedge and indulge yourself!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 1053.0,
+    "energy_kcal": 252.0,
+    "protein_g": 8.6,
+    "carbs_g": 24.0,
+    "sugars_g": 4.3,
+    "fibre_g": 3.5,
+    "fat_g": 13.3,
+    "saturated_fat_g": 6.3,
+    "sodium_mg": 320.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "Cooking pasta in salted water allows it to absorb the salt, enhancing its flavour, because the salt is dispersed throughout the dish and not just on the surface of the pasta, so you get a better end result!",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole clips 'Wheat' in the allergens list."
+}

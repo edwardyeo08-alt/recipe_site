@@ -1,0 +1,143 @@
+{
+  "recipe_number": 145,
+  "title": "Packs-A-Punch Kimchi Fried Rice",
+  "subtitle": "with spicy gochujang, edamame beans & black sesame seeds",
+  "description": "Fried rice is a scrumptious way to use leftover rice and avoid food waste – something we value highly at UCOOK! This version offers nourishment from kimchi, a punch from gochujang, and an optional fried egg. (You bring the egg; we bring the flava!)",
+  "chef": "Tess Witney",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "quantity": 150.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Black Sesame Seeds",
+      "quantity": 10.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "White Button Mushrooms",
+      "quantity": 250.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spring Onions",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "thinly sliced"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 20.0,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Kimchi",
+      "quantity": 120.0,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Low Sodium Soy Sauce",
+      "quantity": 30.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Gochujang Paste",
+      "quantity": 30.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Shredded Cabbage & Julienne Carrot",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Edamame Beans",
+      "quantity": 150.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Nori Sheet",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "torn into thin strips"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Egg/s (optional)",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "JAZZY JASMINE RICE",
+      "text": "Rinse the rice and place in a pot over a medium-high heat. Submerge in 300ml of salted water and pop on a lid. Once boiling, reduce the heat and simmer for 10 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. On completion, drain if necessary and fluff up with a fork."
+    },
+    {
+      "step": 2,
+      "title": "SEED SPRINKLES",
+      "text": "Place a pan or wok over a medium heat. When hot, toast the sesame seeds for 2-4 minutes until they begin to pop, shifting regularly. Remove from the pan or wok on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "MEATY SHROOMS",
+      "text": "Wipe the mushrooms clean with damp cloth or paper towel and roughly slice. Return the pan or wok to a medium-high heat with a drizzle of oil. When hot, pan fry the mushrooms for 3-5 minutes until soft and golden, shifting as they colour. To avoid overcrowding the pan, you may need to do this step in batches, adding more oil between batches. Remove from the pan or wok, season, and set aside."
+    },
+    {
+      "step": 4,
+      "title": "SPICE UP YOUR NIGHT!",
+      "text": "When the rice is cooked, return the pan or wok to a medium-high heat with another drizzle of oil. When hot, fry the grated ginger and three-quarters of the sliced spring onion for 2-3 minutes until softened, shifting constantly. Add in the cooked rice and half of the chopped kimchi. Toss through the soy sauce and gochujang to taste. Fry for 2-3 minutes until combined and coated, tossing constantly. Add in the cabbage and carrot, edamame beans, and mushrooms. Gently toss for 2-3 minutes until the cabbage is wilted but crunchy. Season to taste and remove the pan or wok from the heat."
+    },
+    {
+      "step": 5,
+      "title": "OPTIONAL FRIED EGG",
+      "text": "Place a nonstick pan over a medium-high heat with a drizzle of oil. Crack in 2 eggs and fry until cooked through to your preference. We like the yolk runny and the white just set! Remove from the heat and season."
+    },
+    {
+      "step": 6,
+      "title": "FIERY RICE FEAST",
+      "text": "Serve up the spicy fried rice in some bowls. Garnish with the remaining spring onion and kimchi to taste. Sprinkle over the nori slices and toasted sesame seeds. Finally, top with the fried eggs (if used). Now, let yourself be whisked off to East Asia!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 413.0,
+    "energy_kcal": 99.0,
+    "protein_g": 4.5,
+    "carbs_g": 18.0,
+    "sugars_g": 2.9,
+    "fibre_g": 2.9,
+    "fat_g": 1.3,
+    "saturated_fat_g": 0.1,
+    "sodium_mg": 263.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Sulphites",
+    "Sugar Alcohol (Xylitol)",
+    "Soy"
+  ],
+  "chef_tip": "Nori can be tricky to cut, so make sure to use a heavy, sharp knife or a pair of sharp scissors. You can also roll up the nori sheet into a small cylinder and chop it thinly on the round – these rounds will unfurl into thin strips!",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole clips 'Soy' in the allergens list."
+}

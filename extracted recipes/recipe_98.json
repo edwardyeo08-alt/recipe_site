@@ -1,0 +1,109 @@
+{
+  "recipe_number": 98,
+  "title": "One-tray Dorado of Dreams",
+  "subtitle": "with roasted pumpkin & salad leaves",
+  "description": "Enjoy this one-tray dinner winner! Pumpkin, carrots, and tomatoes are roasted to perfection alongside flaky dorado. This dish is simple enough to take up little of your precious time, yet so flavourful that you will hardly believe it took so little time!",
+  "chef": "Kate Gomba",
+  "category": "Carb Conscious",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Boschendal | MCC Brut NV",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "peeled (optional) & cut into wedges"
+    },
+    {
+      "name": "Pumpkin Chunks",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Dorado Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Seafood Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": null,
+      "prep": "cut into thick wedges"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROASTED GOODNESS",
+      "text": "Preheat the oven to 200°C. Spread out the carrot wedges and pumpkin pieces on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes until cooked through and crisping up."
+    },
+    {
+      "step": 2,
+      "title": "MARINATION STATION",
+      "text": "Pat the dorado dry with paper towel and place in a bowl. Add the rub, the grated garlic, a drizzle of oil, and some seasoning. Mix until the fish is fully coated. Set aside to marinate."
+    },
+    {
+      "step": 3,
+      "title": "FISH & TOMATO",
+      "text": "When the roast has 15-20 minutes remaining, remove the tray from the oven and give the veg a shift. Add the marinated fish, the tomato wedges, and 2 lemon wedges to the tray with the veg. Pop back in the hot oven and roast for the remaining time until the fish is cooked through and the tomatoes are starting to char. Just before serving, toss the salad leaves with a drizzle of oil and some seasoning."
+    },
+    {
+      "step": 4,
+      "title": "ONE TRAY WONDER",
+      "text": "Plate up the roasted veg and fish. Squeeze over the roasted lemon (to taste) and side with the dressed leaves. Sprinkle over the lemon zest. Great work, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 197.0,
+    "energy_kcal": 47.0,
+    "protein_g": null,
+    "carbs_g": 7.0,
+    "sugars_g": 2.7,
+    "fibre_g": 1.8,
+    "fat_g": 0.4,
+    "saturated_fat_g": 0.0,
+    "sodium_mg": 114.0
+  },
+  "allergens": [
+    "Allium",
+    "Fish"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is obscured by the binder ring hole."
+}

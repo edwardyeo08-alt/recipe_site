@@ -1,0 +1,139 @@
+{
+  "recipe_number": 73,
+  "title": "Coconut Chicken & Rice",
+  "subtitle": "with red bell pepper, spinach, & fresh coriander",
+  "description": "This vibrant & creamy curry is made from tender pieces of chicken smothered in a thick coconut curry sauce consisting of red onions & peppers, ginger, tomato and fresh chilli. Balanced out with earthy spinach & fragrant coriander. All served with a generous helping of brown rice. What are you waiting for, Chef? Curry up and get cooking!",
+  "chef": "Rhea Hsu",
+  "category": "Fan Faves",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Alvi's Drift | 221 Chenin Blanc",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Chicken Breasts",
+      "quantity": 2,
+      "unit": null,
+      "prep": "cut into bite-sized chunks"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": "trimmed, deseeded & thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": null,
+      "prep": "roughly diced"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1,
+      "unit": null,
+      "prep": "deseeded & finely sliced"
+    },
+    {
+      "name": "NOMU Oriental Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Coconut Cream",
+      "quantity": 400,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "cut into wedges"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "NICE RICE BABY",
+      "text": "Rinse the rice and place in a pot over medium-high heat. Submerge in 500ml of salted water and pop on the lid. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and steam for 10 minutes. Drain if necessary and fluff up with a fork."
+    },
+    {
+      "step": 2,
+      "title": "GOLDEN CHICKY CHUNKS",
+      "text": "Place a deep pan or pot over medium-high heat with a drizzle of oil. When hot, add the chicken chunks and fry for 1-2 minutes until browned but not cooked through, shifting as it colours. Remove from the pan and set aside."
+    },
+    {
+      "step": 3,
+      "title": "AWESOME AROMATICS",
+      "text": "Return the pan or pot to a medium heat with a drizzle of oil. When hot, add the sliced onion, the sliced pepper, and the diced tomato. Fry for 6-7 minutes until soft, shifting occasionally. Add the grated ginger, 1/2 the sliced chilli (to taste), and the rub. Fry for 1-2 minutes until fragrant, shifting constantly."
+    },
+    {
+      "step": 4,
+      "title": "CREAMY CURRY",
+      "text": "When the chilli is fragrant, pour the coconut cream into the pot or pan. Simmer for 5-6 minutes until slightly thickened. In the final 1-2 minutes, add the browned chicken. Remove from the heat, stir through the rinsed spinach, 1/2 the picked coriander, a squeeze of lemon juice (to taste), a sweetener of choice (to taste), and seasoning. Loosen with a splash of warm water if it's too thick for your liking."
+    },
+    {
+      "step": 5,
+      "title": "PLATE IT UP!",
+      "text": "Dish up the rice and the fragrant coconut chicken. Garnish with the remaining coriander and chilli (to taste). Serve with any remaining lemon wedges. Indulge your senses, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 509.0,
+    "energy_kcal": 122.0,
+    "protein_g": null,
+    "carbs_g": 12.0,
+    "sugars_g": 1.9,
+    "fibre_g": 1.7,
+    "fat_g": 5.8,
+    "saturated_fat_g": 4.3,
+    "sodium_mg": 46.0
+  },
+  "allergens": [
+    "Allium",
+    "Sesame",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Ring binder hole punches through the nutritional information column, obscuring kcal unit next to 122 and the leading digit of protein (.3g)."
+}

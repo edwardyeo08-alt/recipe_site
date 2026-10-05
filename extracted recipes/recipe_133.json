@@ -1,0 +1,130 @@
+{
+  "recipe_number": 133,
+  "title": "Haute Cabrière Ravioli",
+  "subtitle": "with spinach & ricotta, pomodoro sauce & bocconcini",
+  "description": "Pomodoro means \"tomato\" in Italian. Here, piquante peppers, garlic, and a rainbow medley of baby tomatoes meld together with flavoursome flair to smother mouthwatering morsels of spinach and ricotta ravioli, topped off with balls of soft Italian cheese, fresh basil and a crunch of pumpkin seeds. Ah, si piccola!",
+  "chef": "Ella Nasser",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 30,
+  "wine_pairing": "Haute Cabrière | Chardonnay Unwooded",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Rainbow Baby Tomato Medley",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Piquanté Peppers",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Spinach & Ricotta Ravioli",
+      "quantity": 350,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed, picked & gently shredded"
+    },
+    {
+      "name": "Bocconcini Balls",
+      "quantity": 8,
+      "unit": null,
+      "prep": "drained & halved"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Balsamic Glaze",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "SEEDS",
+      "text": "Boil the kettle for step 3. Place a pot on medium heat. When hot, toast the pumpkin seeds for 3-5 minutes until they begin to pop and colour. Remove on completion and set aside for serving"
+    },
+    {
+      "step": 2,
+      "title": "SAUCE",
+      "text": "Return the pot to a medium-low heat with a drizzle of oil. When hot, add in the grated garlic, baby tomatoes, and chopped piquanté peppers. Give a stir and pop on a lid. Cook for 7-8 minutes until the tomatoes are soft, breaking them up as they cook. If the sauce becomes too dry, add in a drizzle of oil or a knob of butter. On completion, season and set aside. Wipe down the pot and set aside for step 4."
+    },
+    {
+      "step": 3,
+      "title": "BOIL",
+      "text": "Place a pot, with generously salted boiling water, over a medium-high heat. Once boiling rapidly, cook the ravioli for 3-4 minutes until they begin to float and are heated through. Drain on completion and toss with oil."
+    },
+    {
+      "step": 4,
+      "title": "CRISP",
+      "text": "Return the pot used for the sauce to a medium-high heat with a drizzle of oil and a knob of butter. Once foaming, fry the ravioli in a single layer for 4-5 minutes until crispy and golden, tossing occasionally. Do this step in batches if necessary. On completion, return all of the ravioli to the pot."
+    },
+    {
+      "step": 5,
+      "title": "AND!",
+      "text": "Keeping the pot on the heat, add in the pomodoro sauce. Cook for 3-4 minutes until heated through, gently tossing to coat the ravioli. Remove from the heat and stir through ½ of the shredded basil, ½ of the bocconcini halves and seasoning to taste. Toss a drizzle of oil through the rinsed green leaves."
+    },
+    {
+      "step": 6,
+      "title": "GO!",
+      "text": "Plate up the ravioli al pomodoro. Scatter over the remaining basil, toasted pumpkin seeds, and remaining bocconcini. Serve the dressed leaves on the side with drizzles of balsamic glaze. Buon appetito!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 730.0,
+    "energy_kcal": 175.0,
+    "protein_g": 7.7,
+    "carbs_g": 18.0,
+    "sugars_g": 5.8,
+    "fibre_g": 2.4,
+    "fat_g": 7.7,
+    "saturated_fat_g": 4.3,
+    "sodium_mg": 194.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Soy"
+  ],
+  "chef_tip": "Boil the ravioli in batches to prevent crowding the pot and overcooking.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

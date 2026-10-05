@@ -1,0 +1,145 @@
+{
+  "recipe_number": 153,
+  "title": "Harissa & Black Bean Salad",
+  "subtitle": "with red bell pepper & bulgur wheat",
+  "description": "A medley of harissa-laced black beans and red pepper pieces are tossed with bulgur wheat and fresh salad leaves. This banging base is then topped with chunks of creamy avocado and tangy feta, dolloped with zesty sour cream, and garnished with fresh coriander. Fiery, filling, and fab!",
+  "chef": "Thea Richter",
+  "category": "Veggie",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Waterkloof | False Bay Chardonnay",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Bulgur Wheat",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": "rinsed, deseeded & cut into bite-sized pieces"
+    },
+    {
+      "name": "Sliced Pickled Jalapeños",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Pesto Princess Harissa Paste",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Black Beans",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Avocado",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": 80,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "drained & crumbled"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BULGUR KING",
+      "text": "Boil the kettle. Using a shallow bowl, submerge the bulgur wheat in 150ml of boiling water. Add a drizzle of oil and gently stir through with a fork. Cover with a plate and steam for 15-20 minutes until cooked and tender. Fluff up with a fork, replace the plate, and set aside."
+    },
+    {
+      "step": 2,
+      "title": "SPICY BEANS",
+      "text": "Place a pan over medium-high heat with a drizzle of oil. When hot, add the diced onion, the pepper pieces, and the chopped jalapeños (to taste). Fry for 5-7 minutes until browned, shifting occasionally. Add the harissa paste (to taste), and the rinsed beans. Fry for 5-6 minutes until heated through and browned, shifting occasionally. Cover to keep warm and set aside."
+    },
+    {
+      "step": 3,
+      "title": "AVO-CARDIO",
+      "text": "Halve the avocado and remove the pip. Scoop out the avocado flesh and drizzle with a squeeze of lemon juice. Slice the avocado, season and set aside."
+    },
+    {
+      "step": 4,
+      "title": "ZESTY PREPPY",
+      "text": "In a bowl, combine the sour cream, the juice from 2 lemon wedges, the lemon zest, and seasoning."
+    },
+    {
+      "step": 5,
+      "title": "SALAD LOADING...",
+      "text": "Once the bulgur wheat is done, toss through the harissa-laced beans, the rinsed salad leaves, a drizzle of olive oil, and seasoning."
+    },
+    {
+      "step": 6,
+      "title": "TIME TO DINE!",
+      "text": "Plate up a generous helping of the loaded bulgur and top with sliced avocado and the crumbled feta. Dollop over the zesty sour cream and garnish with the chopped coriander. Serve with any remaining lemon wedges. Fabulous, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 498.0,
+    "energy_kcal": 119.0,
+    "protein_g": null,
+    "carbs_g": 14.0,
+    "sugars_g": 2.1,
+    "fibre_g": 4.1,
+    "fat_g": 6.0,
+    "saturated_fat_g": 1.9,
+    "sodium_mg": 129.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is obscured by the binder ring."
+}

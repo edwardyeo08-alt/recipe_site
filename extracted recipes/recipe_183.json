@@ -1,0 +1,141 @@
+{
+  "recipe_number": 183,
+  "title": "Warwick's BBQ Pork & Corn Esquites",
+  "subtitle": "with roast sweet potato, fresh lime & creamy feta",
+  "description": "A fusion take on Mexican street food with very little hands-on time! Pork fillet seared in BBQ sauce and served with zingy corn esquites: a fry-up of corn, chilli, garlic, and melty feta. Sure to delight even the fussiest eater.",
+  "chef": "Samantha Finnegan",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Sweet Potato Chunks",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "cut into bite-size pieces"
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "roughly diced"
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "thinly sliced"
+    },
+    {
+      "name": "Lime",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled and grated"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1,
+      "unit": null,
+      "prep": "deseeded & finely chopped"
+    },
+    {
+      "name": "Corn",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Pork Fillet",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "CarbSmart BBQ Sauce",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Tinfoil",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "SHWEET POTATO",
+      "text": "Preheat the oven to 200°C. Place the sweet potato pieces on a roasting tray. Coat in oil, season, and spread out evenly. Roast in the hot oven for 30-35 minutes until cooked through and becoming golden, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "ZESTY SALSA",
+      "text": "Place the diced cucumber and sliced spring onion in a bowl with a drizzle of oil. Toss through some lime juice and zest, both to taste. Set aside to pickle until serving."
+    },
+    {
+      "step": 3,
+      "title": "SPICY, CHEESY & JUST SO EASY!",
+      "text": "When the sweet potato reaches the halfway mark, place a nonstick pan over a low-medium heat with a drizzle of oil and a knob of butter. When hot, fry the grated garlic and the chopped chilli (to taste) for about a minute until fragrant, shifting constantly. Increase the heat to medium-high and add in the drained corn. Fry for 3-4 minutes until starting to brown. Crumble in the drained feta and fry for 2-3 minutes until slushy and melted. Remove from the heat, cover to keep warm, and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "SMOKY BBQ PORK",
+      "text": "Return the pan to a medium-high heat. Pat the pork dry with paper towel, coat in oil, and season. When the pan is hot, sear for 4-6 minutes, shifting and turning, until browned all over but not cooked through. During the final minute, baste with three-quarters of the BBQ sauce. Remove from the pan and place in a piece of tinfoil. Pour in the pan juices and close up tightly. Pop in the oven for 5-6 minutes until cooked to your preference. Remove on completion and allow to rest inside the foil for 5 minutes before thinly slicing, reserving the juices for serving."
+    },
+    {
+      "step": 5,
+      "title": "FRESH & CRISP",
+      "text": "Toss the rinsed salad leaves with a drizzle of oil, a squeeze of lime juice, and some seasoning."
+    },
+    {
+      "step": 6,
+      "title": "MEXICAN FUSION FIESTA!",
+      "text": "Plate up the sliced pork and pour over the reserved juices to taste. Side with the dressed leaves, corn esquites, and roast sweet potato. Scatter over the tangy salsa and drizzle with the remaining BBQ sauce. Garnish with any remaining lime wedges or fresh chilli to taste. Yummy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 470.0,
+    "energy_kcal": 112.0,
+    "protein_g": 7.4,
+    "carbs_g": 11.0,
+    "sugars_g": 3.6,
+    "fibre_g": 1.5,
+    "fat_g": 3.7,
+    "saturated_fat_g": 1.6,
+    "sodium_mg": 155.3
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Alcohol"
+  ],
+  "chef_tip": "Garlic contains an amino acid called allicin, which has antiviral and antibacterial properties and has also been shown to reduce inflammation. Plus, these little nuggets make any savoury dish just that much more flavourful!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

@@ -1,0 +1,125 @@
+{
+  "recipe_number": 23,
+  "title": "Lamb Curry & Cheat's Paratha",
+  "subtitle": "with coriander yoghurt & cucumber",
+  "description": "Enjoy delicious Indian takeout in the comfort of your own home! You will be making your own soft and tender paratha-style bread, which you will then serve with a mild & rich lamb curry before finishing it off with a dollop of coriander yoghurt. Wowzers!",
+  "chef": "Kate Gomba",
+  "category": "Adventurous Foodie",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 55,
+  "wine_pairing": "Boschendal | Nicolas",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Cake Flour",
+      "quantity": 300,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Low Fat Plain Yoghurt",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & cut into bite-sized chunks"
+    },
+    {
+      "name": "Curry Paste",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1,
+      "unit": null,
+      "prep": "deseeded & roughly sliced"
+    },
+    {
+      "name": "Free-range Lamb Shoulder",
+      "quantity": 320,
+      "unit": "g",
+      "prep": "cut into bite-sized chunks"
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "cut into half-moons"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & finely chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Cling Wrap",
+    "Sugar/Sweetener/Honey",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "WHY DOUGH?",
+      "text": "Place about 1 cup of flour in a bowl for your paratha, reserving the rest to use for rolling the dough. Add a good pinch of salt to the bowl of flour. Using your hands, rub in 20ml of oil until it starts to look like breadcrumbs. Mix in 70ml of the yoghurt until combined into a sticky ball. If too dry, mix in water in 5ml increments until combined. Use ½ the reserved flour to dust a flat surface. Place the dough on top and knead until smooth. Divide into 2-3 pieces per portion, and roll into balls. Cover with cling wrap and pop in the fridge."
+    },
+    {
+      "step": 2,
+      "title": "CURRYLICIOUS",
+      "text": "While the dough is resting, place a pot over a medium heat with a drizzle of oil. When hot, fry the onion chunks for 4-6 minutes until soft and translucent, shifting occasionally. Add the curry paste and ½ the sliced chilli - both to taste! Fry for a minute until fragrant, shifting constantly. Add the lamb chunks and a pinch of salt. Fry for 3-4 minutes until browned, shifting occasionally. Add the cooked chopped tomato and 400ml of water. Mix until fully combined and leave to simmer for 15-20minutes, until the lamb is tender and the sauce has thickened. Season with a sweetener of choice, salt, and pepper."
+    },
+    {
+      "step": 3,
+      "title": "CHEAT'S PARATHA",
+      "text": "Sprinkle the remaining reserved flour on a flat surface. Remove the dough balls from the fridge and use a rolling pin or bottle to roll out each ball until about 10-12cm in diameter, so they resemble rotis or pancakes. Carefully spread a thin layer of butter over the flattened dough and then sprinkle a pinch of flour over the butter. On completion, roll up each flattened dough into a long rope. Coil each rope into a spiral. Use a rolling pin to flatten each spiral until about 5-10mm thick, and 10-12cm in diameter. Place a pan over a medium-high heat with a knob of butter or drizzle of oil. When hot, add a paratha and fry for 2-3 minutes per side until browned. Repeat with the remaining parathas."
+    },
+    {
+      "step": 4,
+      "title": "FINAL TOUCHES",
+      "text": "Season the cucumber half-moons with salt and pepper and a drizzle of oil. Combine the remaining yoghurt with ½ of the chopped coriander and some seasoning."
+    },
+    {
+      "step": 5,
+      "title": "DINNER IS SERVED",
+      "text": "Bowl up the lamb curry, and serve the paratha and cucumber on the side. Dollop over the coriander yoghurt and garnish with the remaining coriander. Finish with a scattering of the remaining chilli (to taste)."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 627.0,
+    "energy_kcal": 150.0,
+    "protein_g": 8.1,
+    "carbs_g": 16.0,
+    "sugars_g": 1.6,
+    "fibre_g": 1.1,
+    "fat_g": 5.9,
+    "saturated_fat_g": 2.2,
+    "sodium_mg": 105.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punch partially obscures the Protein value ('8.1g') and the Energy units/values in the Nutritional Information table."
+}

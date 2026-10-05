@@ -1,0 +1,143 @@
+{
+  "recipe_number": 1,
+  "title": "Vibey Durban Lamb Curry",
+  "subtitle": "with baby potatoes, spicy carrot sambal & a whole wheat roti",
+  "description": "Our palm-tree-lined east coast city boasts warm weather, warm people, and warm spices! This definitive Durban curry is a taste bud treat with bright carrot sambal and fresh garlic, ginger, and chilli. A dish as aromatic and colourful as the place it's home to.",
+  "chef": "Lauren Todd",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 60,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Free-Range Deboned Lamb Leg",
+      "quantity": 640,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 3,
+      "unit": null,
+      "prep": "peeled & diced"
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 3,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Spice and All Things Nice Durban Curry Paste",
+      "quantity": 80,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomatoes",
+      "quantity": 800,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Baby Potatoes",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Carrot",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "rinsed & grated"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 2,
+      "unit": null,
+      "prep": "deseeded & finely sliced"
+    },
+    {
+      "name": "Whole Wheat Rotis",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "START THE CURRY",
+      "text": "Pat the lamb leg dry with some paper towel. Cut into bite-size cubes and season to taste. Place a large pot over a medium heat with a drizzle of oil. When hot, fry two-thirds of the diced onion for 3-4 minutes until soft and translucent. Add the grated garlic, grated ginger, and three-quarters of the Durban Curry Paste - to taste! Fry for another minute until fragrant, shifting constantly. Add in the cubed lamb and brown for 3-4 minutes, shifting as it colours. Add the cooked chopped tomatoes, 400ml of water, and the halved baby potatoes. Stir through and bring to the boil. Then, reduce the heat and allow to simmer for 45-50 minutes until the potatoes are cooked and the meat is tender, stirring occasionally."
+    },
+    {
+      "step": 2,
+      "title": "SPICY CARROT SAMBAL",
+      "text": "Place the red wine vinegar and 3 tbsp of water in a salad bowl. Mix in 1 tbsp of a sweetener of choice until dissolved. Add in the remaining diced onion, the grated carrot, three-quarters of the chopped coriander, and the sliced chilli to taste. Toss to coat, season to taste, and set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "GET THAT DURBAN KINDA HEAT",
+      "text": "When the curry has 10 minutes to go, mix in the remaining curry paste (to your preference) if you'd like to increase the spice level. Add seasoning and a sweetener of choice to taste. Allow to simmer for the remaining time while you toast the rotis."
+    },
+    {
+      "step": 4,
+      "title": "MOUTHWATERING ROTIS",
+      "text": "Place a pan over a medium heat. When hot, warm the rotis for about 1 minute per side until heated through and lightly toasted. Alternatively, spread them out on a plate in a single layer and heat up in the microwave for 30-60 seconds."
+    },
+    {
+      "step": 5,
+      "title": "DURBAN DINNERTIME VIBES!",
+      "text": "Dish up a hearty portion of Durban lamb curry and side with the carrot sambal. Serve with a soft, buttery roti on the side for scooping up the curry sauce. Garnish with the remaining chopped coriander and any remaining fresh chilli if you'd like. Aweh, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 474.0,
+    "energy_kcal": 113.0,
+    "protein_g": 4.8,
+    "carbs_g": 11.0,
+    "sugars_g": 3.5,
+    "fibre_g": 2.1,
+    "fat_g": 4.4,
+    "saturated_fat_g": 1.7,
+    "sodium_mg": 126.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Soy"
+  ],
+  "chef_tip": "If you have the time, allow the lamb curry to continue simmering on a low heat for an extra 30-40 minutes to get that meat even more tender!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

@@ -1,0 +1,137 @@
+{
+  "recipe_number": 36,
+  "title": "Cheese-Crusted Beef Enchiladas",
+  "subtitle": "with saucy black bean chilli, corn salsa & chive crème fraîche",
+  "description": "This ready-in-4-steps Mexican comfort food will warm you up this winter. Spiced beef and black bean ragù wrapped up inside a flour tortilla, smothered in cheese and baked until crispy and golden. Topped with a charred sweet corn & jalapeño salsa and chive crème fraîche. Speedy and Yum!",
+  "chef": "Alex Levett",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 40,
+  "wine_pairing": "No paired wines",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Beef Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Beef Mince",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU BBQ Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Corn",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 80,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Chives",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    },
+    {
+      "name": "Black Beans",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Wheat Flour Tortillas",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Grated Mozzarella & Cheddar Cheese Mix",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey (optional)",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "TEXI-MEXI RAGÙ",
+      "text": "Preheat the oven to 200°C. Boil the kettle. Dilute the stock with 100ml of boiling water and set aside. Place a pot over a medium heat with a drizzle of oil. When hot, sauté the diced onion for 4-5 minutes until soft and translucent. Add in the mince and work quickly to break it up as it starts to cook. Allow to caramelise for 6-7 minutes until browned but not cooked through, shifting occasionally. On completion, mix in the BBQ Rub and cook for 1-2 minutes. Stir in the cooked chopped tomato and diluted stock, then reduce the heat. Simmer for 12-15 minutes until reduced and thickened, stirring occasionally."
+    },
+    {
+      "step": 2,
+      "title": "SPICY CORN SALSA & CHIVE CRÈME",
+      "text": "Place a pan over a high heat with a drizzle of oil. When hot, fry the drained corn for 3-4 minutes until charred, shifting occasionally. On completion, transfer to a bowl and add the chopped jalapeños to taste. Toss to combine, season, and set aside for serving. In a small bowl, combine the crème fraîche, ½ of the chopped chives, and some seasoning. Set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "ROLL 'EM UP",
+      "text": "When the ragù has 2 minutes remaining, stir through the drained black beans to heat through. On completion, remove from the heat and season to taste with salt, pepper, and sweetener of choice (optional). Grease a roasting tray or ovenproof dish with a little butter or oil. Spread the ragù evenly over the tortillas and roll each one up into a tube. Place on the tray or dish and top with the grated cheese. Bake in the hot oven for 4-5 minutes until crisping up and golden."
+    },
+    {
+      "step": 4,
+      "title": "TIME TO DINE",
+      "text": "Plate up the cheesy beef enchiladas and sprinkle over the corn and jalapeño salsa. Dollop over the chive crème fraîche and garnish with the remaining chives. Tuck in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 749.0,
+    "energy_kcal": 179.0,
+    "protein_g": null,
+    "carbs_g": 15.0,
+    "sugars_g": 3.2,
+    "fibre_g": 1.9,
+    "fat_g": 9.6,
+    "saturated_fat_g": 4.5,
+    "sodium_mg": 365.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punches through the nutritional information column, completely obscuring the protein value."
+}

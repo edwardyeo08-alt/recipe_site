@@ -1,0 +1,134 @@
+{
+  "recipe_number": 192,
+  "title": "Classic Pork & Pear",
+  "subtitle": "with mashed potato & long stem broccoli",
+  "description": "Pan fried pork fillet in a pear, onion, sage and mustard jus, all atop a bed of fluffy mashed potato and sided with crunchy long stem broccoli. Finish off this beauty with toasted flaked almonds and lemon - there you go!",
+  "chef": "Alex Levett",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Anthonij Rupert | L'Ormarins Brut Classique NV",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "peeled & cut into bite-sized chunks"
+    },
+    {
+      "name": "Flaked Almonds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pork Fillet",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Pears",
+      "quantity": 2,
+      "unit": null,
+      "prep": "cored & cut into thin wedges"
+    },
+    {
+      "name": "Fresh Sage",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed, picked & dried"
+    },
+    {
+      "name": "Beef Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Dijon Mustard",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Long Stem Broccoli",
+      "quantity": 150,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Milk (optional)",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "MASH",
+      "text": "Place a pot of cold salted water over a high heat. Add the chopped potatoes and bring to the boil. Once boiling, reduce the heat and simmer for 15-20 minutes until soft. Drain on completion, and mash with a potato masher or fork until smooth. Then, stir through a splash of milk or water and a knob of butter or a drizzle of oil. Season and cover to keep warm."
+    },
+    {
+      "step": 2,
+      "title": "NUTS",
+      "text": "Place the flaked almonds in a pan over a medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion."
+    },
+    {
+      "step": 3,
+      "title": "PORK",
+      "text": "Return the pan to a medium-high heat. Pat the pork fillet dry with paper towel, coat in oil, and season to taste. When the pan is hot, sear the pork for 3-4 minutes, shifting and turning as it colours. On completion, it should be browned but not cooked through. Remove the pork from the pan."
+    },
+    {
+      "step": 4,
+      "title": "SAUCE",
+      "text": "Boil the kettle. Return the pan to a medium heat with another drizzle of oil, if necessary. Once hot, add the diced onion, the pear wedges and the picked sage leaves. Sauté for 4-5 minutes until the pear has slightly softened. Mix through the stock, 50ml of boiling water and the Dijon mustard. Add the pork fillet and simmer for 8-9 minutes until the sauce has reduced by ⅓ and the pork is fully cooked. Season with a squeeze of lemon juice and salt and pepper. Remove from the heat and cover to keep warm. Remove the pork from the sauce and leave to rest for 5 minutes. Slice and lightly season the slices."
+    },
+    {
+      "step": 5,
+      "title": "BROCCOLI",
+      "text": "Place a pot on a medium-high heat and fill with salted water. When boiling, blanch the long stem broccoli for 1-2 minutes. Drain and season with salt, pepper, some lemon zest and a drizzle of olive oil."
+    },
+    {
+      "step": 6,
+      "title": "DIG IN!",
+      "text": "Plate up a mound of fluffy mash and top with the juicy pork fillet and luscious pear sauce. Serve the long stem broccoli on the side with a squeeze of lemon juice. Garnish with the toasted almonds. Tuck in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 350.0,
+    "energy_kcal": 84.0,
+    "protein_g": 7.0,
+    "carbs_g": 11.0,
+    "sugars_g": 2.6,
+    "fibre_g": 2.5,
+    "fat_g": 1.8,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 122.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "To stop the pears browning once sliced, place the wedges into a bowl of cold water with a squeeze of lemon juice.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

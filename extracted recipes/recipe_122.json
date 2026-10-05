@@ -1,0 +1,134 @@
+{
+  "recipe_number": 122,
+  "title": "Knife & Fork Nachos",
+  "subtitle": "with spiced sweet potato, cottage cheese & crispy onions",
+  "description": "These ‘nachos’ are made of golden roast sweet potato, loaded with flakey kale, piles of beans and corn, melty mozzarella, and chive-y cream cheese. With a crunch of crackly onions and a bite from jalapeño to boot!",
+  "chef": "Runet Van Heerden",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 45,
+  "overall_time_minutes": 60,
+  "wine_pairing": "No paired wines",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "rinsed & cut into 1cm thick spheres"
+    },
+    {
+      "name": "NOMU Spanish Rub",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Kale",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Low Fat Cottage Cheese",
+      "quantity": 250,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Chives",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Limes",
+      "quantity": 2,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Kidney Beans",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Corn",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Grated Mozzarella",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Crispy Onions",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "NA-CHO ORDINARY NACHOS!",
+      "text": "Preheat the oven to 200°C. Spread out the sweet potato spheres on a roasting tray – use two trays if necessary. Coat in oil, ½ of the Spanish Rub, and a little seasoning to taste. Roast in the hot oven for 35-40 minutes until cooked through and crisping up."
+    },
+    {
+      "step": 2,
+      "title": "A LITTLE PREP",
+      "text": "Place the shredded kale in a bowl with a drizzle of oil and some seasoning. Using your hands, massage until softened and coated. Set aside for step 3. Place the cottage cheese in a small bowl with ¾ of the chopped chives. Combine with the lime zest and a squeeze of lime juice, both to taste. Season and set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "CRISPY KALE",
+      "text": "When the sweet potato reaches the halfway mark, remove the tray from the oven and spread the spheres further out over the base and up the sides of the dish. Scatter over the kale and return to the oven for 8-10 minutes until crispy."
+    },
+    {
+      "step": 4,
+      "title": "LOOKING GOOD...",
+      "text": "When the kale is crispy, remove the tray from the oven and scatter over the drained kidney beans and corn. Evenly sprinkle with the remaining Spanish Rub and the mozzarella. Return to the oven and bake for 7-10 minutes until the cheese is melted and golden."
+    },
+    {
+      "step": 5,
+      "title": "DINE LIKE A KING",
+      "text": "Plate up the loaded sweet potato \"nachos\" and cover in dollops of chive-infused cottage cheese. Finish off with scatterings of crispy onions, chopped jalapeños, and remaining chives. Serve with a lime wedge on the side. Time to feast, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 478.0,
+    "energy_kcal": 114.0,
+    "protein_g": 6.0,
+    "carbs_g": 13.0,
+    "sugars_g": 4.1,
+    "fibre_g": 3.2,
+    "fat_g": 3.3,
+    "saturated_fat_g": 1.8,
+    "sodium_mg": 230.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "Draining and rinsing tinned beans, lentils, and chickpeas reduces the amount of sodium added to your meal. It also reduces the complex sugar content and improves flavour and texture of food.",
+  "card_obscured_flag": true,
+  "obscured_details": "Allergen 'Sulphites' is partially obscured by the binder ring hole ('Su...es')."
+}

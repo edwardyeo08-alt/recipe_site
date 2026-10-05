@@ -1,0 +1,139 @@
+{
+  "recipe_number": 160,
+  "title": "Sunset Quinoa & Biltong Risotto",
+  "subtitle": "with baked gem squash, creamy cheese & piquanté peppers",
+  "description": "Conjure the brightness and warmth of sunset with this lush but light quinoa risotto. Swirled with beef biltong and gem squash and decorated with tangy peppers, smooth cottage cheese, and tricklings of balsamic glaze.",
+  "chef": "Samantha Finnegan",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 45,
+  "overall_time_minutes": 60,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Gem Squash",
+      "quantity": 4,
+      "unit": null,
+      "prep": "halved & deseeded"
+    },
+    {
+      "name": "White Quinoa",
+      "quantity": 400,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Leeks",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "trimmed"
+    },
+    {
+      "name": "Chicken Stock",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 3,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Non-Alcoholic White Wine",
+      "quantity": 120,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Smooth Low Fat Cottage Cheese",
+      "quantity": 160,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-Range Beef Biltong",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Mild Piquanté Peppers",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Balsamic Glaze",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter",
+    "Tea Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BAKE THE GEMS",
+      "text": "Preheat the oven to 200°C. Place the deseeded gem squash halves on a baking tray, cut-side up. Lightly drizzle with oil and season. Bake in the hot oven for 25-30 minutes until cooked through. At the halfway mark, pop a small knob of butter into each half and return to the oven for the remaining cooking time."
+    },
+    {
+      "step": 2,
+      "title": "BE PREPAAAARED!",
+      "text": "Boil the kettle. Rinse the quinoa and set aside in a sieve to drain. Slice the trimmed leeks in half lengthways and rinse thoroughly. Roughly chop and set aside. Dilute the stock with 1,2L of boiling water."
+    },
+    {
+      "step": 3,
+      "title": "QUINOA RISOTTO",
+      "text": "Place a large pot over a low-medium heat with a drizzle of oil or knob of butter. When hot, sauté the leeks for 5-7 minutes until soft. Evenly stir through the grated garlic and the drained quinoa. Add the white wine and stir until evaporated. Stir in a ladleful of stock and allow it to be absorbed by gently simmering and stirring regularly. Only add the next ladle of stock when the previous one has been fully absorbed. Repeat this process for 15-20 minutes until the quinoa is cooked and thickened."
+    },
+    {
+      "step": 4,
+      "title": "LEAVES & CHEESE",
+      "text": "While the risotto is on the go, toss the rinsed baby spinach with a drizzle of oil and some seasoning. Set aside for serving. Season the cottage cheese and set aside for serving."
+    },
+    {
+      "step": 5,
+      "title": "FINISH IT UP",
+      "text": "When the risotto is nearing completion, scoop out the cooked gem squash flesh and add to the pot along with three-quarters of the chopped biltong. Cook for 4-5 minutes, stirring until incorporated. On completion, season to taste and remove from the heat."
+    },
+    {
+      "step": 6,
+      "title": "TIME TO TUCK IN",
+      "text": "Plate up a heap of sunset-coloured risotto and dollop over the cottage cheese. Garnish with the chopped piquante peppers and the remaining biltong. Drizzle over the balsamic glaze and serve with the fresh baby spinach on the side. A supper with South African flavour!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 592.0,
+    "energy_kcal": 108.0,
+    "protein_g": 10.1,
+    "carbs_g": 19.0,
+    "sugars_g": 4.0,
+    "fibre_g": 2.2,
+    "fat_g": 2.4,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 520.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "Quinoa is a great high-protein, high-fiber alternative to other grains. Plus, it's high in magnesium, which helps to produce oxygen-carrying red blood cells. It can be eaten warm as a side, or cool as a healthy addition to a salad.",
+  "card_obscured_flag": true,
+  "obscured_details": "Chef's Tip text has a word ('healthy') partially punched through by binder ring hole."
+}

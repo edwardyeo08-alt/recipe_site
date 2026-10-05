@@ -1,0 +1,146 @@
+{
+  "recipe_number": 188,
+  "title": "Massaman Duck Breast Curry",
+  "subtitle": "with brown basmati rice, sweet potato and peanuts",
+  "description": "Massaman is a rich and tangy curry that is not too spicy. We have mixed our version with ginger, sweet potato, edamame, spinach and coconut milk. Served on a bed of brown rice. Topped with a seared duck breast and garnished with toasted peanuts, fresh coriander and fresh chilli.",
+  "chef": "Alex Levett",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Haute Cabrière | Pierre Jourdan Blanc de Blancs",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Peanuts",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chicken Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Edamame Beans",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1,
+      "unit": null,
+      "prep": "deseeded & finely sliced"
+    },
+    {
+      "name": "Spice & All Things Nice Massaman Curry Paste",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Sweet Potato",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "rinsed & cut into bite-sized pieces"
+    },
+    {
+      "name": "Coconut Milk",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Duck Breasts",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 150,
+      "unit": "g",
+      "prep": "rinsed & shredded"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "RICE",
+      "text": "Rinse the rice and place in a pot over a medium-high heat. Submerge in 500ml of cold salted water and pop on a lid. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and steam for a further 10 minutes. Drain if necessary and fluff up with a fork."
+    },
+    {
+      "step": 2,
+      "title": "PREP",
+      "text": "Boil a full kettle. Place the peanuts in a pot, large enough for the curry, over a medium heat. Toast for 3-5 minutes until golden, shifting occasionally. Remove from the pot and roughly chop. Dilute the stock with 200ml of boiling water. Place the edamame beans in salted boiling water for 3-4 minutes until plumped up. Drain on completion."
+    },
+    {
+      "step": 3,
+      "title": "CURRY",
+      "text": "Return the pot over a medium heat with a drizzle of oil. When hot, fry the grated ginger and ½ of the sliced chilli (to taste) for 1-2 minutes, until fragrant. Add ¾ of the massaman curry paste and fry for 1-2 minutes, shifting frequently. Add the sweet potato chunks and cook for 1-2 minutes. Pour in the coconut milk and diluted stock. Mix until combined. Leave to simmer for 10-15 minutes until the sweet potatoes are tender."
+    },
+    {
+      "step": 4,
+      "title": "DUCK",
+      "text": "Pat the duck dry with paper towel. Score the skin with a knife in a cross hatch pattern. Place the duck breasts in a cold, dry pan skin-side down without oil. Place over a medium heat and let the duck fat render while the pan heats up. Fry for 5-8 minutes until the skin is crispy. Turn up the heat to medium-high and drain the excess duck fat. Flip the duck breasts, and cook for 2-4 minutes on the other side for a medium-rare result. Allow to rest for 3 minutes before slicing and seasoning."
+    },
+    {
+      "step": 5,
+      "title": "FINISH",
+      "text": "When the curry sauce is done, taste to test and add the remaining ¼ of the curry paste if you'd like. Stir through the rinsed shredded spinach and ½ of the chopped coriander. Cook for 1-2 minutes until wilted, season, and add sweetener of choice."
+    },
+    {
+      "step": 6,
+      "title": "PLATE",
+      "text": "Dish up the brown rice and spoon over the massaman curry. Top with the sliced duck breast and garnish with the toasted peanuts, edamame beans, remaining coriander, and sliced chillies. Wow!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 547.0,
+    "energy_kcal": 131.0,
+    "protein_g": 8.5,
+    "carbs_g": 13.0,
+    "sugars_g": 2.4,
+    "fibre_g": 2.0,
+    "fat_g": 4.4,
+    "saturated_fat_g": 2.0,
+    "sodium_mg": 183.0
+  },
+  "allergens": [
+    "Allium",
+    "Peanuts",
+    "Shellfish",
+    "Sulphites"
+  ],
+  "chef_tip": "The purpose of cutting cross-hatch into the duck skin is to allow the fat to melt and leave you with crispy duck skin! If you have any leftover duck fat, keep it for another use",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole clips the allergen text ('Sulphi' partially cut off for Sulphites) on the right edge."
+}

@@ -1,0 +1,121 @@
+{
+  "recipe_number": 95,
+  "title": "Seared Trout & Autumn Veg",
+  "subtitle": "with beetroot, butternut, chives & wholegrain mustard",
+  "description": "A dairy-free, gluten-conscious indulgence! Pan-fried rainbow trout fillet lies on a bed of cosy roast veg, flavoured with NOMU rub. With a leafy pea and chive salad tossed with a tangy mustard dressing. Divine!",
+  "chef": "Tess Witney",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Butternut",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "peeled, deseeded & cut into bite-sized chunks"
+    },
+    {
+      "name": "Beetroot",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "trimmed, peeled (optional) & cut into bite-sized chunks"
+    },
+    {
+      "name": "NOMU One For All Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Wholegrain Mustard Dressing",
+      "quantity": 35,
+      "unit": "ml",
+      "prep": "(20ml White Wine Vinegar, 10ml Honey & 5ml Wholegrain Mustard)"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Chives",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    },
+    {
+      "name": "Rainbow Trout Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "COMFORTING AUTUMN VEG",
+      "text": "Preheat the oven to 200°C. Spread out the butternut and beetroot chunks on a roasting tray. Coat in oil, the One For All Rub, and a little seasoning to taste. Roast in the hot oven for 30-35 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "TOASTED SEEDS",
+      "text": "Place the pumpkin seeds in a pan over a medium heat. Toast for 3-5 minutes until beginning to pop and turn brown. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "PLUMP PEAS & DRESSING",
+      "text": "When the roast has 10 minutes remaining, boil the kettle. Submerge the peas in boiling water for 2-3 minutes. Whisk the dressing with 2 tsp of oil until combined. When the peas are plump and heated through, drain and place in a salad bowl. Add in the rinsed green leaves, 3/4 of the chopped chives, and 1/2 of the dressing. Toss until coated, season to taste, and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "SILKY RAINBOW TROUT",
+      "text": "Pat the trout dry with paper towel. Return the pan to a medium-high heat with a drizzle of oil. When hot, fry the trout skin-side down for 2-3 minutes until crispy. Flip and fry for a further 30-60 seconds or until cooked through to your preference. Remove from the pan on completion."
+    },
+    {
+      "step": 5,
+      "title": "HOW EASY WAS THAT?",
+      "text": "Serve up a generous portion of crisp roast veggies and pop the trout on top. Sprinkle the toasted pumpkin seeds over the pea salad and serve on the side. Drizzle it all with the remaining dressing to taste, and garnish with the remaining chives. Grub's up, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 343.0,
+    "energy_kcal": 82.0,
+    "protein_g": null,
+    "carbs_g": 9.0,
+    "sugars_g": 2.6,
+    "fibre_g": 2.4,
+    "fat_g": 1.8,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 93.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Fish"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is partially obscured and punched out by the binder ring hole (only '.7g' is visible)."
+}

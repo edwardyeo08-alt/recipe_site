@@ -1,0 +1,121 @@
+{
+  "recipe_number": 20,
+  "title": "Almond-Crusted Rump",
+  "subtitle": "with crunchy ground almonds, sweet potato wedges & homemade gremolata",
+  "description": "The rump with a Dijon crunch! Flavoursome steak baked in a Dijon mustard and ground almond crust. With sides of tomato and rocket salad, parsley-packed gremolata, and of course, roast sweet potato. A new twist on a timeless combo.",
+  "chef": "Klaudia Weixelbaumer",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "rinsed & cut into wedges"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Lemons",
+      "quantity": 2,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Free-Range Beef Rump",
+      "quantity": 640,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Dijon Mustard",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Ground Almonds",
+      "quantity": 120,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "THOSE WONDROUS WEDGES",
+      "text": "Preheat the oven to 200°C. Spread out the sweet potato wedges on a roasting tray, coat in oil, and season. Roast in the hot oven for 35-40 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "MAKE THE GREMOLATA",
+      "text": "Place the chopped parsley in a bowl with the juice of 4 lemon wedges and mix in some grated garlic and lemon zest to taste. Combine with 2 tbsp of olive oil to form a paste and set aside for serving. Place the halved baby tomatoes in a bowl with a drizzle of oil and some seasoning. Toss to coat and set aside to marinate."
+    },
+    {
+      "step": 3,
+      "title": "RUMP WITH A DIJON CRUNCH",
+      "text": "When the wedges are halfway, pat the steaks dry with some paper towel. Place a large, nonstick pan over a medium-high heat with a drizzle of oil. When hot, sear the steaks fat-side down for 3-5 minutes until the fat is crispy. Then, fry each side for 1-2 minutes until browned but not cooked through. Remove from the pan, place on a roasting tray, and pour over the pan juices. Smear the Dijon mustard over the top of the steaks, evenly sprinkle over the ground almonds, and gently pat down to form the crust. Roast in the oven for 4-5 minutes until cooked through to your preference. (The time this takes will depend on the thickness of the steaks.) Remove from the oven and set aside to rest in the tray for 5 minutes. Season the steaks and cut each one in half."
+    },
+    {
+      "step": 4,
+      "title": "FRESH ELEMENTS",
+      "text": "Just before serving, toss the rinsed green leaves together with the marinated baby tomatoes, adding another drizzle of olive oil and more seasoning if necessary."
+    },
+    {
+      "step": 5,
+      "title": "DELISH DINS!",
+      "text": "Plate the sweet potato wedges and tangy side salad alongside two pieces of almond- and mustard-crusted rump. Garnish with a lemon wedge and serve the homemade gremolata on the side. Beautiful and bountiful!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 472.0,
+    "energy_kcal": 113.0,
+    "protein_g": 6.9,
+    "carbs_g": 10.0,
+    "sugars_g": 3.1,
+    "fibre_g": 2.2,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 89.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "Tomatoes are high in antioxidants and vitamin C. Cherry tomatoes in particular have a slightly higher beta-carotene content than regular, large tomatoes.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

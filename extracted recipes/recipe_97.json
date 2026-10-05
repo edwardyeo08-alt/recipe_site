@@ -1,0 +1,116 @@
+{
+  "recipe_number": 97,
+  "title": "Classy Cajun Trout",
+  "subtitle": "with avo hummus, baby potatoes & a red wine vinegar dressing",
+  "description": "Packed with omegas, this trout dish will leave you totally 'in the pink' as it were. Here, your favourite rosey fish is enhanced by Cajun spice, on top of perfect potatoes, crispy chickpeas and served with crisp, fresh leaves, creamy dreamy hummus, flakey almonds, and a sweet-tangy honey and sherry dressing. Health never tasted so toothsome.",
+  "chef": "Runet Van Heerden",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Haute Cabrière | Chardonnay Pinot Noir",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Baby Potatoes",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Avocado Hummus",
+      "quantity": 85,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Red Wine Vinegar Dressing",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": "(20ml Red Wine Vinegar & 10ml Honey)"
+    },
+    {
+      "name": "Flaked Almonds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Rainbow Trout Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Cajun Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "'TATERS",
+      "text": "Preheat the oven to 200°C. Place the baby potatoes in a pot of salted water over a high heat. Pop on a lid and bring to the boil. Once boiling, remove the lid and reduce the heat. Allow to simmer for 15-20 minutes until cooked through and soft. Remove from the heat on completion, drain, and cut in half once cool enough to handle. Replace the lid, and set aside to keep warm until serving."
+    },
+    {
+      "step": 2,
+      "title": "CRISPY CHICK",
+      "text": "Place the drained chickpeas on a roasting tray, coat in oil and season. Spread out in a single layer and pop in the hot oven. Roast for 15-20 minutes until the chickpeas are crispy."
+    },
+    {
+      "step": 3,
+      "title": "PREP UP",
+      "text": "Loosen the avo hummus with 2 tsps of olive oil and 1 tsp of water. Mix until silky and set aside for serving. In a separate bowl, combine the red wine vinegar dressing with 40ml of olive oil and set aside for serving. Place the flaked almonds in a pan over a medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 4,
+      "title": "CAJUN COATING",
+      "text": "When the chickpeas have 5 minutes remaining, return the pan to a medium heat with a drizzle of oil. Pat the trout dry with paper towel and coat in the Cajun rub to taste. When the pan is hot, fry the trout, skin-side down, for 2-3 minutes until crispy. Flip and fry for another 30-60 seconds or until cooked through to your preference."
+    },
+    {
+      "step": 5,
+      "title": "THE MOMENT OF...",
+      "text": "Make a bed of rinsed green leaves and drizzle over the red wine vinegar dressing. Load up with boiled baby potatoes and crispy chickpeas. Top with the spiced trout, and finish off with flecks of toasted almond flakes and a dollop of silky avo hummus. Stunning, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 561.0,
+    "energy_kcal": 134.0,
+    "protein_g": 8.1,
+    "carbs_g": 15.0,
+    "sugars_g": 2.9,
+    "fibre_g": 3.0,
+    "fat_g": 3.8,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 166.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Fish",
+    "Tree Nuts"
+  ],
+  "chef_tip": "To make the salad dressing, place the ingredients in a clean jar, close the lid up tight, and shake, shake, shake! Using a jar emulsifies the dressing much more successfully than just mixing it in a bowl.",
+  "card_obscured_flag": true,
+  "obscured_details": "The last word ('bowl') in Chef's Tip is partially obscured and punched out by the binder ring hole."
+}

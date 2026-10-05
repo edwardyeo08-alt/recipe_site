@@ -1,0 +1,127 @@
+{
+  "recipe_number": 146,
+  "title": "Creamy Chickpea Stew",
+  "subtitle": "with brown basmati rice & fresh coriander",
+  "description": "This creamy and delicious vegan tomato & chickpea stew is made with spinach, fresh ginger and lush coconut cream. It is served with perfectly fluffy brown basmati rice, to make sure every last drop of this divine stew finds its way to your fork!",
+  "chef": "Aisling Kenny",
+  "category": "Veggie",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Boschendal | 1685 Chardonnay",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 200.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "peeled & roughly diced"
+    },
+    {
+      "name": "Tomato Paste",
+      "quantity": 20.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 15.0,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "NOMU Tandoori Rub",
+      "quantity": 20.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 240.0,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Coconut Cream",
+      "quantity": 200.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 80.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8.0,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "RICE, RICE BABY!",
+      "text": "Rinse the rice and place in a pot over a medium-high heat. Submerge in 500ml of salted water and pop on the lid. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. On completion, drain if necessary and fluff up with a fork."
+    },
+    {
+      "step": 2,
+      "title": "CHICK(PEA) OUT THIS STEW!",
+      "text": "Place a pot over a medium heat with a drizzle of oil. When hot, add the diced onion and fry for 3-4 minutes, until soft, shifting occasionally. Add the tomato paste, the grated ginger and garlic, and the rub. Fry for 4-6 minutes until fragrant, shifting constantly. Add the cooked chopped tomato and the drained chickpeas. Mix until fully combined and leave to simmer for 6-7 minutes until slightly reduced, stirring occasionally. If the stew reduces too quickly, add a splash of water."
+    },
+    {
+      "step": 3,
+      "title": "FINISHING TOUCHES",
+      "text": "When the stew has reduced, pour in the coconut cream. Leave to simmer for a further 12-14 minutes or until reduced and thickened, stirring occasionally. In the final minute, add the rinsed spinach and ½ the chopped coriander. Season to taste with salt, pepper, and a sweetener of choice (optional)."
+    },
+    {
+      "step": 4,
+      "title": "LET'S EAT!",
+      "text": "Make a bed of rice and generously cover with the creamy chickpea stew. Sprinkle over the remaining coriander. Well done, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 616.0,
+    "energy_kcal": 147.0,
+    "protein_g": null,
+    "carbs_g": 21.0,
+    "sugars_g": 2.8,
+    "fibre_g": 3.7,
+    "fat_g": 4.8,
+    "saturated_fat_g": 3.1,
+    "sodium_mg": 118.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole completely punches out the protein value in Nutritional Information."
+}

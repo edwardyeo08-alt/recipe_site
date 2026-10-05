@@ -1,0 +1,120 @@
+{
+  "recipe_number": 47,
+  "title": "Mushroom & Beef Tagliatelle",
+  "subtitle": "with a white wine sauce & Italian-style hard cheese",
+  "description": "Succulent beef rump strips are cooked to perfection before being smothered in a creamy and delicious white wine & mushroom sauce. Enhanced with spinach for vibrancy and sunflower seeds for crunch, this dish has the perfect balance of textures, flavours and pizzazz!",
+  "chef": "Jeannette Joynt",
+  "category": "Quick & Easy",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 25,
+  "wine_pairing": "Boschendal | Stellenbosch Cabernet Sauvignon",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Tagliatelle Pasta",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Button Mushrooms",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Italian-style Hard Cheese",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Rump Strips",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "White Wine",
+      "quantity": 85,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Cream",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Sunflower Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter (optional)",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "DINNER IS FULL OF PASTA-BILITIES",
+      "text": "Bring a pot of salted water to the boil for the pasta. When the water is boiling, cook the pasta for 12-15 minutes until al dente. Drain on completion and toss through some olive oil to prevent sticking."
+    },
+    {
+      "step": 2,
+      "title": "PREP & SEAR THE SRIPS",
+      "text": "While the pasta is boiling, quarter the mushrooms. Peel and grate the garlic. Rinse the spinach and grate the cheese. Pat the beef strips dry and season. Place a pan over a high heat with a drizzle of oil. When hot, add the beef strips and fry for 30-60 seconds per side, until browned but not cooked through. Remove from the pan on completion and season."
+    },
+    {
+      "step": 3,
+      "title": "RUMP PA PA PUM",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil and a knob of butter (optional). When hot, add the quartered mushrooms and fry for 4-5 minutes, until browned, shifting occasionally. Add the grated garlic and fry for 30-60 seconds, shifting constantly. Add the fried beef strips, and the wine. Leave to simmer for 1-2 minutes until the wine has almost all evaporated. Pour in the cream and leave to simmer for 3-5 minutes until slightly reduced and thickened. Add the cooked pasta and the rinsed spinach. Toss until the spinach is wilted and the pasta is fully coated in the sauce. Season to taste. (We recommend using lots of pepper!)"
+    },
+    {
+      "step": 4,
+      "title": "TAGLIATELLE TIME!",
+      "text": "Bowl up a hearty portion of the creamy beef pasta. Sprinkle over the grated cheese and the sunflower seeds. Tuck in, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 912.0,
+    "energy_kcal": 218.0,
+    "protein_g": 11.5,
+    "carbs_g": 12.0,
+    "sugars_g": 1.6,
+    "fibre_g": 1.3,
+    "fat_g": 9.5,
+    "saturated_fat_g": 4.4,
+    "sodium_mg": 61.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Alcohol"
+  ],
+  "chef_tip": "If you want toasted sunflower seeds, pop them in a pan over a medium heat. Toast for 2-4 minutes until lightly browned, shifting occasionally. Remove from the pan on completion and set aside to cool.",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring and hole punch clip the end of Chef's Tip ('cool.') and the word 'Wheat' in Allergens."
+}

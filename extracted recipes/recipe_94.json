@@ -1,0 +1,126 @@
+{
+  "recipe_number": 94,
+  "title": "Asian-style Fish & Chips",
+  "subtitle": "with roasted sweet potato wedges & green beans",
+  "description": "Take a flavour trip to Asia with this twist on classic fish & chips. This soy and rice wine-marinated basa is fried to flaky perfection and sided with crispy sweet potato wedges and a crunchy green bean salad. Squeeze over fresh lemon and dig in!",
+  "chef": "Kate Gomba",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Robertson Winery | Sauvignon Blanc",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "rinsed & cut into thin wedges"
+    },
+    {
+      "name": "NOMU Oriental Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Basa Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Asian Marinade",
+      "quantity": 80,
+      "unit": "ml",
+      "prep": "(40ml Rice Wine Vinegar & 40ml Low Sodium Soy Sauce)"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Green Beans",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "trimmed & sliced into thirds"
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Tinfoil",
+    "Paper Towel",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROASTED GOODNESS",
+      "text": "Preheat the oven to 200°C. Spread out the sweet potato wedges on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes until cooked through and crisping up. At the halfway mark, sprinkle over 1/2 the oriental rub. Toss to coat and leave to roast for the remaining time."
+    },
+    {
+      "step": 2,
+      "title": "MARINATE",
+      "text": "Pat dry the basa with some paper towel. Place the Asian marinade, grated ginger, the remaining oriental rub, 20ml of oil, and a sweetener of choice in a bowl. Whisk to combine and add the basa. Toss to coat and set aside to marinate."
+    },
+    {
+      "step": 3,
+      "title": "GREEN BEANS",
+      "text": "Place a nonstick pan on a medium heat with a drizzle of oil. When hot, fry the sliced green beans for 3-4 minutes until charred but still crunchy. Remove from the pan and place in a salad bowl."
+    },
+    {
+      "step": 4,
+      "title": "BASA",
+      "text": "Return the pan, wiped down if necessary, to a medium heat with a drizzle of oil. When hot, remove the basa from the marinade and fry for 2-3 minutes per side. In the final minute, add the marinade and baste the fish."
+    },
+    {
+      "step": 5,
+      "title": "SALAD",
+      "text": "Combine the rinsed green leaves with the fried green beans, a pinch of zest, and a squeeze of lemon juice. Toss to combine."
+    },
+    {
+      "step": 6,
+      "title": "DINNER IS SERVED",
+      "text": "Plate up the charred basa and serve with the roasted goodness and salad on the side. Garnish with a lemon wedge. Well done Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 301.0,
+    "energy_kcal": 72.0,
+    "protein_g": null,
+    "carbs_g": 9.0,
+    "sugars_g": 3.3,
+    "fibre_g": 1.9,
+    "fat_g": 0.7,
+    "saturated_fat_g": 0.2,
+    "sodium_mg": 222.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Sulphites",
+    "Fish",
+    "Soy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is obscured and punched out by the binder ring hole."
+}

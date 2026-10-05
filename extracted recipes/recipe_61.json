@@ -1,0 +1,145 @@
+{
+  "recipe_number": 61,
+  "title": "Warwick's Creamy Chicken Korma",
+  "subtitle": "with green beans, brown basmati & a tomato sambal",
+  "description": "The curry go-to you can't say no to! Succulent mini fillets poached in a creamy, coconut-based korma sauce. Thickened with almond flour for a hint of nuttiness, popping with fresh ginger and chilli, and filled with soft baby tomatoes.",
+  "chef": "Alex Levett",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 50,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 200.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 20.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 30.0,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Spice and All Things Nice Korma Curry Paste",
+      "quantity": 30.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "deseeded & finely sliced"
+    },
+    {
+      "name": "Almond Flour",
+      "quantity": 50.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": "rinsed & quartered"
+    },
+    {
+      "name": "Coconut Cream",
+      "quantity": 200.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 5.0,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Free-range Chicken Mini Fillets",
+      "quantity": 300.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Green Beans",
+      "quantity": 160.0,
+      "unit": "g",
+      "prep": "rinsed, trimmed & sliced into thirds"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel",
+    "Blender (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "COOK THE BASMATI",
+      "text": "Rinse the rice and place in a pot with half of the stock. Submerge in 500ml of water and stir through. Place over a medium-high heat and pop on a lid. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. Drain on completion if necessary and fluff up with a fork."
+    },
+    {
+      "step": 2,
+      "title": "KORMA CURRY",
+      "text": "Boil the kettle. Dilute the remaining stock with 125ml of boiling water. Place a pot for the curry over a medium heat with a drizzle of oil. When hot, fry half of the diced onion for 4-5 minutes until soft and translucent. Add in the grated ginger, and stir through the curry paste and sliced chilli to taste. Mix in the almond flour and half of the quartered baby tomatoes and cook for 4-5 minutes, shifting regularly. Pour in the diluted stock and the coconut cream, and stir until combined. Bring to the boil, then reduce the heat to low and simmer for 4-5 minutes until thick and fragrant."
+    },
+    {
+      "step": 3,
+      "title": "WHILE THE CURRY IS SIMMERING...",
+      "text": "Make the sambal! Place the remaining tomato and onion in a bowl with three-quarters of the chopped coriander. Toss together with a drizzle of oil, some seasoning, and any remaining sliced chilli if you'd like. Set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "OPTIONAL STEP TO BLEND THE SAUCE",
+      "text": "Once the sauce has finished simmering, remove from the heat and pour into a blender. Blend until smooth and return to the pot over a low heat."
+    },
+    {
+      "step": 5,
+      "title": "SAUCY CHICKEN & GREEN BEANS",
+      "text": "Rinse the chicken to get rid of any residue from the packet and pat dry with paper towel. Submerge in the sauce along with the sliced green beans. Simmer for another 6-8 minutes until the chicken is cooked through and the beans are al dente, stirring occasionally. On completion, season to taste with salt, pepper, and a sweetener of choice. Remove the pot from the heat."
+    },
+    {
+      "step": 6,
+      "title": "SILKY KORMA CURRY",
+      "text": "Dish up the nutty rice and spoon over the chicken korma. Serve with the bright tomato sambal and garnish with the remaining chopped coriander. Delicious!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 598.0,
+    "energy_kcal": 143.0,
+    "protein_g": 8.1,
+    "carbs_g": 16.0,
+    "sugars_g": 1.6,
+    "fibre_g": 2.4,
+    "fat_g": 5.2,
+    "saturated_fat_g": 2.9,
+    "sodium_mg": 223.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "Ginger has superpowers! It strengthens the immune system, stops inflammation, eases digestion, and alleviates cold and flu symptoms. Whizz it up fresh with smoothies or juices for extra zing, or add it to just about any curry dish!",
+  "card_obscured_flag": true,
+  "obscured_details": "Ring binder partially covers 'add' in Chef's Tip."
+}

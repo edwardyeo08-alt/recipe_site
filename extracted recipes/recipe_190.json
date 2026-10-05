@@ -1,0 +1,150 @@
+{
+  "recipe_number": 190,
+  "title": "Apple-stuffed Pork & Sweet Potato",
+  "subtitle": "with dried cranberries & wholegrain mustard",
+  "description": "Tender pork fillet is stuffed with a delicious apple & mustard filling before being pan seared and roasted until crisp, juicy and tender. Served alongside roasted sweet potato chunks and a simple walnut & dried cranberry salad, this dish is fun to make and amazing to eat!",
+  "chef": "Jeannette Joynt",
+  "category": "Adventurous Foodie",
+  "servings": 2,
+  "hands_on_time_minutes": 45,
+  "overall_time_minutes": 55,
+  "wine_pairing": "Boschendal | Rose Garden Rosé",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "rinsed, peeled (optional) & cut into bite-sized chunks"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Apples",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled (optional), cored & finely chopped"
+    },
+    {
+      "name": "Wholegrain Mustard",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Brandy",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Dried Cranberries",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Walnuts",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Pork Fillet",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Sage",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & dried"
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Tinfoil",
+    "Cling Wrap",
+    "Paper Towel",
+    "Butter",
+    "Toothpicks"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROAST",
+      "text": "Preheat the oven to 200°C. Boil the kettle. Spread out the sweet potato chunks on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes until cooked through, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "FILLING",
+      "text": "Place a pan over a medium heat with a drizzle of oil and a knob of butter. When hot, add the diced onion and fry for 3-4 minutes until soft, shifting occasionally. Add the grated garlic and fry for 1-2 minutes until fragrant, shifting constantly. Add the chopped apple, ¾ of the mustard, a squeeze of lemon juice, and the lemon zest. Cook for 8-10 minutes until the apple is soft. Add the brandy and simmer for 1-2 minutes until almost evaporated. Add ½ the dried cranberries and ½ the chopped walnuts. Mix until fully combined and season."
+    },
+    {
+      "step": 3,
+      "title": "FILLET",
+      "text": "When the apple has 5 minutes remaining, pat the pork dry with paper towel and slice into the long side of the pork (be careful not to cut all the way through.) Open out the pork so it resembles a butterfly. Cover with cling wrap and pummel with a rolling pin or bottle to create an even thickness. Remove the cling wrap and top each fillet with the apple mixture in an even layer, making sure to leave a thin border around the mixture (save any leftover filling for serving!) Starting with one of the longer sides, roll up the pork fillet like a swiss roll! Secure closed with toothpicks, if necessary."
+    },
+    {
+      "step": 4,
+      "title": "SEAR & ROAST",
+      "text": "Return the pan to a medium-high heat. Coat pork in oil. When the pan is hot, sear the pork for 4-6 minutes, turning as it colours. It should be browned all over but not cooked through. Remove from the pan and wrap in tinfoil. Finish off in the hot oven for 7-9 minutes until cooked through. Remove on completion and allow to rest inside the tinfoil for 5 minutes before serving. Remove any toothpicks!"
+    },
+    {
+      "step": 5,
+      "title": "SAGE & SALAD",
+      "text": "Return the pan to a medium-high heat with 60g of butter. Once foaming, add the rinsed sage leaves. Fry for 1-2 minutes until the leaves are crispy. In a salad bowl, combine the rinsed salad leaves, the remaining mustard, walnuts & cranberries, a squeeze of lemon juice, a drizzle of oil, and some seasoning."
+    },
+    {
+      "step": 6,
+      "title": "YUM!",
+      "text": "Plate up the apple-stuffed pork fillet. Drizzle over the sage butter. Side with the roasted sweet potato and the walnut salad. Serve any remaining filling and lemon wedges on the side."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 448.0,
+    "energy_kcal": 107.0,
+    "protein_g": null,
+    "carbs_g": 14.0,
+    "sugars_g": 5.5,
+    "fibre_g": 2.9,
+    "fat_g": 2.8,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 3.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Tree Nuts",
+    "Alcohol"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is obscured/punched out by the binder ring hole."
+}

@@ -1,0 +1,148 @@
+{
+  "recipe_number": 177,
+  "title": "Fusion Fried Rice",
+  "subtitle": "with streaky bacon, kimchi & edamame beans",
+  "description": "This snazzy version's got flavour AND health benefits! Both gochujang and kimchi go through a fermentation process, so this dish is full of probiotic goodness. You've also got the option to finish off with a fried egg for that real fried rice feel.",
+  "chef": "Samantha Finnegan",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Haute Cabrière | Pierre Jourdan Blanc de Blancs",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Mixed Sesame Seeds",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Button Mushrooms",
+      "quantity": 125,
+      "unit": "g",
+      "prep": "wiped clean & roughly sliced"
+    },
+    {
+      "name": "Streaky Pork Bacon",
+      "quantity": 6,
+      "unit": "strips",
+      "prep": null
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Spring Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "thinly sliced"
+    },
+    {
+      "name": "Kimchi",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Low Sodium Soy Sauce",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Gochujang Paste",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Edamame Beans",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Egg/s (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BUBBLY BASMATI",
+      "text": "Rinse the rice and place in a pot over a medium-high heat. Submerge in 500ml of salted water and pop on a lid. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes."
+    },
+    {
+      "step": 2,
+      "title": "SEEDS & PREP",
+      "text": "Place a pan or wok over a medium heat. When hot, toast the sesame seeds for 2-4 minutes until the white ones are lightly browned, shifting occasionally. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "SHROOMS & BACON",
+      "text": "Return the pan or wok to a medium-high heat with a drizzle of oil. When hot, fry the mushrooms for 4-5 minutes until soft and golden, shifting as they colour. Remove from the pan on completion, season, and set aside. Return the pan to the heat and fry the bacon strips for 3-4 minutes per side until crispy. Remove on completion and allow to drain on paper towel. Roughly chop when cool enough to handle."
+    },
+    {
+      "step": 4,
+      "title": "A HEALTHY GUT",
+      "text": "When the rice is cooked, drain if necessary and fluff up with a fork. Return the pan or wok to a medium-high heat with a drizzle of oil. When hot, fry the grated ginger, grated garlic, and ¾ of the sliced spring onion for 1-2 minutes until softened, shifting constantly. Add the cooked rice and ½ of the chopped kimchi. Toss through the soy sauce and gochujang to taste. Fry for 2-3 minutes until combined and coated, tossing constantly. Add the shredded spinach, edamame beans, mushrooms, and ¾ of the chopped bacon. Continue to toss for 2-3 minutes until the spinach has wilted. Season and remove from the heat."
+    },
+    {
+      "step": 5,
+      "title": "OPTIONAL FRIED EGG",
+      "text": "Place a pan over a medium-high heat with a drizzle of oil. When hot, crack in one egg per person and fry until cooked through to your preference. We like the yolk runny and the white just set! Remove from the heat and season."
+    },
+    {
+      "step": 6,
+      "title": "READY A BOWL!",
+      "text": "Serve up some spicy fried rice and scatter over the remaining bacon and kimchi to taste. Top with the fried eggs (if used) and sprinkle over the remaining spring onion. Finally, garnish with the toasted sesame seeds. The stuff dreams are made of!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 781.0,
+    "energy_kcal": 187.0,
+    "protein_g": 9.2,
+    "carbs_g": 19.0,
+    "sugars_g": 2.6,
+    "fibre_g": 3.3,
+    "fat_g": 8.9,
+    "saturated_fat_g": 2.7,
+    "sodium_mg": 592.2
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Sulphites",
+    "Sugar Alcohol (Xylitol)"
+  ],
+  "chef_tip": "Making kimchi involves lacto-fermentation. This gives kimchi its impressive probiotic content!",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punches through after 'Sugar Alcohol (Xylitol', obscuring the closing parenthesis and potentially additional allergens (such as Soy)."
+}

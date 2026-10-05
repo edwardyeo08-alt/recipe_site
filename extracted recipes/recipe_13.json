@@ -1,0 +1,127 @@
+{
+  "recipe_number": 13,
+  "title": "Mexican Lamb Burrito Bowl",
+  "subtitle": "with fluffy brown rice & guacamole",
+  "description": "A nutritious bowl filled with fluffy rice, succulent lamb mince, golden jewels of corn and juicy plum tomatoes, all topped with yummy guacamole and crunchy chips!",
+  "chef": "Jeannette Joynt",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Fat Bastard | Chenin Blanc",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Corn Tortillas",
+      "quantity": 2,
+      "unit": null,
+      "prep": "cut into quarters"
+    },
+    {
+      "name": "Free-range Lamb Mince",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Mexican Spice Rub",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Corn On The Cob",
+      "quantity": 1,
+      "unit": null,
+      "prep": "kernels sliced off"
+    },
+    {
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": null,
+      "prep": "roughly diced"
+    },
+    {
+      "name": "Guacamole",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Lime",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1,
+      "unit": null,
+      "prep": "finely chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "HAVE A RICE DAY",
+      "text": "Preheat the oven to 180°C. Rinse the rice and place in a pot over a medium-high heat. Submerge in 500ml of salted water and pop on a lid. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. On completion, drain if necessary, and fluff up with a fork."
+    },
+    {
+      "step": 2,
+      "title": "TORTILLA CHIPS",
+      "text": "Place the tortilla quarters on a roasting tray and bake in the hot oven for 10-12 minutes until golden brown."
+    },
+    {
+      "step": 3,
+      "title": "MARY HAD A SPICY LAMB",
+      "text": "Place a nonstick pan over a high heat with a drizzle of oil. When hot, add in the lamb mince and ½ the rub. Work quickly to break it up as it starts to cook. Allow to caramelise for 5-6 minutes until browned, stirring occasionally. Season to taste, remove from the pan and cover to keep warm."
+    },
+    {
+      "step": 4,
+      "title": "CORN TO SECRECY",
+      "text": "Return the pan to a medium heat with a drizzle of oil. When hot, fry the corn for 3-4 minutes until lightly charred. In the final 1-2 minutes, baste with the remaining rub."
+    },
+    {
+      "step": 5,
+      "title": "MEXICAN FEAST",
+      "text": "In a big serving bowl, place the rice, the lamb mince, the diced tomatoes and the charred corn side by side in a circular direction. Place a dollop of your guacamole on top and arrange your tortilla chips around it. Sprinkle with the fresh coriander and side with the lime wedges. Sprinkle over the chopped chilli (to taste) and a pinch of lime zest. This is a serving suggestion, but ultimately the design of the bowl is up to you!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 941.0,
+    "energy_kcal": 225.0,
+    "protein_g": 11.7,
+    "carbs_g": 22.0,
+    "sugars_g": 1.6,
+    "fibre_g": 2.9,
+    "fat_g": 10.5,
+    "saturated_fat_g": 3.7,
+    "sodium_mg": 153.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "Pop any leftover chilli in a bag and store it in the freezer. It's fantastic when finely grated directly from frozen, creating tasty chilli dust that's great for cooking or sprinkling over dishes!",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punch slightly clips the word 'cooking' in the Chef's Tip text box."
+}

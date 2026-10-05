@@ -1,0 +1,138 @@
+{
+  "recipe_number": 151,
+  "title": "Crumbed Chevin & Roast Butternut Salad",
+  "subtitle": "with a dukkah and almond coating & honeyed walnuts",
+  "description": "Get your taste buds whizzing with rounds of creamy goat's cheese in a crumb of dukkah and almond flour. Set atop roast butternut and cannellini beans, cucumber, and radish; adorned with caramelised walnuts and a lemony drizzle.",
+  "chef": "Alex Levett",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Butternut Chunks",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "cut into bite-size pieces"
+    },
+    {
+      "name": "Cannellini Beans",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Fresh Thyme",
+      "quantity": 4,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Walnut Pieces",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Honey",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Gluten-free Crumb",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": "(30ml Almond Flour & 30ml Dukkah)"
+    },
+    {
+      "name": "Goat's Cheese",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed & gently shredded"
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "sliced into half-moons"
+    },
+    {
+      "name": "Radish",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & sliced into thin rounds"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "SWEET, ROASTED BUTTERNUT",
+      "text": "Preheat the oven to 200°C. Place the butternut pieces on a roasting tray. Coat in oil, season, and spread out evenly. Roast in the hot oven for 30-35 minutes. Place the drained cannellini beans in a bowl with the lemon zest to taste and three-quarters of the rinsed thyme leaves. Coat in oil, season, and set aside."
+    },
+    {
+      "step": 2,
+      "title": "CRUNCHY HONEYED WALNUTS",
+      "text": "Lightly grease a small baking tray. Place the chopped walnuts in a nonstick pan over a medium heat. Toast for 3-5 minutes, shifting occasionally. As they begin to turn brown, add in 2 tsp of butter and half of the honey. Mix until coated, then allow to bubble for 2-3 minutes until caramelised and a shade darker in colour, giving the pan a swirl halfway. Once the bubbles subside, pour onto the tray and place in the fridge to cool."
+    },
+    {
+      "step": 3,
+      "title": "MAKE THE DRESSING",
+      "text": "Using a jar or a small bowl, mix the remaining honey with the juice of 2 lemon wedges until well combined. Slowly whisk in 2 tbsp of olive oil until emulsified. If you're using a jar, then shake, shake, shake! Season to taste and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "POP IN THE CANNELLINIS",
+      "text": "When the butternut reaches the halfway mark, remove from the oven and give a shift. Scatter over the cannellini beans, spread out in a single layer, and return to the oven for the remaining cooking time. On completion, the cannellini beans should be crispy and the butternut should be cooked through and caramelised."
+    },
+    {
+      "step": 5,
+      "title": "GET THE BALL ROLLING & PREP THE SALAD",
+      "text": "Scatter the crumb over a plate. Slice the goat's cheese into 1cm thick disks and roll into small balls. One by one, roll them through the crumb until evenly coated. Set aside in the fridge until serving. Place the rinsed salad leaves, cucumber half-moons, and sliced radish in a bowl. Toss through the dressing to taste until coated."
+    },
+    {
+      "step": 6,
+      "title": "SUBLIME!",
+      "text": "Serve up the roast butternut and cannellini beans alongside the dressed salad. Top with the dukkah-crusted goat's cheese and caramelised walnuts. Garnish with the remaining thyme leaves and a lemon wedge. Indulge, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 467.0,
+    "energy_kcal": 112.0,
+    "protein_g": 4.1,
+    "carbs_g": 12.0,
+    "sugars_g": 4.4,
+    "fibre_g": 2.8,
+    "fat_g": 4.9,
+    "saturated_fat_g": 1.5,
+    "sodium_mg": 127.0
+  },
+  "allergens": [
+    "Dairy",
+    "Sesame",
+    "Tree Nuts"
+  ],
+  "chef_tip": "Try not to let your honeyed nuts over-boil during cooking, or they'll burn. When handling the mixture, be careful as it'll be very hot!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

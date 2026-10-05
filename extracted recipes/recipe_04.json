@@ -1,0 +1,134 @@
+{
+  "recipe_number": 4,
+  "title": "Fabulous Beef Fillet",
+  "subtitle": "with béarnaise sauce & crispy fries",
+  "description": "A quick and easy cheat béarnaise is just as tasty, tangy and tempting as any other, especially on top of a luscious beef fillet alongside crispy French fries, a feta filled salad and zingy green beans. Fabulous indeed, chef!",
+  "chef": "Alex Levett",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Cavalli Estate | Filly",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "peeled & cut into skinny, 1cm thick fries"
+    },
+    {
+      "name": "Green Beans",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "rinsed, trimmed & sliced into thirds"
+    },
+    {
+      "name": "Hazelnuts",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Mustard Vinegar",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": "10ml Dijon Mustard & 10ml White Wine Vinegar"
+    },
+    {
+      "name": "Free-range Beef Fillet",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Dried Tarragon",
+      "quantity": 5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Capers",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "drained, rinsed & roughly chopped"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "COOK THE FRIES",
+      "text": "Boil the kettle. Preheat the oven to 220°C. Place a pot for the skinny fries over a high heat. Fill with boiling water, add a pinch of salt, and bring back up to the boil. Parcook the fries for 2-3 minutes. Remove on completion and place on paper towel, keeping the pot of water on the heat for step 2. Place on a roasting tray, coat in oil, season to taste, and spread out in a single layer. Roast in the hot oven for 25-30 minutes until evenly crispy, gently turning at least twice."
+    },
+    {
+      "step": 2,
+      "title": "GREEN BEANS",
+      "text": "Pop the sliced green beans in the pot of boiling water for 2-3 minutes until cooked but still crunchy. Drain on completion and run under cold water to stop the cooking process."
+    },
+    {
+      "step": 3,
+      "title": "TOAST HAZELNUTS & DRESSING",
+      "text": "Place the hazelnuts in a pan over a medium heat. Toast for 5-6 minutes until golden brown, shifting occasionally. Remove from the pan on completion, set aside and roughly chop when cool enough to handle. In a small bowl, add 1/2 the mustard vinegar, 30ml of olive oil, and 1 tsp of a sweetener of choice. Whisk to combine, season to taste and set aside."
+    },
+    {
+      "step": 4,
+      "title": "COOK THE FILLET",
+      "text": "Return the pan to a high heat. Rub some oil into the fillets until well coated. When the pan is hot, sear the fillets for about 5-6 minutes in total until browned all over, shifting as they colour. Place on a baking tray and roast in the hot oven for 5-7 minutes or until the fillet is cooked to your preference. Remove from the oven on completion and set aside to rest for 5 minutes before slicing. Lightly season the slices."
+    },
+    {
+      "step": 5,
+      "title": "BEARNAISE & DRESS SALAD",
+      "text": "Return the pan to a low-medium heat with crème fraîche, remaining mustard vinegar, dried tarragon to taste, chopped capers and 50ml of warm water. Gently simmer for 2-3 minutes, stirring occasionally. Remove from the heat on completion and whisk in 30g of butter. If the sauce is too thick, loosen with warm water in 5ml increments. Season to taste (be careful when seasoning with salt as capers are quite salty). In a bowl add the rinsed green leaves, cooked green beans, drained feta and toss through the mustard-vinegar dressing."
+    },
+    {
+      "step": 6,
+      "title": "PLATE",
+      "text": "Plate up the crispy french fries alongside the fillet slices and drizzle over the béarnaise sauce. Garnish with the chopped hazelnuts. Serve the green salad on the side. Enjoy."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 651.0,
+    "energy_kcal": 156.0,
+    "protein_g": 9.2,
+    "carbs_g": 9.0,
+    "sugars_g": 1.3,
+    "fibre_g": 2.1,
+    "fat_g": 8.9,
+    "saturated_fat_g": 4.4,
+    "sodium_mg": 152.0
+  },
+  "allergens": [
+    "Dairy",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "To make the salad dressing, place the ingredients in a clean jar, close the lid up tight, and shake, shake, shake! Using a jar emulsifies the dressing much more successfully than just mixing it in a bowl.",
+  "card_obscured_flag": true,
+  "obscured_details": "Chef's tip has the last word ('bowl') partially obscured by the binder ring."
+}

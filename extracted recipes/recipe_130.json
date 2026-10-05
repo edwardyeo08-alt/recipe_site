@@ -1,0 +1,138 @@
+{
+  "recipe_number": 130,
+  "title": "Dreamy Halloumi & Artichokes",
+  "subtitle": "with crispy cannellini beans, pumpkin seeds & a lemon-honey dressing",
+  "description": "A Mediterranean fantasy! Grilled halloumi tops tender artichoke hearts, charred baby tomatoes, mixed green leaves, and cannellini beans — all infused with herbs, honey, and lemon. Warming, invigorating, and quick — who could refuse this stunner?",
+  "chef": "Kate Gomba",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Steenberg Vineyards | Steenberg 1682 Chardonnay MCC",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Honey",
+      "quantity": 20.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 5.0,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "quantity": 120.0,
+      "unit": "g",
+      "prep": "drained & halved"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Edamame Beans",
+      "quantity": 100.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 20.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cannellini Beans",
+      "quantity": 120.0,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "NOMU Italian Rub",
+      "quantity": 15.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Halloumi",
+      "quantity": 160.0,
+      "unit": "g",
+      "prep": "cut into 1cm thick slabs"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "SWEET 'N SOUR SALAD",
+      "text": "Boil the kettle. Place the honey in a salad bowl with ¾ of the chopped parsley and a drizzle of oil. Whisk together with some lemon juice to taste — we recommend using lots of lemon for this dressing! Add in the halved artichokes and ½ of the halved baby tomatoes. Season and toss to coat. Submerge the edamame beans in boiling water for 2-3 minutes until plump and heated through. Drain on completion and add to the salad bowl. Set aside to marinate."
+    },
+    {
+      "step": 2,
+      "title": "POP DEM SEEDS!",
+      "text": "Place the pumpkin seeds in a pan over a medium heat. Toast for 3-5 minutes until they begin to pop and turn brown. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "A PAN OF FRAGRANT DELIGHT",
+      "text": "Return the pan to a high heat with a drizzle of oil. When hot, fry the drained cannellini beans for 3-4 minutes, shifting occasionally. Stir through the Italian Rub and the remaining tomatoes. Fry for 3-4 minutes until the beans are crispy and the tomatoes are lightly charred. Remove from the pan, cover to keep warm, and set aside."
+    },
+    {
+      "step": 4,
+      "title": "CRISPY & GOLDEN",
+      "text": "Wipe down the pan and return it to a medium heat with another drizzle of oil. When hot, fry the halloumi slabs for 2-3 minutes per side until crispy. Remove from the pan on completion and allow to drain on some paper towel."
+    },
+    {
+      "step": 5,
+      "title": "PULL IT TOGETHER",
+      "text": "Add the warm veggies and the rinsed green leaves to the salad bowl, and toss until evenly distributed. Roughly chop the halloumi into bite-sized chunks and squeeze over any remaining lemon juice to taste."
+    },
+    {
+      "step": 6,
+      "title": "DINNER IS READY",
+      "text": "Dish up the loaded salad and scatter over the golden halloumi. Garnish with the toasted pumpkin seeds and the remaining parsley. Oh what a salad night!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 589.0,
+    "energy_kcal": 141.0,
+    "protein_g": 7.4,
+    "carbs_g": 11.0,
+    "sugars_g": 4.0,
+    "fibre_g": 4.1,
+    "fat_g": 7.1,
+    "saturated_fat_g": 4.4,
+    "sodium_mg": 285.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein and Carbs values in nutritional information are partially obscured by binder ring hole punch (readable as 7.4g and 11g)."
+}

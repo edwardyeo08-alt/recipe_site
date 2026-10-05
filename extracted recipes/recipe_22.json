@@ -1,0 +1,133 @@
+{
+  "recipe_number": 22,
+  "title": "Luscious Chimichurri Rump",
+  "subtitle": "with sweet potato wedges & a feta and tomato salad",
+  "description": "Pesto Princess chimichurri brings notes of coriander, parsley, and chilli to already flavourful beef rump. Served with roast sweet potato and a tossed salad of cucumber, leaves, marinated tomatoes, feta, and sunflower seeds. Delish!",
+  "chef": "Klaudia Weixelbaumer",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 55,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 1000,
+      "unit": "g",
+      "prep": "rinsed & cut into wedges"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 320,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Sunflower Seeds",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-Range Beef Rump",
+      "quantity": 640,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Beef Rub",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "thinly sliced into half-moons"
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Danish-Style Feta",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Pesto Princess Chimichurri",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "CRISP THE SWEET POTATO",
+      "text": "Preheat the oven to 200°C. Spread out the sweet potato wedges on a roasting tray, coat in oil, and season. Roast in the hot oven for 35-40 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "PICKLE THE TOMATOES",
+      "text": "Place the halved baby tomatoes and the red wine vinegar in a salad bowl. Add a drizzle of oil and some seasoning. Toss to coat and set aside to marinate."
+    },
+    {
+      "step": 3,
+      "title": "CRUNCHY SEEDS",
+      "text": "Place a large, nonstick pan over a medium heat. When hot, toast the sunflower seeds for 2-4 minutes until lightly browned, shifting occasionally. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 4,
+      "title": "BUTTER-BASTED RUMP",
+      "text": "When the wedges have 10 minutes remaining, return the pan to a medium-high heat with a drizzle of oil. Pat the steaks dry with some paper towel. When the pan is hot, sear the steaks fat-side down for 3-5 minutes until crispy. Then, fry each side for 2-4 minutes or until cooked to your preference. (The time this takes will depend on the thickness of the steaks.) During the final 1-2 minutes, baste the steaks with a knob of butter and the Beef Rub to taste. Remove from the pan on completion and set aside to rest for 5 minutes before slicing."
+    },
+    {
+      "step": 5,
+      "title": "ASSEMBLE THE SALAD",
+      "text": "Add the cucumber half-moons and rinsed salad leaves to the bowl of marinated tomatoes. Crumble in the drained feta, toss until coated, and set aside for serving. In a small bowl, loosen the chimichurri with olive oil in 5ml increments until drizzling consistency."
+    },
+    {
+      "step": 6,
+      "title": "SASSY STEAK SUPPER",
+      "text": "Plate the crispy wedges alongside the fragrant beef rump slices. Drizzle the chimichurri over the beef. Serve the fresh salad on the side with a scattering of toasted sunflower seeds. Time for your taste buds to tango!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 524.0,
+    "energy_kcal": 128.0,
+    "protein_g": 7.7,
+    "carbs_g": 8.0,
+    "sugars_g": 3.0,
+    "fibre_g": 1.5,
+    "fat_g": 5.0,
+    "saturated_fat_g": 1.8,
+    "sodium_mg": 181.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "Sweet potatoes are rich in fibre, which stabilises digestion and nutrient absorption. This helps to reduce blood sugar spikes and keep you feeling fuller for longer!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

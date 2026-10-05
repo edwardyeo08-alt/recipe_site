@@ -1,0 +1,129 @@
+{
+  "recipe_number": 135,
+  "title": "Higgs' Ambrosial Aubergine Ravioli",
+  "subtitle": "with ricotta, sun-dried tomato & sage",
+  "description": "Sweet sun-dried tomato & aubergine ravioli, rounded off with fresh zesty ricotta and crispy sage – traditional flavours that you just can't beat. The trick of this dish is to cook the aubergine to perfection, the rest just rolls out from there.",
+  "chef": "David Higgs",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 25,
+  "wine_pairing": "Haute Cabrière | Pinot Noir Unwooded",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Aubergine",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "cut into bite-sized chunks"
+    },
+    {
+      "name": "Sun-dried Tomato & Aubergine Ravioli",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Sage",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed, picked & dried"
+    },
+    {
+      "name": "Ricotta",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Sun-dried Tomatoes",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Balsamic Reduction",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "AWESOME AUBS",
+      "text": "Preheat the oven to 200°C. Place the aubergine chunks on a roasting tray, coat in oil, season and evenly spread out, skin-side down. Roast in the hot oven for 20-25 minutes, shifting occasionally, until soft."
+    },
+    {
+      "step": 2,
+      "title": "LEMON-SAGE RICOTTA",
+      "text": "Bring a pot (for the ravioli) of salted water to the boil. Roughly slice ½ of the picked sage leaves. Combine the ricotta with lemon zest – to taste, the sliced sage, a drizzle of oil, and season. When the aubergine has 10 minutes to go, toss ½ the lemon-sage ricotta through the aubergine and return to the oven. This will help caramelise the aubergine and give the ricotta a slightly smoky taste."
+    },
+    {
+      "step": 3,
+      "title": "BOILED & DRESSED",
+      "text": "When the water is boiling, cook the ravioli for 2-3 minutes until al dente. Drain on completion. Gently toss through some oil to prevent sticking. Set aside. Place the rinsed green leaves in a bowl and toss with a drizzle of oil and seasoning."
+    },
+    {
+      "step": 4,
+      "title": "TOASTING",
+      "text": "Place a pan (large enough for the ravioli) over a medium heat with the sunflower seeds. Toast for 3-5 minutes until golden. Remove from the pan and set aside to cool."
+    },
+    {
+      "step": 5,
+      "title": "CRISP FINISH",
+      "text": "When the ravioli is done, return the pan to a medium-high heat with a knob of butter and a drizzle of oil. When the butter foams, fry the whole sage leaves, some lemon juice (to taste), and the ravioli in a single layer for 2-3 minutes per side, until golden, gently shaking the pan regularly to prevent sticking. Add the roasted ricotta-aubergine, the remaining fresh ricotta and the chopped sun-dried tomatoes. Toss to combine and season to taste."
+    },
+    {
+      "step": 6,
+      "title": "RAVISHING RAVIOLI",
+      "text": "Dish up the ravioli. Top with green leaves. Garnish with the toasted sunflower seeds. Drizzle over some balsamic glaze. There you have it!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 547.0,
+    "energy_kcal": 131.0,
+    "protein_g": null,
+    "carbs_g": 16.0,
+    "sugars_g": 4.4,
+    "fibre_g": 3.6,
+    "fat_g": 5.0,
+    "saturated_fat_g": 2.3,
+    "sodium_mg": 147.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punch punches through and obscures the protein value (in grams) in the Nutritional Information table."
+}

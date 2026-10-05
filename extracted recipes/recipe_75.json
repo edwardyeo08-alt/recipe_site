@@ -1,0 +1,144 @@
+{
+  "recipe_number": 75,
+  "title": "Thai Chicken Meatballs",
+  "subtitle": "with coconut milk, basmati, curried butternut & fresh lime",
+  "description": "The ideal blend of Thai flavours and healthy ingredients. A sauce made creamy with coconut milk, spicy with red curry paste, and nutritious with butternut, spinach, and brown basmati rice. Crowned with juicy, spice-infused chicken meatballs.",
+  "chef": "Tess Witney",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 45,
+  "overall_time_minutes": 65,
+  "wine_pairing": "No paired wines",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 400,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "quantity": 80,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pumpkin Chunks",
+      "quantity": 600,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Coconut Milk",
+      "quantity": 800,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Chicken Mince",
+      "quantity": 600,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cape Herb & Spice Thai 7 Spice",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cashew Nuts",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Limes",
+      "quantity": 2,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Pickled Bell Peppers",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "drained & finely diced"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BUBBLE THE RICE",
+      "text": "Preheat the oven to 200°C. Rinse the rice and place in a large pot with 800ml of salted water, cover, and place over a medium-high heat. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. On completion, drain if necessary and fluff up with a fork. Replace the lid and set aside to keep warm."
+    },
+    {
+      "step": 2,
+      "title": "START THE SAUCE",
+      "text": "Place a large pot for the curry over a medium heat with a drizzle of oil. When hot, sauté 3/4 of the diced onion for 5-6 minutes until soft and translucent. Mix in 2/3 of the curry paste (or to taste) and fry for another minute until fragrant, shifting constantly. Add the pumpkin pieces and fry for 3-4 minutes. Pour in the coconut milk and stir to incorporate. Bring to a simmer, cover, and cook for 15-20 minutes, stirring occasionally, until the pumpkin is tender."
+    },
+    {
+      "step": 3,
+      "title": "GET HANDS-ON",
+      "text": "In a bowl, combine the mince with the Thai 7 spice to taste. Mix in the remaining onion to preference and season to taste. Wet your hands slightly to stop the mixture from sticking, and roll into 4-5 meatballs per portion. Place on a greased baking tray and coat in a little oil."
+    },
+    {
+      "step": 4,
+      "title": "TOASTIN' & ROASTIN'",
+      "text": "Place the cashews in a small pan over a medium heat. Toast for 3-5 minutes until golden, shifting occasionally. Remove from the pan on completion and set aside. Roughly chop when cool enough to handle. Pop the tray of meatballs in the hot oven and bake for 7-8 minutes until browned but not cooked through, shifting halfway. Remove from the oven on completion."
+    },
+    {
+      "step": 5,
+      "title": "FINAL TOUCHES",
+      "text": "Once the curry has thickened and the pumpkin has softened, mix in some more curry paste if you'd like it spicier. Stir through the shredded spinach and pop in the meatballs. Simmer for 4-5 minutes until the meatballs are cooked through, basting occasionally. Season to taste with lime juice, zest, salt, and pepper. Remove from the heat on completion. Toss 1/2 of the chopped coriander through the cooked rice."
+    },
+    {
+      "step": 6,
+      "title": "BOWL UP!",
+      "text": "Serve up some rice and spoon over the Thai curry and meatballs. Scatter over the diced pickled peppers, chopped cashews, and remaining coriander. Garnish with a lime wedge and get to it!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 518.0,
+    "energy_kcal": 124.0,
+    "protein_g": 5.1,
+    "carbs_g": 13.0,
+    "sugars_g": 2.6,
+    "fibre_g": 1.9,
+    "fat_g": 5.8,
+    "saturated_fat_g": 3.5,
+    "sodium_mg": 274.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "To check if your meatball mince mixture is seasoned enough, first fry a bite-sized piece for 1-2 minutes until cooked through. Taste to test and add more seasoning to the raw mixture if needed.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

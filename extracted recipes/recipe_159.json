@@ -1,0 +1,134 @@
+{
+  "recipe_number": 159,
+  "title": "Vegan Falafel Buddha Bowl",
+  "subtitle": "with Tex-Mex corn and beans, pickled peppers & cashew cream cheese",
+  "description": "The Buddha bowl has teamed up with Tex-Mex! Sink into a zingy slaw and lettuce base, crispy beetroot falafel, and a corn, black bean, and pickled pepper chilli. Completed by cashew cream cheese dressing and smoky chipotle flakes for a nutritious, vegan, fusion treat.",
+  "chef": "Lauren Todd",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Anthonij Rupert | L'Ormarins Brut Classique NV",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Outcast Crazy Falafel Mix",
+      "quantity": 110,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Shredded Cabbage & Julienne Carrot",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Cashew Nut Cream Cheese",
+      "quantity": 85,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Corn",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Black Beans",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Pickled Peppers",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "NOMU Smoked Chipotle Flakes",
+      "quantity": 5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "STOCK & FALAFEL PREP",
+      "text": "Boil the kettle. Place the falafel mix, a pinch of salt, and 200ml of boiling water in a shallow bowl. Mix well to combine but not for longer than about 30 seconds. Cover with a plate and set aside for at least 10 minutes. Dilute the stock with 100ml of boiling water and set aside."
+    },
+    {
+      "step": 2,
+      "title": "ZESTY SALAD & NUTTY CREAM CHEESE",
+      "text": "Place the shredded green leaves and the cabbage and carrot in a bowl. Toss together with a drizzle of oil, lemon zest, and the juice of 2 lemon wedges. Set aside. Loosen the cashew cream cheese with water in 5ml increments until drizzling consistency. Season and set aside."
+    },
+    {
+      "step": 3,
+      "title": "SAUCY BEANS & CORN",
+      "text": "Place a pan over a high heat with a drizzle of oil. When hot, fry the corn and drained black beans for 4-6 minutes until slightly charred, shifting occasionally. Lower the heat, stir in the diluted stock, the chopped pickled peppers, and the chipotle flakes to taste. Bring to a simmer and cook for 1-2minutes until slightly reduced. On completion, stir through 2 tbsp of the loosened cream cheese and season with salt, pepper, and a sweetener of choice. Transfer to a bowl, cover, and set aside."
+    },
+    {
+      "step": 4,
+      "title": "FALAFEL FUN",
+      "text": "Roll the falafel mixture into 4-5 balls per portion and gently flatten to form mini patties. Wipe down the pan and return it to a medium heat with enough oil to cover the base. When hot, fry the falafel patties for 3-4 minutes per side until crispy, turning as they start to colour. Remove from the pan on completion and drain on paper towel."
+    },
+    {
+      "step": 5,
+      "title": "LET'S MUNCH",
+      "text": "Plate up the zesty salad and layer with saucy beans and corn. Top with the crispy falafels, drizzles of cream cheese dressing, and a sprinkling of chopped coriander. Finish off with any remaining lemon zest and chipotle flakes to taste. Serve with a lemon wedge on the side and dig in, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 550.0,
+    "energy_kcal": 131.0,
+    "protein_g": 5.4,
+    "carbs_g": 16.0,
+    "sugars_g": 4.2,
+    "fibre_g": 5.6,
+    "fat_g": 3.7,
+    "saturated_fat_g": 0.2,
+    "sodium_mg": 371.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "Draining and rinsing tinned beans, lentils, and chickpeas before use drastically reduces the amount of sodium you're adding to your meal.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

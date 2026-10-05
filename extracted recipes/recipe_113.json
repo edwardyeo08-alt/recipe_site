@@ -1,0 +1,123 @@
+{
+  "recipe_number": 113,
+  "title": "Cacio e Pepe Bacon Gnocchi",
+  "subtitle": "with sun-dried tomato & fresh leaves",
+  "description": "UCOOK’s own take on a Cacio e Pepe! Tender potato gnocchi is tossed in a creamy black pepper & mozzarella sauce, with salty bacon bits dispersed throughout. It is sprinkled with chopped sun-dried tomatoes and is served alongside bright green leaves.",
+  "chef": "Kate Gomba",
+  "category": "Quick & Easy",
+  "servings": 2,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 20,
+  "wine_pairing": "Boschendal | Chardonnay Pinot Noir",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Streaky Pork Bacon",
+      "quantity": 6,
+      "unit": "strips",
+      "prep": null
+    },
+    {
+      "name": "Potato Gnocchi",
+      "quantity": 350,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Cream",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Crushed Black Peppercorns",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Grated Mozzarella",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Italian-style Hard Cheese",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "½ peeled into ribbons & ½ grated"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Sun-dried Tomatoes",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "MAKIN' THE BACON",
+      "text": "Boil the kettle. Place a pan over a high heat with a drizzle of oil. When hot, fry the bacon for 2 minutes per side until golden and crispy. Remove from the pan and drain on paper towel. Roughly chop when cool enough to handle."
+    },
+    {
+      "step": 2,
+      "title": "GNOCCHI ON THE GO",
+      "text": "Place a pot for the gnocchi over a high heat. Fill with boiling water, add a pinch of salt, and bring back up to the boil. Once boiling, cook the gnocchi for 2-3 minutes until they begin to float and are heated through. Drain on completion, reserving a cup of gnocchi water, and place in a bowl. Toss through some oil to prevent sticking."
+    },
+    {
+      "step": 3,
+      "title": "WHEN THE GNOCCHI IS DONE...",
+      "text": "Return the pot to a medium heat. Add the cream, the crushed black peppercorns (to taste), and the grated mozzarella. Once starting to bubble, vigorously stir until the cheese is melted. If the sauce is too thick, add a splash of the reserved gnocchi water until silky and smooth. Add the cooked gnocchi, the grated hard cheese, and ½ the chopped bacon. Toss until fully combined. Loosen with more pasta water if necessary. Season to taste."
+    },
+    {
+      "step": 4,
+      "title": "TOSS TOGETHER",
+      "text": "In a salad bowl, combine the rinsed green leaves, the cheese ribbons, a drizzle of oil, and seasoning."
+    },
+    {
+      "step": 5,
+      "title": "BELLISSIMO!",
+      "text": "Pile up the creamy gnocchi. Sprinkle over the remaining bacon and the chopped sun-dried tomatoes. Serve the fresh salad on the side. Garnish with a sprinkle of the chopped, fresh parsley. Buon appetito, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 1097.0,
+    "energy_kcal": 262.0,
+    "protein_g": 9.0,
+    "carbs_g": 11.0,
+    "sugars_g": 2.6,
+    "fibre_g": 3.8,
+    "fat_g": 20.0,
+    "saturated_fat_g": 9.7,
+    "sodium_mg": 542.6
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Nutritional information partially obscured by binder ring hole (Energy kcal unit and potentially Protein digit)."
+}

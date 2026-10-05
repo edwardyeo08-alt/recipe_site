@@ -1,0 +1,137 @@
+{
+  "recipe_number": 38,
+  "title": "Argentinian Asado-Style Burritos",
+  "subtitle": "with soft tortillas, salsa criolla & chimichurri",
+  "description": "Soft wheat flour tortillas burst with South American flavours: juicy, spiced sirloin, charred corn, crème fraîche, jalapeño salsa, and fragrant chimichurri. All you need is a cold beverage, and you’ll be soaking up the Argentinian sun in no time!",
+  "chef": "Lauren Todd",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 35,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Crème Fraîche",
+      "quantity": 60.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "White Wine Vinegar",
+      "quantity": 30.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 160.0,
+      "unit": "g",
+      "prep": "rinsed & quartered"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "peeled & diced"
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Corn",
+      "quantity": 150.0,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Free-range Beef Sirloin",
+      "quantity": 320.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Mexican Spice Blend",
+      "quantity": 15.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Soft Wheat Flour Tortillas",
+      "quantity": 4.0,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Pesto Princess Chimichurri",
+      "quantity": 30.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter",
+    "Paper Towel",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "CRÈME FRAÎCHE & SALSA CRIOLLA",
+      "text": "Season the crème fraîche to taste and set aside for serving. Place the white wine vinegar in a bowl with 2 tbsp of warm water. Add 2 tsp of a sweetener of choice and mix until dissolved. Toss through the quartered baby tomatoes, the diced onion, and the chopped pickled jalapeños (to taste). Season and set aside to pickle until serving."
+    },
+    {
+      "step": 2,
+      "title": "CHAR THE CORN",
+      "text": "Place a nonstick pan over a high heat with a drizzle of oil. When hot, fry the drained corn for 4-5 minutes until charred, shifting occasionally. Remove from the pan on completion, cover to keep warm, and set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "CARNE ASADA",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil. Pat the steak dry with paper towel. When the pan is hot, sear the steak fat-side down for 3-5 minutes until crispy. Then, fry each side for 2-4 minutes or until cooked to your preference. (This time frame may depend on the thickness of the steak.) During the final 1-2 minutes, baste with a knob of butter and the Mexican spice blend to taste. Remove from the pan on completion and allow to rest for 5 minutes before slicing. Season the slices to taste."
+    },
+    {
+      "step": 4,
+      "title": "TOAST THOSE TORTILLAS",
+      "text": "Place a clean pan over a medium heat. When hot, dry toast the tortillas one at a time for 30-60 seconds per side until heated and lightly crisped. Remove from the pan on completion and stack on a plate as you go to keep warm."
+    },
+    {
+      "step": 5,
+      "title": "BUILD-A-BURRITO",
+      "text": "Lie the toasted tortillas out flat and smear over the crème fraîche and chimichurri. In the centre, create a layer of shredded green leaves, charred corn, and salsa criolla — use or lose the pickling liquid! Finally, top with the smoky sirloin slices. Fold it all up and use those hands to get stuck in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 673.0,
+    "energy_kcal": 163.0,
+    "protein_g": 8.2,
+    "carbs_g": 14.0,
+    "sugars_g": 2.7,
+    "fibre_g": 1.7,
+    "fat_g": 5.6,
+    "saturated_fat_g": 2.3,
+    "sodium_mg": 278.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "You can reserve any liquid from the pickled jalapeños and use it to season the meal further if you'd like some extra tang.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

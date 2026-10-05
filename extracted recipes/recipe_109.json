@@ -1,0 +1,118 @@
+{
+  "recipe_number": 109,
+  "title": "Flaky Trout & Bean Purée",
+  "subtitle": "with baby tomatoes & spinach",
+  "description": "Trout fillet is coated in a seafood spice mix before being pan fried and basted in butter. It is served with a smooth cannellini bean purée and finished off with a bean, tomato, onion and spinach veggie mix. A final flourish of lemon juice for some zing and there you have it!",
+  "chef": "Kate Gomba",
+  "category": "Carb Conscious",
+  "servings": 3,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Boschendal | 1685 Sauvignon Blanc",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "¾ peeled & finley sliced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 3,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Cannellini Beans",
+      "quantity": 360,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Rainbow Trout Fillets",
+      "quantity": 3,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Seafood Rub",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemons",
+      "quantity": 2,
+      "unit": null,
+      "prep": "1½ cut into wedges"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "cut in half"
+    },
+    {
+      "name": "Spinach",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 12,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Blender",
+    "Paper Towel",
+    "Butter (optional)",
+    "Milk (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "AS PURÉE AS GOLD",
+      "text": "Place a pot over a medium heat with a drizzle of oil. When hot, fry ½ the sliced onion for 4-5 minutes until soft and translucent, shifting occasionally. Add the grated garlic and fry for 1 minute until fragrant, shifting constantly. Add ½ the drained beans and 150ml of water. Mix until fully combined and leave to simmer for 5-6 minutes until warmed through and almost all the liquid has evaporated. On completion, place the mixture into a blender with a splash of warm water or milk and pulse until smooth. Season to taste. Return to the pot and cover to keep warm."
+    },
+    {
+      "step": 2,
+      "title": "DREAMY TROUT",
+      "text": "Pat the trout dry with some paper towel. Coat the flesh with ½ the rub (to taste). Place a large pan over a medium-high heat with a drizzle of oil. When hot, fry the trout skin-side down for 2-3 minutes until crispy. Flip and fry for a further 30-60 seconds or until cooked through. In the final 1-2 minutes, baste with a knob of butter or a drizzle of oil, and a squeeze of lemon juice. Remove from the pan on completion and lightly season."
+    },
+    {
+      "step": 3,
+      "title": "VEGGIE MIX",
+      "text": "Return the pan to a medium heat with a drizzle of oil. When hot, add the halved baby tomatoes, the remaining beans and onion, and the rinsed spinach. Fry for 3-4 minutes until the spinach has wilted, shifting occasionally. In the final minute, add the remaining rub and seasoning."
+    },
+    {
+      "step": 4,
+      "title": "DORADO THE DELISH FISH!",
+      "text": "Smear the bean purée onto a plate. Side with the spiced trout and the warm veggie mix. Finish it off with a scattering of chopped parsley and side with any remaining lemon wedges. Well done, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 341.0,
+    "energy_kcal": 82.0,
+    "protein_g": 7.2,
+    "carbs_g": 8.0,
+    "sugars_g": 1.4,
+    "fibre_g": 2.3,
+    "fat_g": 2.0,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 205.0
+  },
+  "allergens": [
+    "Allium",
+    "Fish"
+  ],
+  "chef_tip": "If you don't own a blender, make a rustic bean purée. After simmering your beans, simply mash with a potato masher or fork, pour in the milk or splash of water and mix, mix, mix!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

@@ -1,0 +1,137 @@
+{
+  "recipe_number": 53,
+  "title": "Mediterranean Chicken Mezze Platter",
+  "subtitle": "with mushrooms, hummus & pita bread",
+  "description": "A mini mezze platter for dinner! What could be better? Pan-fried baby tomatoes and mushrooms, creamy feta, tangy pickled peppers, soft pita breads, light tzatziki, smooth hummus and the juiciest chicken mince make up this delectable plate of tasty delights!",
+  "chef": "Hannah Duxbury",
+  "category": "Quick & Easy",
+  "servings": 2,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 20,
+  "wine_pairing": "Boschendal | 1685 Sauvignon Blanc",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Button Mushrooms",
+      "quantity": 250,
+      "unit": "g",
+      "prep": "wiped clean & halved"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "halved"
+    },
+    {
+      "name": "Whole Wheat Pita Breads",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Free-range Chicken Mince",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Provençal Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Oregano",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Pickled Bell Peppers",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Tzatziki",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Hummus",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BEAUTIFUL & BLISTERED",
+      "text": "Preheat the oven to 200°C. Place a nonstick pan over a medium-high heat with a drizzle of oil and a knob of butter (optional). When hot, add the halved mushrooms and tomatoes and fry for 3-5 minutes until golden and starting to blister, shifting occasionally. In the final minute, add a sweetener of choice (to taste) and some seasoning. Remove from the pan on completion and cover to keep warm."
+    },
+    {
+      "step": 2,
+      "title": "TOASTY PITAS",
+      "text": "Quarter the pita breads and place on a baking tray. Pop in the hot oven for 3-4 minutes until heated through and starting to crisp."
+    },
+    {
+      "step": 3,
+      "title": "MINCE CITY",
+      "text": "Return the pan to a high heat with a drizzle of oil and a knob of butter (optional). When hot, add the mince and work quickly to break it up as it starts to cook. Allow to caramelise for 3-4 minutes until browned, stirring occasionally. In the final minute, add the rub, 1/2 the chopped oregano, and some seasoning. Cover to keep warm."
+    },
+    {
+      "step": 4,
+      "title": "FEELIN' FRESH",
+      "text": "In a bowl, add the rinsed green leaves, the chopped peppers, a drizzle of oil, and seasoning. Crumble in the drained feta and toss until fully combined."
+    },
+    {
+      "step": 5,
+      "title": "A-MEZZE-ING!",
+      "text": "Plate up the herby chicken mince alongside the tomato and mushroom mix, the pepper salad, the pita triangles, the tzatziki, and the hummus. Sprinkle over the remaining oregano. A mini mezze platter all for you! Opa, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 512.0,
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbs_g": null,
+    "sugars_g": 1.5,
+    "fibre_g": 1.9,
+    "fat_g": 4.3,
+    "saturated_fat_g": 1.5,
+    "sodium_mg": 270.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole and metal ring obscure the Energy (kcal), Protein, and Carbs values in the Nutritional Information table."
+}

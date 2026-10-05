@@ -1,0 +1,141 @@
+{
+  "recipe_number": 16,
+  "title": "Honeyed Baby Carrots & Beef Sirloin",
+  "subtitle": "with herb-crusted feta & a pearl barley salad",
+  "description": "Tender beef sirloin is the star of this dish! It is complemented by nutty barley loaded with fresh cucumber, sprinkled with herb-crusted feta, and served with honeyed carrots & crunchy almonds.",
+  "chef": "Thea Richter",
+  "category": "Adventurous Foodie",
+  "servings": 3,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 55,
+  "wine_pairing": "Paserene | Midnight Cabernet Sauvignon",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Pearled Barley",
+      "quantity": 225,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Mixed Herbs",
+      "quantity": 24,
+      "unit": "g",
+      "prep": "12g Fresh Mint & 12g Fresh Dill"
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 90,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Baby Carrot Medley",
+      "quantity": 360,
+      "unit": "g",
+      "prep": "rinsed & halved, keeping the stems intact"
+    },
+    {
+      "name": "Almonds",
+      "quantity": 45,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Honey",
+      "quantity": 45,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Sirloin",
+      "quantity": 480,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Beef Rub",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "roughly diced"
+    },
+    {
+      "name": "Cabernet Sauvignon Balsamic Vinegar",
+      "quantity": 45,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BARLEY",
+      "text": "Place the pearl barley in a pot with 1L of salted water. Bring to the boil. Once boiling, reduce the heat. Simmer for 35-40 minutes until al dente, stirring occasionally. Add more water, if necessary. Drain, if necessary, and season."
+    },
+    {
+      "step": 2,
+      "title": "PREP",
+      "text": "Finely chop the mixed herbs and place ¾ in a bowl. Add the feta to the bowl and toss until coated in the herbs. Set aside."
+    },
+    {
+      "step": 3,
+      "title": "CARROTS",
+      "text": "Place a large pan, with a lid, over medium-high heat with a drizzle of oil. When hot, add the halved baby carrots and a splash of water. Cover with the lid and simmer for 6-7 minutes until the carrots have softened and the water has evaporated."
+    },
+    {
+      "step": 4,
+      "title": "ALMONDS & HONEY",
+      "text": "Once the carrots have softened, remove the lid and add a generous knob of butter to the pan. Fry for 4-6 minutes until browned, shifting occasionally. In the final minute, add ½ the chopped almonds. Remove from the heat and toss through the honey. Season and cover to keep warm."
+    },
+    {
+      "step": 5,
+      "title": "SIRLOIN",
+      "text": "When the carrots have 5-7 minutes remaining, place a pan over medium-high heat with a drizzle of oil. Pat the sirloin dry with paper towel. When the pan is hot, sear the sirloin, fat-side down, for 3-5 minutes until crispy. Then, fry for 2-4 minutes per side, or until cooked to your preference (this time frame may depend on the thickness of the sirloin). During the final 1-2 minutes, baste with a knob of butter and the rub. Remove from the pan, reserving the pan juices, and rest for 5 minutes before slicing and seasoning."
+    },
+    {
+      "step": 6,
+      "title": "SALAD",
+      "text": "In a bowl, combine the cooked barley, the diced cucumber, the remaining almonds, the remaining herbs, the vinegar, seasoning, and a drizzle of olive oil."
+    },
+    {
+      "step": 7,
+      "title": "TIME TO DINE!",
+      "text": "Plate up the barley salad and side with the sirloin slices drizzled with any reserved pan juices. Serve with the honeyed carrots, drizzled with any remaining honey sauce. Sprinkle over the herb-crusted feta and any remaining herbs. There you have it, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 730.0,
+    "energy_kcal": 174.0,
+    "protein_g": null,
+    "carbs_g": 15.0,
+    "sugars_g": 5.0,
+    "fibre_g": 2.9,
+    "fat_g": 6.1,
+    "saturated_fat_g": 1.9,
+    "sodium_mg": 119.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in the Nutritional Information table is obscured and punched out by the top binder ring."
+}

@@ -1,0 +1,147 @@
+{
+  "recipe_number": 104,
+  "title": "Scrumptious Squid Paella",
+  "subtitle": "with pickled pepper & fresh parsley",
+  "description": "This dish is a fun & easy twist on traditional paella. It features squid as the protein, which is cooked in a delicious broth of tomatoes, Spanish aromatics and golden wine. Pickled peppers & peas are added for a pop of acidity & brightness. A true crowd pleaser and perfect for sharing with friends and family.",
+  "chef": "Rhea Hsu",
+  "category": "Adventurous Foodie",
+  "servings": 3,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Waterford Estate | Waterford Pecan Stream Chenin Blanc 2021",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "1½ peeled & roughly diced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "NOMU Spanish Rub",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Tomato Paste",
+      "quantity": 45,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Golden Wine",
+      "quantity": 97.5,
+      "unit": "ml",
+      "prep": "7,5ml Ground Turmeric & 90ml White Wine"
+    },
+    {
+      "name": "Risotto Rice",
+      "quantity": 300,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pickled Bell Peppers",
+      "quantity": 90,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Lemons",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 12,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Squid Heads & Tubes",
+      "quantity": 450,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Tinfoil",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "SO SOFRITO!",
+      "text": "Boil a full kettle. Place a pan, big enough for the paella, over medium heat with a drizzle of oil. When hot, add the diced onion and fry for 6-8 minutes until soft and browned, shifting occasionally. Add the grated garlic, the rub, and the tomato paste. Fry for 1-2 minutes until fragrant, shifting occasionally. Pour in the golden wine and cook for 1-2 minutes or until almost evaporated."
+    },
+    {
+      "step": 2,
+      "title": "FLAVOURFUL RICE",
+      "text": "When almost all of the wine has evaporated, stir through the rice and ½ the chopped pickled peppers. Fry for 1-2 minutes until combined. Add the cooked chopped tomato and mix until combined. Slowly pour in 900ml of boiling water. Bring to a boil, reduce the heat to low, and simmer for 20-25 minutes until the rice is al dente and all the liquid has been absorbed. If the rice is still undercooked, add an extra splash of water and simmer until al dente."
+    },
+    {
+      "step": 3,
+      "title": "PREP STEP",
+      "text": "While the paella is simmering, zest and cut the lemons into wedges. Rinse, pick and roughly chop the parsley."
+    },
+    {
+      "step": 4,
+      "title": "KEEP IT ZESTY",
+      "text": "Once the paella is cooked, add the peas and ½ the chopped parsley. Season with a squeeze of lemon juice, the lemon zest (to taste), a sweetener of choice (to taste), salt and pepper. Cover with tinfoil and let the paella steam, off the heat, for 5-8 minutes."
+    },
+    {
+      "step": 5,
+      "title": "SIZZLING SQUID",
+      "text": "Rinse the squid to remove any residue from the packet. Pat dry with paper towel. Cut into bite-sized pieces. Place a pan or griddle pan over high heat with a drizzle of oil. When hot, sauté the squid for 3-4 minutes until cooked through and charred. Lightly season and squeeze over some lemon juice."
+    },
+    {
+      "step": 6,
+      "title": "INDULGE YOUR SENSES",
+      "text": "Dish up the paella. Scatter over the seared squid and the remaining pickled peppers. Garnish with the remaining chopped parsley and serve with any remaining lemon wedges. Stunning, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 455.0,
+    "energy_kcal": 109.0,
+    "protein_g": null,
+    "carbs_g": 18.0,
+    "sugars_g": 3.6,
+    "fibre_g": 2.0,
+    "fat_g": 0.6,
+    "saturated_fat_g": 0.1,
+    "sodium_mg": 189.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Alcohol",
+    "Shellfish/Seafood"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in nutritional information table is punched out by the binder ring hole."
+}

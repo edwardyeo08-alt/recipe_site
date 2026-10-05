@@ -1,0 +1,136 @@
+{
+  "recipe_number": 181,
+  "title": "The Yee-Haw Cowboy Kassler",
+  "subtitle": "with a potato and corn mash & ranch sauce",
+  "description": "Yee-Haw indeed! Dig in to our North American-inspired juicy pork kassler steak. Lassoed in creamy ranch sauce, alongside a fresh salad, served with corn-laden potato mash, sprinkled with crispy onions and a squeeze of lemon juice. Hot diggity-dang; a mouth-watering dinner awaits!",
+  "chef": "Thea Richter",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Haute Cabrière | von Arnim Family Reserve",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "peeled (optional) & cut into bite-sized chunks"
+    },
+    {
+      "name": "NOMU Chipotle Flakes",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Ranch Dressing",
+      "quantity": 165,
+      "unit": "ml",
+      "prep": "(40ml Buttermilk, 120ml Plain Yoghurt & 5ml Dijon Mustard)"
+    },
+    {
+      "name": "Fresh Chives",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "cut into wedges"
+    },
+    {
+      "name": "Corn",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pork Kassler Loin Steak",
+      "quantity": 360,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & gently shredded"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "halved"
+    },
+    {
+      "name": "Crispy Onions",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Milk (optional)",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "FLUFFY MASH",
+      "text": "Place a pot on a high heat with cold salted water. Add the potato chunks and bring to the boil. Once boiling, reduce the heat and simmer for 10-15 minutes until tender. Drain on completion and mash with a potato masher or fork until desired consistency. Add a knob of butter (optional), stir through a splash of milk or water and mix to combine. Season and cover to keep warm."
+    },
+    {
+      "step": 2,
+      "title": "BACK AT THE RANCH",
+      "text": "Place a small pot over a medium heat with 30ml of oil. When hot, fry ½ the chipotle flakes for 30-60 seconds until fragrant, shifting constantly. Add in the ranch dressing and ¾ of the chopped chives. Whisk together with the juice of 2 lemon wedges and some seasoning to taste. Once well combined, remove from the pot and place in a bowl to cool down."
+    },
+    {
+      "step": 3,
+      "title": "CORNY MASH",
+      "text": "Place a pan over a high heat with a drizzle of oil. When hot, fry the corn for 4-5 minutes until charred, shifting occasionally. Remove from the pan and mix through the mashed potatoes."
+    },
+    {
+      "step": 4,
+      "title": "LASSO THAT KASSLER",
+      "text": "Pat the pork kassler dry with a paper towel. Coat in oil and the remaining chipotle flakes to taste. Using a pair of kitchen scissors or a knife, make a few shallow incisions along the fat to prevent the meat from warping during frying. Return the pan to a medium-high heat. When hot, sear the kassler fat-side down for 3-5 minutes until the fat renders and becomes crispy. Then, fry for 3-4 minutes per side until cooked through and browned. Remove from the pan and set aside until serving."
+    },
+    {
+      "step": 5,
+      "title": "PULL IT IN ...",
+      "text": "Place the shredded leaves, halved baby tomatoes and remaining chives in a salad bowl. Add in ½ the ranch sauce to taste and some seasoning and mix until the leaves are fully coated. Set aside for serving."
+    },
+    {
+      "step": 6,
+      "title": "YEEHAW, COWBOY!",
+      "text": "Plate up a generous heap of the corn mash. Place the crispy pork kassler alongside it and drizzle over the remaining ranch sauce. Side with the ranchy salad and sprinkle over the crispy onions. Serve with any remaining lemon wedges and tuck in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 430.0,
+    "energy_kcal": 103.0,
+    "protein_g": null,
+    "carbs_g": 10.0,
+    "sugars_g": 1.0,
+    "fibre_g": 1.5,
+    "fat_g": 4.4,
+    "saturated_fat_g": 1.8,
+    "sodium_mg": 282.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is partially punched out by the binder ring hole (shows partial digit/dot ending in '3g', likely ~5.3g-6.3g); unit for Energy (kcal) also clipped by the hole."
+}

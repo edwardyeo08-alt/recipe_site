@@ -1,0 +1,132 @@
+{
+  "recipe_number": 155,
+  "title": "Magnificent Moonshine Bowl",
+  "subtitle": "with black rice, roast cauliflower, pecans & coconut yoghurt",
+  "description": "Indulge in the opulence of black rice topped with a luxurious roast: cauliflower coated in a fragrant rub, crispy butter beans, and molasses-glazed beetroot. All bejewelled with crunchy pecans and dried apricots.",
+  "chef": "Fatima Ellemdeen",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Lanzerac Estate | Keldermeester Versameling Bergstroom",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Black Rice",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Beetroot",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "rinsed, trimmed & cut into bite-sized chunks"
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cauliflower Florets",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Butter Beans",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "NOMU One For All Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pecan Nuts",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Coconut Yoghurt",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Dried Apricots",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BOUNCY BLACK RICE",
+      "text": "Preheat the oven to 200°C. Rinse the rice and place in a pot over a medium heat. Submerge in 600ml of salted water and pop on a lid. Once boiling, reduce the heat and simmer for 30-35 minutes until the water has been absorbed. On completion, the rice should be cooked but still bouncy. If it starts to dry out during the cooking process, add more water in small increments. Remove from the heat on completion and drain if necessary. Cover with the lid and set aside until serving."
+    },
+    {
+      "step": 2,
+      "title": "DRESSED TO IMPRESS",
+      "text": "Spread out the beetroot chunks on a roasting tray. Coat in oil, 1/2 of the pomegranate molasses, and some seasoning. Place the cauliflower pieces and drained butter beans on a separate roasting tray. Coat in oil, the One For All Rub, and a little seasoning. Spread out in a single layer and roast in the hot oven for 30-35 minutes until cooked through and crisp, shifting halfway."
+    },
+    {
+      "step": 3,
+      "title": "TOAST THOSE NUTS",
+      "text": "Place the pecan nuts in a pan over a medium heat. Toast for 5-6 minutes until golden, shifting occasionally. Remove from the pan on completion and set aside. Roughly chop when cool enough to handle."
+    },
+    {
+      "step": 4,
+      "title": "MINTY YOGHURT DRESSING",
+      "text": "In a bowl, combine the coconut yoghurt, 1/2 of the chopped mint, and 20ml of olive oil. Mix in the remaining pomegranate molasses (to taste) and season. Toss a drizzle of olive oil and some seasoning through the rinsed green leaves."
+    },
+    {
+      "step": 5,
+      "title": "GRAB A BOWL!",
+      "text": "Dish up a base of steamy black rice. Cover in the fragrant veg and sweet beets. Top with the dressed leaves and dollop over the dairy-free dressing. Garnish with the chopped pecans, remaining mint, and chopped dried apricots. Have a seat, Chef..."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 500.0,
+    "energy_kcal": 120.0,
+    "protein_g": 3.0,
+    "carbs_g": 19.0,
+    "sugars_g": 5.0,
+    "fibre_g": 4.0,
+    "fat_g": 2.9,
+    "saturated_fat_g": 0.6,
+    "sodium_mg": 106.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "In Ancient China, black rice was believed to be superior to other types of rice due to its rich health benefits and powerful medicinal properties. During cooking, it releases a natural dye, so avoid staining by using a stainless steel pot.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

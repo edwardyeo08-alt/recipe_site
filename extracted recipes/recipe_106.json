@@ -1,0 +1,147 @@
+{
+  "recipe_number": 106,
+  "title": "Panko Crusted Mussel Boats",
+  "subtitle": "with savoury rice & a creamy lemon sauce",
+  "description": "A traditional seafood dish reminiscent of being whisked away to a small town by the ocean. Mouthfuls of these gorgeous cheesy crumb-filled mussels and savoury rice, laced with beautifully charred vegetables, can only be perfected by the drizzles of a lemon and white wine creamy sauce. Not a drop to be wasted!",
+  "chef": "Megan Bure",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "White Basmati Rice",
+      "quantity": 300,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed, trimmed & finely diced"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "peeled, trimmed & finely diced"
+    },
+    {
+      "name": "Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 4,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "De-alcoholised White Wine",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Cream",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemons",
+      "quantity": 2,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Cheesy Crumb",
+      "quantity": 260,
+      "unit": "ml",
+      "prep": "200ml Panko Breadcrumbs & 60ml Grated Italian-style Hard Cheese"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed, picked & finely chopped"
+    },
+    {
+      "name": "Mussels",
+      "quantity": 800,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "drained"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "STEAMY RICE",
+      "text": "Preheat the oven to 200°C. Rinse the rice and place in a pot over a medium-high heat. Submerge in 600ml of salted water and pop on a lid. Once boiling, reduce the heat and simmer for 8-10 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. On completion, drain if necessary and fluff up with a fork. Cover to keep warm and set aside."
+    },
+    {
+      "step": 2,
+      "title": "CHARRED VEGGIES",
+      "text": "Place a pan over a medium heat with a drizzle of oil. When hot, fry the diced baby marrow pieces for 6-7 minutes until charred. Remove from the pan on completion and place in a bowl. Return the pan to the heat with another drizzle of oil. Fry the diced carrots for 8-10 minutes until browned and caramelized. Remove from the pan and add to the bowl of baby marrows. Season to taste."
+    },
+    {
+      "step": 3,
+      "title": "NICE RICE",
+      "text": "Once the rice is cooked, stir through the peas, charred carrots and baby marrow pieces. Cover to keep warm for serving."
+    },
+    {
+      "step": 4,
+      "title": "LEMON CREAM SAUCE",
+      "text": "Wipe down the pan if necessary and return it to a medium-high heat with a drizzle of oil. When hot, fry the diced onions for 6-8 minutes until soft and translucent, shifting occasionally. Add in the grated garlic and fry for 1-2 minutes until fragrant, shifting constantly. Pour in the white wine and cook off until almost evaporated. Turn off the heat and stir through the cream and the juice of 4 lemon wedges. Season to taste, remove from the heat and cover."
+    },
+    {
+      "step": 5,
+      "title": "LACED CRUMB & CRISP MUSSELS",
+      "text": "In a small bowl combine the cheesy crumb with ½ of the chopped parsley. Add lemon zest and seasoning to taste. Place the mussel halves onto a roasting tray. Fill each one with 1-2 tsp of the cream sauce and a generous heap of the parsley and cheese crumb. Pop them into the oven to bake for 4-5 minutes until the crumb is crispy."
+    },
+    {
+      "step": 6,
+      "title": "TIME FOR A FLAVOUR TRIP!",
+      "text": "Plate up a gorgeous mound of veggie packed fluffy rice and nestle in the crispy mussel boats. Drizzle over the remaining creamy lemon sauce and finish off with a garnish of the remaining chopped parsley. What a feast!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 481.0,
+    "energy_kcal": 115.0,
+    "protein_g": null,
+    "carbs_g": 14.0,
+    "sugars_g": 2.2,
+    "fibre_g": 1.7,
+    "fat_g": 3.6,
+    "saturated_fat_g": 1.9,
+    "sodium_mg": 127.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Shellfish",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in nutritional information table is punched out by the binder ring hole."
+}

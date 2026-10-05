@@ -1,0 +1,141 @@
+{
+  "recipe_number": 166,
+  "title": "Warwick’s Butternut & Sage Risotto",
+  "subtitle": "with burnt butter, pumpkin seeds & balsamic vinegar",
+  "description": "A subtle balance of sweet and salty, this meal will fill your belly and warm your soul. A cheesy risotto is swirled with succulent mashed butternut, doused with decadent sage butter, and served with balsamic-dressed leaves. Stunning!",
+  "chef": "Tess Witney",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Butternut Chunks",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "cut into bite-size pieces"
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Arborio Rice",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "White Wine",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Sage",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Grated Italian-style Hard Cheese",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "OVEN-CARAMELISED BUTTERNUT",
+      "text": "Preheat the oven to 200°C. Spread out the butternut pieces on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "GO RISOTTO!",
+      "text": "Boil the kettle. Dilute the stock with 800ml of boiling water. Place a pot over a medium heat with a drizzle of oil. When hot, sauté the diced onion for 4-5 minutes until softened. Then, add in 60g of butter. Once foaming, add in the rice and grated garlic and stir for 30-60 seconds until coated. Mix in the wine and simmer until evaporated. Add a ladleful of stock and allow it to be absorbed by gently simmering, stirring regularly. Only add the next ladle of stock when the previous one has been fully absorbed. Repeat this process for 20-25 minutes until the rice is cooked al dente."
+    },
+    {
+      "step": 3,
+      "title": "POP THE SEEDS & CRISP THE SAGE",
+      "text": "When the risotto has 10 minutes remaining, place the pumpkin seeds in a pan over a medium heat. Toast for 3-5 minutes until beginning to pop and turn brown. Remove from the pan and set aside to cool. Return the pan to a medium-high heat with a drizzle of oil and 80g of butter. Once foaming, fry the sage leaves for 1 minute per side until crispy. (To make this easier, use tongs if you have them!) On completion, allow to drain on some paper towel. Reserve the sage-infused butter for serving."
+    },
+    {
+      "step": 4,
+      "title": "SMOOTH MASH",
+      "text": "When the butternut is cooked through and caramelised, remove from the oven and place ½ in a bowl. Mash with a fork or potato masher until smooth and add to the risotto. Stir through ¾ of the cheese until melted and evenly distributed. Season to taste and remove from the heat."
+    },
+    {
+      "step": 5,
+      "title": "JUST ONE MORE THING…",
+      "text": "Toss the rinsed green leaves with a drizzle of oil, some seasoning, and the balsamic vinegar to taste."
+    },
+    {
+      "step": 6,
+      "title": "DECADENT RISOTTO",
+      "text": "Dish up a generous mound of risotto and scatter with the remaining roast butternut. Top with the crispy sage leaves and drizzle over the sage butter to taste. Scatter with the toasted pumpkin seeds, sprinkle over the remaining cheese, and side with the dressed leaves. You're a natural, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 633.0,
+    "energy_kcal": 151.0,
+    "protein_g": 5.9,
+    "carbs_g": 21.0,
+    "sugars_g": 2.2,
+    "fibre_g": 2.5,
+    "fat_g": 4.0,
+    "saturated_fat_g": 1.7,
+    "sodium_mg": 593.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Alcohol"
+  ],
+  "chef_tip": "Taste the risotto as you go because you may not need to use all of the stock. However, if the rice isn't cooked after you've added it all, simply stir in a ladle of water to continue the cooking process.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

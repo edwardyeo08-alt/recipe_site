@@ -1,0 +1,140 @@
+{
+  "recipe_number": 9,
+  "title": "Cheesy BBQ Lamb Potato Bites",
+  "subtitle": "with a smoky black beans, spinach salad & tomato ragù",
+  "description": "The perfect partner for rich lamb goulash! Spiced with smoky chipotle and coated in a sticky BBQ sauce, sided by a mound of yummy black beans. As if this dish couldn't get any better, nuggets of crispy roast potatoes covered in gooey mozzarella, need we say more?",
+  "chef": "Kate Gomba",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Fat Bastard | The Golden Reserve",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & cut into bite-sized chunks"
+    },
+    {
+      "name": "NOMU Italian Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Beef Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Lamb Goulash",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Chipotle Chillies in Adobo",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Tomato Passata",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Grated Mozzarella",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Black Beans",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "BBQ Sauce",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GOLDEN POTATO NUGGETS",
+      "text": "Preheat the oven to 200°C. Boil the kettle for step 2. Spread out the potato chunks on a roasting tray. Coat in oil, the Italian Rub, and a little seasoning. Roast in the hot oven for 30-35 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "SPICY GOULASH",
+      "text": "Dilute the stock with 120ml of boiling water and set aside. Pat the lamb dry with paper towel. Place a pan over a medium heat with a drizzle of oil. When hot, sauté the diced onion for 4-5 minutes until soft and translucent. Add the lamb and fry for 2-3 minutes until browned but not cooked through, shifting as it colours. Stir in the chopped chipotles to taste (be careful, they're hot!) and fry for 30-60 seconds. Mix in the stock and the passata, and bring to a simmer. Lower the heat and cook for 12-15 minutes until reduced and thickened, stirring occasionally."
+    },
+    {
+      "step": 3,
+      "title": "MEANWHILE...",
+      "text": "Place ½ of the rinsed spinach in a bowl with a drizzle of oil and some seasoning. Toss coat and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "WE HEART CHEESE!",
+      "text": "When the potatoes have 5 minutes remaining, scatter over the mozzarella and turn the oven onto the grill setting. Cook for the remaining time until the cheese is melted and golden."
+    },
+    {
+      "step": 5,
+      "title": "FINAL TOUCHES",
+      "text": "When the goulash is nearing completion, mix in the drained black beans, the remaining spinach, and the BBQ sauce. Stir for 3-4 minutes until the beans are heated through. Season to taste with salt, pepper, and a sweetener of choice. Remove from the heat on completion."
+    },
+    {
+      "step": 6,
+      "title": "RELISH YOUR FABULOUS WORK",
+      "text": "Make a bed of spinach, smother with the spicy goulash, and plate up the cheesy potato bites alongside it. Serve with any remaining chipotles on the side in case you'd like some extra heat! Get ready for one of the tastiest dinners yet!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 577.0,
+    "energy_kcal": 138.0,
+    "protein_g": 8.8,
+    "carbs_g": 12.0,
+    "sugars_g": 3.8,
+    "fibre_g": 2.1,
+    "fat_g": 6.7,
+    "saturated_fat_g": 2.8,
+    "sodium_mg": 172.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Alcohol"
+  ],
+  "chef_tip": "Due to the amount of starch in potatoes, they brown quickly when exposed to fresh air. When preparing your potatoes [submerge] them in a bowl of water to preven[t thi]s from happening.",
+  "card_obscured_flag": true,
+  "obscured_details": "Chef's tip text is partially obscured by the binder ring: word between 'potatoes' and 'them', and letters between 'preven' and 's'."
+}

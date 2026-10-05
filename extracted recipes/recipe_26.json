@@ -1,0 +1,122 @@
+{
+  "recipe_number": 26,
+  "title": "Beef Rump & Tzatziki Slaw",
+  "subtitle": "with hemp seeds & roast sweet potato",
+  "description": "A divine dish of tantalising beef rump, roast sweet potato, and minty, mayo-free slaw. But what really sends it flying off the health charts is that infamous, protein-packed superfood: hemp seeds!",
+  "chef": "Carey Erasmus",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 35,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 1000,
+      "unit": "g",
+      "prep": "washed and cut into bite-size chunks"
+    },
+    {
+      "name": "Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & cut into wedges"
+    },
+    {
+      "name": "Hemp Seeds",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Shredded Green Cabbage",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Tzatziki",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed, picked & sliced"
+    },
+    {
+      "name": "Free-Range Beef Rump",
+      "quantity": 640,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Provençal Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Chillies",
+      "quantity": 2,
+      "unit": null,
+      "prep": "deseeded & thinly sliced"
+    }
+  ],
+  "from_your_kitchen": [
+    "Butter",
+    "Salt & Pepper",
+    "Oil (cooking, olive & coconut)",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROAST VEG",
+      "text": "Preheat the oven to 200°C. Place the sweet potato chunks and onion wedges on a roasting tray, coat in oil, and season. Roast in the hot oven for 35-40 minutes until crispy and golden, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "TOASTED HEMP SEEDS",
+      "text": "Place a nonstick pan over a medium heat with the hemp seeds. Toast for 1-2 minutes until lightly browned, shifting occasionally. Keep a close eye on them as they burn easily. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "TZATZIKI ME!",
+      "text": "Place the shredded cabbage in a bowl with the tzatziki and sliced mint (reserving some for garnish). Add 2 tbsp of olive oil and the sliced chilli to taste. Season and toss to combine. Set aside until serving."
+    },
+    {
+      "step": 4,
+      "title": "FRY THE RUMP",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil. Pat the steak dry with some paper towel and season. When the pan is hot, sear the steak fat-side down for about 3-5 minutes until the fat is crispy. Then, cook each side for 2-4 minutes or until cooked to your preference. (The time this takes will depend on the thickness of the steak.) In the final 1-2 minutes, add a knob of butter and the Provençal Rub and use this to baste the steak. On completion, remove from the pan and set aside to rest for 5 minutes before slicing. Lightly season the slices."
+    },
+    {
+      "step": 5,
+      "title": "TIME TO FEAST",
+      "text": "Plate up the juicy rump slices and side with the roast sweet potato and tzatziki slaw. Garnish with the toasted hemp seeds and remaining sliced mint. Sprinkle over some remaining fresh chilli, if you like. Delicious, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 2923.0,
+    "energy_kcal": 699.0,
+    "protein_g": 48.0,
+    "carbs_g": 58.0,
+    "sugars_g": 24.0,
+    "fibre_g": 10.0,
+    "fat_g": 16.0,
+    "saturated_fat_g": 4.0,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "Hemp hearts are an amino acid and vitamin-rich protein. They are one of the most nutritionally dense foods on earth. Sprinkle them on salads for an extra boost!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

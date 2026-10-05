@@ -1,0 +1,136 @@
+{
+  "recipe_number": 88,
+  "title": "Yellowtail & Patatas Bravas",
+  "subtitle": "with garlicky mayo & a pickled pepper & green leaf salad",
+  "description": "Patatas bravas is a Spanish tapas dish: deliciously crispy potato chunks are served with a spicy tomato sauce. To make things even better, we've added a beautiful flaky yellowtail fillet to go along with it, as well as fresh salad leaves with pickled pepper. Who needs a flight to Mallorca when you have this recipe?",
+  "chef": "Deon Huysamer",
+  "category": "Fan Faves",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Boschendal | Rachelsfontein Chenin Blanc",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Smoked Paprika",
+      "quantity": 5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Pickled Bell Peppers",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Line-caught Yellowtail Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Mexican Spice Blend",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "That Mayo (Garlic)",
+      "quantity": 50,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Sugar/Sweetener/Honey",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROASTED UP",
+      "text": "Preheat the oven to 200°C. Place the potato pieces on a roasting tray. Coat in oil and seasoning. Roast in the hot oven for 30-35 minutes until golden and cooked through, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "LIP-SMACKING SAUCE",
+      "text": "Place a pan over a medium heat with a drizzle of oil. When hot, sauté the diced onion for 5-6 minutes until softened and translucent. Add the grated garlic and smoked paprika (to taste), and fry for 1-2 minutes until fragrant. Add the cooked chopped tomato and 80ml of water. Bring to a simmer and cook for 8-10 minutes until thickened. On completion, season to taste with salt, pepper, and a sweetener of your choice. Stir through ¾ of the chopped parsley, reserving the rest for garnishing. Remove the sauce from the pan, and cover to keep warm. Wipe down the pan."
+    },
+    {
+      "step": 3,
+      "title": "FRESHNESS!",
+      "text": "In a bowl, toss the rinsed salad leaves, the chopped pickled peppers, a drizzle of oil, and seasoning."
+    },
+    {
+      "step": 4,
+      "title": "GOLDEN YELLOWTAIL",
+      "text": "Pat the yellowtail dry with some paper towel, coat in the spice blend and season. Return the pan to a medium-high heat with a drizzle of oil. When hot, fry the fish skin-side down for 3-5 minutes until the skin is turning crispy and golden. Flip, add a knob of butter or a drizzle of oil and cook for a further 2-3 minutes until cooked through, constantly basting the fish. Remove from the pan on completion."
+    },
+    {
+      "step": 5,
+      "title": "IT’S SPANISH NIGHT!",
+      "text": "Plate up the golden potatoes. Top with the tomato sauce and a dollop of garlic mayo. Serve with the pan fried yellowtail and pickled pepper salad. Garnish with the remaining parsley. Buen Provecho!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 428.0,
+    "energy_kcal": 102.0,
+    "protein_g": 7.3,
+    "carbs_g": 12.0,
+    "sugars_g": 2.6,
+    "fibre_g": 1.8,
+    "fat_g": 2.8,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 193.0
+  },
+  "allergens": [
+    "Egg",
+    "Allium",
+    "Sulphites",
+    "Fish"
+  ],
+  "chef_tip": "You can peel the potatoes if you prefer, but leaving them with their skins on to roast means they will come out of the oven with a deliciously crispy finish.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

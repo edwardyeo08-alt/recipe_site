@@ -1,0 +1,142 @@
+{
+  "recipe_number": 175,
+  "title": "Thai Peanut Pork Mince",
+  "subtitle": "with broccoli & fresh coriander",
+  "description": "Succulent pork mince, peanut butter, kidney beans, soy sauce, chilli and coconut milk come together to create the most luscious and flavourful Thai peanut mince! It is served with roasted broccoli and is finished off with a sprinkling of aromatic coriander. Your taste buds will thank you!",
+  "chef": "Sarah Hewitt",
+  "category": "Carb Conscious",
+  "servings": 2,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Leopard's Leap | Chenin Blanc",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Broccoli Florets",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "NOMU Roast Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "finely sliced, keeping the white & green parts separate"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1,
+      "unit": null,
+      "prep": "deseeded & finely chopped"
+    },
+    {
+      "name": "Thai red curry paste",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pork Mince",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Lime",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Low Sodium Soy Sauce",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Coconut Milk",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Plain Peanut Butter",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Kidney Beans",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "WE WILL BROCC YOU!",
+      "text": "Preheat the oven to 200°C. Place the broccoli pieces on a roasting tray, coat in oil, ½ the rub, and seasoning. Roast in the hot oven for 15-20 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "CURRY CURRY, HOW HE THRILLS ME!",
+      "text": "Place a pan over a medium heat with a drizzle of oil. When hot, add the spring onion whites, ½ the chopped chilli (to taste), the remaining rub, and the curry paste (to taste). Fry for 1-2 minutes until fragrant, shifting constantly. Add the pork mince and work quickly to break it up as it starts to cook. Allow to caramelise for 3-4 minutes until browned, stirring occasionally."
+    },
+    {
+      "step": 3,
+      "title": "ALMOST THERE",
+      "text": "When the mince is browned, add ½ the lime zest, a squeeze of lime juice, the soy sauce, a sweetener of choice (to taste), the coconut milk, 200ml of warm water, and ½ the chopped coriander to the pan. Mix until fully combined. Reduce the heat and leave to simmer for 6-10 minutes until slightly reduced and thickened, stirring occasionally."
+    },
+    {
+      "step": 4,
+      "title": "FINISH THE MINCE",
+      "text": "When the pork mixture has 2-3 minutes remaining, stir through the peanut butter and the drained kidney beans. Remove from the heat, add ½ the roasted broccoli, and season to taste."
+    },
+    {
+      "step": 5,
+      "title": "PORK & PEANUT PERFECTION!",
+      "text": "Bowl up the Thai peanut pork mince and top with the remaining roasted broccoli. Sprinkle over the spring onion greens, the remaining coriander, chilli (to taste), and lime zest. Serve with any remaining lime wedges on the side. Tuck in, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 631.0,
+    "energy_kcal": 151.0,
+    "protein_g": null,
+    "carbs_g": 6.0,
+    "sugars_g": 1.1,
+    "fibre_g": 2.3,
+    "fat_g": 10.2,
+    "saturated_fat_g": 4.9,
+    "sodium_mg": 10.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Peanuts",
+    "Wheat",
+    "Sulphites",
+    "Soy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is punched out/obscured by the binder ring hole."
+}

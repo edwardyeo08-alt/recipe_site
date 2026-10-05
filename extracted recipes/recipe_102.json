@@ -1,0 +1,142 @@
+{
+  "recipe_number": 102,
+  "title": "Kenyan Coconut Calamari",
+  "subtitle": "with potato wedges, mayo & a Kachumbari salad",
+  "description": "We bring you some bursting African flavours with these Kenyan-style fried calamari tubes, enrobed in desiccated coconut and served with potato wedges. This dish is completed by a lemon That Mayo sauce and a Kachumbari salad of tomato, red onion, cucumber, and fresh coriander.",
+  "chef": "Alex Levett",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Haute Cabrière | Pierre Jourdan Tranquille",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & cut into wedges"
+    },
+    {
+      "name": "NOMU Seafood Rub",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "That Mayo Original",
+      "quantity": 65,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Plum Tomato",
+      "quantity": 1,
+      "unit": null,
+      "prep": "cut into bite-sized chunks"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "½ peeled & finely sliced"
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "cut into half-moons"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Cake Flour",
+      "quantity": 65,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Desiccated Coconut",
+      "quantity": 65,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Squid Heads & Tubes",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "quills removed (see Chef's Tip)"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Egg/s",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "COOK POTATO WEDGES",
+      "text": "Preheat the oven to 200°C. Place the potato wedges on a roasting tray, coat in oil, ½ of the seafood rub and season. Roast in the hot oven for 30-35 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "LEMON MAYO",
+      "text": "In a small bowl, mix the lemon zest with the mayo and seasoning until fully combined."
+    },
+    {
+      "step": 3,
+      "title": "KACHUMBARI SALAD",
+      "text": "In a salad bowl, combine the tomato chunks, sliced red onion, cucumber half-moons and ½ the chopped coriander. Squeeze in the juice of 1 lemon wedges and add 2 tbsp of olive oil. Season and toss to combine."
+    },
+    {
+      "step": 4,
+      "title": "COAT SQUID",
+      "text": "Whisk 1 egg in a shallow dish with 1 tsp of water. Prepare another shallow dish containing the flour, the remaining seafood rub, ¾ of the desiccated coconut and some seasoning. Pat the squid dry with paper towel. Coat the squid in egg mixture, then the flour & coconut mix, dusting off any excess."
+    },
+    {
+      "step": 5,
+      "title": "FRY SQUID",
+      "text": "When the potato wedges have 10 minutes remaining, place a pot over a medium-high heat with 4-5cm of oil. When hot, fry the coated squid for 3-5 minutes until golden and crispy, flipping halfway. Drain on paper towel and season."
+    },
+    {
+      "step": 6,
+      "title": "PLATE",
+      "text": "Plate up the crispy coconut calamari and potato wedges alongside the Kachumbari salad. Garnish with the remaining coriander, desiccated coconut, and lemon wedge. Serve with the lemony mayo for dunking. Delicious work, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 502.0,
+    "energy_kcal": 120.0,
+    "protein_g": 5.5,
+    "carbs_g": 13.0,
+    "sugars_g": 1.8,
+    "fibre_g": 2.3,
+    "fat_g": 4.7,
+    "saturated_fat_g": 2.8,
+    "sodium_mg": 102.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Allium",
+    "Shellfish",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "You will notice the prep action for squid is 'quills removed'. The quill is found in the squid tubes and looks like a long piece of plastic. To remove it, simply grab it and pull it out slowly.",
+  "card_obscured_flag": true,
+  "obscured_details": "Allergen 'Wheat' partially obscured/punched through by binder ring hole ('W...')."
+}

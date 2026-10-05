@@ -1,0 +1,135 @@
+{
+  "recipe_number": 5,
+  "title": "Vibrant Veggie & Lamb Stew",
+  "subtitle": "with fluffy bulgur wheat & red wine",
+  "description": "This lamb stew is good for the soul! It is brimming with tender lamb, grated carrot, wilted spinach, onion and red wine. Served with fluffy bulgur wheat to soak up all the flavourful goodness, a bowl of this will certainly put a big smile on your face!",
+  "chef": "Ella Nasser",
+  "category": "Quick & Easy",
+  "servings": 2,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 30,
+  "wine_pairing": "Leopard's Leap | Merlot",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Bulgur Wheat",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "NOMU One for All",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cake Flour",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Lamb",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & cut into wedges"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "grated"
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Red Wine",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Tomato Paste",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 8,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "FLUFFY BULGUR",
+      "text": "Boil the kettle. Using a shallow bowl, submerge the bulgur wheat and 1/2 the rub in 200ml of boiling water. Add a drizzle of oil and gently stir through with a fork. Cover with a plate and set aside to steam for 15-20 minutes until cooked and tender. Fluff up with a fork on completion, replace the plate, and set aside."
+    },
+    {
+      "step": 2,
+      "title": "SIMMERING STEW",
+      "text": "While the bulgur is steaming, place the flour, a pinch of salt, and the lamb in a bowl. Toss until fully coated. Place a pan over medium heat with a drizzle of oil and a knob of butter (optional). When hot, fry the onion wedges for 5-7 minutes until soft and browned, shifting occasionally. Add the grated carrot, the remaining rub, the grated garlic, and the red wine. Leave to simmer for 1-2 minutes until the wine has almost evaporated, shifting constantly. Add the floured lamb and the tomato paste and fry for 1-2 minutes, until fragrant, shifting constantly. Add 400ml of water and simmer for 12-15 minutes until slightly reduced, stirring occasionally."
+    },
+    {
+      "step": 3,
+      "title": "ALMOST THERE",
+      "text": "While the stew is simmering, rinse the spinach and the parsley. Roughly shred the spinach and roughly chop the parsley."
+    },
+    {
+      "step": 4,
+      "title": "FINISH IT UP",
+      "text": "When the stew is finished simmering, add the shredded spinach and mix until wilted. Season with a sweetener of choice (to taste), salt, and pepper."
+    },
+    {
+      "step": 5,
+      "title": "HUNGRY FOR STEW!",
+      "text": "Serve up a heaping helping of the fluffy bulgur wheat. Side with the stew. Sprinkle over the chopped parsley. Simple and stunning, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": null,
+    "energy_kcal": 148.0,
+    "protein_g": null,
+    "carbs_g": 16.0,
+    "sugars_g": 2.6,
+    "fibre_g": 3.0,
+    "fat_g": 6.0,
+    "saturated_fat_g": 2.3,
+    "sodium_mg": 173.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Wheat",
+    "Alcohol"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Top binder ring and hole punch obscure the Energy (kJ) value and the tens digit of the Protein value."
+}

@@ -1,0 +1,132 @@
+{
+  "recipe_number": 14,
+  "title": "Beef & Butternut Salad",
+  "subtitle": "with Danish-style feta & fresh parsley",
+  "description": "Don't be fooled by the straightforward name of this salad, because the tastes are anything but. That's because every ingredient's flavour profiles are leveled up with clever cooking tricks. The homemade tahini & lemon juice yoghurt dressing is a great example - a cooling, creamy sauce that makes the butter-basted sirloin shine!",
+  "chef": "Megan Bure",
+  "category": "Carb Conscious",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Harry Hartman | Somesay Shiraz",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Butternut",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "deseeded, peeled (optional) & cut into half-moons"
+    },
+    {
+      "name": "NOMU Moroccan Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 8,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Tahini",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Low Fat Plain Yoghurt",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon Juice",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Sirloin",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BEGIN WITH THE BUTTERNUT",
+      "text": "Preheat the oven to 200°C. Spread out the butternut half-moons on a roasting tray. Coat in oil, ½ the rub, and seasoning. Roast in the hot oven for 30-35 minutes until cooked through and golden, flipping halfway."
+    },
+    {
+      "step": 2,
+      "title": "A STEP FOR PREP",
+      "text": "While the butternut is roasting, rinse the salad leaves and roughly shred. Cut the tomato into half-moons. Rinse and finely chop the parsley. Drain the feta."
+    },
+    {
+      "step": 3,
+      "title": "YUMMY YOGHURT",
+      "text": "In a small bowl, combine the tahini, the yoghurt, the lemon juice (to taste), seasoning, and ½ the chopped parsley. Loosen with water in 10ml increments until drizzling consistency."
+    },
+    {
+      "step": 4,
+      "title": "BUTTER-BASTED BEEF",
+      "text": "When the roast has 10-15 minutes remaining, place a pan over medium-high heat with a drizzle of oil. Pat the sirloin dry with paper towel. When the pan is hot, sear the sirloin, fat-side down, for 3-5 minutes until crispy. Then, fry for 2-4 minutes per side, or until cooked to your preference (this time frame may depend on the thickness of the sirloin.) During the final 1-2 minutes, baste with a knob of butter and the remaining rub. Remove from the pan and rest for 5 minutes before slicing. Lightly season the slices."
+    },
+    {
+      "step": 5,
+      "title": "TIME TO COMBINE",
+      "text": "In a salad bowl, combine the cooked butternut half-moons, the shredded leaves, the tomato half-moons, the drained feta, and seasoning."
+    },
+    {
+      "step": 6,
+      "title": "GATHER AROUND THE TABLE!",
+      "text": "Plate up the butternut salad drizzled with the tahini-yoghurt dressing. Side with the sirloin slices and garnish with the remaining parsley. Dig in, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 451.0,
+    "energy_kcal": 108.0,
+    "protein_g": 8.0,
+    "carbs_g": 7.0,
+    "sugars_g": 1.7,
+    "fibre_g": 1.4,
+    "fat_g": 3.1,
+    "saturated_fat_g": 1.2,
+    "sodium_mg": 132.0
+  },
+  "allergens": [
+    "Dairy",
+    "Sesame"
+  ],
+  "chef_tip": "If you have an air fryer, why not use it to cook the butternut? Coat in oil, season, and pop in the air fryer at 200°C. Cook for 30-35 minutes or until cooked through and crispy.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

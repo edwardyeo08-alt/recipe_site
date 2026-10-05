@@ -1,0 +1,132 @@
+{
+  "recipe_number": 81,
+  "title": "Moroccan-Spiced Hake",
+  "subtitle": "with avocado hummus & roast carrot and chickpeas",
+  "description": "Easy as pie, but far healthier than pie! Crispy roast chickpeas and carrots bring the crunch; flakey hake brings the softness; spices, lemon, and rocket bring the zing; and avo hummus brings it all together.",
+  "chef": "Tess Witney",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Carrots",
+      "quantity": 960,
+      "unit": "g",
+      "prep": "peeled (optional) & sliced into thin rounds"
+    },
+    {
+      "name": "Hake Fillets",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Moroccan Rub",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 2,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Avocado Hummus",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Radish",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed & thinly sliced"
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Paper Towel",
+    "Water",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROAST CHICKPEAS & CARROTS",
+      "text": "Preheat the oven to 180°C. Place the drained chickpeas and carrot rounds on a roasting tray. Spread out in a single layer, coat in oil, and season. Roast in the hot oven for 25-30 minutes until the chickpeas are crispy and the carrots have softened."
+    },
+    {
+      "step": 2,
+      "title": "MOROCCAN MARINADE",
+      "text": "Place the hake fillets in a large bowl and pat dry with some paper towel. Coat in oil, the Moroccan Rub, a squeeze of lemon juice, and some seasoning. Set aside to marinate for about 10 minutes."
+    },
+    {
+      "step": 3,
+      "title": "TOAST THE SEEDS",
+      "text": "Place the pumpkin seeds in a large pan over a medium heat. Toast for 3-5 minutes until they begin to pop and turn brown. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 4,
+      "title": "SALAD LOVE",
+      "text": "Place the rinsed green leaves, sliced radish, and toasted pumpkin seeds in a salad bowl. Add some lemon zest to taste, a drizzle of oil, and some seasoning. Toss together and set aside for serving."
+    },
+    {
+      "step": 5,
+      "title": "TASTY, FLAKY HAKE",
+      "text": "Return the pan to a medium heat with some oil and a knob of butter (optional). When hot, fry the spiced hake skin-side down for 3-4 minutes until the skin is crispy and golden. Flip and fry the other side for 3-4 minutes until cooked through. Remove from the pan on completion."
+    },
+    {
+      "step": 6,
+      "title": "TIME TO DINE",
+      "text": "Plate up some crispy chickpeas and caramelised carrots. Lay the Moroccan-spiced hake fillet on top and dollop with the avo hummus. Serve the fresh, crunchy salad on the side. Finally, garnish with the rinsed mint leaves and a lemon wedge. Magnificent, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 355.0,
+    "energy_kcal": 85.0,
+    "protein_g": null,
+    "carbs_g": null,
+    "sugars_g": 3.1,
+    "fibre_g": 3.3,
+    "fat_g": 1.8,
+    "saturated_fat_g": 0.2,
+    "sodium_mg": 168.0
+  },
+  "allergens": [
+    "Allium",
+    "Fish"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punch partially obscures the Energy units, and punches out parts of the Protein and Carbs values in the Nutritional Information table."
+}

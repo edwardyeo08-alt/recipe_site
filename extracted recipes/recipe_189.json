@@ -1,0 +1,129 @@
+{
+  "recipe_number": 189,
+  "title": "Smoky Pork & Sage Butter",
+  "subtitle": "with sweet potato mash, hard cheese & charred broccoli",
+  "description": "This pork schnitzel is sizzled in a gluten-conscious coating, spiced with smoked paprika. It's lavishly splashed with thick sage burnt butter and elevated by sides of silky sweet potato mash, roast broccoli, and a piquanté pepper salad.",
+  "chef": "Kate Gomba",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Steenberg Vineyards | The Black Swan Sauvignon Blanc",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "peeled & cut into bite-sized chunks"
+    },
+    {
+      "name": "Grated Italian-style Hard Cheese",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Broccoli Florets",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Peas",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Piquanté Peppers",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Smoky Coating",
+      "quantity": 65,
+      "unit": "ml",
+      "prep": "(60ml Rice Flour & 5ml Smoked Paprika)"
+    },
+    {
+      "name": "Pork Schnitzel",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Sage",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "picked, rinsed & dried"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Egg/s",
+    "Paper Towel",
+    "Butter",
+    "Milk (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "SWEET, CHEESY MASH",
+      "text": "Preheat the oven to 200°C. Boil the kettle. Place a pot over a medium-high heat with 3-4cm of boiling water covering the base. Once bubbling rapidly, place the sweet potato chunks in a colander over the pot. Cover and allow to steam for 15-20 minutes until cooked through and soft. Alternatively, use a steamer if you have one. On completion, place in a bowl with the hard cheese and a splash of milk or water. Add a knob of butter or coconut oil (optional) and some seasoning. Mash with a fork or potato masher until smooth. Cover to keep warm and set aside for serving."
+    },
+    {
+      "step": 2,
+      "title": "POP IN THE BROC",
+      "text": "Place the broccoli pieces on a roasting tray, coat in oil, and season. Roast in the hot oven for 15-20 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 3,
+      "title": "A SALAD TO PEP YOU UP",
+      "text": "Submerge the peas in boiling water for 2-3 minutes until plump. Drain on completion and place in a bowl with the rinsed salad leaves, the chopped piquanté peppers, and 20ml of olive oil. Toss to combine, season, and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "SMOKY SCHNITZY",
+      "text": "Place the smoky coating in a shallow dish and mix in some seasoning. In a second shallow dish, whisk 1 egg with 2 tsp of water. Pat the pork dry with paper towel. Coat in the egg and then in the flour, dusting off any excess flour on completion. Place a nonstick pan over a medium-high heat with a drizzle of oil. When hot, fry the pork for 1-2 minutes per side until cooked through and golden. Remove from the pan, cover to keep warm, and set aside for serving."
+    },
+    {
+      "step": 5,
+      "title": "BROWN YOUR SAGE BUTTER",
+      "text": "Wipe down the pan if necessary and return it to a medium-high heat with 80g of butter. Once foaming, add in the rinsed sage leaves and spread out in a single layer. Fry for 2-3 minutes until the butter has a nutty aroma and the leaves are crispy - watch closely to make sure they don't burn! On completion, remove the pan from the heat."
+    },
+    {
+      "step": 6,
+      "title": "WARM, INDULGENT & NOURISHING",
+      "text": "Plate up the cheesy mash, golden schnitzel, and charred broccoli. Cover in drizzles of sage burnt butter and side with the perky salad. Get ready to feast!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 366.0,
+    "energy_kcal": 88.0,
+    "protein_g": 7.2,
+    "carbs_g": 11.0,
+    "sugars_g": 3.5,
+    "fibre_g": 2.5,
+    "fat_g": 1.3,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 49.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Sulphites"
+  ],
+  "chef_tip": "To prevent the coating from sticking to your hands instead of the schnitzel, make sure to use one hand to coat in the egg mixture and the other hand to coat in the flour.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

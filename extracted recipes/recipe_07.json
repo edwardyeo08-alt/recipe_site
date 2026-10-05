@@ -1,0 +1,136 @@
+{
+  "recipe_number": 7,
+  "title": "Lamb Rogan Josh",
+  "subtitle": "with potato, minted yoghurt & a roti",
+  "description": "A beautifully classic lamb curry, filled to the brim with flavour and ease. Quick to prep and quick to eat! Throw it together and leave the flavours to culminate into something utterly gorgeous. Add drizzles of fresh minted coconut yoghurt, a soft, warm roti and a zingy carrot sambal. Come, dig in!",
+  "chef": "Megan Bure",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 55,
+  "wine_pairing": "Cavalli Estate | Cremello",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Beef Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lamb Shoulder",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spice & All Things Nice Rogan Josh Curry Paste",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Potato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "peeled (optional) & cut into bite-sized chunks"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "peeled (optional), 1/2 cut into bite-sized chunks & 1/2 grated"
+    },
+    {
+      "name": "Tomato Paste",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Coconut Yoghurt",
+      "quantity": 65,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Lime",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Whole Wheat Roti",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Crispy Onions",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BEGIN THE CURRY",
+      "text": "Boil the kettle. Dilute the stock with 500ml of boiling water. Pat dry the lamb with some paper towel and place a pot over a medium-high heat with some oil. When hot, fry the lamb for 2-3 minutes until browning but not cooked through. Add the curry paste to taste, potato chunks, carrot pieces and fry for 2-3 minutes until the mixture is well coated and fragrant. Add in the tomato paste, diluted stock, and bring to the boil. Reduce the heat and simmer for 35-40 minutes until the lamb is tender, the veggies are soft and the sauce is thick. Stir occasionally and remove from the heat on completion."
+    },
+    {
+      "step": 2,
+      "title": "MINTY & ZINGY",
+      "text": "In a small bowl mix the coconut yoghurt with 3/4 of the chopped mint, some lime juice to taste and a pinch of zest. If it's too thick, loosen with a splash of water until drizzling consistency. Season and set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "NEARLY THERE",
+      "text": "Once the curry has finished cooking, taste and season if necessary and add a sweetener of choice to taste (optional). Place the grated carrot in a bowl with a squeeze of lime juice and seasoning to taste and set aside."
+    },
+    {
+      "step": 4,
+      "title": "WARMING ROTI",
+      "text": "Place a pan over a medium heat. When hot, warm the rotis for about 30-60 seconds per side until heated through and lightly toasted. Alternatively, spread them out on a plate in a single layer and heat up in the microwave for 30-60 seconds. Once heated, stack on a plate on top of one another and cover with a clean tea towel to keep warm."
+    },
+    {
+      "step": 5,
+      "title": "TIME TO NOM!",
+      "text": "Dish up a hearty helping of the Rogan Josh curry, side with the zingy grated carrot and a warm roti. Drizzle over the minted coconut yogurt and finish with a scattering of the remaining mint and crispy onions. Perfection Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 603.0,
+    "energy_kcal": 144.0,
+    "protein_g": 5.5,
+    "carbs_g": 18.0,
+    "sugars_g": 3.7,
+    "fibre_g": 2.3,
+    "fat_g": 5.7,
+    "saturated_fat_g": 2.0,
+    "sodium_mg": 225.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Soy"
+  ],
+  "chef_tip": "Veg peels are rich in fiber, vitamins, minerals and antioxidants, making them one of the most nutritious parts of a plant. Eat your fruits and vegetables unpeeled whenever possible.",
+  "card_obscured_flag": true,
+  "obscured_details": "Top binder ring partially obscures the end of lines in Chef's Tip ('parts of a...', 'unpeeled'). Bottom binder ring partially covers 'Sulphites' in Allergens."
+}

@@ -1,0 +1,135 @@
+{
+  "recipe_number": 65,
+  "title": "Pesto-Infused Chicken Breast",
+  "subtitle": "with a butternut, baby tomato, feta & quinoa salad",
+  "description": "It's as wholesome as it is delish! Golden, pan-fried breast basted with rich basil pesto and set atop quinoa, roast butternut, blistered baby tomatoes, and spinach. Sprinkled with pumpkin seeds, creamy feta, and fresh parsley.",
+  "chef": "Tess Witney",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Butternut",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "deseeded, peeled & cut into bite-size chunks"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "White Quinoa",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-range Chicken Breasts",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Pesto Princess Basil Pesto",
+      "quantity": 50,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET ROASTIN'",
+      "text": "Preheat the oven to 180°C. Place the butternut chunks and rinsed baby tomatoes in a deep roasting tray. Coat in oil, season, and spread out evenly. Roast in the hot oven for 30-35 minutes, shifting halfway. On completion, the butternut should be cooked through and the tomatoes should have blistered."
+    },
+    {
+      "step": 2,
+      "title": "PUT THE QUINOA ON",
+      "text": "Rinse the quinoa and place in a pot. Submerge in 400ml of salted water, place over a medium-high heat, and bring to a simmer uncovered. Cook for 12-15 minutes until the quinoa is fluffy and the tails have popped out, adding more water if required during cooking. On completion, drain if necessary and return to the pot. Cover with a lid and allow to stand off the heat for 5 minutes."
+    },
+    {
+      "step": 3,
+      "title": "POPPIN' SEEDS",
+      "text": "Place a pan that has a lid over a medium heat. When hot, toast the pumpkin seeds for 3-5 minutes until beginning to pop and turn brown. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 4,
+      "title": "PESTO CHICKEN",
+      "text": "When the roast reaches the halfway mark, return the pan to a medium heat with a drizzle of oil. Pat the chicken dry with paper towel. When the pan is hot, fry the chicken for 5-7 minutes on one side until golden. Flip, pop on the lid, and fry for a further 5-7 minutes until cooked through. During the final minute, baste with ¾ of the basil pesto and a knob of butter. Remove from the heat and allow to rest in the pan for 5 minutes before slicing and lightly seasoning. Reserve the pan juices for serving."
+    },
+    {
+      "step": 5,
+      "title": "TOSS THE SALAD",
+      "text": "When the roast is ready, remove from the oven and add the cooked quinoa and rinsed spinach to the tray. If your tray isn't big enough, simply transfer the ingredients to a salad bowl. Toss together until the spinach has wilted and the tomatoes have split. Be careful, the tray will be hot! Pour over the vinegar to taste and crumble in ¾ of the drained feta. Toss again and season to taste."
+    },
+    {
+      "step": 6,
+      "title": "TIME TO DEVOUR!",
+      "text": "Pile up the quinoa jumble and top with the slices of pesto chicken. Dollop with the remaining pesto and drizzle over the pan juices to taste. Garnish with the remaining feta, the toasted pumpkin seeds, and the chopped parsley. That looks scrumptious, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 546.0,
+    "energy_kcal": 131.0,
+    "protein_g": 8.9,
+    "carbs_g": 12.0,
+    "sugars_g": 1.7,
+    "fibre_g": 1.8,
+    "fat_g": 4.9,
+    "saturated_fat_g": 1.6,
+    "sodium_mg": 105.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "Spinach is rich in vitamin K. This micronutrient is vital for wound healing, bone health, important cognitive functions, and lowering blood pressure. Add spinach to sauces or smoothies for vitamin K kick!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

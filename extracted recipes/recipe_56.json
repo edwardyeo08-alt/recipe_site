@@ -1,0 +1,153 @@
+{
+  "recipe_number": 56,
+  "title": "Caprese Chicken Burger",
+  "subtitle": "with roasted wedges, caramelised onions & bocconcini balls",
+  "description": "Everyone's favourite Italian appetizer has been burger-fied! Juicy grilled chicken topped with bocconcini balls, fresh tomatoes, a basil pesto-mayo smear, and balsamic caramelised onions brought into a roll for a super-duper-flavour-packed chicken burger!",
+  "chef": "Ella Nasser",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Haute Cabrière | Pierre Jourdan Tranquille",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & cut into wedges"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely sliced"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "quantity": 45,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "That Mayo (Garlic)",
+      "quantity": 65,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pesto Princess Basil Pesto",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Plum Tomato",
+      "quantity": 1,
+      "unit": null,
+      "prep": "sliced into thin rounds"
+    },
+    {
+      "name": "Free-range Chicken Breasts",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Italian Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Schoon Burger Buns",
+      "quantity": 2,
+      "unit": null,
+      "prep": "halved"
+    },
+    {
+      "name": "Grated Mozzarella",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Bocconcini Balls",
+      "quantity": 6,
+      "unit": null,
+      "prep": "halved"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel",
+    "Butter (optional)",
+    "Rolling Pin",
+    "Cling Wrap"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "WEDGES",
+      "text": "Preheat the oven to 200°C. Place the potato wedges on a roasting tray, toss in oil, and season. Roast in the hot oven for 30-35 minutes until cooked through and they begin to crisp up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "ONIONS",
+      "text": "Place a pan over a medium heat with a drizzle of oil and a knob of butter (optional). When hot, fry the sliced onion for 9-12 minutes, shifting occasionally. At the halfway mark, add a sweetener of choice (to taste) and 1/2 of the balsamic vinegar. Remove from the pan and cover."
+    },
+    {
+      "step": 3,
+      "title": "PREP",
+      "text": "Combine the garlic mayo and basil pesto in a bowl and season to taste. In a separate bowl, place the sliced tomato rounds and toss through the remaining balsamic vinegar. Leave to marinate."
+    },
+    {
+      "step": 4,
+      "title": "CHICKEN",
+      "text": "Pat the chicken breasts dry with paper towel and place on a chopping board. Use a sharp knife to slice into one side of the breast, starting at the thicker side and ending at the thinner point (be careful not to cut all the way through to the other side.) Open the breast so that it resembles a butterfly. Cover with cling film and pummel with a rolling pin to create an even thickness. Place a pan (that has a lid) over a medium heat with a drizzle of oil. When the pan is hot, fry the chicken on one side for 4-5 minutes until golden. Flip, pop on the lid, and fry for a further 4-5 minutes until cooked through. During the final 1-2 minutes, baste with a knob of butter (optional) and the Italian rub. Remove from the heat on completion and set aside to rest in the pan for 5 minutes before serving."
+    },
+    {
+      "step": 5,
+      "title": "BUNS",
+      "text": "Butter the halved burger buns (optional) and place on a baking tray. Sprinkle the grated mozzarella over the bottom half of the buns. Place the bun halves in the oven cut-side up for 2 minutes until the cheese starts to melt and the bread is warmed through."
+    },
+    {
+      "step": 6,
+      "title": "INDULGE!",
+      "text": "Place the rinsed green leaves and sliced tomatoes on the cheese-covered bun and top with the chicken breast. Layer with the caramelised onions and the halved bocconcini balls. Smear with basil pesto-mayo. Close up with the other half of the bun. Pile the roasted potato wedges on the side with any remaining pesto-mayo for dipping. Serve with any remaining fillings on the side. Scrumptious!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 651.0,
+    "energy_kcal": 156.0,
+    "protein_g": null,
+    "carbs_g": null,
+    "sugars_g": 2.2,
+    "fibre_g": 1.7,
+    "fat_g": 7.0,
+    "saturated_fat_g": 3.2,
+    "sodium_mg": 132.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole and metal ring obscure the Protein value and Carbs value in the Nutritional Information table."
+}

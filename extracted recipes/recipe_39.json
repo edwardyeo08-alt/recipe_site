@@ -1,0 +1,141 @@
+{
+  "recipe_number": 39,
+  "title": "Teriyaki Rump On Stir-Fried Greens",
+  "subtitle": "with flavoured sweet potato wedges, pak choi & edamame beans",
+  "description": "Hankering after good ol' steak and potatoes? Fulfill your craving — with flavourful twists! THIS rump is glazed with a refined-sugar-free teriyaki sauce and served on a bed of pak choi and edamame, and THESE wedges are coated in garlic, ginger, and sesame oil. Delish!",
+  "chef": "Ella Nasser",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Steenberg Vineyards | Merlot",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 500.0,
+      "unit": "g",
+      "prep": "rinsed & cut into wedges"
+    },
+    {
+      "name": "Sesame Oil",
+      "quantity": 15.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 20.0,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "deseeded & finely sliced"
+    },
+    {
+      "name": "White Sesame Seeds",
+      "quantity": 10.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Edamame Beans",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": "shelled"
+    },
+    {
+      "name": "Cornflour",
+      "quantity": 5.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pak Choi",
+      "quantity": 300.0,
+      "unit": "g",
+      "prep": "trimmed at the base"
+    },
+    {
+      "name": "Teriyaki Glaze",
+      "quantity": 120.0,
+      "unit": "ml",
+      "prep": "(65ml Low Sodium Soy Sauce, 45ml Honey & 10ml Rice Wine Vinegar)"
+    },
+    {
+      "name": "Free-range Beef Rump",
+      "quantity": 320.0,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Water",
+    "Salt & Pepper",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "AS SWEET AS CAN BE",
+      "text": "Preheat the oven to 200°C. Spread out the sweet potato wedges on a roasting tray. Coat in ½ the sesame oil, ½ the grated garlic, ½ the grated ginger, and ½ the sliced chilli. Toss through a drizzle of your own oil if necessary, and season. Roast in the hot oven for 30-35 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "OPEN SESAME",
+      "text": "Boil the kettle. Place the seeds in a pan over a medium heat. Toast for 2-4 minutes until lightly browned, shifting occasionally. Remove from the pan and set aside to cool. Submerge the shelled edamame beans in boiling water until heated through. Drain on completion and set aside. In a small bowl, mix the cornflour with 7,5ml of cold water until dissolved to form a paste. Set aside."
+    },
+    {
+      "step": 3,
+      "title": "STIR FRY YOUR GREENS",
+      "text": "Separate the leaves of the trimmed pak choi and rinse well. Slice the green, leafy parts in half lengthways and set aside. Finely slice the stems. Return the pan to a medium heat with a good drizzle of the remaining sesame oil. When hot, fry the pak choi stems for 2-3 minutes until slightly softened and beginning to char. Add in the pak choi leaves and sauté for 1-2 minutes until wilted. On completion, remove from heat, and stir through the edamame beans and some seasoning. Transfer to a bowl, cover to keep warm, and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "NOTHING YUCKY ABOUT TERIYAKI",
+      "text": "Wipe down the pan and return it to a medium heat with 60ml of water. Add in the teriyaki glaze and the remaining ginger and garlic. Stir for 1-2 minutes until combined. Mix in the cornflour paste and cook for 5-7 minutes until thickened, stirring occasionally. Remove the pan from the heat."
+    },
+    {
+      "step": 5,
+      "title": "WHILE THE SAUCE IS COOKING...",
+      "text": "Place a pan over a medium-high heat with a drizzle of oil. Pat the steak dry with paper towel. When the pan is hot, sear the steak fat-side down for 3-5 minutes until the fat is crispy. Then, fry for 2-3 minutes per side or until cooked to your preference. Reduce the heat to medium and baste the top with the teriyaki sauce. Flip, baste the other side, and cook for 1-2 minutes. Remove from the pan on completion and allow to rest for 5 minutes before slicing."
+    },
+    {
+      "step": 6,
+      "title": "HEALTHY FEASTING!",
+      "text": "Plating up the pak choi and edamame bean stir fry. Lay the glazed rump on top and side with the wedges. Sprinkle over the toasted seeds and the remaining chilli to taste. Drizzle with any remaining teriyaki sauce. Have a good one, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 496.0,
+    "energy_kcal": 118.0,
+    "protein_g": 7.0,
+    "carbs_g": 12.0,
+    "sugars_g": 6.3,
+    "fibre_g": 1.4,
+    "fat_g": 3.1,
+    "saturated_fat_g": 0.7,
+    "sodium_mg": 199.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Sulphites",
+    "Soy"
+  ],
+  "chef_tip": "To make sure your sweet potato does get crispy, spread it out with a little space between each piece and don't overcrow the tray – use two trays if necessary.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

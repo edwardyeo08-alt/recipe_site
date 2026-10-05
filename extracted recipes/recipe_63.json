@@ -1,0 +1,146 @@
+{
+  "recipe_number": 63,
+  "title": "Caprese Stuffed Chicken Breast",
+  "subtitle": "with a roasted carrot and baby marrow salad & a balsamic vinaigrette",
+  "description": "This visually stunning dish boasts all the colours of the Italian flag - green basil pesto, rounds of ruby tomatoes, and melted mozzarella. Sided with the succulent stuffed chicken breast is a roasted veggie & almond salad and a drizzle of homemade mustard-maple balsamic vinaigrette. It's a culinary work of art, Chef!",
+  "chef": "Rhea Hsu",
+  "category": "Carb Conscious",
+  "servings": 3,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Paserene | The Shiner White Blend",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "quantity": 360,
+      "unit": "g",
+      "prep": "rinsed, trimmed & cut into wedges"
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "rinsed, trimmed & cut into bite-sized chunks"
+    },
+    {
+      "name": "Almonds",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 12,
+      "unit": "g",
+      "prep": "rinsed, picked & thinly sliced"
+    },
+    {
+      "name": "Grated Mozzarella",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-range Chicken Breasts",
+      "quantity": 3,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Tomatoes",
+      "quantity": 2,
+      "unit": null,
+      "prep": "1½ thinly sliced into rounds"
+    },
+    {
+      "name": "Pesto Princess Basil & Lemon Pesto",
+      "quantity": 90,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Wholegrain Mustard",
+      "quantity": 7.5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Maple Syrup",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Cling Wrap"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET THE VEGGIE SALAD STARTED",
+      "text": "Preheat the oven to 200°C. Spread out the carrot wedges and baby marrow chunks on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes until cooked through and crisping up, shifting halfway. When there are 3 minutes remaining, sprinkle over the chopped almonds and roast for the remaining time."
+    },
+    {
+      "step": 2,
+      "title": "NOW FOR THE CAPRESE CHICKEN",
+      "text": "Combine half of the sliced basil with the mozzarella. Pat the chicken breasts dry with some paper towel and place on a chopping board. Using a sharp knife, slice into one side of the breast, starting at the thicker end and ending at the thin point (be careful not to cut all the way through to the other side.) Open out the breast so that it resembles a butterfly. Cover with cling wrap and pummel with a rolling pin or bottle to create an even thickness. Season the inside of the chicken. Layer 2-3 tomato rounds and a spoonful of mozzarella and basil mixture onto the one side of the breast. Fold the other side of the breast over the filling to close it back up. Repeat with the other breasts."
+    },
+    {
+      "step": 3,
+      "title": "GET THAT GOLDEN GLOW",
+      "text": "Season the outside of the chicken and drizzle over a little oil. Place the stuffed chicken breasts on a separate roasting tray, and roast in the hot oven for 12-15 minutes until cooked through and golden."
+    },
+    {
+      "step": 4,
+      "title": "IT'S ALL IN THE SAUCE",
+      "text": "Place the pesto in a small bowl. Add oil or water in 5ml increments until a drizzling consistency. Set aside. In another bowl, add the mustard, maple syrup, balsamic vinegar, a drizzle of oil, and some seasoning. Mix to combine and set aside."
+    },
+    {
+      "step": 5,
+      "title": "AND THE BEST DRESSED GOES TO...",
+      "text": "Toss together the shredded salad leaves, the roasted veggies, the remaining basil, and the balsamic vinaigrette. Season to taste."
+    },
+    {
+      "step": 6,
+      "title": "THERE'S A SURPRISE INSIDE!",
+      "text": "Plate up the caprese stuffed chicken breasts and drizzle over the pesto. Side with the dressed carrot & baby marrow salad. Enjoy, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 487.0,
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbs_g": 5.0,
+    "sugars_g": 3.5,
+    "fibre_g": 1.4,
+    "fat_g": 7.2,
+    "saturated_fat_g": 1.6,
+    "sodium_mg": 87.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole partially obscures Energy kcal (shows 11...) and Protein (shows ...6g) in the Nutritional Information table."
+}

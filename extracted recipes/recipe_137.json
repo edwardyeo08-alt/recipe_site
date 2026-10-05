@@ -1,0 +1,128 @@
+{
+  "recipe_number": 137,
+  "title": "Tasty Butternut & Ricotta Ravioli",
+  "subtitle": "with aubergine & balsamic reduction",
+  "description": "Did you know that the word 'ravioli' comes from an old Italian word that means 'to wrap'? Well, today, you're going to wrap your taste buds around these fluffy filled pillows of deliciousness. Butternut & ricotta ravioli are combined with roasted aubergine, tangy tomatoes, fresh greens, peppery basil & completed with a creamy crème fraîche dressing.",
+  "chef": "Megan Bure",
+  "category": "Veggie",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Harry Hartman | Stellenbosch Sauvignon Blanc",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Aubergine",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "rinsed, trimmed & cut into bite-sized chunks"
+    },
+    {
+      "name": "Butternut & Ricotta Ravioli",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Sunflower Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Lemon Juice",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 80,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": null,
+      "prep": "roughly diced"
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly torn"
+    },
+    {
+      "name": "Balsamic Reduction",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "AWESOME AUBS",
+      "text": "Preheat the oven to 200°C. Place the aubergine chunks on a roasting tray, skin-side down. Coat in oil, season, and spread out evenly. Roast in the hot oven for 20-25 minutes until soft, shifting occasionally."
+    },
+    {
+      "step": 2,
+      "title": "GOLDEN SEEDS",
+      "text": "Place a pan, large enough for the ravioli, over a medium heat with the sunflower seeds. Toast for 3-5 minutes until golden. Remove from the pan and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "BOIL THE RAVI-ONLY",
+      "text": "Bring a pot (for the ravioli) of salted water to the boil. When the water is boiling, cook the ravioli for 2-3 minutes until al dente. Drain and toss through some oil to prevent sticking."
+    },
+    {
+      "step": 4,
+      "title": "ALWAYS BETTER WITH BUTTER",
+      "text": "When the ravioli is done, return the pan to a medium-high heat with 60g of butter and a drizzle of oil. When the butter foams, add the lemon juice (to taste), and the ravioli, in a single layer. Fry for 2-3 minutes per side, until golden, gently shaking the pan regularly to prevent sticking. Set aside."
+    },
+    {
+      "step": 5,
+      "title": "TIME TO COMBINE",
+      "text": "Loosen the crème fraîche with water in 5ml increments until drizzling consistency. Set aside. In a salad bowl, combine the fried ravioli, the aubergine chunks, the diced tomatoes, the shredded salad leaves, seasoning, and ½ the torn basil."
+    },
+    {
+      "step": 6,
+      "title": "DELICIOUS DINNER!",
+      "text": "Plate up the loaded ravioli salad and drizzle over the loosened crème fraîche and the balsamic reduction. Scatter over the toasted pumpkin seeds and garnish with the remaining basil."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 433.0,
+    "energy_kcal": 104.0,
+    "protein_g": null,
+    "carbs_g": 13.0,
+    "sugars_g": 4.5,
+    "fibre_g": 2.2,
+    "fat_g": 4.3,
+    "saturated_fat_g": 2.1,
+    "sodium_mg": 43.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punch punches through and obscures the protein value (in grams) in the Nutritional Information table."
+}

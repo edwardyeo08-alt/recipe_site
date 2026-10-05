@@ -1,0 +1,133 @@
+{
+  "recipe_number": 93,
+  "title": "Trout & Honey-Glazed Butternut",
+  "subtitle": "with red quinoa, crunchy green beans & pecans",
+  "description": "A warm and wholesome jumble of sticky, caramelised butternut, red quinoa, and blanched beans. Atop rests a fillet of rainbow trout and alongside it, a leafy salad tossed through with pecan nuts, fragrant basil, and lemon.",
+  "chef": "Alex Levett",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Lanzerac Estate | Chenin Blanc",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Butternut",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "deseeded, peeled (optional) & cut into bite-sized chunks"
+    },
+    {
+      "name": "Pecan Nuts",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Red Quinoa",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Beans",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "rinsed, trimmed & sliced into thirds"
+    },
+    {
+      "name": "Honey",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Rainbow Trout Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "IT'S NUTS OUT HERE!",
+      "text": "Preheat the oven to 200°C. Place the butternut chunks on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes. Place the pecan nuts in a pan over a medium heat. Toast for 3-5 minutes until browned, shifting occasionally. Remove from the pan on completion and set aside. Roughly chop when cool."
+    },
+    {
+      "step": 2,
+      "title": "RUBY QUINOA",
+      "text": "Rinse the quinoa and place in a pot. Submerge in 400ml of water and stir through the stock. Place over a medium-high heat, cover, and bring to a simmer. Cook for 12-15 minutes until the quinoa is tender and its tails have popped out, adding more water if required. On completion, drain if necessary and return to the pot. Replace the lid and allow to stand off the heat for 5 minutes."
+    },
+    {
+      "step": 3,
+      "title": "BLANCHED BEANS",
+      "text": "When the butternut has reached the halfway mark, give it a shift and return to the oven. Return the pan to a medium-high heat with a splash of water and a small drizzle of oil. Once bubbling, simmer the sliced green beans for 4-5 minutes until cooked al dente, shifting occasionally. On completion, drain any remaining water and transfer to a bowl. Season, cover, and set aside to keep warm."
+    },
+    {
+      "step": 4,
+      "title": "SWEETEN THE DEAL",
+      "text": "When the butternut has 10 minutes remaining, drizzle over the honey and return to the oven for the remaining time until cooked through and caramelised. Don't throw away the empty honey pot, you'll be using the honey left in it! Place the rinsed green leaves in a bowl with 1/2 of the chopped pecans and 1/2 of the chopped basil. Pour olive oil into the empty honey pot and shake to release any residue. Drizzle over the salad, add a squeeze of lemon juice, and season. Toss to combine and set aside for serving."
+    },
+    {
+      "step": 5,
+      "title": "DELISH FISH",
+      "text": "When the butternut is nearing completion, pat the trout dry with paper towel and season. Wipe down the pan and return it to a medium-high heat with a drizzle of oil. When hot, fry the trout skin-side down for 2-3 minutes until crispy. Flip and fry for a further 30-60 seconds or until cooked to your preference. Remove from the pan on completion. Toss the cooked quinoa with the roast butternut and green beans."
+    },
+    {
+      "step": 6,
+      "title": "WHAT YOU'VE BEEN WAITING FOR...",
+      "text": "Dish up the veggie-packed quinoa alongside the sizzling trout and the flavourful salad. Garnish with the remaining pecans and basil, the lemon zest to taste, and a lemon wedge. What a stunner!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 526.0,
+    "energy_kcal": 126.0,
+    "protein_g": 6.9,
+    "carbs_g": 17.0,
+    "sugars_g": 4.7,
+    "fibre_g": 2.8,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 76.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Fish",
+    "Tree Nuts"
+  ],
+  "chef_tip": "The butternut skin adds flavour, texture, and nutrients, but can be removed if you prefer!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

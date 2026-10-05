@@ -1,0 +1,135 @@
+{
+  "recipe_number": 77,
+  "title": "Easy Thai Red Chicken",
+  "subtitle": "with chicken mini fillets, toasted cashews & spinach",
+  "description": "Don't let eating clean stop you from enjoying terrific textures and flirtatious flavours! You won't regret trying it!",
+  "chef": "Samantha Finnegan",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Fat Bastard | Rosé",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cashew Nuts",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely sliced"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Milk",
+      "quantity": 400,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cornflour",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Beans",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "rinsed, trimmed & sliced into thirds"
+    },
+    {
+      "name": "Free-range Chicken Mini Fillets",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1,
+      "unit": null,
+      "prep": "deseeded & thinly sliced"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "NUTRITIOUS BASMATI",
+      "text": "Rinse the rice and place in a pot over medium-high heat. Submerge in 500ml of salted water and pop on a lid. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. Drain on completion if necessary and fluff up with a fork."
+    },
+    {
+      "step": 2,
+      "title": "TOASTY NUTS",
+      "text": "Place the cashews in a pot over a medium heat. Toast for 3-5 minutes until golden, shifting occasionally. Remove from the pot on completion and set aside. Roughly chop when cool enough to handle."
+    },
+    {
+      "step": 3,
+      "title": "THE CURRY IS A GO!",
+      "text": "Return the pot to a medium-high heat. When hot, fry the sliced onion for 4-5 minutes until softened, shifting regularly. Add the curry paste to taste and fry for 30-60 seconds until fragrant, shifting constantly. Pour in the milk and gradually whisk in the cornflour until incorporated into the liquid. Bring to simmer and cook for 4-5 minutes until slightly reduced, stirring occasionally. Add the sliced green beans and allow to cook for another 8-10 minutes until the beans are al dente."
+    },
+    {
+      "step": 4,
+      "title": "POP IN THAT CHICKEN",
+      "text": "Once the sauce has thickened, rinse the chicken mini fillets to get rid of any residue from the packet and pat dry with paper towel. Add to the pot, fully submerge in sauce, and simmer for 5-6 minutes until cooked through. In the final minute, stir through the shredded spinach and cook for the remaining time until wilted. Remove from the heat on completion and season with salt, pepper, and a sweetener of choice to taste."
+    },
+    {
+      "step": 5,
+      "title": "YOUR CURRY IS SERVED",
+      "text": "Spoon some fragrant Thai red curry over a bed of nutty basmati. Sprinkle over the sliced chilli to taste and garnish with the chopped coriander and the chopped, toasted cashews. Well done, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 451.0,
+    "energy_kcal": 108.0,
+    "protein_g": 8.1,
+    "carbs_g": 13.0,
+    "sugars_g": 2.8,
+    "fibre_g": 1.8,
+    "fat_g": 2.7,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 163.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Shellfish",
+    "Tree Nuts"
+  ],
+  "chef_tip": "Always add curry paste to your taste preference – you don't have to add it all! When the sauce is nearing completion, taste to test the spice levels and gradually add in any remaining curry paste if you like to increase the heat.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

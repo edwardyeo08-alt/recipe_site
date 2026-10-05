@@ -1,0 +1,133 @@
+{
+  "recipe_number": 12,
+  "title": "Tex-Mex Sirloin Spread",
+  "subtitle": "with a Cajun cannellini bean chilli, roast butternut & pesto",
+  "description": "Tuck into this succulent sirloin steak, dripping with hemp seed and coriander pesto. With sides of tomatoey bean chilli swirled with Cajun spice and corn, oven-caramelised butternut, and a salad of crisp leaves, piquanté peppers, and almond flakes.",
+  "chef": "Alex Levett",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Steenberg Vineyards | Merlot",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Butternut",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "deseeded & cut into half-moons"
+    },
+    {
+      "name": "Flaked Almonds",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Cajun Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cannellini Beans",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Corn",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Free-range Beef Sirloin",
+      "quantity": 640,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Piquanté Peppers",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "The Real Food Factory Hemp Seed & Coriander Pesto",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "CARAMELISE THOSE MOONS",
+      "text": "Preheat the oven to 200°C. Spread out the butternut half-moons on a roasting tray, coat in oil, and season. Roast in the hot oven for 35-40 minutes until cooked through and golden, flipping at the halfway mark."
+    },
+    {
+      "step": 2,
+      "title": "LIGHT & CRUNCHY",
+      "text": "Place the flaked almonds in a large pan over a medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "TEX-MEX BEAN CHILLI",
+      "text": "Place a pot over a medium heat with a drizzle of oil. When hot, fry the Cajun Rub (to taste) for about a minute until fragrant, shifting constantly. Stir through the cooked chopped tomato, 100ml of water, and the drained cannellini beans. Bring to a simmer and cook for 7-8 minutes until thick and sticky, stirring occasionally. Remove from the heat on completion and mix in the drained corn. Season to taste with salt, pepper, and a sweetener of choice. Pop on a lid and set aside to keep warm until serving."
+    },
+    {
+      "step": 4,
+      "title": "SIRLOIN SEARING TIME",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil. Pat the steaks dry with paper towel. When the pan is hot, sear the steaks fat-side down, for 3-5 minutes until crispy. Then, fry for 2-4 minutes per side, or until cooked to your preference. (This time frame may depend on the thickness of the steaks.) Remove from the pan on completion and allow to rest for 5 minutes before slicing. Lightly season the slices."
+    },
+    {
+      "step": 5,
+      "title": "BRIGHT SALAD & PESTO DRIZZLE",
+      "text": "Place the rinsed green leaves and chopped piquanté peppers in a bowl. Toss through a drizzle of oil and some seasoning. Set aside for serving. Loosen the pesto with 2 tbsp of oil."
+    },
+    {
+      "step": 6,
+      "title": "WHAT A FEAST!",
+      "text": "Lay out the juicy sirloin slices and splatter with the pesto. Alongside, plate up the amber butternut and spoonfuls of Cajun bean chilli. Garnish the salad with the toasted almond flakes and serve on the side. Dig in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 487.0,
+    "energy_kcal": 116.0,
+    "protein_g": 7.4,
+    "carbs_g": 10.0,
+    "sugars_g": 2.5,
+    "fibre_g": 2.1,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.6,
+    "sodium_mg": 162.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "The butternut skin adds flavour, texture, and nutrients, but can be removed if you prefer!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

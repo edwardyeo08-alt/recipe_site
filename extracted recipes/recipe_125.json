@@ -1,0 +1,130 @@
+{
+  "recipe_number": 125,
+  "title": "NONNA'S GNOCCHI BAKE",
+  "subtitle": "with sweet potato gnocchi, fresh oregano & capers",
+  "description": "Flavourful Italian ingredients the whole family will savour. Drench the gnocchi in a tomato, caper, and oregano sauce, smother in cheese, bake to golden perfection, and serve with a spritely salad. A feast the way your nonna would make it.",
+  "chef": "Lauren Todd",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Sweet Potato Gnocchi",
+      "quantity": 700,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 4,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Oregano",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed, picked & finely chopped"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 2,
+      "unit": null,
+      "prep": "deseeded & finely sliced"
+    },
+    {
+      "name": "Capers",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "drained (reserving the brine) & roughly chopped"
+    },
+    {
+      "name": "Cooked Chopped Tomatoes",
+      "quantity": 800,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Grated Cheese Mix",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Cabernet Sauvignon Vinegar",
+      "quantity": 2,
+      "unit": "sachets",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "PERFECT PODS OF GNOCCHI",
+      "text": "Preheat the oven to 180°C. Boil the kettle. Place a pot for the gnocchi over a high heat. Fill with boiling water, add a pinch of salt, and bring back up to the boil. Once boiling rapidly, cook the gnocchi for 2-3 minutes until they begin to float and are heated through. Drain on completion, place in a bowl, and toss through some oil to prevent sticking."
+    },
+    {
+      "step": 2,
+      "title": "NONNA'S FAMOUS SAUCE",
+      "text": "Rinse the pot if necessary and return to a medium heat with a drizzle of oil. When hot, fry the diced onion for 5-6 minutes until soft and translucent, shifting regularly. Add the grated garlic, the sliced chilli (to taste), and three-quarters of the chopped oregano. Sauté for 30-60 seconds until fragrant. Stir through the reserved caper brine, the cooked chopped tomatoes, and half of the chopped capers. Allow to simmer for 7-10 minutes until slightly thickened, stirring occasionally. On completion, remove the pot from the heat and season with salt, pepper, and a sweetener of choice to taste."
+    },
+    {
+      "step": 3,
+      "title": "BAKE THE CHEESY GNOCCHI",
+      "text": "Add the cooked gnocchi to the pot of sauce and gently stir to coat. Transfer to an ovenproof dish and spread out in an even layer. Evenly sprinkle over the grated cheese mix and bake in the hot oven for 15-17 minutes until the cheese melts and becomes golden."
+    },
+    {
+      "step": 4,
+      "title": "SPRITELY, FRESH SALAD",
+      "text": "Just before serving, toss the rinsed green leaves with the remaining capers, a drizzle of cab sauv vinegar, and some seasoning."
+    },
+    {
+      "step": 5,
+      "title": "A COMFORTING DINNER – NONNA STYLE!",
+      "text": "Dish up a helping of cheesy gnocchi bake and side with the dressed green salad. Garnish with the remaining chopped oregano and sprinkle over any remaining fresh chilli if you'd like. Buon appetito!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 426.0,
+    "energy_kcal": 102.0,
+    "protein_g": 4.6,
+    "carbs_g": 14.0,
+    "sugars_g": 2.6,
+    "fibre_g": 2.0,
+    "fat_g": 2.8,
+    "saturated_fat_g": 1.4,
+    "sodium_mg": 285.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "For the best results, boil the gnocchi in batches to prevent crowding the pot and overcooking.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

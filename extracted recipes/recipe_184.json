@@ -1,0 +1,140 @@
+{
+  "recipe_number": 184,
+  "title": "Ostrich Chilli Con Carne",
+  "subtitle": "with cheesy potato wedges & Clark's Kitchen Bourbon BBQ sauce",
+  "description": "A saucy, satisfying classic gets a revamp with ostrich mince, stewed in a rich tomato and black bean chilli with handcrafted, smoky BBQ sauce. Devour it with fresh baby spinach and roast potato wedges, dripping with melted cheese.",
+  "chef": "Samantha Finnegan",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": 800,
+      "unit": "g",
+      "prep": "rinsed & cut into wedges (skin on)"
+    },
+    {
+      "name": "Grated Mozzarella",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Beef Stock",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & diced"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 2,
+      "unit": null,
+      "prep": "deseeded & finely chopped"
+    },
+    {
+      "name": "Free-Range Ostrich Mince",
+      "quantity": 600,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Cajun Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "NOMU Italian Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomatoes",
+      "quantity": 800,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Black Beans",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Clarks Kitchen Bourbon BBQ Sauce",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "CHEESY POTATO WEDGES",
+      "text": "Preheat the oven to 200°C. Boil the kettle. Spread out the potato wedges on a roasting tray, coat in oil, and season to taste. Roast in the hot oven for 35-40 minutes until cooked through and crisping up, shifting halfway. In the final 5 minutes, turn the oven onto the grill setting and scatter the grated mozzarella over the tray. Return to the oven for the remaining cooking time until the cheese is melted and golden. Dilute the stock with 150ml of boiling water and set aside."
+    },
+    {
+      "step": 2,
+      "title": "CHILLI CON CARNE",
+      "text": "Place a large pot over a medium heat with a drizzle of oil. When hot, fry the diced onion for 4-5 minutes until soft, shifting occasionally. Add half of the chopped chilli (to taste) and sauté for about a minute. Add the ostrich mince and work quickly to break it up as it starts to cook. Once separated, allow to caramelise for 5-6 minutes until browned, stirring occasionally. Stir in the Cajun Rub (to taste – it's spicy!) and the Italian Rub. Stir for another minute until fragrant. Mix in the cooked chopped tomatoes and diluted stock, and bring to a simmer. Lower the heat and cook for 15-20 minutes until reduced and thickened, stirring occasionally to stop it from catching."
+    },
+    {
+      "step": 3,
+      "title": "WHILE THE CHILLI CON CARNE IS SIMMERING...",
+      "text": "Roughly chop half of the rinsed baby spinach and place in a bowl. Toss through some olive oil and seasoning to taste, and set aside until serving."
+    },
+    {
+      "step": 4,
+      "title": "FINAL TOUCHES",
+      "text": "When the chilli con carne has 5 minutes remaining, add in the drained black beans, the remaining baby spinach, and the Bourbon BBQ sauce. Stir until the spinach has wilted and the beans have heated through. Season with salt, pepper, and a sweetener of choice to taste. Remove from the heat on completion."
+    },
+    {
+      "step": 5,
+      "title": "SERVE IT UP",
+      "text": "Dish up some deliciously sticky chilli con carne alongside the cheesy roast potato wedges. Garnish with the other half of the chopped chilli if you'd like some extra spice. Serve the fresh, dressed baby spinach on the side. It's just that easy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 409.0,
+    "energy_kcal": 98.0,
+    "protein_g": 6.7,
+    "carbs_g": 10.0,
+    "sugars_g": 2.6,
+    "fibre_g": 1.9,
+    "fat_g": 3.6,
+    "saturated_fat_g": 1.3,
+    "sodium_mg": 330.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Alcohol"
+  ],
+  "chef_tip": "Ingredients of Clark's Kitchen Bourbon BBQ sauce: Tomato paste, Vegetable oil (Canola seed), Vinegar, Molasses, Water, Bourbon (Jack Daniels), Garlic, Salt, Mustard, Spices.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

@@ -1,0 +1,143 @@
+{
+  "recipe_number": 163,
+  "title": "Herby Falafel Tortillas",
+  "subtitle": "with coriander pesto & tahini-chilli relish",
+  "description": "This falafel recipe is the definition of tasty fast food — loaded with a pickled cabbage, carrot and pea slaw, falafels flavoured with coriander pesto, crispy oven-roasted chickpeas, and drizzles of that perfect tahini-chilli dressing. Just load up the tortillas, tuck in, and munch away!",
+  "chef": "Ella Nasser",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Cavalli Estate | White Knight",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Outcast Classic Falafel Mix",
+      "quantity": 110,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "NOMU One For All Rub",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Shredded Cabbage & Julienne Carrot",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pickling Liquid",
+      "quantity": 80,
+      "unit": "ml",
+      "prep": "20ml Maple Syrup & 60ml White Wine Vinegar"
+    },
+    {
+      "name": "The Real Food Factory Coriander & Hemp Pesto",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Tahini",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Jalapeño Relish",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Wheat Flour Tortillas",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed, picked & finely chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET THE CHICKPEAS IN THE OVEN",
+      "text": "Preheat the oven to 180°C. Boil the kettle for step 2. Place the drained chickpeas on a roasting tray. Coat in oil and the One For All Rub. Spread out in a single layer and roast in the hot oven for 15-20 minutes until crispy and caramel in colour."
+    },
+    {
+      "step": 2,
+      "title": "PICKLED SLAW & MAGIC FALAFEL",
+      "text": "Submerge the peas in boiling water for 2-3 minutes until heated. Drain and place in a bowl with ½ of the cabbage and carrot. Add in the pickling liquid, 2 tbsp of water, and seasoning. Toss to coat and set aside to pickle. Place the falafel mix in a bowl with ½ of the coriander pesto, a pinch of salt, and 200ml of boiling water. Mix well, but not for longer than about 30 seconds. Cover and set aside to rehydrate for at least 10 minutes. Loosen the remaining coriander pesto with 20ml of olive oil. Season to taste and set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "A FLASH IN THE PAN",
+      "text": "Place a pan over a high heat with a drizzle of oil. When hot, flash fry the remaining cabbage and carrot for 1-2 minutes until slightly wilted but still crunchy. Transfer to a bowl on completion, cover to keep warm, and set aside. Drain the pickling liquid from the slaw and reserve. Combine the tahini in a bowl with the pickling liquid, jalapeño relish and seasoning – all to taste. If it's too thick, loosen with water in 5ml increments until drizzling consistency."
+    },
+    {
+      "step": 4,
+      "title": "SIZZLE THE PATTIES",
+      "text": "Roll the falafel mixture into 4-5 small balls per portion and gently flatten to form mini patties. Return the pan to a medium heat with enough oil to cover the base. When hot, fry the patties for 3-4 minutes per side until crispy, turning when they start to brown. Remove on completion and drain on paper towel. Halve when cool enough to handle."
+    },
+    {
+      "step": 5,
+      "title": "NEARLY THERE…",
+      "text": "Wipe down the pan and return it to a medium heat. When hot, dry toast the tortillas one at a time for about 30 seconds per side until lightly golden. Remove from the pan on completion. As you go, stack between sheets of paper towel to keep warm."
+    },
+    {
+      "step": 6,
+      "title": "THAT’S A WRAP, CHEF!",
+      "text": "Smear the remaining coriander pesto across the tortillas and pile up the fried cabbage and carrot in the centre. Top with the spiced falafels, pickled slaw, and roast chickpeas. Finish with drizzles of tahini-chilli dressing and sprinklings of chopped mint. Fold up and eat up!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 838.0,
+    "energy_kcal": 200.0,
+    "protein_g": 7.4,
+    "carbs_g": 26.0,
+    "sugars_g": 6.1,
+    "fibre_g": 6.7,
+    "fat_g": 6.2,
+    "saturated_fat_g": 1.2,
+    "sodium_mg": 403.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts",
+    "Soy"
+  ],
+  "chef_tip": "Rinsing tinned beans and legumes before use reduces the amount of sodium and sugar content you're adding to your meal while improving the flavour and texture.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

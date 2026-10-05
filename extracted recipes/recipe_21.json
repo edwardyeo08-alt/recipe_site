@@ -1,0 +1,134 @@
+{
+  "recipe_number": 21,
+  "title": "Juicy Lamb Leg Tabbouleh",
+  "subtitle": "with roast onion and baby tomatoes, fresh mint & Danish-style feta",
+  "description": "This oven-roasted deboned lamb leg will make you drool with its succulent meat, lightly charred edges, and coating of fragrant NOMU Rub. Laid over a nourishing bulgur tabbouleh with roast tomato and onion, cucumber, fresh mint, and lemon.",
+  "chef": "Samantha Finnegan",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Red Onion",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & cut into thin wedges"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "NOMU Roast Rub",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "diced"
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 4,
+      "unit": null,
+      "prep": "finely sliced"
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Danish-Style Feta",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 2,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Bulgur Wheat & Vegetable Stock",
+      "quantity": 315,
+      "unit": "ml",
+      "prep": "(300ml Bulgur Wheat & 15ml Vegetable Stock)"
+    },
+    {
+      "name": "Deboned Lamb Leg",
+      "quantity": 640,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "TIME TO GET ROASTIN'",
+      "text": "Preheat the oven to 180°C. Place the onion wedges and rinsed baby tomatoes on a roasting tray. Coat in oil and half of the Roast Rub. Roast in the hot oven for 30-35 minutes until the onion is crisping up and the tomatoes have blistered, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "MARINATE YOUR SALAD",
+      "text": "Boil the kettle for step 3. Place the diced cucumber, the sliced spring onion, and three-quarters of the chopped mint in a large bowl. Crumble in half of the drained feta, squeeze in some lemon juice, and add some lemon zest to taste. Toss to coat, season to taste, and set aside to marinate until serving."
+    },
+    {
+      "step": 3,
+      "title": "TENDER BULGUR",
+      "text": "Using a shallow bowl, submerge the bulgur wheat and stock in 800ml of boiling water. Add a drizzle of oil and gently stir through with a fork. Cover with a plate and set aside to steam for 15-20 minutes until cooked and tender. Fluff with the fork on completion, replace the plate, and set aside to keep warm."
+    },
+    {
+      "step": 4,
+      "title": "ROAST THE LAMB LEG",
+      "text": "When the onions and tomatoes reach the halfway mark, place a large, nonstick pan over a medium-high heat with a drizzle of oil. Pat the lamb dry with some paper towel. When the pan is hot, fry the lamb for 4-7 minutes until browned but not cooked through, shifting as it colours. Remove from the heat on completion, add the remaining Roast Rub to the pan, and toss to coat. Place on the roasting tray amongst the veg (or use a separate tray if necessary). Finish off in the oven for 5-8 minutes or until cooked through to your preference. Remove from the tray on completion and allow to rest for 5 minutes before slicing."
+    },
+    {
+      "step": 5,
+      "title": "VIBRANT BULGUR TABBOULEH",
+      "text": "Once the bulgur and veggies are cooked, add them to the bowl of cucumber and spring onion. Toss to combine."
+    },
+    {
+      "step": 6,
+      "title": "GRAB A BOWL AND PILE IT UP!",
+      "text": "Serve up some bulgur tabbouleh and top with the tender slices of lamb. Crumble over the remaining feta, add a squeeze of lemon juice to taste, and garnish with the remaining chopped mint. Your dinner awaits!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 655.0,
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbs_g": 12.0,
+    "sugars_g": 1.5,
+    "fibre_g": 2.6,
+    "fat_g": 8.5,
+    "saturated_fat_g": 4.0,
+    "sodium_mg": 191.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "The binder ring and hole punch obscure the Energy (kcal) value and the leading digit(s) of the Protein value in Nutritional Information."
+}

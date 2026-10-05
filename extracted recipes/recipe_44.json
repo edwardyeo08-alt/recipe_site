@@ -1,0 +1,136 @@
+{
+  "recipe_number": 44,
+  "title": "Braai-Style Beef Fillet",
+  "subtitle": "with coffee rub, a crème fraîche sauce & avocado",
+  "description": "The beef fillet and the braai: a timeless South African love story. Bring the braai to your dinner table with this luxuriously tender, buttery, lean cut of meat, a creamy sauce, warm bulgur wheat with roast tomatoes, and a classic avo salad. Or, get out the coals and take this family feast to the braai!",
+  "chef": "Lauren Todd",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Bulgur Wheat",
+      "quantity": 300,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-Range Beef Fillet",
+      "quantity": 600,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Coffee Rub",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 120,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cabernet Sauvignon Vinegar",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed & shredded"
+    },
+    {
+      "name": "Avocado",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter",
+    "Milk (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "FLUFFY BULGUR WHEAT",
+      "text": "Preheat the oven to 160°C. Boil the kettle. Using a shallow bowl, submerge the bulgur wheat and vegetable stock in 800ml of boiling water. Add a drizzle of oil and gently stir through with a fork. Cover with a plate and set aside to steam for 15-20 minutes. Once cooked, fluff up with the fork."
+    },
+    {
+      "step": 2,
+      "title": "ROAST THE BABY TOMATOES",
+      "text": "Spread out the rinsed, whole baby tomatoes on a roasting tray. Coat in oil and season to taste. Roast in the hot oven for 15-20 minutes until softened and blistered."
+    },
+    {
+      "step": 3,
+      "title": "TOAST THE PUMPKIN SEEDS",
+      "text": "Place the pumpkin seeds in a large pan over a medium heat. Toast for 3-5 minutes until they begin to pop and turn brown. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 4,
+      "title": "FEISTY FILLET",
+      "text": "Pat the beef fillet dry with some paper towel. Coat in oil and half of the Coffee Rub. Return the pan to a medium-high heat. When hot, sear the fillet for 5-6 minutes until browned all over but not cooked through, shifting as it colours. In the final minute, baste the fillet with a knob of butter and the remaining Coffee Rub to taste. Remove the pan from the heat and place the fillet on a roasting tray, leaving the juices in the pan. Finish the fillet in the oven for 5-6 minutes or until cooked to your preference. (Remember, it'll continue to cook when out of the oven and resting.) Remove on completion and set aside to rest for 5 minutes. Keeping the pan off the heat, whisk the crème fraîche into the pan juices. Mix in water or milk in 5ml increments to loosen slightly for a thick sauce. Season to taste and set the pan aside until serving."
+    },
+    {
+      "step": 5,
+      "title": "SNAZZY SIDES",
+      "text": "Halve the avocados and remove the pips. Scoop out the flesh and cut into cubes. Toss together with the shredded green leaves, the cab sauv vinegar, a drizzle of oil, and seasoning to taste. Set aside for serving. Toss the blistered tomatoes and three-quarters of the toasted pumpkin seeds through the cooked bulgur wheat. When the fillet is finished resting, thinly slice and lightly season."
+    },
+    {
+      "step": 6,
+      "title": "GRAB A PLATE!",
+      "text": "Dish up a pile of hearty bulgur wheat salad. Top with the succulent sliced fillet and drizzle over the crème fraîche sauce. Serve the avo salad on the side and scatter the remaining toasted pumpkin seeds over the lot. Daarsy, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 774.0,
+    "energy_kcal": 185.0,
+    "protein_g": 10.0,
+    "carbs_g": 15.0,
+    "sugars_g": 1.5,
+    "fibre_g": 3.5,
+    "fat_g": 7.1,
+    "saturated_fat_g": 2.6,
+    "sodium_mg": 304.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Gluten",
+    "Sulphites"
+  ],
+  "chef_tip": "If you have the time, why not take the opportunity to light up the braai and grill the coffee-seasoned fillet to smoky perfection for a proper South African steak supper and a festive evening!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

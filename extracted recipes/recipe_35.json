@@ -1,0 +1,124 @@
+{
+  "recipe_number": 35,
+  "title": "Moroccan Lamb Stew",
+  "subtitle": "with olives, NOMU Moroccan Rub & herby couscous",
+  "description": "Savor the rich and aromatic flavors of Morocco with our mouth-watering lamb stew. Tender pieces of lamb simmered in NOMU Moroccan Rub, tomato passata, and tender carrot. Topped with fresh mint for a touch of brightness and served over a bed of fluffy couscous. A comforting and satisfying meal perfect for any night.",
+  "chef": "Kate Gomba",
+  "category": "Fan Faves",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Strandveld | The Navigator Red Blend",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Free-range Lamb Chunks",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & roughly diced"
+    },
+    {
+      "name": "NOMU Moroccan Rub",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "rinsed, trimmed & cut into small chunks"
+    },
+    {
+      "name": "Tomato Passata",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pitted Kalamata Olives",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "drained & halved"
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 8,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whole Wheat Couscous",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "LAMB",
+      "text": "Pat the lamb dry with paper towel and cut into small pieces. Place a pot over medium heat with a drizzle of oil. When hot, add the lamb and fry for 3-4 minutes until browned, shifting occasionally. Add the diced onion and fry for 3-4 minutes until soft, shifting occasionally. Add the rub, the grated garlic, the grated ginger, and the carrot chunks. Fry for 1-2 minutes until fragrant, shifting constantly."
+    },
+    {
+      "step": 2,
+      "title": "STEW",
+      "text": "When the garlic is fragrant, add the tomato passata and 400ml of water to the pot. Simmer for 15-20 minutes or until thickened to the desired consistency, stirring occasionally. In the final 1-2 minutes, add the halved olives, seasoning, and a sweetener of choice. Add a splash of warm water if it's too thick for your liking."
+    },
+    {
+      "step": 3,
+      "title": "COUSCOUS",
+      "text": "While the stew is simmering, boil the kettle. Rinse and roughly chop the mint. Set aside. Using a shallow bowl, submerge the couscous in 200ml of boiling water. Add a drizzle of oil and gently stir through with a fork. Cover with a plate and steam for 5-8 minutes until tender. Once cooked, thoss through ¾ of the chopped mint."
+    },
+    {
+      "step": 4,
+      "title": "GOOD WORK!",
+      "text": "Make a bed of the herby couscous and top with the stew. Garnish with the remaining mint. Time to dine, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 553.0,
+    "energy_kcal": 132.0,
+    "protein_g": null,
+    "carbs_g": 13.0,
+    "sugars_g": 3.3,
+    "fibre_g": 2.2,
+    "fat_g": 5.8,
+    "saturated_fat_g": 2.2,
+    "sodium_mg": 143.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punches through the nutritional information column, obscuring the protein value and partially clipping the units for Energy (kJ and kcal)."
+}

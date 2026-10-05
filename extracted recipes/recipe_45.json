@@ -1,0 +1,135 @@
+{
+  "recipe_number": 45,
+  "title": "Sweet Chilli Beef Stir Fry",
+  "subtitle": "with charred broccoli and carrot, pickled ginger & rice noodles",
+  "description": "A classic stir fry with more oomph and less effort! Tender beef strips coated in sweet chilli and soy sauce with warm, crunchy veg and silky noodles. Scattered with coriander, spring onion, sesame seeds, and cucumber to keep things fresh.",
+  "chef": "Fatima Ellemdeen",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "White Sesame Seeds",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Broccoli Florets",
+      "quantity": 600,
+      "unit": "g",
+      "prep": "cut into bite-size pieces"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "rinsed & julienned or grated"
+    },
+    {
+      "name": "Rice Noodles",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-Range Beef Strips",
+      "quantity": 600,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Soy Sauce",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Ong's Sweet Chilli Sauce",
+      "quantity": 120,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pickled Ginger",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "sliced into matchsticks"
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 4,
+      "unit": null,
+      "prep": "roughly sliced"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET THE SEEDS GOLDEN!",
+      "text": "Place a large pan or wok (that has a lid) over a medium heat. When hot, toast the sesame seeds for 2-4 minutes until lightly browned, shifting occasionally. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 2,
+      "title": "CHAR THE VEGGIES",
+      "text": "Boil a full kettle for step 3. Return the pan or wok to a medium-high heat with a drizzle of oil. When hot, fry the broccoli pieces and julienne carrot for 7-8 minutes until lightly charred, shifting occasionally. Add a splash of water, cover with a lid, and allow to steam for 3-4 minutes until cooked through but still al dente. Drain any remaining water from the pan and transfer the veg to a bowl. Season to taste and set aside."
+    },
+    {
+      "step": 3,
+      "title": "CRYSTAL CLEAR NOODLES",
+      "text": "Using a shallow bowl, submerge the rice noodles in boiling water and add a pinch of salt. Cover with a plate and set aside to soak for 6-8 minutes until cooked through and glassy. Taste to test and drain on completion. Toss through some oil to prevent sticking, replace the plate, and set aside to keep warm until serving."
+    },
+    {
+      "step": 4,
+      "title": "STIR FRY TIME",
+      "text": "While the noodles are soaking, return the pan or wok to a high heat with another drizzle of oil. When hot, fry the beef strips for 1-2 minutes until browned but not cooked through, shifting occasionally. Add the soy sauce, 4 tbsp of water, and the sweet chilli sauce (to taste). Toss through the beef until coated. Add in the charred broccoli and carrot and cook for a further 2 minutes until reheated, shifting constantly. Remove from the heat on completion."
+    },
+    {
+      "step": 5,
+      "title": "BOWL UP",
+      "text": "Dish up a pile of silky noodles and top with the sweet chilli stir fry. Scatter over the chopped, pickled ginger, cucumber matchsticks, and sliced spring onion. Finish with a sprinkling of toasted sesame seeds and fresh, chopped coriander. Easy as that, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 441.0,
+    "energy_kcal": 106.0,
+    "protein_g": 8.1,
+    "carbs_g": 15.0,
+    "sugars_g": 4.8,
+    "fibre_g": 1.9,
+    "fat_g": 1.6,
+    "saturated_fat_g": 0.6,
+    "sodium_mg": 318.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Sulphites",
+    "Soy"
+  ],
+  "chef_tip": "You can use a wok for this recipe if you have one. The best thing about a wok is that it distributes heat more evenly and so requires less oil. It also ensures that food tossed during stir frying lands back in the pan and not all over the stove!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

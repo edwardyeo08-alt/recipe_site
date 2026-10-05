@@ -1,0 +1,133 @@
+{
+  "recipe_number": 154,
+  "title": "Thai Green Veggie Curry",
+  "subtitle": "with baby marrow & green beans",
+  "description": "This vegetarian Thai green curry recipe is packed full of fresh vegetables, has a lusciously creamy green sauce, and is bursting with flavour! It features a medley of green veggies such as baby marrow, green beans, and pops of peas. Served with fluffly quinoa and garnished with toasted cashews & fresh basil. This is the only instance where green means hot, hot, hot!",
+  "chef": "Rhea Hsu",
+  "category": "Fan Faves",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Delheim Wines | Delheim Gewürztraminer",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "White Quinoa",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cashew Nut",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Thai Green Curry Paste",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Coconut Cream",
+      "quantity": 400,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & cut into bite-sized chunks"
+    },
+    {
+      "name": "Green Beans",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "trimmed & cut into thirds"
+    },
+    {
+      "name": "Pickled Bell Peppers",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Peas",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "cut into wedges"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "QUICK ON THE QUINOA",
+      "text": "Rinse the quinoa and place in a pot. Submerge in 400ml of salted water and place over a medium-high heat. Pop on a lid and bring to a simmer. Cook for 12-15 minutes until the quinoa is tender and its tails have popped out, adding more water if required during cooking. On completion, drain if necessary and return to the pot. Replace the lid and stand off the heat for at least 5 minutes."
+    },
+    {
+      "step": 2,
+      "title": "IF YOU FALL, I'LL CASHEW!",
+      "text": "Place the cashews in a deep pan over a medium heat. Toast for 3-5 minutes, shifting occasionally. Remove from the pan and roughly chop."
+    },
+    {
+      "step": 3,
+      "title": "COCO CURRY",
+      "text": "Return the deep pan to a medium heat with a drizzle of oil. When hot, add the grated ginger and the curry paste (to taste), and fry for 1-2 minutes until fragrant, shifting constantly. Pour in the coconut cream and bring it up to a simmer. Add the baby marrow chunks and the green beans and simmer for 4-5 minutes until cooked through. In the final minute, stir through the pickled peppers and the peas."
+    },
+    {
+      "step": 4,
+      "title": "FINISHING TOUCHES",
+      "text": "Remove the curry from the heat. Add 1/2 of the picked basil, the juice of 2 lemon wedges, a sweetener of choice (to taste), and seasoning."
+    },
+    {
+      "step": 5,
+      "title": "BOWL UP",
+      "text": "Dish up a generous portion of quinoa. Top with the Thai green curry, and sprinkle over the toasted cashews. Garnish with the remaining picked basil and serve with any remaining lemon wedges on the side. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 568.0,
+    "energy_kcal": 136.0,
+    "protein_g": null,
+    "carbs_g": 14.0,
+    "sugars_g": 3.7,
+    "fibre_g": 2.3,
+    "fat_g": 7.6,
+    "saturated_fat_g": 5.1,
+    "sodium_mg": 155.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is obscured by the binder ring."
+}

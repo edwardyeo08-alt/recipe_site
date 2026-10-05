@@ -1,0 +1,144 @@
+{
+  "recipe_number": 127,
+  "title": "Crispy Bacon & Pea Gnocchi",
+  "subtitle": "with garlic, fresh basil & grated Italian-style hard cheese",
+  "description": "Get ready to knock a gnocchi recipe out of the park! You'll be cooking an impressive dish today but won't have to put in hours behind the stove to achieve the delectable tastes of pillowy butternut gnocchi, crispy bacon, and pops of peas, all covered in a creamy garlic, wine & tomato sauce.",
+  "chef": "Rhea Hsu",
+  "category": "Quick & Easy",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 30,
+  "wine_pairing": "Paserene | Bright Chardonnay",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Butternut Gnocchi",
+      "quantity": 350,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Streaky Pork Bacon",
+      "quantity": 8,
+      "unit": "strips",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Tomato Paste",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "White Wine",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cake Flour",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Milk",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Ground Paprika",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Grated Italian-style Hard Cheese",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly sliced"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GO, GO GNOCCHI!",
+      "text": "Boil the kettle. Place a pot for the gnocchi over a high heat. Fill with boiling water, add a pinch of salt, and bring back up to the boil. Once boiling, add the gnocchi and cook for 2-3 minutes until they begin to float and are heated through. Drain, reserving a cup of the gnocchi water, and toss through some oil to prevent sticking."
+    },
+    {
+      "step": 2,
+      "title": "BRING ON THE BACON",
+      "text": "Place a pan over medium-high heat. When hot, add the bacon slices and fry for 1-2 minutes per side until browned and crispy. Drain on paper towel and roughly chop into bite-sized pieces."
+    },
+    {
+      "step": 3,
+      "title": "IT'S ALL ABOUT THE SAUCE",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil (if necessary). When hot, add the grated garlic, the tomato paste, and the wine. Cook for 1-2 minutes or until almost all evaporated. Add 40g of butter and the flour. Fry for 1-2 minutes, shifting constantly. Remove from the heat and gradually stir in the milk, making sure there are no lumps. Loosen the sauce with the reserved gnocchi water until the desired consistency."
+    },
+    {
+      "step": 4,
+      "title": "FINAL TOUCHES & FLAVOURS",
+      "text": "Return the pan with the sauce to a medium heat and bring to a simmer. Once simmering, add the paprika, the peas, ½ the grated cheese, a squeeze of lemon juice (to taste), a sweetener (to taste), and seasoning. Mix until combined and remove from the heat. Stir through the cooked gnocchi, ½ the chopped bacon, and ½ the sliced basil."
+    },
+    {
+      "step": 5,
+      "title": "DISH UP DINNER",
+      "text": "Plate up the creamy pea & bacon gnocchi and sprinkle over the remaining cheese, bacon, and basil. Garnish with lemon zest (to taste) and finish off with a crack of black pepper. Side with any remaining lemon wedges. Cheers, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 643.0,
+    "energy_kcal": 154.0,
+    "protein_g": null,
+    "carbs_g": 18.0,
+    "sugars_g": 2.4,
+    "fibre_g": 2.4,
+    "fat_g": 5.5,
+    "saturated_fat_g": 2.1,
+    "sodium_mg": 275.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Alcohol"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Ring binder hole and metal ring obscure the Protein value and partially clip the unit 'kcal' in the Nutritional Information table."
+}

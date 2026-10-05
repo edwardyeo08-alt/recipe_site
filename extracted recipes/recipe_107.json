@@ -1,0 +1,125 @@
+{
+  "recipe_number": 107,
+  "title": "Roast Veggie & Trout Salad",
+  "subtitle": "with Danish-style feta & Princess Pesto Rocket Pesto",
+  "description": "A wholesome and tasty salad packed with flavour and goodness! Green leaves are the base of this healthy delight, and are loaded with sweet roasted pumpkin, baby marrow ribbons, and creamy feta. The star of the show is tender flaky trout, the perfect carrier for all the fabulous flavours within this dish!",
+  "chef": "Megan Bure",
+  "category": "Carb Conscious",
+  "servings": 2,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Boschendal | MCC Brut Rosé NV",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Pumpkin Chunks",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "cut into bite-sized chunks"
+    },
+    {
+      "name": "Rainbow Trout Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pesto Princess Rocket Pesto",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "peeled into ribbons"
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Peanuts",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "PUMP IT UP",
+      "text": "Preheat the oven to 200°C. Spread out the pumpkin chunks on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "LET THEM EAT TROUT!",
+      "text": "When the pumpkin has 10 minutes remaining, pat the trout dry with paper towel. Place a pan over a medium-high heat with a drizzle of oil. When hot, fry the trout skin-side down for 2-3 minutes until crispy. Flip and fry for a further 30-60 seconds or until cooked through to your preference. Remove from the pan on completion."
+    },
+    {
+      "step": 3,
+      "title": "DRESSED TO IMPRESS",
+      "text": "In a bowl, combine the vinegar, the pesto, the sweet chilli sauce, and seasoning."
+    },
+    {
+      "step": 4,
+      "title": "SALAD SYMPHONY",
+      "text": "In a large bowl, combine the green leaves, the baby marrow ribbons, and the roasted pumpkin chunks. Add the dressing (to taste). Crumble in the drained feta and toss until fully combined."
+    },
+    {
+      "step": 5,
+      "title": "SERVICE, CHEF!",
+      "text": "Serve up a hearty helping of the salad and top with the trout fillets. Sprinkle over the chopped peanuts. Well done, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 421.0,
+    "energy_kcal": 101.0,
+    "protein_g": null,
+    "carbs_g": 4.0,
+    "sugars_g": 1.6,
+    "fibre_g": 1.4,
+    "fat_g": 5.3,
+    "saturated_fat_g": 1.6,
+    "sodium_mg": 94.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Allium",
+    "Peanuts",
+    "Sulphites",
+    "Sugar Alcohol (Xylitol)",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value is partially punched out by the binder ring hole (shows ...3g); Energy kcal unit partially clipped."
+}

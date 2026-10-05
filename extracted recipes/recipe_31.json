@@ -1,0 +1,144 @@
+{
+  "recipe_number": 31,
+  "title": "West African Lamb & Peanut Stew",
+  "subtitle": "with rotis & fresh coriander",
+  "description": "This West African peanut stew is traditionally called granat soup. This recipe is made with simple ingredients; peanut butter, tomato, onions and garlic! These flavours meld together to create a magically unique and tasty dinner. With peanuts for added crunch and sprinkles of coriander for a fragrant finish, you'll remember this dish for a long time to come!",
+  "chef": "Ella Nasser",
+  "category": "Quick & Easy",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 30,
+  "wine_pairing": "Boschendal | 1685 Merlot",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & cut into chunks"
+    },
+    {
+      "name": "Sweet Potato",
+      "quantity": 500,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "NOMU Moroccan Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Tomato Passata",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Spicy Peanut Butter",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Kale",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Peanuts",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-range Lamb Rump",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whole Wheat Rotis",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BASE CAMP",
+      "text": "Boil the kettle. Place a pot over a medium heat with a drizzle of oil. When hot, add the onion chunks and fry for 4-5 minutes until soft, shifting occasionally. While the onion is frying, rinse and cut the sweet potato into small bite-sized chunks."
+    },
+    {
+      "step": 2,
+      "title": "LOAD THE STEW",
+      "text": "When the onions are soft, add the grated garlic, the sweet potato chunks, ½ the rub, the tomato passata, the peanut butter, 500ml of boiling water, and the stock. Mix until the peanut butter is fully combined. Reduce the heat and leave to simmer for 15-20 minutes until slightly thickened and the sweet potato is soft. Add a splash of warm water if the sauce reduces too quickly."
+    },
+    {
+      "step": 3,
+      "title": "SIZZLING LAMB",
+      "text": "While the stew is simmering, rinse the coriander and the kale. Roughly shred the kale. Chop the rinsed coriander and the peanuts. Pat the lamb dry, cut into bite-sized chunks, and coat in the remaining rub and a drizzle of oil. Place a nonstick pan over a medium-high heat with a drizzle of oil. When hot, add the lamb chunks and fry for 2-3 minutes per side until browned and cooked to your preference. When the stew has 2-3 minutes remaining, add the shredded kale and the browned lamb. On completion, season with a sweetener of choice (to taste), salt, and pepper."
+    },
+    {
+      "step": 4,
+      "title": "ROTI TIME",
+      "text": "Return the pan, wiped down, to a medium heat. When hot, warm the rotis for 30-60 seconds per side until heated through and lightly toasted. Alternatively, spread them out on a plate in a single layer and heat up in the microwave for 30-60 seconds."
+    },
+    {
+      "step": 5,
+      "title": "WEST-AFRICAN FEAST!",
+      "text": "Plate up the fragrant peanut & lamb stew. Sprinkle over the chopped peanuts and garnish with the chopped coriander. Side with the warm rotis. Divine, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 603.0,
+    "energy_kcal": 144.0,
+    "protein_g": 6.2,
+    "carbs_g": 14.0,
+    "sugars_g": 4.2,
+    "fibre_g": 2.2,
+    "fat_g": 6.8,
+    "saturated_fat_g": 2.2,
+    "sodium_mg": 265.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Peanuts",
+    "Wheat",
+    "Sulphites",
+    "Soy"
+  ],
+  "chef_tip": "For a nuttier flavour, place the peanuts in a pan over a medium heat. Toast for 3-5 minutes until golden, shifting occasionally. Remove from the pan and roughly chop.",
+  "card_obscured_flag": true,
+  "obscured_details": "The allergen 'Wheat' is partially clipped by the binder ring hole."
+}

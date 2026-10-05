@@ -1,0 +1,137 @@
+{
+  "recipe_number": 60,
+  "title": "Tex-Mex Roast Chicken",
+  "subtitle": "with pearled spelt, blistered baby tomatoes & Pesto Princess Chimichurri",
+  "description": "An easy tex-mex number to spur you on towards the weekend! Crispy roast chicken pieces coupled with wholesome spelt, a chunky black bean and corn chilli, lime-tossed leaves, and drizzles of chimichurri.",
+  "chef": "Klaudia Weixelbaumer",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Pearled Spelt",
+      "quantity": 150.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 10.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Chicken Pieces",
+      "quantity": 4.0,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Mexican Spice Blend",
+      "quantity": 20.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Corn",
+      "quantity": 80.0,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "finely sliced, keeping the white & green parts separate"
+    },
+    {
+      "name": "Black Beans",
+      "quantity": 120.0,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Lime",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Pesto Princess Chimichurri",
+      "quantity": 30.0,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET THE SPELT ON THE GO",
+      "text": "Preheat the oven to 200°C. Rinse the spelt, place in a pot with the stock, and submerge in 500ml of water. Stir through, pop on a lid, and place over a medium-high heat. Once boiling, reduce the heat and simmer with the lid slightly ajar for 30-40 minutes until tender but still bouncy. Stir occasionally as the water is absorbed, only adding more if required during the cooking process. Remove from the heat on completion and drain if necessary."
+    },
+    {
+      "step": 2,
+      "title": "POP THE CHICKEN IN TO ROAST",
+      "text": "Place the chicken on a roasting tray and pat dry with paper towel. Coat in oil, half of the Mexican spice blend, and seasoning to taste. Roast in the hot oven for 30-35 minutes until cooked through and becoming crispy. Place the halved baby tomatoes in a bowl with a drizzle of oil and some seasoning. Toss to coat and set aside for step 4."
+    },
+    {
+      "step": 3,
+      "title": "MEXI VEGGIES",
+      "text": "Place a pan over a high heat with a drizzle of oil. When hot, fry the corn for 4-5 minutes until charred. Stir through the remaining Mexican spice blend, the white spring onion slices, and the drained black beans. Fry for 2-3 minutes until fragrant and heated through. Remove the pan from the heat and cover to keep warm until serving."
+    },
+    {
+      "step": 4,
+      "title": "BLISTERED TOMATOES",
+      "text": "When the chicken reaches the halfway mark, remove the tray from the oven and scatter around the dressed baby tomatoes. Return to the oven for the remaining roasting time until blistered."
+    },
+    {
+      "step": 5,
+      "title": "JUST BEFORE SERVING...",
+      "text": "Place the rinsed green leaves in a bowl with a drizzle of oil, a pinch of lime zest, and some lime juice to taste. Season and toss to coat. Loosen the chimichurri with 1 tbsp of olive oil and season to taste."
+    },
+    {
+      "step": 6,
+      "title": "SHINING TEX-MEX DINING!",
+      "text": "Make a bed of dressed leaves. Load up with the pearled spelt and the spicy corn and beans. Top with the roast chicken and drizzle over the chimichurri. Garnish with the green spring onion slices and any remaining lime wedges. Nice work, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 620.0,
+    "energy_kcal": 150.0,
+    "protein_g": 11.1,
+    "carbs_g": 12.0,
+    "sugars_g": 2.0,
+    "fibre_g": 2.5,
+    "fat_g": 6.1,
+    "saturated_fat_g": 1.5,
+    "sodium_mg": 313.5
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring punch hole partially obscures the Carbs value under Nutritional Information (estimated at 12g based on visible partial digit and nutritional energy balance)."
+}

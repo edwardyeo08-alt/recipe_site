@@ -1,0 +1,140 @@
+{
+  "recipe_number": 37,
+  "title": "Beef Meatloaf & Bocconcini Salad",
+  "subtitle": "with baby tomatoes & fresh parsley",
+  "description": "Our take on meatloaf is down right delicious! This American-style meatloaf is packed with onions, garlic, and fresh parsley, and is glazed with a glistening sweet tomato sauce whilst baking to tender perfection. Give this loaf of yum a try, you won't regret it!",
+  "chef": "Ella Nasser",
+  "category": "Carb Conscious",
+  "servings": 3,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Boschendal | 1685 Merlot",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Tomato Sauce",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "White Wine Vinegar",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Mince",
+      "quantity": 450,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "¾ peeled & finely diced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 12,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "quantity": 45,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "NOMU Italian Rub",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "cut in half"
+    },
+    {
+      "name": "Bocconcini Balls",
+      "quantity": 6,
+      "unit": null,
+      "prep": "cut in half"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Egg/s",
+    "Tinfoil (optional)",
+    "Baking Paper (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "STICKY TOMATO SAUCE",
+      "text": "Preheat the oven to 200°C. In a bowl, combine ¾ of the tomato sauce, the vinegar, a sweetener of choice (to taste), and seasoning."
+    },
+    {
+      "step": 2,
+      "title": "JUST LOAFING AROUND",
+      "text": "In a bowl, add the beef mince, the diced onion, ½ the chopped parsley, the worcestershire sauce, the grated garlic, the remaining tomato sauce, the rub, the breadcrumbs, 1½ eggs, and seasoning. Mix with your hands or a wooden spoon until fully combined. Wet your hands slightly to stop the mixture from sticking to them and form into 3 meatloaves. Smooth out any cracks or creases. Transfer to a lightly greased tinfoil or baking paper lined baking tray. Bake in the hot oven for 30-35 minutes. In the final 10 minutes, brush the meatloaves with the tomato sauce glaze. On completion, it should be sticky and cooked through."
+    },
+    {
+      "step": 3,
+      "title": "WE WILL BOCC YOU",
+      "text": "In a bowl, combine the rinsed salad leaves, the halved tomatoes, the halved bocconcini balls, a drizzle of oil, and seasoning."
+    },
+    {
+      "step": 4,
+      "title": "DINNER IS SERVED!",
+      "text": "Plate up the flavourful meatloaves. Side with the bocconcini salad. Sprinkle over the remaining parsley. Get munching, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 552.0,
+    "energy_kcal": 132.0,
+    "protein_g": null,
+    "carbs_g": 7.0,
+    "sugars_g": 3.4,
+    "fibre_g": 1.0,
+    "fat_g": 7.8,
+    "saturated_fat_g": 3.3,
+    "sodium_mg": 240.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Soy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punches through the nutritional information column, obscuring the integer portion of the protein value (only '.7g' remains visible)."
+}

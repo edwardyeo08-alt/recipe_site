@@ -1,0 +1,143 @@
+{
+  "recipe_number": 87,
+  "title": "Nut Crusted Hake",
+  "subtitle": "with a lemon garlic butter & savoury rice",
+  "description": "A delicate hake fillet coated in a flavour packed crumb of flakey almonds, hard cheese, parsley and lemon zest. Sitting on a bed of piquanté pepper, pea, carrot and baby marrow filled savoury rice, doused in drizzles of lemon garlic butter and flecked with fresh parsley garnishes",
+  "chef": "Alex Levett",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Cavalli Estate | White Knight",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Grated Italian-style Hard Cheese",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & finely chopped"
+    },
+    {
+      "name": "Flaked Almonds",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "finely chopped"
+    },
+    {
+      "name": "Line-caught Hake Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "peeled, trimmed & finely diced"
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "rinsed, trimmed & diced into small pieces"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Piquanté Peppers",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "drained & sliced"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Tinfoil",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "COOK RICE",
+      "text": "Preheat the oven to 200°C. Rinse the rice and place in a pot over a medium-high heat. Submerge in 500ml of salted water and pop on a lid. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Mix through the peas and return the lid, remove from the heat and set aside to steam for a further 10 minutes. On completion, drain if necessary and fluff up with a fork."
+    },
+    {
+      "step": 2,
+      "title": "MAKE THE CRUST & BAKE THE HAKE",
+      "text": "Melt 40g of butter in the microwave or in a small pot. Mix together the grated hard cheese, some lemon zest (to taste), ½ of the chopped parsley, the chopped almonds, melted butter and some pepper to form a crumbly mixture. Pat the hake dry with paper towel and place on a lightly greased baking tray and season to taste. Top with the crumb mixture until evenly coated. Pop in the oven and bake for 15-20 minutes, until cooked through, flakey and golden on the outside."
+    },
+    {
+      "step": 3,
+      "title": "FRY THE VEGGIES",
+      "text": "Place a pan over medium heat with a drizzle of oil. When hot, fry the diced onion, diced carrot, and diced baby marrow pieces for 5-6 minutes until softened, shifting occasionally. In the final 1-2 minutes, add ½ of the grated garlic and cook until fragrant. Add the sliced piquanté peppers and sauteed vegetables to the cooked rice and peas. Season to taste, cover with a lid and set aside to keep warm until serving."
+    },
+    {
+      "step": 4,
+      "title": "FLAVOURED BUTTER & FINISHING TOUCHES",
+      "text": "Wipe down the pan if necessary and place over a medium-high heat with a drizzle of oil and 60g of butter. Once foaming, fry the remaining grated garlic for 1-2 minutes until fragrant. Remove from the heat and add the juice of 2 lemon wedges (carefully, as the butter gets very hot)."
+    },
+    {
+      "step": 5,
+      "title": "PLATE",
+      "text": "Make a bed of the loaded veggie rice. Top with the crumbed hake and drizzle generously with lemon garlic butter. Garnish with the remaining parsley and a lemon wedge. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 458.0,
+    "energy_kcal": 110.0,
+    "protein_g": 6.1,
+    "carbs_g": 15.0,
+    "sugars_g": 3.3,
+    "fibre_g": 2.9,
+    "fat_g": 2.8,
+    "saturated_fat_g": 0.3,
+    "sodium_mg": 44.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Fish",
+    "Tree Nuts"
+  ],
+  "chef_tip": "For the rice, keep the lid on for the entire cooking and steaming time, only checking if necessary. This will ensure you get that perfect, nutty texture!",
+  "card_obscured_flag": true,
+  "obscured_details": "The allergen 'Tree Nuts' is partially obscured and clipped by the binder ring ('Tree N...')."
+}

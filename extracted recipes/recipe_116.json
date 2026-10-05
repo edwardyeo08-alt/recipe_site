@@ -1,0 +1,143 @@
+{
+  "recipe_number": 116,
+  "title": "Tasty Tex-Mex Enchiladas",
+  "subtitle": "with pickled peppers, corn & black beans",
+  "description": "This vegetarian, ready-in-4-steps, Mexican comfort food will rock your socks. Spiced black bean ragù wrapped up inside a flour tortilla, smothered in cheese and baked until crispy and golden. Topped with a charred sweet corn and black bean salsa, and coriander crème fraîche!",
+  "chef": "Ella Nasser",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Haute Cabrière | Pierre Jourdan Tranquille",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Spring Onions",
+      "quantity": 4,
+      "unit": null,
+      "prep": "finely sliced, keeping the white & green parts separate"
+    },
+    {
+      "name": "Corn",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Pickled Bell Peppers",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "NOMU Mexican Spice Blend",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1,
+      "unit": null,
+      "prep": "deseeded & finely sliced"
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Black Beans",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Wheat Flour Tortillas",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Grated Mozzarella & Cheddar Cheese Mix",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey (optional)",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "TEX-MEX RAGÙ",
+      "text": "Preheat the oven to 200°C. Place a pot over a medium heat with a drizzle of oil. When hot, sauté the sliced white spring onion parts and ½ the drained corn for 3-4 minutes until the spring onions are soft and the corn is starting to char. Add in the grated garlic, the chopped pickled peppers, the Mexican spice blend, the sliced chilli (to taste), and cook for 2-3 minutes, shifting occasionally. On completion, reduce the heat to low and stir through the cooked chopped tomato. Simmer for 8-10 minutes until reduced and thickened, stirring occasionally."
+    },
+    {
+      "step": 2,
+      "title": "SALSA & CRÈME",
+      "text": "Place a pan over a high heat with a drizzle of oil. When hot, fry the remaining drained corn for 3-4 minutes until charred, shifting occasionally. On completion, transfer to a bowl. Add in ½ the drained black beans, the green spring onion parts, and season. Toss to combine. In a separate small bowl, mix together the crème fraîche, ½ of the chopped coriander, a splash of water, and some seasoning."
+    },
+    {
+      "step": 3,
+      "title": "ROLL ‘EM UP",
+      "text": "When the ragù has 2-3 minutes remaining, stir through the remaining black beans until heated through. Remove from the heat and season with salt, pepper, sweetener of choice (optional), and lime juice (to taste). Grease a roasting tray or ovenproof dish with a little butter or oil. Spread the ragù evenly over the tortillas and roll each one up into a tube. Place on the tray or dish and top with the grated cheese. Bake in the hot oven for 4-5 minutes until the cheese is melted and golden."
+    },
+    {
+      "step": 4,
+      "title": "DINE’O CLOCK",
+      "text": "Plate up the cheesy enchiladas and sprinkle over the corn and black bean salsa. Dollop over the coriander-crème fraîche and garnish with the remaining coriander. Tuck in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 713.0,
+    "energy_kcal": 170.0,
+    "protein_g": 5.7,
+    "carbs_g": 19.0,
+    "sugars_g": 4.3,
+    "fibre_g": 2.2,
+    "fat_g": 8.1,
+    "saturated_fat_g": 4.4,
+    "sodium_mg": 387.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "Black beans are a great source of fiber, protein and folate. Folate contributes to normal amino acid production and is necessary for normal blood formation.",
+  "card_obscured_flag": true,
+  "obscured_details": "The allergen 'Sulphites' is partially obscured by the binder ring hole."
+}

@@ -1,0 +1,125 @@
+{
+  "recipe_number": 164,
+  "title": "Saffron & Charred Baby Marrow Risotto",
+  "subtitle": "with cheese ribbons & toasted pine nuts",
+  "description": "Mamma Mia! The most comforting Italian meal: creamy saffron risotto, topped with charred baby marrow discs, hard-style cheese ribbons, toasted pine nuts and a final touch of fresh parsley. Time to feast!",
+  "chef": "Hannah Duxbury",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Fat Bastard | Chenin Blanc",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Arborio Rice",
+      "quantity": 250,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pine Nuts",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "rinsed & sliced into discs"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Golden Wine",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": "0,6g Saffron & 125ml White Wine"
+    },
+    {
+      "name": "Italian-style Hard Cheese",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "½ grated & ½ peeled into ribbons"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Milk (optional)",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "STOCK PREP",
+      "text": "Boil the kettle. Place a pot (large enough for the risotto) over a medium heat. Once hot, toast the pine nuts for 3-5 minutes until golden brown, shifting occasionally. Remove on completion. Dilute the stock with 900ml of boiling water."
+    },
+    {
+      "step": 2,
+      "title": "CHARRED MARROWS",
+      "text": "Return the pot to a medium-high heat with a drizzle of oil. When hot, fry the sliced baby marrow discs for 3-5 minutes until charred, turning halfway. On completion, remove from the pan, season, and cover to keep warm."
+    },
+    {
+      "step": 3,
+      "title": "RAVISHING RISOTTO",
+      "text": "Wipe the pot clean, if necessary, and return to a medium heat with a knob of butter (optional) and a drizzle of oil. When hot, sweat the diced onion for 3-4 minutes until soft and translucent. Stir through the rice and the grated garlic for about 1 minute, until fragrant. Pour in the golden wine and simmer until evaporated. Add a ladle of stock and allow it to be absorbed by gently simmering, stirring regularly. Only add the next ladle of stock when the previous one has been fully absorbed. Repeat this process for 25-30 minutes until the rice is cooked al dente."
+    },
+    {
+      "step": 4,
+      "title": "FINISHING TOUCHES",
+      "text": "When the risotto is cooked, stir through the grated hard cheese and a knob of butter. Mix until fully combined. If too thick, loosen by mixing in a splash of milk or water. Season to taste and remove from the heat."
+    },
+    {
+      "step": 5,
+      "title": "DISH UP, CHEF!",
+      "text": "Load up a heap of gorgeous, creamy saffron risotto, and top with the charred baby marrow discs. Garnish with ribbons of hard cheese, toasted pine nuts, and chopped parsley. Divine!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 631.0,
+    "energy_kcal": 151.0,
+    "protein_g": null,
+    "carbs_g": 20.0,
+    "sugars_g": 2.2,
+    "fibre_g": 1.5,
+    "fat_g": 4.3,
+    "saturated_fat_g": 1.6,
+    "sodium_mg": 157.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Tree Nuts",
+    "Alcohol"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein nutritional value is obscured/punched out by ring binder hole."
+}

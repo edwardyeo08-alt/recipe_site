@@ -1,0 +1,146 @@
+{
+  "recipe_number": 71,
+  "title": "Creamy Chicken Korma",
+  "subtitle": "with coconut cream, brown basmati & a classic tomato sambal",
+  "description": "The curry go-to you can't say no to! Succulent mini fillets poached in a creamy, coconut-based korma sauce. Thickened with almond flour for a hint of nuttiness, popping with fresh ginger and chilli, and filled with peas and soft baby tomatoes.",
+  "chef": "Alex Levett",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 50,
+  "overall_time_minutes": 60,
+  "wine_pairing": "Steenberg Vineyards | Semillon",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 400.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 40.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onions",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 60.0,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Spice & All Things Nice Korma Curry Paste",
+      "quantity": 60.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Chillies",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "deseeded & finely sliced"
+    },
+    {
+      "name": "Almond Flour",
+      "quantity": 100.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 400.0,
+      "unit": "g",
+      "prep": "quartered"
+    },
+    {
+      "name": "Coconut Cream",
+      "quantity": 400.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 10.0,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Free-range Chicken Mini Fillets",
+      "quantity": 600.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Blender (optional)",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "NUTTY BASMATI",
+      "text": "Rinse the rice and place in a pot with ½ of the stock. Submerge in 800ml of water and stir through. Place over a medium-high heat and pop on a lid. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. Drain on completion if necessary and fluff up with a fork."
+    },
+    {
+      "step": 2,
+      "title": "GET THAT SAUCE GOING",
+      "text": "Boil the kettle. Dilute the remaining stock with 200ml of boiling water. Place a pot for the curry over a medium heat with a drizzle of oil. When hot, fry ½ of the diced onion for 5-7 minutes until soft and translucent. Add in the grated ginger, then stir through the curry paste and sliced chilli (both to taste). Mix in the almond flour and ½ of the quartered baby tomatoes, and cook for 5-6 minutes, shifting regularly. Stir in the coconut cream and diluted stock until well combined. Bring to the boil, then reduce the heat and simmer for 7-8 minutes until thick and fragrant."
+    },
+    {
+      "step": 3,
+      "title": "WHILE THE CURRY IS SIMMERING...",
+      "text": "Make the sambal! Place the remaining tomato and onion in a bowl with ¾ of the chopped coriander. Toss together with a drizzle of oil, some seasoning, and any remaining sliced chilli if you'd like. Set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "BLEND UNTIL SILKY",
+      "text": "Once the sauce has finished simmering, pour into a blender and blend until smooth. Return to the pot and place over a medium heat. (If you don't have a blender, you can just leave the sauce chunky!)"
+    },
+    {
+      "step": 5,
+      "title": "TENDER, SAUCY CHICKEN",
+      "text": "Rinse the chicken to get rid of any residue from the packet and pat dry with paper towel. Submerge in the sauce and simmer for 7-8 minutes until cooked through, stirring occasionally. In the final 2 minutes, stir through the peas. On completion, season to taste with salt, pepper, and a sweetener of choice. Remove the pot from the heat."
+    },
+    {
+      "step": 6,
+      "title": "YOUR FAVOURITE CREAMY CURRY",
+      "text": "Pile up the steamy rice and spoon over the chicken korma. Garnish with the remaining coriander and serve with the bright tomato sambal on the side. Off you go, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 622.0,
+    "energy_kcal": 149.0,
+    "protein_g": 6.7,
+    "carbs_g": 16.0,
+    "sugars_g": 1.7,
+    "fibre_g": 2.5,
+    "fat_g": 5.7,
+    "saturated_fat_g": 2.9,
+    "sodium_mg": 205.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Ring binder hole partially obscures the nutritional information on Side B, specifically the leading character of the protein value ('[hole]7g', calculated as ~6.7g) and the unit text for Energy kcal."
+}

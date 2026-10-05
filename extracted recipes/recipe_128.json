@@ -1,0 +1,138 @@
+{
+  "recipe_number": 128,
+  "title": "Double Creamed Mediterranean Pasta",
+  "subtitle": "with cashew cream cheese, sun-dried tomatoes & gluten-free fettuccine",
+  "description": "This dreamboat is vegan, gluten-conscious, and boasts two sources of creaminess: nutritional yeast and cashew cream cheese thicken a silky smooth roast butternut pasta sauce, scattered with sun-dried tomatoes and a zesty quinoa flake crumb.",
+  "chef": "Tess Witney",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "No paired wines",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Butternut Chunks",
+      "quantity": 300.0,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "quantity": 4.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Gluten-free Crumb",
+      "quantity": 30.0,
+      "unit": "ml",
+      "prep": "15ml BIO XXI Quinoa Flakes & 15ml Almond Flour"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 10.0,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "BIO XXI Gluten-free Multigrain Fettuccine",
+      "quantity": 160.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 4.0,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "quantity": 30.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cashew Nut Cream Cheese",
+      "quantity": 60.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Sun-dried Tomatoes",
+      "quantity": 80.0,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Blender"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "FRESH HERBS & BUTTERNUT",
+      "text": "Preheat the oven to 200°C. Place the butternut pieces and rinsed rosemary on a roasting tray. Coat in oil, season, and spread out evenly. Roast in the hot oven for 30-35 minutes until cooked through and starting to crisp, shifting halfway. Remove from the oven on completion."
+    },
+    {
+      "step": 2,
+      "title": "ZESTY QUINOA FLAKES",
+      "text": "Place a nonstick pan over a medium heat — use a deep pan if you have one! When hot, toast the gluten-free crumb for 2-3 minutes until light gold, shifting continuously. On completion, toss through ¾ of the chopped parsley, the lemon zest to taste, and some seasoning. Remove from the pan and set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "GET THE BOIL ROLLING",
+      "text": "When the butternut has 10 minutes remaining, boil a full kettle. Fill a pot with boiling water, add a pinch of salt, and place over a high heat. Once bubbling rapidly, add a drizzle of oil and cook the pasta for 13-15 minutes until al dente. Keep stirring for the first 3 minutes to prevent sticking, then stir sporadically during the remaining cooking time."
+    },
+    {
+      "step": 4,
+      "title": "MAKE YOUR CREAMY SAUCE",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil. When hot, sauté the diced onion for 4-5 minutes until soft. Add the grated garlic and fry for another minute, shifting continuously. Remove the pan from the heat, and stir through the nutritional yeast and ¾ of the cashew cream cheese. Pour into a blender and add in the cooked butternut, discarding the rosemary stalks. Blend until smooth, gradually adding 150ml of boiled water until pourable but still thick. (You might not need to add all of the water.) Return to the pan, cover to keep warm, and set aside."
+    },
+    {
+      "step": 5,
+      "title": "LEVEL UP",
+      "text": "When the pasta is cooked, drain and return to the pot. Toss through some oil to further prevent sticking. Add to the pan of sauce and toss to coat. Season to taste with lemon juice, salt, and pepper."
+    },
+    {
+      "step": 6,
+      "title": "YUMMM",
+      "text": "Bowl up a heap of indulgent butternut pasta. Scatter over the chopped sun-dried tomatoes, zesty quinoa flakes, and remaining parsley. Finish off with dollops of the remaining cashew cream cheese and a lemon wedge. Bravo, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 688.0,
+    "energy_kcal": 164.0,
+    "protein_g": null,
+    "carbs_g": 23.0,
+    "sugars_g": 4.9,
+    "fibre_g": 4.0,
+    "fat_g": 4.1,
+    "saturated_fat_g": 0.3,
+    "sodium_mg": 32.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in nutritional information is obscured by the binder ring hole punch."
+}

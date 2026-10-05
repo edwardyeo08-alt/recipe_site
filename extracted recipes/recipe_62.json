@@ -1,0 +1,141 @@
+{
+  "recipe_number": 62,
+  "title": "Grilled Chicken & Cowboy Salsa",
+  "subtitle": "with heirloom corn nachos & sour cream",
+  "description": "This culinary experience is like lassoing a rainbow. A loaded salsa of black beans, fresh tomato, charred corn, avo, pickled pepper, red onion, coriander, & a zesty lemon vinaigrette is served with a juicy chicken breast, sour cream, and crunchy heirloom corn nachos for scooping. It'll have you sayin' \"Yee-haw!\"",
+  "chef": "Rhea Hsu",
+  "category": "Quick & Easy",
+  "servings": 2,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 30,
+  "wine_pairing": "Waterkloof | False Bay Sauvignon Blanc",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Corn",
+      "quantity": 100.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Avocado",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "cut into wedges"
+    },
+    {
+      "name": "Free-range Chicken Breasts",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Mexican Spice Blend",
+      "quantity": 20.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Tomato",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "roughly diced"
+    },
+    {
+      "name": "Black Beans",
+      "quantity": 120.0,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Pickled Bell Peppers",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "½ peeled & roughly diced"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8.0,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": 60.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Heirloom Corn Nachos",
+      "quantity": 160.0,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "CHARRED CORN",
+      "text": "Place a pan (that has a lid) over a high heat with a drizzle of oil. When hot, add the corn and fry for 3-4 minutes until lightly charred, shifting occasionally. Remove from the pan and set aside."
+    },
+    {
+      "step": 2,
+      "title": "HAVO SOME AVO",
+      "text": "Halve the avocado and remove the pip. Peel off the skin and roughly dice. Squeeze over the juice of 2 lemon wedges, season, and set aside."
+    },
+    {
+      "step": 3,
+      "title": "HOWDY, CHICKY!",
+      "text": "Return the pan to a medium heat with a drizzle of oil. Pat the chicken breasts dry with paper towel. When the pan is hot, fry the chicken, skin-side down, for 4-6 minutes until golden. Flip, pop on the lid, and fry for 3-5 minutes until cooked through. During the final 1-2 minutes, baste with a knob of butter and ⅔ of the spice blend. Remove from the heat and rest in the pan for 5 minutes before slicing and seasoning."
+    },
+    {
+      "step": 4,
+      "title": "COWBOY SALSA",
+      "text": "In a small bowl, combine the juice of 2 lemon wedges, a drizzle of oil, the remaining rub, a sweetener of choice (to taste), and seasoning. In a salad bowl, add the charred corn, the diced tomato, the rinsed black beans, the chopped pickled peppers, the dressed avo, the diced onion (to taste), and ½ the picked coriander. Drizzle over the lemon vinaigrette (to taste) and toss until combined."
+    },
+    {
+      "step": 5,
+      "title": "PLATE UP!",
+      "text": "Plate up the sliced chicken and top with a dollop of sour cream and the remaining picked coriander. Serve with the cowboy salsa and the nachos for scooping. Enjoy, Partner!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 656.0,
+    "energy_kcal": 157.0,
+    "protein_g": 6.5,
+    "carbs_g": 14.0,
+    "sugars_g": 2.5,
+    "fibre_g": 3.2,
+    "fat_g": 8.7,
+    "saturated_fat_g": 1.8,
+    "sodium_mg": 212.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "If you have some extra time, shred the chicken after it has been cooked and toss it through the salsa!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

@@ -1,0 +1,137 @@
+{
+  "recipe_number": 28,
+  "title": "Fillet & Cheesy Crumbed Croquettes",
+  "subtitle": "with a red wine sauce, roasted carrots & fresh rosemary",
+  "description": "Succulent beef fillet is seared to absolute perfection before being served with a rich red wine sauce and the cheesiest, crispiest, most delicious croquettes known to man! This breathtaking dish is served alongside a bright carrot salad for some sweetness and overall balance.",
+  "chef": "Ella Nasser",
+  "category": "Adventurous Foodie",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Boschendal | Chardonnay Pinot Noir",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "peeled (optional) & cut into wedges"
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Potato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "peeled & cut into chunks"
+    },
+    {
+      "name": "Cake Flour",
+      "quantity": 160,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Grated Mozzarella & Cheddar Cheese Mix",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Beef Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Rosemary",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Red Wine",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Fillet",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter (optional)",
+    "Egg/s"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "WEDGES",
+      "text": "Preheat the oven to 200°C. Spread out the carrot wedges on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes until cooked through. Just before serving, toss the roasted wedges with the rinsed salad leaves. Season to taste."
+    },
+    {
+      "step": 2,
+      "title": "MASH",
+      "text": "Place a pot of cold water over a high heat. Add the potato chunks and bring to the boil. Once boiling, reduce the heat and simmer for 15-20 minutes until soft. Drain on completion, and mash with a potato masher or fork until smooth. Then, stir through a knob of butter (optional). Season and place in the fridge for 5-10 minutes."
+    },
+    {
+      "step": 3,
+      "title": "CROQUETTES",
+      "text": "Set aside 15ml of flour for Step 4. In a bowl, combine the cooled mashed potato, the grated cheese, and seasoning. Scoop out a heaped tbsp of mixture at a time and roll into balls to make 5-7 croquettes per portion. In a shallow dish, whisk 1 egg. Prepare two more shallow dishes: one containing the flour (seasoned lightly), and the other the breadcrumbs. Coat the croquettes in the flour, then the egg, and lastly, in the breadcrumbs. Place all the croquettes on a baking tray. Chill in the freezer for at least 5 minutes."
+    },
+    {
+      "step": 4,
+      "title": "RED WINE SAUCE",
+      "text": "Boil the kettle. Dilute the stock with 100ml of boiling water. Place a pan over a medium heat with a knob of butter or drizzle of oil. When hot, add the rinsed rosemary and fry for 30 seconds until fragrant, shifting constantly. Add the diluted stock, the red wine, and the reserved flour. Whisk until combined. Lower the heat and reduce for 5-7 minutes until slightly thickened, stirring occasionally. Remove from the heat, remove the rosemary stalks, and cover to keep warm. Season."
+    },
+    {
+      "step": 5,
+      "title": "FILLET",
+      "text": "Place a pan over a high heat. Rub oil into the fillets until coated. When the pan is hot, sear the fillets for 6-8 minutes in total until browned, shifting as they colour, or until cooked to your preference. Remove from the pan and rest for 5 minutes before slicing. Season the slices. Return the pan to a medium-high heat with 4-5cm of oil. When hot, deep fry the croquettes for 2-5 minutes, until brown, shifting as they colour. Remove from the pan and drain on paper towel."
+    },
+    {
+      "step": 6,
+      "title": "DELISH!",
+      "text": "Plate the cheesy croquettes alongside the fillet slices. Pour over the delectable red wine sauce and serve with the roasted carrot salad on the side. Yum!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 642.0,
+    "energy_kcal": 153.0,
+    "protein_g": null,
+    "carbs_g": 18.0,
+    "sugars_g": 1.7,
+    "fibre_g": 1.7,
+    "fat_g": 3.6,
+    "saturated_fat_g": 1.7,
+    "sodium_mg": 70.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Alcohol"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is obscured by the binder ring."
+}

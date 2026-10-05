@@ -1,0 +1,133 @@
+{
+  "recipe_number": 178,
+  "title": "Tex-Mex Ostrich Fillet",
+  "subtitle": "with cannellini bean chilli, roast butternut & pesto",
+  "description": "Tuck into this lean ostrich fillet, dripping with hemp seed and coriander pesto. With sides of tomatoey bean chilli, swirled with Cajun spice and corn, oven-caramelised butternut, and a salad of baby spinach, piquanté peppers, and almond flakes.",
+  "chef": "Alex Levett",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Butternut",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "deseeded & cut into half-moons"
+    },
+    {
+      "name": "Flaked Almonds",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Cajun Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cannellini Beans",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Corn",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-Range Ostrich Fillet",
+      "quantity": 600,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Diced Piquanté Peppers",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "drained, reserving the brine"
+    },
+    {
+      "name": "The Real Food Factory Hemp Seed & Coriander Pesto",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROAST THE BUTTERNUT",
+      "text": "Preheat the oven to 200°C. Spread out the butternut half-moons on a roasting tray, coat in oil, and season. Roast in the hot oven for 35-40 minutes until cooked through and golden, flipping at the halfway mark."
+    },
+    {
+      "step": 2,
+      "title": "CRUNCHY ALMONDS",
+      "text": "Place the flaked almonds in a large pan over a medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "TEX-MEX BEAN CHILLI",
+      "text": "Place a pot over a medium heat with a drizzle of oil. When hot, fry the Cajun Rub (to taste) for about a minute until fragrant, shifting constantly. Stir through the cooked chopped tomatoes, 100ml of water, and the drained cannellini beans. Bring to a simmer and cook for 7-8 minutes until thick and sticky, stirring occasionally. Remove from the heat on completion and mix in the corn. Season to taste with salt, pepper, and a sweetener of choice. Pop on a lid and set aside to keep warm until serving."
+    },
+    {
+      "step": 4,
+      "title": "SEAR THE FILLET",
+      "text": "Return the pan to a medium heat with a drizzle of oil. Pat the steaks dry with paper towel and season. When the pan is hot, fry the steaks for 8-10 minutes, shifting and turning until browned all over and cooked to your preference. (The time frame recommended will yield a medium-rare result.) Remove from the pan on completion and set aside to rest for 5 minutes before thinly slicing."
+    },
+    {
+      "step": 5,
+      "title": "RAINBOW SALAD & PESTO DRIZZLE",
+      "text": "Place the rinsed baby spinach and drained piquanté peppers in a bowl. Add a drizzle of the reserved pepper brine and toss together. Season and set aside for serving. Loosen the pesto with 1 tbsp of oil to form a drizzling consistency."
+    },
+    {
+      "step": 6,
+      "title": "GRUB'S UP!",
+      "text": "Lay out the tasty ostrich slices and drizzle over the pesto. Alongside, plate the amber butternut and spoonfuls of Cajun bean chilli. Garnish the salad with the toasted almond flakes and serve on the side. Dig in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 403.0,
+    "energy_kcal": 96.0,
+    "protein_g": 7.0,
+    "carbs_g": 10.0,
+    "sugars_g": 2.8,
+    "fibre_g": 2.2,
+    "fat_g": 2.9,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 181.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "The butternut skin adds flavour, texture, and nutrients, but can be removed if you prefer!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

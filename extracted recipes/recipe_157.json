@@ -1,0 +1,133 @@
+{
+  "recipe_number": 157,
+  "title": "Vegan Fashionista BBQ Burger",
+  "subtitle": "with spiced sweet potato wedges, salad garnishings & fresh green leaves",
+  "description": "The ultimate in stylish dinning partners! With lashings of dreamy BBQ sauce and drips of That Mayo vegan mayo. You'll be smitten with fresh and fabulous salad toppings and, of course, a crispy homemade Outcast burger patty.",
+  "chef": "Tess Witney",
+  "category": "Veggie",
+  "servings": 4,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 55,
+  "wine_pairing": "Waterford Estate | Waterford MCC",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "rinsed & cut into wedges"
+    },
+    {
+      "name": "NOMU Spanish Rub",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "sliced into rounds"
+    },
+    {
+      "name": "Pickling Liquid",
+      "quantity": 80,
+      "unit": "ml",
+      "prep": "(60ml White Wine Vinegar & 20ml Golden Syrup)"
+    },
+    {
+      "name": "Outcast Vegan Burger Mix",
+      "quantity": 220,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Vegan Burger Buns",
+      "quantity": 4,
+      "unit": null,
+      "prep": "halved & buttered (optional)"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Tomatoes",
+      "quantity": 2,
+      "unit": null,
+      "prep": "rinsed & sliced into thin rounds"
+    },
+    {
+      "name": "That Mayo (Vegan)",
+      "quantity": 120,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "BBQ Sauce",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "WE LOVE WEDGES!",
+      "text": "Preheat the oven to 200°C. Spread out the sweet potato wedges on a roasting tray. Coat in oil, 1/2 the Spanish Rub (to taste), and some seasoning. Roast in the hot oven for 35-40 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "PICKLE THE CUCUMBER",
+      "text": "Boil the kettle for step 3. Place the cucumber rounds in a bowl with the pickling liquid and a generous pinch of salt. Toss to coat and set aside to pickle."
+    },
+    {
+      "step": 3,
+      "title": "PREP THE BURGERS",
+      "text": "Place the burger mix, a pinch of salt, and the remaining Spanish Rub in a bowl. Pour in 360ml of boiling water and mix well to combine (but not for longer than about 30 seconds). Cover with a plate and set aside to rehydrate for at least 10 minutes."
+    },
+    {
+      "step": 4,
+      "title": "BURGER TIME",
+      "text": "When the wedges have 10 minutes remaining, shape the burger mix into 4 patties, about 1cm in thickness. Place a nonstick pan over medium-high heat with enough oil to cover the base. When hot, fry the patties for 3-4 minutes per side until golden brown and crispy. Remove from the pan on completion and set aside to drain on some paper towel."
+    },
+    {
+      "step": 5,
+      "title": "BITS & BOBS",
+      "text": "Pop the halved buns in the oven cut-side up, and heat for 2-3 minutes. Place the rinsed green leaves in a bowl with a drizzle of oil and a small splash of the liquid from the pickled cucumber. Season to taste and toss to coat. Lightly season the tomato slices with salt and a crack of black pepper."
+    },
+    {
+      "step": 6,
+      "title": "STACK IT UP!",
+      "text": "Smear the mayo on the bun halves and layer with the pickled cucumber and dressed leaves. Pop on the veggie patty, dollop over the BBQ sauce, and top with the tomato slices. Serve the roast sweet potato wedges on the side with any remaining toppings. We can't wait for you to start!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 580.0,
+    "energy_kcal": 139.0,
+    "protein_g": 3.7,
+    "carbs_g": 22.0,
+    "sugars_g": 5.5,
+    "fibre_g": 4.4,
+    "fat_g": 3.0,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 285.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "If your burger mix is still a bit dry after leaving to rehydrate for 10 minutes, leave it to stand for a few extra minutes until the mix can easily be formed into a patty.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

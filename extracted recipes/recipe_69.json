@@ -1,0 +1,144 @@
+{
+  "recipe_number": 69,
+  "title": "Bunless Moroccan Chicken Burgers",
+  "subtitle": "with spiced roast pumpkin & a hummus and pomegranate dressing",
+  "description": "The familiar delight of a juicy, well-spiced burger, but with none of the guilt of a bun! These chicken patties are flavoured with Moroccan spices and paired with roast pumpkin, crispy lentils, and drips of hummus dressing.",
+  "chef": "Tess Witney",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": "No paired wines",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Pumpkin Chunks",
+      "quantity": 500.0,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "NOMU Moroccan Rub",
+      "quantity": 10.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lentils",
+      "quantity": 120.0,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Free-range Chicken Mince",
+      "quantity": 300.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 20.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Hummus",
+      "quantity": 100.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "quantity": 30.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 80.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 5.0,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Spring Onions",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "thinly sliced"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Milk (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "FRAGRANT PUMPKIN",
+      "text": "Preheat the oven to 200°C. Spread out the pumpkin pieces on a roasting tray. Coat in oil, ½ of the Moroccan Rub, and some seasoning to taste. Roast in the hot oven for 30-35 minutes. Place the drained lentils in a bowl, coat in oil and seasoning, and set aside."
+    },
+    {
+      "step": 2,
+      "title": "MAKE THE SPICED PATTIES",
+      "text": "Place the mince and grated garlic in a bowl. Combine with the remaining Moroccan Rub to taste and lightly season. Wet your hands slightly to prevent the mince from sticking to them and shape into 4 patties of about 2cm thick. Set aside until frying."
+    },
+    {
+      "step": 3,
+      "title": "BURGER BOWL BITS",
+      "text": "Boil the kettle. Place the seeds in a nonstick pan over a medium heat. Toast for 3-5 minutes until beginning to pop and turn brown. Remove from the pan on completion. Place the hummus in a bowl and mix in the pomegranate molasses to taste. Loosen with milk or water in 5ml increments until drizzling consistency and season to taste. Submerge the peas in boiling water for 2-3 minutes until plump and heated through. Drain on completion. Set the seeds, hummus, and peas aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "LOOKING GOOD...",
+      "text": "When the pumpkin reaches the halfway mark, remove from the oven and give a shift. Scatter over the lentils, spread out in a single layer, and return to the oven for the remaining cooking time. On completion, the lentils should be crispy and the pumpkin should be cooked through and caramelised."
+    },
+    {
+      "step": 5,
+      "title": "FRY THOSE BEAUTS!",
+      "text": "When the roast veg has about 10 minutes remaining, return the pan to a high heat with a drizzle of oil. When hot, fry the patties for 4-5 minutes per side until golden. Remove from the heat on completion and allow to rest in the pan for 2-3 minutes before serving."
+    },
+    {
+      "step": 6,
+      "title": "YOUR ULTIMATE BUNLESS BURGER",
+      "text": "Dish up the crisp roast pumpkin and lentils next to the rinsed salad leaves. Scatter over the peas and top with the juicy chicken patties. Cover in sprinkles of toasted seeds and drizzles of hummus dressing. Garnish with the chopped mint and the sliced spring onion. Divine, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 461.0,
+    "energy_kcal": 110.0,
+    "protein_g": 7.9,
+    "carbs_g": 12.0,
+    "sugars_g": 3.4,
+    "fibre_g": 3.7,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 104.0
+  },
+  "allergens": [
+    "Allium",
+    "Sesame",
+    "Sulphites"
+  ],
+  "chef_tip": "To check if your patties are seasoned enough, fry a bite-size piece of the patty mixture with a drizzle of oil for 1-2 minutes until cooked. Taste and add more seasoning to the raw mixture if needed.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

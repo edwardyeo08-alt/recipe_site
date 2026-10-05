@@ -1,0 +1,142 @@
+{
+  "recipe_number": 174,
+  "title": "Fabulous Falafel Feast",
+  "subtitle": "with caramelised carrots, avo hummus & slivered almonds",
+  "description": "Maximise that crunch factor! Snappy piquanté peppers, the crackle of toasted almonds, and unbeatable crispy falafel; spread over Cajun-spiced bulgur wheat and drizzled with mint yoghurt and smooth, sultry avo hummus.",
+  "chef": "Alex Levett",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Cavalli Estate | Colt",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "trimmed & cut lengthways into long wedges"
+    },
+    {
+      "name": "Slivered Almonds",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & roughly diced"
+    },
+    {
+      "name": "Bulgur Wheat",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "NOMU Cajun Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Outcast Crazy Falafel Mix",
+      "quantity": 110,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Plain Yoghurt",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Willow Creek Cabernet Sauvignon Vinegar",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Avocado Hummus",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Piquanté Peppers",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "CARAMELISED CARROTS",
+      "text": "Preheat the oven to 200°C. Place the carrot wedges on a roasting tray. Coat in oil and some seasoning. Roast in the hot oven for 30-35 minutes until cooked through and becoming crispy, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "TOASTED ALMONDS",
+      "text": "Place the slivered almonds in a pan over a medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "CAJUN-SPICED BULGUR",
+      "text": "Boil a full kettle. Return the pan to a medium heat with a drizzle of oil. When hot, fry the diced onion for 2-3 minutes until soft and translucent, shifting occasionally. Remove from the pan on completion and place in a shallow bowl. Add the bulgur wheat to the bowl with the Cajun Rub to taste. Submerge in 300ml of boiling water, add a drizzle of oil, and gently stir. Cover with a plate and set aside to steam for 15-20 minutes. Once cooked, fluff up with the fork and season to taste. Replace the plate and set aside to keep warm until serving."
+    },
+    {
+      "step": 4,
+      "title": "FALAFEL & DRESSINGS",
+      "text": "Place the falafel mix in a shallow bowl with some seasoning to taste and 200ml of boiling water. Mix well to combine, but not for longer than about 30 seconds. Cover with a plate and set aside for at least 10 minutes. In a bowl, combine the yoghurt, the cab sauv vinegar, ¾ of the chopped mint, seasoning and a sweetener of choice to taste. Place the avo hummus in a separate bowl. Loosen with water in 5ml increments until drizzling consistency and season to taste. Set both dressings aside for serving."
+    },
+    {
+      "step": 5,
+      "title": "FRY THE FALAFEL",
+      "text": "Lightly oil or wet your hands to prevent the falafel mixture from sticking to them. Roll into 4-5 balls per portion and gently flatten each ball to form mini patties. Return the pan to a medium heat with enough oil to cover the base. When hot, fry the patties for 3-4 minutes per side until crispy and cooked through, turning when they start to colour. Remove from the pan on completion and set aside to drain on paper towel."
+    },
+    {
+      "step": 6,
+      "title": "BLISSFUL FALAFEL BOWL",
+      "text": "Make a bed of spiced bulgur wheat. Cover with the caramelised carrot wedges and chopped piquanté peppers. Pop the crispy falafel on top, drizzle over the avo hummus, and dollop with the minty yoghurt. Garnish with the toasted, slivered almonds and the remaining chopped mint. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 581.0,
+    "energy_kcal": 139.0,
+    "protein_g": 5.2,
+    "carbs_g": 22.0,
+    "sugars_g": 4.8,
+    "fibre_g": 7.0,
+    "fat_g": 2.9,
+    "saturated_fat_g": 0.3,
+    "sodium_mg": 293.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "For this recipe, you can peel your carrots when prepping them if you don't like the skin – and you have the extra time and energy!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

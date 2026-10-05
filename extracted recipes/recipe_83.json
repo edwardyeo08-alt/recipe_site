@@ -1,0 +1,147 @@
+{
+  "recipe_number": 83,
+  "title": "Seaside Cajun Hake",
+  "subtitle": "with roast baby potatoes, fresh lemon & a classic tartar sauce",
+  "description": "This tasty number will whisk you off to a sunny shore with a cool sea breeze. Grilled hake, flavoured with Cajun spice, is deliciously at ease with its longtime friends: crispy potatoes and creamy, tangy tartar sauce.",
+  "chef": "Samantha Finnegan",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 55,
+  "wine_pairing": null,
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Baby Potatoes",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "That Mayo (Original)",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Plain Greek Yoghurt",
+      "quantity": 170,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Dill",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    },
+    {
+      "name": "Gherkins",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained & finely diced"
+    },
+    {
+      "name": "Peas",
+      "quantity": 160,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Green Beans",
+      "quantity": 320,
+      "unit": "g",
+      "prep": "rinsed, trimmed & sliced into thirds"
+    },
+    {
+      "name": "Line-Caught Hake Fillet",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Cajun Rub",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 3,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 2,
+      "unit": null,
+      "prep": "cut into wedges"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed & gently shredded"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter (optional)",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "YOUR FAVOURITE POTATO ROASTIES",
+      "text": "Preheat the oven to 200°C. Place the halved baby potatoes on a roasting tray. Coat in oil, season, and spread out in a single layer. Roast in the hot oven for 35-40 minutes until crispy on the outside and soft on the inside, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "WHIP UP THE TARTAR SAUCE & WARM THE PEAS",
+      "text": "Boil a full kettle. In a bowl, combine the mayo, yoghurt, chopped dill, and diced gherkins. Season to taste and set aside for serving. Submerge the peas in boiling water for 2-3 minutes until plump. Drain on completion and set aside."
+    },
+    {
+      "step": 3,
+      "title": "BUBBLE THE BEANS",
+      "text": "When the potatoes have 10 minutes remaining, fill a pot with boiled water. Add a pinch of salt and place over a high heat. Once boiling, blanch the sliced green beans for 2-3 minutes until cooked al dente. Drain on completion, run under cold water to stop the cooking process, and set aside."
+    },
+    {
+      "step": 4,
+      "title": "LEMONY CAJUN HAKE",
+      "text": "Pat the hake dry with paper towel. Coat in the Cajun Rub and some seasoning (both to taste). Place a large pan over a medium heat with a drizzle of oil. When hot, fry the hake skin-side down for 3-4 minutes until crispy. Flip and fry for another 2-3 minutes until the flesh is sealed. Add the grated garlic, a generous squeeze of lemon juice, and a knob of butter (optional). Use this to baste the fish for 1-2 minutes until cooked through and fragrant. Remove from the heat on completion and set aside in the pan until serving."
+    },
+    {
+      "step": 5,
+      "title": "FRESH GREEN SALAD",
+      "text": "Place the shredded green leaves in a bowl with the peas and green beans. Add a squeeze of lemon juice and a drizzle of olive oil. Toss to coat and season to taste."
+    },
+    {
+      "step": 6,
+      "title": "EASY PEASY, LEMON SQUEEZY!",
+      "text": "Plate the golden baby potatoes, Cajun-spiced hake, and green salad alongside one another. Serve with the homemade tartar sauce and any remaining lemon wedges on the side. Well done, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 346.0,
+    "energy_kcal": 83.0,
+    "protein_g": 5.7,
+    "carbs_g": 11.0,
+    "sugars_g": 2.0,
+    "fibre_g": 1.7,
+    "fat_g": 1.3,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 148.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Fish"
+  ],
+  "chef_tip": "To cook food 'al dente' means that it should still be firm when bitten. It must be tender, but not soft! This typically refers to pasta, but also applies to other grains, as well as a range of veg. In the case of green beans, they should still have a snap to them once cooked.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

@@ -1,0 +1,124 @@
+{
+  "recipe_number": 96,
+  "title": "Tuna Steak & Avo Fries",
+  "subtitle": "with a tomato wedge & red onion salad",
+  "description": "A perfectly seared tuna steak is served with a new twist on classic fries, namely: avo fries! Thick slices of creamy avo are coated in a panko crumb before being fried to crispy perfection! A tomato and red onion salad cuts through the steak and the avo, lending the dish a refreshing touch.",
+  "chef": "Hannah Duxbury",
+  "category": "Adventurous Foodie",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Boschendal | Rachelsfontein Chenin Blanc",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Avocados",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "quantity": 160,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Tomatoes",
+      "quantity": 2,
+      "unit": null,
+      "prep": "cut into wedges"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "1/2 peeled & finely sliced"
+    },
+    {
+      "name": "Fresh Chives",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    },
+    {
+      "name": "That Mayo (Original)",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Line-caught Tuna Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BRAVO LITTLE AVO",
+      "text": "Halve the avocados and remove the pips. Peel off the skin, keeping the flesh intact. Slice the flesh lengthways into wedges. Squeeze some lemon juice over the wedges. Prepare a shallow dish containing the breadcrumbs (seasoned lightly). Coat the wedges in the breadcrumbs. Press the crumb into the wedges so it coats evenly. Set aside in the freezer to chill for at least 10 minutes."
+    },
+    {
+      "step": 2,
+      "title": "TOSS UP",
+      "text": "In a bowl, combine the rinsed green leaves, the tomato wedges, the sliced red onion, the lemon zest (to taste), 1/2 the chopped chives, a drizzle of oil, and seasoning. In a small bowl, combine the mayo, the remaining chopped chives, the juice of 2 lemon wedges, and seasoning. Set both bowls aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "AVO FRIES",
+      "text": "Place a pan over a medium-high heat with 1-2cm of oil. When hot, add the crumbed avo wedges and fry for 2-4 minutes, until golden, flipping halfway. Drain on paper towel and season."
+    },
+    {
+      "step": 4,
+      "title": "SIGNED, SEARED, DELIVERED",
+      "text": "Pat the tuna fillets dry with a paper towel. Return the pan, wiped down, to a high heat with a drizzle of oil, if necessary. When hot, add the tuna fillets and fry for 30-60 seconds per side until seared. Remove from the heat."
+    },
+    {
+      "step": 5,
+      "title": "TUNA-TASTIC!",
+      "text": "Dish up the golden avo fries alongside the seared tuna. Serve with the loaded salad, the chive mayo, and any remaining lemon wedges. Delicious, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 446.0,
+    "energy_kcal": 107.0,
+    "protein_g": null,
+    "carbs_g": 10.0,
+    "sugars_g": 1.8,
+    "fibre_g": 2.5,
+    "fat_g": 4.4,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 29.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Fish"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is completely punched out by the binder ring hole."
+}

@@ -1,0 +1,151 @@
+{
+  "recipe_number": 58,
+  "title": "Pomodoro Pasta & Chicken Parm",
+  "subtitle": "with fresh linguine & grated Italian-style hard cheese",
+  "description": "If you want to put Italy on a plate, then Pasta al pomodoro is your go-to recipe. Our dish features delish chicken parm, covered in a crispy coating, then smothered in a rich tomato sauce and topped with melted Italian-style cheese. Sided with comforting pomodoro pasta and fresh basil. Mi scusi, Chef, can I have some more?",
+  "chef": "Rhea Hsu",
+  "category": "Fan Faves",
+  "servings": 3,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 55,
+  "wine_pairing": "Waterford Estate | Waterford Rose-Mary 2022",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Fresh Linguine Pasta",
+      "quantity": 375.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onions",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "1½ peeled & roughly sliced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Tomato Paste",
+      "quantity": 45.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Tomato Passata",
+      "quantity": 600.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "NOMU Italian Rub",
+      "quantity": 22.5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Chicken Breasts",
+      "quantity": 3.0,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "quantity": 150.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cake Flour",
+      "quantity": 90.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Grated Italian-style Hard Cheese",
+      "quantity": 150.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 60.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 8.0,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly sliced"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Egg/s",
+    "Paper Towel",
+    "Cling Wrap",
+    "Tinfoil (for air fryer)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "MA-KE DE SAUCE",
+      "text": "Bring a pot of salted water to boil for the pasta. Preheat the oven to 200°C. Place a pan over medium-high heat with a drizzle of oil. When hot, add the sliced onion and fry for 5-7 minutes until soft, shifting occasionally. Add the grated garlic and the tomato paste. Fry for 1-2 minutes until fragrant, shifting constantly. Add the tomato passata, the rub, and 300ml of water. Simmer for 8-10 minutes until thickened. Add a sweetener of choice (to taste) and seasoning. Set aside."
+    },
+    {
+      "step": 2,
+      "title": "A PAT ON THE BACK",
+      "text": "Pat the chicken dry with paper towel and place on a chopping board. Using a sharp knife, slice into one side of each breast, starting at the thicker side and ending at the thinner point (be careful not to cut all the way through). Open each breast so that it resembles a butterfly. Cover with cling wrap and pummel with a rolling pin or bottle to create an even thickness. Season."
+    },
+    {
+      "step": 3,
+      "title": "THAT CRUNCHY CRUMB",
+      "text": "Whisk 2 eggs in a shallow dish with a splash of water. Prepare 2 more shallow dishes; one containing the breadcrumbs and the other containing the flour (lightly seasoned). Lightly coat each breast in the flour, then the egg mixture, and, lastly, the crumb. Set aside."
+    },
+    {
+      "step": 4,
+      "title": "SAUCY AND CHEESY",
+      "text": "Place a pan over medium-high heat with enough oil to cover the base. When hot, add the crumbed chicken and fry for 2-3 minutes per side until golden. Drain on paper towel and place on a greased baking tray. Top with ⅓ of the pomodoro sauce and ½ the grated cheese. Bake in the hot oven for 8-10 minutes or until the cheese is melted and the chicken is cooked through."
+    },
+    {
+      "step": 5,
+      "title": "LOVELY LINGUINE",
+      "text": "When the water is boiling, cook the pasta for 2-3 minutes until al dente. Drain, reserving a cup of pasta water, and toss through the remaining pomodoro sauce. Loosen with a splash of the reserved pasta water, if necessary. Place over a medium heat to reheat, if necessary. In a bowl, toss the rinsed green leaves with a drizzle of olive oil and seasoning."
+    },
+    {
+      "step": 6,
+      "title": "IT'S TIME FOR ITALIAN!",
+      "text": "Plate up the pomodoro pasta. Sprinkle over the remaining cheese. Side with the chicken parm and the dressed leaves. Garnish with the sliced basil and a crack of black pepper. Dig in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 655.0,
+    "energy_kcal": 156.0,
+    "protein_g": 10.6,
+    "carbs_g": 23.0,
+    "sugars_g": 3.0,
+    "fibre_g": 1.9,
+    "fat_g": 2.5,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 149.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "If you have an air fryer, why not use it to cook the chicken parm? Pop a piece of tinfoil in the air fryer. Add the fried chicken topped with ⅓ of the sauce and ½ the grated cheese. Cook at 200°C for 4-5 minutes or until the cheese has melted.",
+  "card_obscured_flag": true,
+  "obscured_details": "Ring binder clip partially obscures the end of Chef's Tip ('melted') and the Allergens list ('Wheat')."
+}

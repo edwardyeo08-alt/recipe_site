@@ -1,0 +1,124 @@
+{
+  "recipe_number": 54,
+  "title": "Saucy Chicken Puttanesca Pasta",
+  "subtitle": "with multigrain fusilli, kalamata olives & nutritional yeast",
+  "description": "The famous puttanesca pasta! Packed with olives, garlic and capers, this pasta sauce is paired with multigrain fusilli. In our version, chicken breasts are braised to tender perfection in the glorious puttanesca sauce.",
+  "chef": "Ella Nasser",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 30,
+  "wine_pairing": "Robertson Winery | Extra Light Merlot",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Free-range Chicken Breasts",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Italian Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Multigrain Fusilli",
+      "quantity": 160,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Capers",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Dried Chilli Flakes",
+      "quantity": 5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Tomato Passata",
+      "quantity": 250,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pitted Kalamata Olives",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "halved"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed & finely sliced"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ITALIAN CHICKEN",
+      "text": "Boil the kettle. Place a pan (that has a lid) over a medium heat with a drizzle of oil. Pat the chicken breasts dry with some paper towel. When the pan is hot, fry the chicken on one side for 5-7 minutes until golden. Flip, pop on the lid, and fry for a further 5-7 minutes until cooked through. During the final 1-2 minutes, baste with a knob of butter or a drizzle of oil and 1/2 the rub. Remove from the heat on completion and place on a cutting board. Using two forks (one to secure the chicken and the other to shred), gently shred the chicken and set aside."
+    },
+    {
+      "step": 2,
+      "title": "MAKE IT AL DENTE",
+      "text": "Fill a pot with boiling water, add a pinch of salt, and place over a high heat. Once bubbling rapidly, add a drizzle of oil and cook the pasta for 13-15 minutes until al dente. Keep stirring for the first 3 minutes to prevent sticking, then stir sporadically during the remaining cooking time. Drain on completion, reserving a cup of pasta water, and return to the pot. Toss through some oil to prevent sticking."
+    },
+    {
+      "step": 3,
+      "title": "FLAVOUR TOWN",
+      "text": "Return the pan to a medium heat with a drizzle of oil. When hot, add the grated garlic, the capers, the chilli flakes (to taste), and the remaining rub. Fry for 1-2 minutes until fragrant, shifting constantly. Add the tomato passata and the pitted olives. Mix until fully combined. Simmer for 10-15 minutes until slightly reduced and thickened. Add a splash of pasta water if the sauce reduces too quickly. In the final 5 minutes, add the shredded chicken and some seasoning."
+    },
+    {
+      "step": 4,
+      "title": "PUTT THAT PUTTANESCA ON MY PLATE",
+      "text": "Plate up the pasta and top with the puttanesca sauce. Sprinkle with the nutritional yeast and the sliced basil."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 571.0,
+    "energy_kcal": 136.0,
+    "protein_g": 12.2,
+    "carbs_g": 16.0,
+    "sugars_g": 2.5,
+    "fibre_g": 2.8,
+    "fat_g": 2.1,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 251.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "Cooking pasta in salted water allows it to absorb the salt, enhancing its flavour, because the salt is dispersed throughout the dish and not just on the surface of the pasta, so you get a better end result!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

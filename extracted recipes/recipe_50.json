@@ -1,0 +1,113 @@
+{
+  "recipe_number": 50,
+  "title": "Bacon-wrapped Beef Fillet",
+  "subtitle": "with jacket potato pockets & horseradish",
+  "description": "Beef fillet is coated in horseradish sauce and Dijon mustard, before being rolled in breadcrumbs and wrapped up in delish bacon slices. It is accompanied by classic jacket potatoes and fresh green leaves. Bacon, fillet, potato, need we say more?",
+  "chef": "Megan Bure",
+  "category": "Adventurous Foodie",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Boschendal | Nicolas",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Thyme",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Horseradish Sauce",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Dijon Mustard",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Fillet",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Streaky Pork Bacon",
+      "quantity": 4,
+      "unit": "strips",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Tinfoil",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "HOT POTATO",
+      "text": "Preheat the oven to 220°C. Line a baking tray with tinfoil and lightly grease. Cut the rinsed potato in half lengthways and place on the tray — don't remove the skin! Coat in oil, the picked thyme leaves, season, and turn cut-side down. Bake in the hot oven for 35-40 minutes until the flesh is soft and the skin is crispy."
+    },
+    {
+      "step": 2,
+      "title": "BACON-WRAPPED FILLET",
+      "text": "In a bowl, combine the horseradish sauce, the mustard, and seasoning. Place the breadcrumbs on a plate. Pat the fillets dry with some paper towel. Lightly spread the horseradish mustard mixture over the fillets until well coated. On completion, roll the mustard coated fillets through the breadcrumbs and wrap in the bacon slices in a single layer. Place on a lightly greased tray and roast in the hot oven for 6-8 minutes or until cooked to your preference. Remove from the oven and leave to rest for 5 minutes. Season to taste."
+    },
+    {
+      "step": 3,
+      "title": "FLUFFY JACKETS",
+      "text": "Once the potatoes are cooked, carefully spoon the flesh (without breaking the skin) into a bowl, and fluff up with a fork. Mix in a small knob of butter (optional) and some seasoning. Return the buttery flesh to the skins. Toss the rinsed green leaves with a drizzle of oil and seasoning."
+    },
+    {
+      "step": 4,
+      "title": "BON APPETIT!",
+      "text": "Plate up the bacon-wrapped beef fillet and side with the buttery baked potatoes. Serve the dressed green leaves alongside. What a dish, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 692.0,
+    "energy_kcal": 165.0,
+    "protein_g": null,
+    "carbs_g": 12.0,
+    "sugars_g": 0.8,
+    "fibre_g": 1.7,
+    "fat_g": 5.8,
+    "saturated_fat_g": 2.0,
+    "sodium_mg": 195.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "The protein value in the Nutritional Information section is punched out by a binder ring hole."
+}

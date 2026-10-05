@@ -1,0 +1,130 @@
+{
+  "recipe_number": 115,
+  "title": "Crispy Gnocchi & Tomato Salad",
+  "subtitle": "with baby marrows & a balsamic vinaigrette",
+  "description": "Fun Fact: Gnocchi isn’t a type of pasta. Traditional gnocchi is made from potatoes, which makes it a dumpling. Another fact is that this gnocchi recipe is delicious! On a bed of green leaves rests crispy pillows of butternut gnocchi, dotted with rounds of green baby marrow and pops of tangy blistered baby tomatoes.",
+  "chef": "Rhea Hsu",
+  "category": "Veggie",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 30,
+  "wine_pairing": "Waterford Estate | Waterford Sauvignon Blanc",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Butternut Gnocchi",
+      "quantity": 350,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "halved"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & ½ finely diced"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "rinsed, trimmed & cut into thick rounds"
+    },
+    {
+      "name": "NOMU Provençal Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "PILLOWS FOR YOUR PALATE",
+      "text": "Boil the kettle. Place a pot for the gnocchi over a high heat. Fill with boiling water, add a pinch of salt, and bring back up to the boil. Once boiling, cook the gnocchi for 2-3 minutes until they begin to float and are heated through. Drain and toss through some oil to prevent sticking."
+    },
+    {
+      "step": 2,
+      "title": "HEAR THEM POP",
+      "text": "Place the pumpkin seeds in a pan over a medium heat. Toast for 3-5 minutes until beginning to pop and turning brown. Remove from the pan and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "BLISTERED BALSAMIC TOMATOES",
+      "text": "Return the pan to a medium heat with a drizzle of oil. When hot, fry the halved baby tomatoes for 3-4 minutes until blistered and charred. Remove from the pan and place in a bowl along with the finely diced onion, the balsamic vinegar, ½ of the chopped parsley, a drizzle of olive oil, some sweetener (to taste), and some seasoning. Mix well to combine and set aside."
+    },
+    {
+      "step": 4,
+      "title": "WHERE DID MY BABY MARROW GO?",
+      "text": "Return the pan to a medium heat with a drizzle of oil. When hot, add the baby marrow rounds and fry for 3-4 minutes until charred, shifting occasionally. Remove from the pan and season. Cover and set aside for serving."
+    },
+    {
+      "step": 5,
+      "title": "BUTTER THEM UP",
+      "text": "Return the pan to a medium heat with a knob of butter. When starting to foam, fry the cooked gnocchi and the rub in a single layer for 2-4 minutes until browned and crisped."
+    },
+    {
+      "step": 6,
+      "title": "IT’S AN ITALIAN FEAST!",
+      "text": "Make a bed of the rinsed green leaves. Scatter over the charred baby marrow, the crispy gnocchi, and the balsamic tomatoes. Drizzle over any of the remaining balsamic dressing from the tomatoes. Sprinkle over the pumpkin seeds, and garnish with the remaining chopped parsley. Enjoy, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 366.0,
+    "energy_kcal": 88.0,
+    "protein_g": null,
+    "carbs_g": 16.0,
+    "sugars_g": 2.1,
+    "fibre_g": 2.6,
+    "fat_g": 0.9,
+    "saturated_fat_g": 0.2,
+    "sodium_mg": 184.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Nutritional information partially obscured by binder ring hole (Energy kcal unit and Protein value)."
+}

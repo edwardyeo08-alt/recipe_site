@@ -1,0 +1,193 @@
+recipe_number,title,chef,servings,time_total,ingredients_count,steps_count,obscured
+1,Vibey Durban Lamb Curry,Lauren Todd,4,60,12,5,False
+2,Herb Crusted Fillet,Alex Levett,2,50,12,5,False
+3,Crispy Lamb Chops,Tess Witney,4,60,9,6,True
+4,Fabulous Beef Fillet,Alex Levett,2,50,10,6,True
+5,Vibrant Veggie & Lamb Stew,Ella Nasser,2,30,11,5,True
+6,Sirloin On Quinoa Mushroom Risotto,Thea Richter,2,45,11,6,False
+7,Lamb Rogan Josh,Megan Bure,2,55,11,5,True
+8,Sizzling Sirloin & Perfect Pumpkin Hummus,Kate Gomba,2,40,10,6,False
+9,Cheesy BBQ Lamb Potato Bites,Kate Gomba,2,45,11,6,True
+10,Sirloin On Horseradish Mash,Ella Nasser,4,50,11,5,True
+11,Higgs' Lush Lamb Rump,David Higgs,2,30,12,6,True
+12,Tex-Mex Sirloin Spread,Alex Levett,4,50,10,6,False
+13,Mexican Lamb Burrito Bowl,Jeannette Joynt,2,40,10,5,True
+14,Beef & Butternut Salad,Megan Bure,2,50,10,6,False
+15,Indian Tikka Lamb Skewers,Ella Nasser,2,25,10,5,True
+16,Honeyed Baby Carrots & Beef Sirloin,Thea Richter,3,55,10,7,True
+17,Greek Lamb Feasting Platter,Thea Richter,2,40,12,7,True
+18,Steakhouse Rump & Truffled Roasties,Kate Gomba,2,45,10,6,False
+19,Delheim's Succulent Lamb Rump,Samantha Finnegan,2,50,11,6,False
+20,Almond-Crusted Rump,Klaudia Weixelbaumer,4,50,9,5,False
+21,Juicy Lamb Leg Tabbouleh,Samantha Finnegan,4,45,10,6,True
+22,Luscious Chimichurri Rump,Klaudia Weixelbaumer,4,55,10,6,False
+23,Lamb Curry & Cheat's Paratha,Kate Gomba,2,55,9,5,True
+24,Beef & Roast Sweet Potato Salad,Rhea Hsu,2,35,11,6,False
+25,Braised Lamb Flatbread,Megan Bure,3,55,12,6,True
+26,Beef Rump & Tzatziki Slaw,Carey Erasmus,4,35,9,5,False
+27,Roast Lamb Leg & Mint Sauce,Alex Levett,4,60,9,6,False
+28,Fillet & Cheesy Crumbed Croquettes,Ella Nasser,2,50,10,6,True
+29,Lamb Bliss Bowl,Thea Richter,2,35,9,5,True
+30,Classic Rump & Peppercorn Sauce,Tess Witney,4,55,11,6,False
+31,West African Lamb & Peanut Stew,Ella Nasser,2,30,12,5,True
+32,Zippy Beef Bobotie,Kate Gomba,4,40,12,6,True
+33,North African Lamb Meatballs,Tess Witney,4,60,11,6,True
+34,Cheesy Nachos & Beef Mince,Thea Richter,2,25,11,5,True
+35,Moroccan Lamb Stew,Kate Gomba,2,50,10,4,True
+36,Cheese-Crusted Beef Enchiladas,Alex Levett,2,40,12,4,True
+37,Beef Meatloaf & Bocconcini Salad,Ella Nasser,3,45,12,4,True
+38,Argentinian Asado-Style Burritos,Lauren Todd,2,35,11,5,False
+39,Teriyaki Rump On Stir-Fried Greens,Ella Nasser,2,45,11,6,False
+40,Sumptuous Thai Beef Curry,Kate Gomba,4,60,11,5,True
+41,Juicy Japanese Yakitori,Tess Witney,2,50,11,6,True
+42,Steamy Thai Red Beef,Lauren Todd,4,45,10,6,False
+43,Korean BBQ Beef,Thandi Mamacos,2,40,9,6,False
+44,Braai-Style Beef Fillet,Lauren Todd,4,40,10,6,False
+45,Sweet Chilli Beef Stir Fry,Fatima Ellemdeen,4,40,11,5,False
+46,Cumin Basted Beef Fillet,Ella Nasser,2,55,10,6,True
+47,Mushroom & Beef Tagliatelle,Jeannette Joynt,2,25,9,4,True
+48,Sesame-crusted Beef Fillet,Kate Gomba,2,45,8,6,False
+49,Silky Beef Stroganoff,Kate Gomba,2,30,10,7,True
+50,Bacon-wrapped Beef Fillet,Megan Bure,2,45,8,4,True
+51,Seared Beef & Hummus Tabbouleh,Alex Levett,4,55,11,6,True
+52,Cape Malay Beef Biryani,Tami Schrire,2,50,12,5,True
+53,Mediterranean Chicken Mezze Platter,Hannah Duxbury,2,20,11,5,True
+54,Saucy Chicken Puttanesca Pasta,Ella Nasser,2,30,10,4,False
+55,Chef Sipho's Pesto Stuffed Chicken,Chef Siphokazi Mdlankomo,2,50,10,6,False
+56,Caprese Chicken Burger,Ella Nasser,2,45,12,6,True
+57,Mediterranean Chicken Wraps,Ella Nasser,2,35,11,6,False
+58,Pomodoro Pasta & Chicken Parm,Rhea Hsu,3,55,12,6,True
+59,Ricotta-Stuffed Chicken Breast,Emma Dittmer,2,40,11,6,True
+60,Tex-Mex Roast Chicken,Klaudia Weixelbaumer,2,50,11,6,True
+61,Warwick's Creamy Chicken Korma,Alex Levett,2,50,12,6,True
+62,Grilled Chicken & Cowboy Salsa,Rhea Hsu,2,30,12,5,False
+63,Caprese Stuffed Chicken Breast,Rhea Hsu,3,50,12,6,True
+64,Grilled Chicken Caesar Salad,Alex Maresch,4,45,10,6,True
+65,Pesto-Infused Chicken Breast,Tess Witney,2,50,10,6,False
+66,Sleek & Simple Butter Chicken,Samantha Finnegan,4,60,12,6,False
+67,Creamy Chicken Paprika Pasta,Rhea Hsu,4,35,12,6,True
+68,ONE-POT CHICKEN CURRY,Jana Verster,4,45,12,6,False
+69,Bunless Moroccan Chicken Burgers,Tess Witney,2,50,12,6,False
+70,Crispy Cumin Coated Chicken,Kate Gomba,2,45,11,4,False
+71,Creamy Chicken Korma,Alex Levett,4,60,12,6,True
+72,Balti Chicken Curry,Thea Richter,2,45,12,5,False
+73,Coconut Chicken & Rice,Rhea Hsu,2,45,12,5,True
+74,Spicy Peanut Satay Chicken,Alex Levett,2,45,11,6,True
+75,Thai Chicken Meatballs,Tess Witney,4,65,12,6,False
+76,Temptations Minty Chicken Breyani,Prim Reddy & Niranj Pather,2,50,11,6,False
+77,Easy Thai Red Chicken,Samantha Finnegan,2,50,11,5,False
+78,Velvety Butter Chicken,Samantha Finnegan,4,60,12,6,True
+79,Chinese-style Cashew Chicken,Thea Richter,2,40,10,6,True
+80,Sticky Vietnamese Chicken,Deon Huysamer,4,50,11,6,True
+81,Moroccan-Spiced Hake,Tess Witney,4,40,10,6,True
+82,Trout & Patatas Bravas,Ella Nasser,2,40,11,6,True
+83,Seaside Cajun Hake,Samantha Finnegan,4,55,12,6,False
+84,Fusion Hot Smoked Trout,Thea Richter,2,30,9,6,True
+85,Taphuis Blackened Cajun Hake,Stephen Fraser,2,55,13,6,False
+86,Baked Basa & Fried Rainbow Quinoa,Ella Nasser,2,40,11,6,True
+87,Nut Crusted Hake,Alex Levett,2,45,12,5,True
+88,Yellowtail & Patatas Bravas,Deon Huysamer,2,50,11,5,False
+89,Bistro Sixteen82 Fusion Hake Fillet,Kerry Kilpin,4,70,11,6,True
+90,Yellowtail & Rosé Applesauce,Tess Witney,4,60,11,6,True
+91,Tantalising Trout,Kate Gomba,2,40,11,6,False
+92,Yellowtail & Apricot Glaze,Lauren Todd,4,60,9,5,True
+93,Trout & Honey-Glazed Butternut,Alex Levett,2,50,10,6,False
+94,Asian-style Fish & Chips,Kate Gomba,2,40,8,6,True
+95,Seared Trout & Autumn Veg,Tess Witney,2,40,9,5,True
+96,Tuna Steak & Avo Fries,Hannah Duxbury,2,35,9,5,True
+97,Classy Cajun Trout,Runet Van Heerden,2,45,8,5,True
+98,One-tray Dorado of Dreams,Kate Gomba,2,45,8,4,True
+99,Tandoori Spiced Trout,Thea Richter,2,50,13,6,True
+100,Spiced Basa & Corn Esquites,Alex Levett,4,45,12,5,True
+101,Smoky Trout Tagliatelle,Ella Nasser,2,45,10,6,False
+102,Kenyan Coconut Calamari,Alex Levett,2,45,11,6,True
+103,Rainbow Trout Niçoise,Lauren Todd,4,45,8,6,True
+104,Scrumptious Squid Paella,Rhea Hsu,3,50,12,6,True
+105,Homemade Smoked Trout Fishcakes,Kate Gomba,2,55,12,7,True
+106,Panko Crusted Mussel Boats,Megan Bure,4,45,12,6,True
+107,Roast Veggie & Trout Salad,Megan Bure,2,35,9,5,True
+108,Babylonstoren's Pepper Squid Tacos,Babylonstoren,4,50,11,6,False
+109,Flaky Trout & Bean Purée,Kate Gomba,3,40,9,4,False
+110,Stress-Free Squid Paella,Lauren Todd,2,40,12,5,False
+111,Classy Cajun Rainbow Trout,Runet Van Heerden,2,45,8,6,False
+112,Délicieux Trout & Dauphinoise,Thea Richter,2,50,12,5,True
+113,Cacio e Pepe Bacon Gnocchi,Kate Gomba,2,20,9,5,True
+114,Classic Cheesy Nachos,Tess Witney,4,35,11,6,True
+115,Crispy Gnocchi & Tomato Salad,Rhea Hsu,2,30,9,6,True
+116,Tasty Tex-Mex Enchiladas,Ella Nasser,2,40,13,4,True
+117,Sage & Roast Butternut Gnocchi,Kate Gomba,4,60,8,6,False
+118,Fully Loaded Sweet Potato Fries,Thea Richter,2,55,13,6,False
+119,Delheim's Creamy Mushroom Gnocchi,Alex Levett,2,45,11,6,False
+120,Zippy Black Bean Nachos,Jason Kosmas,4,35,11,5,False
+121,Cheesy Gnocchi Napoletana,Lauren Todd,4,40,11,6,False
+122,Knife & Fork Nachos,Runet Van Heerden,4,60,11,5,True
+123,Bistro Sixteen82 Bacon Ragù Gnocchi,Kerry Kilpin,4,65,12,6,True
+124,Tryn's Truffle Mushroom Tagliatelle,Kerry Kilpin,2,45,10,6,False
+125,NONNA'S GNOCCHI BAKE,Lauren Todd,4,50,10,5,False
+126,Spicy Mexican Tomato Pasta,Aisling Kenny,3,35,11,4,True
+127,Crispy Bacon & Pea Gnocchi,Rhea Hsu,2,30,12,5,True
+128,Double Creamed Mediterranean Pasta,Tess Witney,2,45,11,6,True
+129,Saucy Bacon Gnocchi,Kerry Kilpin,3,60,10,5,False
+130,Dreamy Halloumi & Artichokes,Kate Gomba,2,35,11,6,True
+131,Taphuis Umami Mushroom Gnocchi,Stephen Fraser,2,35,10,6,True
+132,Moreish Coffee-Spiced Halloumi,Alex Levett,2,45,11,6,True
+133,Haute Cabrière Ravioli,Ella Nasser,2,30,9,6,False
+134,Crispy Halloumi & Pesto Jumble,Runet Van Heerden,2,40,10,6,False
+135,Higgs' Ambrosial Aubergine Ravioli,David Higgs,2,25,9,6,True
+136,Heaped Halloumi Tabbouleh,Tess Witney,4,40,10,6,False
+137,Tasty Butternut & Ricotta Ravioli,Megan Bure,2,40,9,6,True
+138,Golden Halloumi & Pesto Bake,Jeannette Joynt,2,45,9,4,False
+139,Mamma Mia Ravioli,Klaudia Weixelbaumer,4,40,9,6,False
+140,Green Goddess Camembert Salad,Ella Nasser,2,40,12,6,True
+141,Ricotta Ravioli & Sage Butter,Runet Van Heerden,4,40,9,5,True
+142,Vegan Chickpea Buttah Masala,Ella Nasser,2,45,12,6,True
+143,Creamy Truffled Ravioli,Thea Richter,2,40,9,5,True
+144,Velvety Butter Chickpea Curry,Samantha Finnegan,2,40,12,6,False
+145,Packs-A-Punch Kimchi Fried Rice,Tess Witney,2,40,11,6,True
+146,Creamy Chickpea Stew,Aisling Kenny,2,45,11,4,True
+147,Vibrant Vegetable Crumble,Ella Nasser,2,50,11,6,True
+148,Tandoori Paneer & Homemade Naan,Thea Richter,2,45,13,5,False
+149,Aubergine Parmigiana,Ella Nasser,2,45,12,5,True
+150,Marvelous Mushroom Dhal,Kate Gomba,2,35,11,6,True
+151,Crumbed Chevin & Roast Butternut Salad,Alex Levett,2,45,11,6,False
+152,Fragrant Cape Malay Dahl,Tami Schrire,2,40,11,6,True
+153,Harissa & Black Bean Salad,Thea Richter,2,40,12,6,True
+154,Thai Green Veggie Curry,Rhea Hsu,2,35,11,5,True
+155,Magnificent Moonshine Bowl,Fatima Ellemdeen,2,50,11,5,False
+156,COCONUT CASHEW BALTI,Megan Bure,4,50,12,6,True
+157,Vegan Fashionista BBQ Burger,Tess Witney,4,55,10,6,False
+158,Temptations Mushroom Tikka Masala,Prim Reddy & Niranj Pather,2,40,14,6,True
+159,Vegan Falafel Buddha Bowl,Lauren Todd,2,35,11,5,False
+160,Sunset Quinoa & Biltong Risotto,Samantha Finnegan,4,60,11,6,True
+161,Grilled Baby Marrow & Halloumi Salad,Kate Gomba,2,50,10,7,True
+162,Goat's Cheese & Sage Risotto,Sarah Hewitt,2,45,11,6,True
+163,Herby Falafel Tortillas,Ella Nasser,2,45,11,6,False
+164,Saffron & Charred Baby Marrow Risotto,Hannah Duxbury,2,50,9,5,True
+165,Cosy Harissa Potato & Crispy Beans,Tess Witney,4,55,11,5,True
+166,Warwick’s Butternut & Sage Risotto,Tess Witney,2,45,11,6,False
+167,Butternut & Caramelised Onion Flatbread,Tess Witney,4,60,10,6,False
+168,Ravishing Chorizo Risotto,Kate Gomba,2,35,9,4,True
+169,Oven-Ready Spinach & Feta Spanakopita,Alex Levett,4,35,11,6,False
+170,Indulgent Pea Risotto,Jessica Sole,2,40,11,6,True
+171,Avo & Falafel Wrap,Natalie Rohrs,4,45,7,4,True
+172,Forbidden Black Rice Risotto,Alex Levett,2,50,12,5,True
+173,Exotic Mushroom Tabbouleh,Rhea Hsu,2,35,9,6,True
+174,Fabulous Falafel Feast,Alex Levett,2,45,11,6,False
+175,Thai Peanut Pork Mince,Sarah Hewitt,2,35,12,5,True
+176,30-Minute Venison Rotis,Lauren Todd,2,30,10,5,False
+177,Fusion Fried Rice,Samantha Finnegan,2,45,12,6,True
+178,Tex-Mex Ostrich Fillet,Alex Levett,4,45,10,6,False
+179,Sticky Pork Stir Fry,Tami Schrire,4,40,10,6,True
+180,Seared Ostrich & Cheesy Potatoes,Massy Gomba,4,45,10,6,False
+181,The Yee-Haw Cowboy Kassler,Thea Richter,2,45,10,6,True
+182,Venison Steak & Peppercorn Sauce,Lauren Todd,4,55,10,6,False
+183,Warwick's BBQ Pork & Corn Esquites,Samantha Finnegan,2,50,11,6,False
+184,Ostrich Chilli Con Carne,Samantha Finnegan,4,50,12,5,False
+185,5-Spice Pork Belly & Peanut Brittle,Jeannette Joynt,2,50,12,6,False
+186,Honey-Mustard Basted Duck,Ella Nasser,4,50,8,5,False
+187,Charred Corn & Chorizo Tacos,Megan Bure,2,40,12,6,True
+188,Massaman Duck Breast Curry,Alex Levett,2,50,12,6,True
+189,Smoky Pork & Sage Butter,Kate Gomba,2,45,9,6,False
+190,Apple-stuffed Pork & Sweet Potato,Jeannette Joynt,2,55,12,6,True
+191,Okonomiyaki & Sticky Pork Belly,Thea Richter,2,40,11,4,False
+192,Classic Pork & Pear,Alex Levett,2,40,10,6,False

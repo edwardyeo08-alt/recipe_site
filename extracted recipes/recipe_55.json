@@ -1,0 +1,135 @@
+{
+  "recipe_number": 55,
+  "title": "Chef Sipho's Pesto Stuffed Chicken",
+  "subtitle": "with pumpkin mash, green beans & a cheesy crumb",
+  "description": "A golden roasted, mozzarella and basil pesto stuffed chicken breast? Crumbed with toasty quinoa and cheese? Accompanied by a pumpkin mash and lemony green beans? Some crunchy leaves and fresh parsley? Yes, you're in for the yummiest of yum!",
+  "chef": "Chef Siphokazi Mdlankomo",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Cavalli Estate | Cremello",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Pumpkin Chunks",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Grated Mozzarella",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pesto Princess Basil Pesto",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Chicken Breasts",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Cheesy Crumb",
+      "quantity": 140,
+      "unit": "ml",
+      "prep": "(125ml Quinoa Flakes & 15ml Grated Italian-style Hard Cheese)"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Green Beans",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "rinsed, trimmed & halved"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Milk (optional)",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "PEPPY PUMPKIN",
+      "text": "Preheat the oven to 200°C. Boil the kettle. Place a pot over a medium-high heat with 3-4cm of boiling water covering the base. Once steaming, place the pumpkin chunks in a colander over the pot. Allow to steam covered for 20-25 minutes until cooked through and soft. Alternatively, you can use a steamer if you have one."
+    },
+    {
+      "step": 2,
+      "title": "CHEESY CHICKEN",
+      "text": "Mix the grated mozzarella and basil pesto together in a medium-sized bowl. Pat the chicken dry with a paper towel. Cut a pocket horizontally in each of the chicken breasts and season the inside of each pocket with salt and pepper. Spoon the mozzarella and pesto mixture into each pocket. Season the outside of the chicken, drizzle with olive oil and coat evenly. In a small bowl combine the cheesy crumb, grated garlic, 3/4 of the chopped parsley, 40ml of oil and some lemon zest to taste. Spread the mixture on top of each chicken breast."
+    },
+    {
+      "step": 3,
+      "title": "HOT & PREPPED",
+      "text": "Place the chicken breasts on a roasting tray, and roast in the hot oven for 20-25 minutes until cooked through and the crumb is browning. Place the rinsed green leaves in a salad bowl and toss with a drizzle of oil. Season to taste."
+    },
+    {
+      "step": 4,
+      "title": "BLAZING BEANS",
+      "text": "Place a pan over a medium-high heat with a splash of water. When starting to bubble, simmer the halved green beans for 4-5 minutes until cooked al dente. Toss with a drizzle of oil, a squeeze of lemon juice and seasoning to taste. Remove from the pan on completion and cover to keep warm."
+    },
+    {
+      "step": 5,
+      "title": "MARVELOUS MASH",
+      "text": "When the pumpkin is cooked, discard the water and place into the pot. Add a knob of butter (optional) or coconut oil (optional) and a splash of water or milk. Mash with a fork or potato masher until smooth and combined. Season to taste."
+    },
+    {
+      "step": 6,
+      "title": "DELICIOUS!",
+      "text": "Plate the succulent flavour-packed chicken breasts with a helping of creamy pumpkin mash. Pile up the dressed leaves and top with the lemony green beans. Sprinkle over the remaining chopped parsley and serve any remaining lemon wedges on the side. Dig in, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 489.0,
+    "energy_kcal": 117.0,
+    "protein_g": 9.2,
+    "carbs_g": 11.0,
+    "sugars_g": 2.4,
+    "fibre_g": 2.5,
+    "fat_g": 4.1,
+    "saturated_fat_g": 1.4,
+    "sodium_mg": 61.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Allium",
+    "Tree Nuts"
+  ],
+  "chef_tip": "To get the pumpkin to cook evenly and quicker, the best advice: chop in the most uniform pieces you can! The thicker the veggie, the longer it will take to cook.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

@@ -1,0 +1,125 @@
+{
+  "recipe_number": 141,
+  "title": "Ricotta Ravioli & Sage Butter",
+  "subtitle": "with Italian-style hard cheese, baby spinach & toasted hazelnuts",
+  "description": "These pasta pockets are bursting with butternut and ricotta, swished with baby spinach, and dripping in garlic and sage beurre noisette or \"browned butter\", with its famous nutty aroma. Classy, comforting, and quick!",
+  "chef": "Runet Van Heerden",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "quantity": 60.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cannellini Beans",
+      "quantity": 480.0,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "NOMU Italian Rub",
+      "quantity": 10.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Butternut & Ricotta Ravioli",
+      "quantity": 600.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Sage",
+      "quantity": 20.0,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 4.0,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": 160.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Grated Italian-Style Hard Cheese",
+      "quantity": 60.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "TOASTY HAZELNUTS",
+      "text": "Boil the kettle for step 3. Place a large, nonstick pan over a medium heat. When hot, toast the hazelnuts for 5-6 minutes until golden, shifting occasionally. Remove from the pan on completion and set aside. Roughly chop when cool enough to handle."
+    },
+    {
+      "step": 2,
+      "title": "CRISP THE CANNELLINIS",
+      "text": "Return the pan to a medium heat with a drizzle of oil. When hot, toast the drained cannellini beans for 12-15 minutes until crispy and caramel in colour. At the halfway mark, stir through the Italian Rub to taste. For the best results, only shift occasionally. On completion, remove from the heat and set aside until serving."
+    },
+    {
+      "step": 3,
+      "title": "BOIL THE RAVIOLI",
+      "text": "Place a pot for the ravioli over a high heat. Fill with boiling water and add a pinch of salt. Once boiling rapidly, cook the ravioli for 2-3 minutes until they begin to float and are heated through. Drain on completion and toss through some oil to prevent sticking."
+    },
+    {
+      "step": 4,
+      "title": "SAGE BEURRE NOISETTE",
+      "text": "Place another large pan over a medium-high heat with a drizzle of oil or knob of butter. When hot, fry the ravioli in a single layer until crisp and golden. You may need to do this step in batches. Remove from the pan on completion, return the pan to the heat, and add in 120g of butter. Once foaming, spread the rinsed sage leaves across the pan in a single layer. Fry for 2-3 minutes until the leaves are crispy and the butter has a nutty aroma, watching closely. Reduce to a medium heat, add the grated garlic, and sauté for about a minute. Add in the ravioli, half of the chopped hazelnuts, half of the rinsed baby spinach, and the juice of 4 lemon wedges. Toss until coated, remove the pan from the heat, and season to taste."
+    },
+    {
+      "step": 5,
+      "title": "RESTAURANT-QUALITY DINNER",
+      "text": "Lay out the remaining fresh baby spinach and cover with three-quarters of the cannellinis. Top with the buttery pockets of ravioli and all of the sauce from the pan. Sprinkle with the grated hard cheese, the remaining toasted hazelnuts, and the lemon zest to taste. Finally, scatter the remaining cannellinis over the lot. Delectable, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 525.0,
+    "energy_kcal": 125.0,
+    "protein_g": 5.9,
+    "carbs_g": 21.0,
+    "sugars_g": 1.8,
+    "fibre_g": 3.7,
+    "fat_g": 4.4,
+    "saturated_fat_g": 1.1,
+    "sodium_mg": 200.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "Beurre noisette translates to \"brown butter\" or \"hazelnut butter\". It's a popular sauce in French cuisine where butter is slightly burnt in a pan, giving it a nutty, sweet aroma. It's a stunning sauce for pastas, steaks, steamed or blanched and fish.",
+  "card_obscured_flag": true,
+  "obscured_details": "Chef's tip has a word punched out by binder ring hole after 'blanched', and allergens has 'Wheat' slightly clipped."
+}

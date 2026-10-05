@@ -1,0 +1,147 @@
+{
+  "recipe_number": 156,
+  "title": "COCONUT CASHEW BALTI",
+  "subtitle": "with spinach, vermicelli noodles & a nutty soy dressing",
+  "description": "Rich Balti flavours swirl in a coconut cream curry with carrot, shredded spinach, and ginger, flowing over mung bean vermicelli noodles. With a squeeze of fresh lime and a final flourish of nutty, umami dressing.",
+  "chef": "Megan Bure",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 50,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Cashew Nuts",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Carrot",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "rinsed & sliced into thin half-moons"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 3,
+      "unit": null,
+      "prep": "thinly sliced"
+    },
+    {
+      "name": "Spice and All Things Nice Balti Curry Paste",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Coconut Cream",
+      "quantity": 400,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lime",
+      "quantity": 2,
+      "unit": null,
+      "prep": "cut into wedges"
+    },
+    {
+      "name": "Vermicelli Noodles",
+      "quantity": 4,
+      "unit": "cakes",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "CARAMEL-COLOURED CASHEWS",
+      "text": "Place a large pot that has a lid over a medium heat. When hot, toast the cashews for 3-5 minutes until golden, shifting occasionally. Remove from the pot on completion and set aside. Roughly chop when cool enough to handle."
+    },
+    {
+      "step": 2,
+      "title": "BALTI CURRY TIME",
+      "text": "Keep the pot over the heat and add a drizzle of oil. When hot, fry the carrot half-moons for 5-6 minutes until slightly softened, shifting occasionally. Add the grated ginger, three-quarters of the sliced spring onion, and the Balti curry paste to taste. Fry for another minute until fragrant, shifting constantly. Add in the coconut cream, the stock, and 150ml of water. Stir to combine the curry paste with the liquid and bring to the boil. Then, lower the heat and pop on the lid. Allow to simmer for 10-15 minutes until slightly reduced, stirring occasionally."
+    },
+    {
+      "step": 3,
+      "title": "NUTTY SOY DRESSING",
+      "text": "Boil a full kettle for step 4. Place the chopped cashews, the soy sauce, and three-quarters of the chopped coriander in a bowl. Squeeze in some lime juice to taste and whisk together. Add a sweetener of choice to taste and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "COOK THE NOODLES",
+      "text": "Using a shallow bowl, submerge the noodles in boiling water and add a pinch of salt. Cover with a plate and set aside to soak for 6-8 minutes until cooked through and glassy. Taste to test and drain on completion. Toss through some oil to prevent sticking."
+    },
+    {
+      "step": 5,
+      "title": "SPINACH IT UP!",
+      "text": "Once the sauce has reduced, stir through the shredded spinach. Replace the lid, and cook for 3-4 minutes until wilted. On completion, season to taste and remove from the heat."
+    },
+    {
+      "step": 6,
+      "title": "DISH UP & DEVOUR",
+      "text": "Spoon some silky vermicelli noodles into a bowl. Drench in the Balti coconut curry and drizzle over the nutty soy dressing. Garnish with the remaining chopped coriander and sliced spring onion, and serve with a lime wedge on the side. Tuck in, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 560.0,
+    "energy_kcal": 134.0,
+    "protein_g": 2.2,
+    "carbs_g": 18.0,
+    "sugars_g": 2.2,
+    "fibre_g": 1.7,
+    "fat_g": 5.8,
+    "saturated_fat_g": 3.9,
+    "sodium_mg": 310.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts",
+    "Soy"
+  ],
+  "chef_tip": "Always add curry paste to your taste preference — you don't have to add it all! When the sauce is nearing completion, taste to test the spice levels and gradually add in any remaining curry paste if you'd like to increase the heat.",
+  "card_obscured_flag": true,
+  "obscured_details": "Ring binder hole clips 'Tree' in 'Tree Nuts' in Allergens list."
+}

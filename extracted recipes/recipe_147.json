@@ -1,0 +1,140 @@
+{
+  "recipe_number": 147,
+  "title": "Vibrant Vegetable Crumble",
+  "subtitle": "with DIY béchamel, panko-almond crumb & a bright green salad",
+  "description": "Beautifully roasted vegetables are topped with a creamy béchamel sauce, oozy cheese and a crunchy panko-almond topping. Served with a fresh salad on the side, this dish is comforting, creamy and completely delicious!",
+  "chef": "Ella Nasser",
+  "category": "Veggie",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Boschendal | Le Bouquet",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Leeks",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": "trimmed at the base & halved lengthways"
+    },
+    {
+      "name": "Butternut",
+      "quantity": 500.0,
+      "unit": "g",
+      "prep": "deseeded, peeled (optional) & cut into bite-sized chunks"
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": "rinsed, trimmed & cut into bite-sized chunks"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "quantity": 100.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Flaked Almonds",
+      "quantity": 20.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cake Flour",
+      "quantity": 65.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Cream",
+      "quantity": 200.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Grated Mozzarella & Cheddar Cheese Mix",
+      "quantity": 100.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 80.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": "cut into half-moons"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Milk (optional)",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET THE BALL ROASTIN'",
+      "text": "Preheat the oven to 180°C. Rinse the halved leeks thoroughly and cut into 2-3cm chunks. Place the butternut chunks, the chopped leeks, and baby marrow chunks in an ovenproof dish, coat in oil, and season. Roast in the hot oven for 30-35 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "GOLDEN & TOASTED",
+      "text": "Place a pan over medium-high heat with a drizzle of oil. Once hot, add the breadcrumbs and the flaked almonds and toast for 1-2 minutes, until lightly toasted and golden. Remove from the pan and season to taste."
+    },
+    {
+      "step": 3,
+      "title": "CREAMY BÉCHAMEL",
+      "text": "Return the pan over a medium heat with 60g of butter. Once melted, vigorously whisk in the flour to form the roux. Cook out for 1-2 minutes, whisking constantly. Slowly whisk in the cream, whisking constantly until thickened slightly. If the béchamel is too thick for your liking, add an extra splash of milk or water. Remove from the heat on completion."
+    },
+    {
+      "step": 4,
+      "title": "OOZY VEGGIE TRAY",
+      "text": "Boil the kettle. When the veggies are done, remove the dish from the oven. Top the veggies with the creamy béchamel sauce. Sprinkle over the grated cheese. Return to the hot oven and bake for 8-10 minutes until the cheese is melted and golden."
+    },
+    {
+      "step": 5,
+      "title": "SALAD TOSS UP",
+      "text": "Submerge the peas in boiling water for 2-3 minutes until plump and heated through. Drain on completion and place in a bowl. Add the rinsed salad leaves, the cucumber half-moons, the plump peas, a drizzle of oil, and seasoning. Toss until fully combined."
+    },
+    {
+      "step": 6,
+      "title": "READY TO DIG IN",
+      "text": "Plate up the golden veggie crumble and top with the toasted bread-almond mix. Side with the fresh green salad. Beautiful work, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 499.0,
+    "energy_kcal": 119.0,
+    "protein_g": null,
+    "carbs_g": 11.0,
+    "sugars_g": 2.6,
+    "fibre_g": 1.7,
+    "fat_g": 6.7,
+    "saturated_fat_g": 3.8,
+    "sodium_mg": 39.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Wheat",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole completely punches out the protein value in Nutritional Information."
+}

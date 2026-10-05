@@ -1,0 +1,138 @@
+{
+  "recipe_number": 10,
+  "title": "Sirloin On Horseradish Mash",
+  "subtitle": "with lemon and dukkah sautéed kale & a deluxe red wine jus",
+  "description": "This pan-seared sirloin steak gets the royal treatment drizzled with a gorgeous red wine sauce and served with a creamy horseradish mash. Accompanied with a heap of perfectly sautéed lemony-dukkah kale!",
+  "chef": "Ella Nasser",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 50,
+  "wine_pairing": "No paired wines",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": 800,
+      "unit": "g",
+      "prep": "peeled & cut into bite-sized chunks"
+    },
+    {
+      "name": "Horseradish Sauce",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Kale",
+      "quantity": 320,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Lemons",
+      "quantity": 2,
+      "unit": null,
+      "prep": "1½ zested & cut into wedges"
+    },
+    {
+      "name": "Dukkah",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Beef Stock",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 4,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Thyme",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & finely chopped"
+    },
+    {
+      "name": "De-alcoholised Red Wine",
+      "quantity": 250,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Sirloin",
+      "quantity": 640,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter (optional)",
+    "Milk (optional)",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "HORSERADISH MASH",
+      "text": "Boil the kettle. Place a pot of cold salted water over a high heat. Add in the potato chunks and bring to the boil. Once boiling, reduce the heat and simmer for 20-25 minutes until soft. Drain on completion and mash until smooth. Stir through the horseradish sauce, a knob of butter or coconut oil (optional), and a splash of milk or milk alternative. Season to taste and set aside for plating. Place the shredded kale in a bowl with a drizzle of oil, lemon zest, dukkah and some seasoning. Using your hands, gently massage until softened and coated in oil. Set aside for step 4."
+    },
+    {
+      "step": 2,
+      "title": "WINE O'CLOCK",
+      "text": "Dilute the beef stock with 150ml of boiling water. Place a pan over a medium heat with a drizzle of oil. When hot, fry the diced onion for 7-10 minutes until soft, shifting regularly. Add in the grated garlic and chopped thyme and sauté for about 1 minute until fragrant. Stir through the red wine and cook for 3-5 minutes until the wine has almost fully evaporated and the sauce has reduced by half. Whisk in the diluted stock. Simmer for 10-12 minutes until slightly thickened and reduced, stirring regularly. Season and add a sweetener of choice to taste. Remove from the heat, cover with the lid, and set aside to keep warm."
+    },
+    {
+      "step": 3,
+      "title": "SIZZLING SIRLOIN",
+      "text": "Place a large pan over a medium-high heat with a drizzle of oil. Pat the steaks dry with paper towel. When the pan is hot, sear the steaks fat-side down for 1-2 minutes until crispy. Continue to fry for 3-5 minutes per side or until cooked to your preference. In the final minute, baste with a knob of butter. Remove from the pan, lightly season, and allow to rest for 5 minutes before slicing."
+    },
+    {
+      "step": 4,
+      "title": "LEMONY-DUKKAH KALE",
+      "text": "While the steak is resting, wipe the pan down and return to a medium-heat with a drizzle of oil. When hot, sauté the massaged kale for 4-5 minutes until wilted. On completion, squeeze over lemon juice to taste. Remove from heat, cover with a lid, and set aside to keep warm until serving."
+    },
+    {
+      "step": 5,
+      "title": "A ROYAL FEAST!",
+      "text": "Plate up the horseradish mash alongside the juicy sirloin steak slices. Pour the delectable red wine jus over the steak and serve the sautéed lemony-dukkah kale on the side. A feast!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 434.0,
+    "energy_kcal": 104.0,
+    "protein_g": 7.0,
+    "carbs_g": 9.0,
+    "sugars_g": 1.4,
+    "fibre_g": 1.8,
+    "fat_g": 2.1,
+    "saturated_fat_g": 0.6,
+    "sodium_mg": 146.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sesame",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "For a thicker sauce, you can make a slurry - a mixture of flour and water. A slurry, when whisked into a sauce, reduces the risk of clumping when being added. This way, it gets easily and evenly disper[sed.]",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring partially obscures the end of the last word in Chef's Tip ('dispersed.') and part of the allergen list ('Sulphites, Tree Nuts')."
+}

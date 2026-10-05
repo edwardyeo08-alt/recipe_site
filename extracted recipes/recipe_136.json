@@ -1,0 +1,134 @@
+{
+  "recipe_number": 136,
+  "title": "Heaped Halloumi Tabbouleh",
+  "subtitle": "with a honey-harissa dressing, baby spinach & fresh parsley",
+  "description": "A Levantine bulgur wheat salad with a crispy cannellini twirl! Baby spinach, tomatoes, and cucumber crank up the volume to get this halloumi boogie going. Add a sweet and spicy harissa dressing, and you'll be drooling at the stove!",
+  "chef": "Tess Witney",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Bulgur & Stock Mix",
+      "quantity": 320,
+      "unit": "ml",
+      "prep": "300ml Bulgur Wheat & 20ml Vegetable Stock"
+    },
+    {
+      "name": "Cannellini Beans",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Sweet Harissa Dressing",
+      "quantity": 180,
+      "unit": "ml",
+      "prep": "120ml Harissa Paste & 60ml Honey"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 600,
+      "unit": "g",
+      "prep": "rinsed & quartered"
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "thinly sliced into half-moons"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Halloumi",
+      "quantity": 320,
+      "unit": "g",
+      "prep": "sliced lengthways into 1cm thick slabs"
+    },
+    {
+      "name": "NOMU African Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "COOK THE BULGUR",
+      "text": "Boil the kettle. Using a shallow bowl, submerge the bulgur & stock mix in 800ml of boiling water. Add a drizzle of oil and gently stir through with a fork. Cover with a plate and set aside to steam for 15-20 minutes until cooked and tender. Fluff up with the fork on completion, replace the plate, and set aside."
+    },
+    {
+      "step": 2,
+      "title": "CRISPY CANNELLINIS",
+      "text": "Place a large pan over a medium-high heat with a drizzle of oil. When hot, toast the drained cannellini beans for 12-15 minutes until crispy and caramel in colour. For the best results, only shift occasionally. Season on completion and transfer to a bowl. Cover to keep warm and set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "WHILE THE BEANS ARE FRYING...",
+      "text": "Mix the dressing and toss the salad! In a bowl, whisk together the sweet harissa dressing, 1 tbsp of olive oil, and a splash of water. Whisk in the white wine vinegar to taste and set aside. Place the quartered baby tomatoes and cucumber half-moons in a large salad bowl. Toss together with three-quarters of the chopped parsley, a pinch of salt, and a drizzle of olive oil."
+    },
+    {
+      "step": 4,
+      "title": "IT'S ALL COMING TOGETHER!",
+      "text": "Once the bulgur wheat is cooked, add it to the salad bowl and pour in half of the harissa dressing. Toss until coated and evenly distributed, and set aside for serving."
+    },
+    {
+      "step": 5,
+      "title": "SPICED UP HALLOUMI",
+      "text": "Coat the halloumi slabs in oil and the African Rub to taste. Return the pan to a medium heat with a drizzle of oil. When hot, fry the halloumi for 1-2 minutes per side until crispy and golden. Remove from the pan on completion and allow to drain on some paper towel. Try not to eat it all before serving! When cool enough to handle, cut into bite-size chunks. Toss the rinsed baby spinach with a drizzle of oil and some seasoning."
+    },
+    {
+      "step": 6,
+      "title": "TABBOULEH TIME",
+      "text": "Make a bed of baby spinach and load up with the delish tabbouleh. Scatter over the cannellini beans and top with the fragrant halloumi. Drizzle over the remaining harissa dressing to taste and garnish with the remaining chopped parsley. Look at that, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 622.0,
+    "energy_kcal": 149.0,
+    "protein_g": 6.4,
+    "carbs_g": 18.0,
+    "sugars_g": 3.8,
+    "fibre_g": 4.4,
+    "fat_g": 5.6,
+    "saturated_fat_g": 3.2,
+    "sodium_mg": 387.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "To make the harissa salad dressing, place all the ingredients in a clean jar, close the lid tight, and shake, shake, shake! Using a jar emulsifies the dressing much more successfully than just mixing it in a bowl!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

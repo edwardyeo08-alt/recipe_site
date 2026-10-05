@@ -1,0 +1,136 @@
+{
+  "recipe_number": 180,
+  "title": "Seared Ostrich & Cheesy Potatoes",
+  "subtitle": "with fresh chives, basil pesto & That Mayo",
+  "description": "Ostrich fillet soaked in a smoky, apricot-infused marinade, dotted with basil pesto mayo, piled with cheese-coated roast baby potatoes, and served with fresh rocket. Sure to be a new family favourite!",
+  "chef": "Massy Gomba",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Baby Potatoes",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Onion",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & cut into wedges"
+    },
+    {
+      "name": "NOMU Spanish Rub",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Basil Pesto Mayo",
+      "quantity": 140,
+      "unit": "ml",
+      "prep": "(60ml Pesto Princess Basil Pesto & 80ml That Mayo Original)"
+    },
+    {
+      "name": "Ostrich Steak",
+      "quantity": 640,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cooksister Sosatie Marinade",
+      "quantity": 80,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cheese Mix",
+      "quantity": 260,
+      "unit": "ml",
+      "prep": "Mozzarella & Italian-Style Hard Cheese"
+    },
+    {
+      "name": "Fresh Chives",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Cabernet Sauvignon Vinegar",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Tinfoil",
+    "Milk (optional)",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BEFORE YOU GET GOING",
+      "text": "Read the whole recipe. You'll find the ingredient prep instructions displayed in the ingredient list, directly under the item they apply to."
+    },
+    {
+      "step": 2,
+      "title": "ROAST THE SPUDS",
+      "text": "Preheat the oven to 200°C. Spread out the halved baby potatoes and onion wedges on a roasting tray. Coat in oil, the Spanish Rub to taste, and some seasoning. Roast in the hot oven for 35-40 minutes until the baby potatoes are crispy on the outside and soft on the inside, shifting halfway."
+    },
+    {
+      "step": 3,
+      "title": "MAYO HEAVEN",
+      "text": "Place the Basil Pesto Mayo in a bowl. Gradually mix in water or milk in 5ml increments until drizzling consistency. Season to taste and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "SEAR THE STEAKS",
+      "text": "When the baby potatoes have 15 minutes to go, pat the ostrich steaks dry with some paper towel and season. Place a pan over a medium-high heat with a drizzle of oil. When hot, fry the steaks for 6-8 minutes, shifting and turning as they colour until browned all over and cooked to your preference. (The time frame recommended will yield a medium-rare result.) During the final 1-2 minutes, baste the steaks with a knob of butter and the Cooksister Sosatie Marinade. On completion, remove from the pan and place in a piece of tinfoil. Pour in the pan juices and close up tightly. Set aside to rest in the tinfoil for 5 minutes before thinly slicing, reserving the juices."
+    },
+    {
+      "step": 5,
+      "title": "CHEESY ROAST",
+      "text": "When the baby potatoes are cooked through and golden, remove the tray from the oven and turn on the grill setting. Sprinkle the cheese mix over the potatoes and onions and return to the oven for 4-5 minutes until the cheese has melted. Just before serving, toss the rinsed green leaves with the cab sauv vinegar and a drizzle of olive oil."
+    },
+    {
+      "step": 6,
+      "title": "TIME FOR DINNER",
+      "text": "Dish up some cheesy spuds and onions and sprinkle the fresh, chopped chives over them. Place the juicy ostrich steak slices alongside and drizzle with the flavourful marinade from the tinfoil. Pour over the pesto-mayo dressing and serve the dressed green leaves on the side. Get munching, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 594.0,
+    "energy_kcal": 142.0,
+    "protein_g": 8.5,
+    "carbs_g": 11.0,
+    "sugars_g": 2.8,
+    "fibre_g": 1.9,
+    "fat_g": 6.5,
+    "saturated_fat_g": 2.2,
+    "sodium_mg": 204.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "The temperature of oven grills varies, so keep a close eye on the cheese when melting it over the baby potatoes. Make sure it doesn't burn!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

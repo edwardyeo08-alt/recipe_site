@@ -1,0 +1,107 @@
+{
+  "recipe_number": 171,
+  "title": "Avo & Falafel Wrap",
+  "subtitle": "with hummus, tomato & cucumber",
+  "description": "You have no idea hummus you're going to love this wonderfully tasty wrap, Chef! A toasted tortilla is smeared with creamy hummus, then layered with fresh greens, buttery avo, tangy tomato rounds, refreshing cucumber matchsticks & crispy falafel balls. It's time to fry, fold & feast!",
+  "chef": "Natalie Rohrs",
+  "category": "Veggie",
+  "servings": 4,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Waterford Estate | Range Chardonnay 2018",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Nish Nush Falafel Balls",
+      "quantity": 12,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Avocados",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Whole Wheat Tortillas",
+      "quantity": 8,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Hummus",
+      "quantity": 160,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Tomatoes",
+      "quantity": 2,
+      "unit": null,
+      "prep": "sliced into rounds"
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "cut into matchsticks"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "FRIED FALAFELS",
+      "text": "Place a pan over medium-high heat with enough oil to cover the base. When hot, add the falafel balls and fry for 2-3 minutes per side until golden brown and crispy. Remove from the pan, drain on paper towel, and halve each ball."
+    },
+    {
+      "step": 2,
+      "title": "HAVO SOME AVO",
+      "text": "Halve the avocados and remove the pips. Scoop out the avocado, slice, season, and set aside."
+    },
+    {
+      "step": 3,
+      "title": "TOASTED TORTS",
+      "text": "Return the pan, wiped down, to a medium heat. When hot, dry toast the tortillas, one at a time, for 30-60 seconds per side until heated and lightly crisped."
+    },
+    {
+      "step": 4,
+      "title": "WRAP IT UP!",
+      "text": "Lay down the toasted tortillas and smear on ½ the hummus. Top with the shredded leaves, the avo slices, the tomato rounds, the falafel halves, and the cucumber matchsticks. Dollop on the remaining hummus and fold the wrap over. Time to dig in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 654.0,
+    "energy_kcal": 156.0,
+    "protein_g": null,
+    "carbs_g": 17.0,
+    "sugars_g": 1.6,
+    "fibre_g": 4.4,
+    "fat_g": 7.6,
+    "saturated_fat_g": 1.5,
+    "sodium_mg": 316.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Sulphites",
+    "Soy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in the Nutritional Information table is obscured and punched out by the binder ring hole."
+}

@@ -1,0 +1,139 @@
+{
+  "recipe_number": 52,
+  "title": "Cape Malay Beef Biryani",
+  "subtitle": "with aromatic rice, crisp roast veg & cucumber raita",
+  "description": "Dreamy Cape Malay flavours will have your tastebuds singing in this classic autumn dish. Served with golden roast veggies, creamy cucumber raita, and fresh coriander. It packs a hearty punch!",
+  "chef": "Tami Schrire",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Lanzerac Estate | Keldermeester Versameling Prof",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Butternut Chunks & Cauliflower Florets",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "NOMU Roast Rub",
+      "quantity": 5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Beef Mince",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spice & All Things Nice Cape Malay Curry Paste",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1,
+      "unit": null,
+      "prep": "deseeded & finely chopped"
+    },
+    {
+      "name": "Spinach",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Cucumber Raita",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "LOAD UP WITH VEGGIES",
+      "text": "Preheat the oven to 200°C. Boil the kettle for step 2. Place the butternut and cauliflower pieces on a roasting tray. Coat in oil, season, and spread out in a single layer. Roast in the hot oven for 30-35 minutes. Place the drained chickpeas on a second roasting tray with a drizzle of oil and the Roast Rub. Toss to coat and set aside."
+    },
+    {
+      "step": 2,
+      "title": "TASTY, TENDER RICE",
+      "text": "Fill a pot with 500ml of boiling water and stir through the stock. Rinse the rice, add to the pot, and place over a medium-high heat. Once boiling, reduce the heat and simmer for 25-30 minutes until the rice is tender and there's only a small amount of liquid remaining. Remove from the heat, but don't drain any remaining liquid from the pot — you'll be needing it."
+    },
+    {
+      "step": 3,
+      "title": "CRISPY CHICKY TO THE PEAS!",
+      "text": "When the roast veg reaches the halfway mark, give it a shift and return it to the oven. Pop in the tray of chickpeas and cook for the remaining roasting time. On completion, the chickpeas should be crispy and veg should be cooked through and starting to char."
+    },
+    {
+      "step": 4,
+      "title": "TIME FOR SOME SPICE",
+      "text": "When the roast veg has 10 minutes remaining, place a pot for the biryani over a medium heat with a drizzle of oil and a knob of butter (optional). When hot, fry the diced onion for 3-4 minutes until soft and translucent. Add in the mince and work quickly to break it up as it starts to cook. Allow to caramelise for 4-5 minutes until browned, stirring occasionally. Mix in the curry paste and chopped chilli — both to taste. Fry for 1-2 minutes until fragrant, shifting constantly. Add in the roast veggies, and stir through the cooked rice and any remaining liquid from the rice pot. If the mixture is too dry, stir in another drizzle of oil or knob of butter. Cover with a lid and allow to simmer for about 3 minutes until the flavours are combined and any liquid is fully absorbed. Stir through 1/2 of the rinsed spinach and cook for 1-2 minutes until wilted. Remove from the heat on completion."
+    },
+    {
+      "step": 5,
+      "title": "YOU'VE EARNED IT",
+      "text": "Spread the remaining spinach across some plates and spoon over a generous portion of biryani. Scatter over the crispy chickpeas and garnish with the chopped coriander. Serve with dollops of cool cucumber raita. Great job, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 601.0,
+    "energy_kcal": 144.0,
+    "protein_g": null,
+    "carbs_g": null,
+    "sugars_g": 1.8,
+    "fibre_g": 2.3,
+    "fat_g": 5.5,
+    "saturated_fat_g": 1.8,
+    "sodium_mg": 279.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole and metal ring obscure the Protein value and Carbs value in the Nutritional Information table."
+}

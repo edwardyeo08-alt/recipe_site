@@ -1,0 +1,140 @@
+{
+  "recipe_number": 49,
+  "title": "Silky Beef Stroganoff",
+  "subtitle": "with crème fraîche & mushrooms",
+  "description": "A dinner classic with touches of indulgence! Awesome orzo pairs perfectly with a thick and creamy stroganoff sauce. It is loaded with tender beef strips, mushrooms, crème fraîche, smoked paprika and onion. Sided with fresh green leaves for a light finish, this dish is certainly heavy on flavour!",
+  "chef": "Kate Gomba",
+  "category": "Quick & Easy",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 30,
+  "wine_pairing": "Vergelegen | Premium Cabernet Sauvignon / Merlot",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Orzo Pasta",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Stock & Herb Mix",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": "(10ml Beef Stock & 5ml NOMU Provençal Rub)"
+    },
+    {
+      "name": "Mushrooms",
+      "quantity": 125,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Strips",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Smoked Paprika",
+      "quantity": 5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cornflour",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET GOING",
+      "text": "Boil the kettle. Fill a pot for the orzo with 400ml of boiling water and add a pinch of salt. Once boiling, cook the orzo for 7-10 minutes until cooked al dente. Remove from the heat, drain if necessary, and toss through some oil to prevent sticking."
+    },
+    {
+      "step": 2,
+      "title": "PREP STEP",
+      "text": "Dilute the stock & herb mix with 300ml of boiling water. Roughly slice the mushrooms. Peel and finely slice the onion. Rinse the green leaves."
+    },
+    {
+      "step": 3,
+      "title": "FRY UP",
+      "text": "Pat the beef strips dry with some paper towel. Place a pan over a high heat with a drizzle of oil. When hot, sear the strips for 1-2 minutes until browned but not cooked through. On completion, season and set aside in a bowl. Return the pan to a medium-high heat with another drizzle of oil and a knob of butter (optional). When hot, fry the sliced mushrooms for 4-5 minutes until golden, shifting as they colour. Remove from the pan and add to the bowl of beef strips."
+    },
+    {
+      "step": 4,
+      "title": "SENSATIONAL STROG",
+      "text": "Wipe down the pan and return it to a medium heat with another drizzle of oil. When hot, sauté the sliced onion for 3-4 minutes until soft, shifting occasionally. Add the smoked paprika to taste and sauté for 30-60 seconds until fragrant. Stir through the flour and fry for another 30-60 seconds, shifting constantly. Gradually mix in the diluted stock mix, stirring continuously to prevent lumps. Bring to a simmer and cook for 4-5 minutes until thickened, stirring occasionally."
+    },
+    {
+      "step": 5,
+      "title": "A GO FOR GREENS",
+      "text": "In a salad bowl, combine the balsamic vinegar with 10ml of olive oil and some seasoning. Toss through 1/2 the rinsed green leaves and set aside for serving."
+    },
+    {
+      "step": 6,
+      "title": "SO CRÈME-Y!",
+      "text": "When the sauce has thickened, add in the beef and mushrooms, and simmer for another 1-2 minutes until the beef is cooked through. Stir in the crème fraîche and the remaining green leaves for 1-2 minutes until combined. Season to taste and remove the pan from the heat."
+    },
+    {
+      "step": 7,
+      "title": "YUM!",
+      "text": "Plate up the orzo and top with the silky beef stroganoff. Serve the dressed green leaves on the side."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 678.0,
+    "energy_kcal": 162.0,
+    "protein_g": 11.0,
+    "carbs_g": 19.0,
+    "sugars_g": 2.4,
+    "fibre_g": 1.7,
+    "fat_g": 3.8,
+    "saturated_fat_g": 1.9,
+    "sodium_mg": 65.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "Avoid overcrowding the pan when frying the mushrooms and cook them in batches if necessary. Mushrooms release water, so if there are too many in the pan, they could end up boiled instead of caramelised",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring clips letters of 'could' in the Chef's Tip ('they co[uld] end up') and the middle of 'Sulphites' in Allergens ('Su[l]phites')."
+}

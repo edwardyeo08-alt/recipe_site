@@ -1,0 +1,133 @@
+{
+  "recipe_number": 179,
+  "title": "Sticky Pork Stir Fry",
+  "subtitle": "with tamari, honey, sambal oelek & charred broccoli",
+  "description": "Succulent strips of marinated pork in a sticky, spicy, gingery sauce with fragrant onions and sprinklings of crunchy cashews. Instead of classic carbs, a base of warm cabbage and carrot slaw and nutrient-bright, charred broccoli!",
+  "chef": "Tami Schrire",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Pork Schnitzel",
+      "quantity": 600,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Stir Fry Sauce",
+      "quantity": 130,
+      "unit": "ml",
+      "prep": "(80ml Tamari, 20ml Sesame Oil & 30ml Honey)"
+    },
+    {
+      "name": "Sambal Oelek",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cashew Nuts",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Broccoli Florets",
+      "quantity": 600,
+      "unit": "g",
+      "prep": "cut into bite-size pieces"
+    },
+    {
+      "name": "Onion",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & thinly sliced"
+    },
+    {
+      "name": "NOMU Oriental Rub",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Asian-Style Slaw Mix",
+      "quantity": 400,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "MARINATE THE PORK",
+      "text": "Pat the pork schnitzel dry with some paper towel and cut into 2cm thick strips. In a large bowl, combine the grated ginger, the Stir Fry Sauce, and the sambal oelek to taste. Add in the pork strips and toss until coated. Set aside to marinate until frying."
+    },
+    {
+      "step": 2,
+      "title": "TOAST THE CASHEWS",
+      "text": "Place a large pan (that has a lid) over a medium heat. When hot, toast the cashews for 3-5 minutes until golden, shifting occasionally. Remove from the pan on completion and set aside. Roughly chop when cool enough to handle."
+    },
+    {
+      "step": 3,
+      "title": "CHARRED BROC",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil. When hot, fry the broccoli pieces with some salt and pepper for 5-7 minutes until lightly charred. Add a splash of water, cover with a lid, and simmer for 3-4 minutes until cooked but still al dente. Remove from the pan on completion and place in a bowl. Cover to keep warm and set aside."
+    },
+    {
+      "step": 4,
+      "title": "FLAVOURS OF THE ORIENT",
+      "text": "Return the pan to a medium-high heat with another drizzle of oil. When hot, fry the sliced onion for 4-5 minutes until soft and translucent, shifting occasionally. Add the NOMU Oriental Rub (to taste) and fry for a minute until fragrant, shifting constantly. Remove from the pan on completion."
+    },
+    {
+      "step": 5,
+      "title": "STIR FRY ME!",
+      "text": "Return the pan to a medium-high heat with another drizzle of oil. When hot, fry the pork strips for 2-3 minutes per side until tender and cooked through. You may need to do this in batches for best results. Once cooked, return all of the pork strips to the pan. Add in the cooked onions and any remaining pork marinade from the bowl. Simmer on a low heat for 2-3 minutes until the sauce is sticky. On completion, remove the pan from the heat. Toss through the Asian-style slaw mix and season to taste."
+    },
+    {
+      "step": 6,
+      "title": "DEVOUR ME!",
+      "text": "Serve up some bowls of sticky pork stir fry and top with the charred broccoli. Garnish with the toasted cashews and a sprinkling of fresh, chopped coriander. Good job, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 389.0,
+    "energy_kcal": 93.0,
+    "protein_g": 8.1,
+    "carbs_g": 8.0,
+    "sugars_g": 3.8,
+    "fibre_g": 2.1,
+    "fat_g": 2.9,
+    "saturated_fat_g": 0.7,
+    "sodium_mg": 371.0
+  },
+  "allergens": [
+    "Allium",
+    "Sesame",
+    "Tree Nuts",
+    "Soy"
+  ],
+  "chef_tip": "You can use a wok for this recipe if you have one. The best things about wok are that they distribute heat more evenly and require less oil. It also ensures that food tossed during stir frying lands back in the pan and not all over the stove!",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole partially clips the Chef's Tip ('lands back i[n the] pan')."
+}

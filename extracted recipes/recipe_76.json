@@ -1,0 +1,139 @@
+{
+  "recipe_number": 76,
+  "title": "Temptations Minty Chicken Breyani",
+  "subtitle": "with brown basmati, yoghurt & a unique blend of spices",
+  "description": "A traditional breyani, packed with flavour from fresh herbs, chilli, and a Temptations Spice Blend to take it to the top of the yum scoreboard! With tender chicken breast and fragrant lentils featuring as the main characters, supported by steamy rice.",
+  "chef": "Prim Reddy & Niranj Pather",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Steenberg Vineyards | Semillon",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Fresh Chillies",
+      "quantity": 2,
+      "unit": null,
+      "prep": "deseeded & roughly sliced"
+    },
+    {
+      "name": "Free-range Chicken Breasts",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Temptations Spice Blend",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": "10ml Ground Spice Mix & 2 Cardamom Pods"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & roughly diced"
+    },
+    {
+      "name": "Whole Spices",
+      "quantity": 7.5,
+      "unit": "ml",
+      "prep": "2 Cinnamon Sticks & 7,5ml Cumin Seeds"
+    },
+    {
+      "name": "Lentils",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Plain Yoghurt",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Blender (optional)",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BREYANI RICE",
+      "text": "Rinse the rice and place in a pot over medium-high heat. Submerge in 500ml of salted water and pop on a lid. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. On completion, drain if necessary and fluff up with a fork."
+    },
+    {
+      "step": 2,
+      "title": "FRESH CORIANDER & MINT PASTE",
+      "text": "Place the rinsed coriander, the grated garlic, and 1/2 of the mint leaves on a chopping board. Add 3/4 of the sliced chilli (or to taste) and finely chop until combined in a chunky paste. Place in a bowl (or a pestle and mortar if you have one) and mix in a drizzle of oil. Alternatively, you can combine these ingredients in a blender if you have one. Set aside for step 4. Pat the chicken dry with paper towel, slice into bite-sized chunks, and set aside."
+    },
+    {
+      "step": 3,
+      "title": "TEMPER THE SPICES",
+      "text": "Place a large pot over a medium-high heat with enough oil to cover the base. Once hot, fry the Temptations Spice Blend for 1-2 minutes until fragrant, shifting constantly. Mix in the diced onion and whole spices. Sauté for 4-6 minutes until the onion is soft. On completion, remove and discard the cinnamon sticks. Mix in the coriander-mint paste and a pinch of salt. Fry for another 4-5 minutes, shifting regularly."
+    },
+    {
+      "step": 4,
+      "title": "ADD IN THE THE REST",
+      "text": "When the spices have finished frying, stir through the drained lentils and chicken cubes, and fry for 3-4 minutes until the chicken is sealed but not cooked through, shifting occasionally. Lower the heat and cover with a lid for 4-5 minutes until the flavours have fully developed and the chicken is cooked through."
+    },
+    {
+      "step": 5,
+      "title": "THE FINAL STEAM & THE FINAL MIX",
+      "text": "Add in the cooked rice and gently toss for 1-2 minutes. Remove from the heat, cover with a lid, and set aside to dry out for 10 minutes. On completion, there should be no liquid remaining. Finely chop the remaining mint leaves and place in a bowl with the yoghurt. Mix to combine, season, and set aside for serving."
+    },
+    {
+      "step": 6,
+      "title": "A MEAL TO BE PROUD OF!",
+      "text": "Dish up a mound of fragrant chicken breyani. Dollop over the minty yoghurt and garnish with the remaining chilli to taste. Eat, drink, and be merry, because you earned it! (And watch out for those sneaky cardamom pods...)"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 704.0,
+    "energy_kcal": 168.0,
+    "protein_g": 13.5,
+    "carbs_g": 25.0,
+    "sugars_g": 2.1,
+    "fibre_g": 6.0,
+    "fat_g": 2.4,
+    "saturated_fat_g": 0.7,
+    "sodium_mg": 26.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium"
+  ],
+  "chef_tip": "Your mint and coriander have been packaged together to prevent the use of unnecessary extra plastic. If you struggle to tell the difference between them, do a quick online search to find some pics for reference!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

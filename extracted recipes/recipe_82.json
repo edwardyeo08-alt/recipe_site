@@ -1,0 +1,139 @@
+{
+  "recipe_number": 82,
+  "title": "Trout & Patatas Bravas",
+  "subtitle": "with garlic That Mayo & a fresh salad",
+  "description": "If you like the simple flavours of crispy potato fries dipped in tomato sauce, you will love patatas bravas. This popular Spanish dish takes those well-known flavours to the next level. By adding a flavoursome trout to the plate, a dash of mayo and a refreshing salad, your palate will be doing the Paso Doble.",
+  "chef": "Ella Nasser",
+  "category": "Adventurous Foodie",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Waterford Estate | Waterford Sauvignon Blanc",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Baby Potatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "cut in half"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Smoked Paprika",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Chives",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    },
+    {
+      "name": "NOMU Mexican Spice Blend",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Rainbow Trout Fillets",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Baby Tomato Medley",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "halved"
+    },
+    {
+      "name": "That Mayo (Garlic)",
+      "quantity": 50,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "PARBOILED POTATOES",
+      "text": "Preheat the oven to 200°C. Place the halved baby potatoes in a pot of salted water over high heat and pop on the lid. Once boiling, reduce the heat. Simmer for 10-15 minutes until easily pierced with a fork."
+    },
+    {
+      "step": 2,
+      "title": "A SMOKIN' SAUCE",
+      "text": "Place a pan over medium heat with a drizzle of oil. When hot, add the diced onion and fry for 4-5 minutes until soft, shifting occasionally. Add the grated garlic and the smoked paprika (to taste). Fry for 1-2 minutes until fragrant, shifting constantly. Add the cooked chopped tomato, 80ml of water, and a sweetener of choice (to taste). Bring to a simmer and cook for 8-10 minutes until slightly thickened. Add an extra splash of water if it reduces too quickly. Season and stir through 3/4 of the chopped chives. Cover to keep warm."
+    },
+    {
+      "step": 3,
+      "title": "SMASH, THEN SEASON",
+      "text": "When the potatoes are done, drain the water. Place the potatoes on a roasting tray and spread out in a single layer. Using a fork, gently press down to slightly smash them and create a few cracks. Coat in oil, the spice blend, and seasoning. Roast in the hot oven for 10-15 minutes until golden, shifting halfway."
+    },
+    {
+      "step": 4,
+      "title": "GOING ALL-OUT WITH TROUT",
+      "text": "Place the trout fillet, skin-side down, on a greased baking tray (or the tray with the potatoes) and place in the hot oven for 10-15 minutes until cooked through."
+    },
+    {
+      "step": 5,
+      "title": "A SIDE OF SALAD",
+      "text": "In a bowl, combine the rinsed salad leaves, the halved baby tomatoes, a drizzle of oil, and seasoning. In a separate bowl, loosen the mayo with water in 5ml increments until slightly loosened."
+    },
+    {
+      "step": 6,
+      "title": "BUEN PROVECHO!",
+      "text": "Plate up the trout fillets. Side with the crispy potatoes smothered in the tomato sauce. Drizzle over the loosened mayo. Serve with the tomato salad and garnish with the remaining chives. What a feast, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 388.0,
+    "energy_kcal": 93.0,
+    "protein_g": null,
+    "carbs_g": 11.0,
+    "sugars_g": 2.4,
+    "fibre_g": 1.8,
+    "fat_g": 2.7,
+    "saturated_fat_g": 0.7,
+    "sodium_mg": 151.0
+  },
+  "allergens": [
+    "Egg",
+    "Allium",
+    "Sulphites",
+    "Fish"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is punched out by the binder ring hole."
+}

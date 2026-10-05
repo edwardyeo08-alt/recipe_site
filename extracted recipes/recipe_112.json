@@ -1,0 +1,142 @@
+{
+  "recipe_number": 112,
+  "title": "Délicieux Trout & Dauphinoise",
+  "subtitle": "with a lemon-parsley butter & sunflower seeds",
+  "description": "Indulge yourself in this super simple tasty dinner! Perfectly golden potato dauphinoise and trout are topped with a gorgeous lemon-parsley butter sauce. Accompanied by a fresh salad and a sprinkling of sunflower seeds. You'll be whisked away to France in no time!",
+  "chef": "Thea Richter",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Cavalli Estate | Pink Pony",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "peeled (optional) & sliced into thin rounds"
+    },
+    {
+      "name": "Fresh Cream",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Grated Italian-style Hard Cheese",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Willow Creek Cabernet Sauvignon Vinegar",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "sliced into half moons"
+    },
+    {
+      "name": "Rainbow Trout Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "drained"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GOLDEN POTATO DAUPHINOISE",
+      "text": "Preheat the oven to 200°C. Place the sliced potatoes, cream, 125ml of water, grated cheese, and grated garlic in a bowl. Add some pepper, a pinch of salt (parmesan is salty so add salt sparingly!) and mix until the potatoes are fully coated. Lightly grease a roasting tray and place the sliced potatoes mixture in an even layer on the tray. Repeat this process until the potato slices are finished. Pour over the remaining cream mixture. Alternatively, create small stacks with the sliced potatoes. Place in the hot oven and roast for 40-45 minutes until cooked through and golden."
+    },
+    {
+      "step": 2,
+      "title": "TOASTED SUNFLOWER SEEDS",
+      "text": "When the potatoes reach the halfway mark, place the sunflower seeds in a pan over a medium heat. Toast for 2-4 minutes until lightly browned, shifting occasionally. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "BE-LEAF IN SALAD",
+      "text": "In a salad bowl, place the balsamic vinegar, 2 tbsp of olive oil, some lemon zest to taste and some seasoning. Mix until emulsified and combined. Add in the rinsed salad leaves, cucumber half-moons and ½ the toasted sunflower seeds and toss until fully coated. Set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "SOFISHTICATED TROUT",
+      "text": "Pat the trout dry with some paper towel and season. Return the pan to a medium-high heat with a drizzle of oil. When hot, fry the trout skin-side down for 1-2 minutes until crispy. Flip and fry for a further 30-60 seconds or until cooked to your preference. Add a knob of butter, the juice of 1 lemon wedges and ½ the parsley. Baste the trout with the lemon-parsley butter until the butter is fully melted. Remove from the heat. Set aside for serving."
+    },
+    {
+      "step": 5,
+      "title": "EASY PEASY DINNER",
+      "text": "Plate up the succulent trout and drizzle over any remaining lemon-parsley butter. Side with the crispy potato dauphinoise and a mound of the fresh salad. Crumble the drained feta on the salad and scatter over the remaining sunflower seeds and parsley and serve with a lemon wedge. Well that was easy, wasn't it?"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 645.0,
+    "energy_kcal": 154.0,
+    "protein_g": 7.8,
+    "carbs_g": 8.0,
+    "sugars_g": 1.3,
+    "fibre_g": 1.3,
+    "fat_g": 10.1,
+    "saturated_fat_g": 4.7,
+    "sodium_mg": 93.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Fish"
+  ],
+  "chef_tip": "Potatoes brown quickly when exposed to air. When preparing your potatoes, place them in water as you go to prevent this. If you have a mandolin, use it to slice up your potatoes",
+  "card_obscured_flag": true,
+  "obscured_details": "The binder ring punch hole clips the end of the allergens list, obscuring the end of 'Fish' ('Fi...')."
+}

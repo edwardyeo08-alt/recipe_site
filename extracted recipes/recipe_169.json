@@ -1,0 +1,142 @@
+{
+  "recipe_number": 169,
+  "title": "Oven-Ready Spinach & Feta Spanakopita",
+  "subtitle": "with Mediterranean tabbouleh & ready-made tzatziki",
+  "description": "Spanakopita are delectably crispy Greek filo pastries, stuffed with spinach and feta – and these ones are made especially for you! Served with a speedy bulgur wheat salad of spiced baby tomatoes, cucumber, vinaigrette, and fresh herbs.",
+  "chef": "Alex Levett",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 35,
+  "wine_pairing": null,
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Terra Madre Spanakopita",
+      "quantity": 8,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Bulgur Wheat",
+      "quantity": 400,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "White Wine Vinegar",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 320,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "NOMU African Rub",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "diced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Tzatziki",
+      "quantity": 120,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Baking Paper"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BAKE THE SPANAKOPITA",
+      "text": "Preheat the oven to 220°C. Boil the kettle for step 2. Line a baking tray with baking paper and place the spanakopita on the tray. Bake in the hot oven for 20-25 minutes until the pastry is crispy and golden."
+    },
+    {
+      "step": 2,
+      "title": "BOIL THE BULGUR",
+      "text": "Using a large, shallow bowl, submerge the bulgur wheat and the stock in 800ml of boiling water. Add a drizzle of oil and gently stir through with a fork. Cover with a plate and set aside to steam for 15-20 minutes until cooked and tender. Fluff up with the fork on completion, replace the plate, and set aside to keep warm."
+    },
+    {
+      "step": 3,
+      "title": "MAKE THE VINAIGRETTE",
+      "text": "In a small bowl, combine the white wine vinegar with 2 tsp of a sweetener of choice and 60ml of olive oil. Whisk until well combined, season to taste, and set aside."
+    },
+    {
+      "step": 4,
+      "title": "SPICED TOMATOES",
+      "text": "When the spanakopita reach the halfway mark, place a pan over a medium-high heat with a drizzle of oil. When hot, add in the halved baby tomatoes and the African Rub to taste. Toss to coat and fry for 7-8 minutes until softened and blistered, shifting occasionally. Remove the pan from the heat on completion."
+    },
+    {
+      "step": 5,
+      "title": "TOSS THE TABBOULEH",
+      "text": "When the bulgur is cooked, add in the diced cucumber, chopped parsley, and spiced tomatoes. Toss through the vinaigrette to taste and get ready to eat!"
+    },
+    {
+      "step": 6,
+      "title": "TASTE OF THE MED",
+      "text": "Make a bed of rinsed baby spinach and load it with the Mediterranean tabbouleh. Top with the crispy spanakopita, dollop over the tzatziki, and garnish with the fresh mint leaves. Stunning, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 601.0,
+    "energy_kcal": 144.0,
+    "protein_g": 5.2,
+    "carbs_g": 22.0,
+    "sugars_g": 1.9,
+    "fibre_g": 3.9,
+    "fat_g": 4.1,
+    "saturated_fat_g": 1.3,
+    "sodium_mg": 413.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "Spanakopita ingredients: phyllo pastry; organic spinach, onions, leeks, celery, and rocket; halloumi; feta; cheddar; extra virgin olive oil; butter; free-range egg; milk; flour; herbs; spices; lemon; sweet chilli sauce; sriracha.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

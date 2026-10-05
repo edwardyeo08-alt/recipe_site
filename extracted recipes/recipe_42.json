@@ -1,0 +1,132 @@
+{
+  "recipe_number": 42,
+  "title": "Steamy Thai Red Beef",
+  "subtitle": "with brown basmati rice & toasted cashews",
+  "description": "Sweet red pepper, toasty cashews, and zesty lime send this thai-style beef to dizzying heights of scrumptious. High-fiber basmati means you're able to relish every drop of this coconut cream wonder.",
+  "chef": "Lauren Todd",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 400.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pak Choi",
+      "quantity": 400.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cashew Nut Pieces",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Beef Schnitzel",
+      "quantity": 4.0,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Whole Red Peppers",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "deseeded & thinly sliced"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "quantity": 60.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Coconut Cream",
+      "quantity": 400.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 20.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Limes",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 15.0,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive & coconut)",
+    "Sugar/Sweetener/Honey",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "RICE",
+      "text": "Rinse the brown basmati rice and place in a pot. Submerge it in 800ml of salted water. Bring to the boil with the lid on. Once boiling, reduce the heat and simmer for 20 minutes until most of the water has been absorbed. Then, remove from the heat and allow to steam for a further 10 minutes. Fluff with a fork on completion."
+    },
+    {
+      "step": 2,
+      "title": "PAK CHOI",
+      "text": "Remove the base of the pak choi where the leaves join. Separate the leaves and rinse well. Cut off the stems and thinly slice them. Then, slice the leaves in half lengthways."
+    },
+    {
+      "step": 3,
+      "title": "TOASTED CASHEWS",
+      "text": "Place the cashew nuts in a pan or wok (large enough for the stir fry) over a medium heat. Toast for 3-5 minutes until golden, shifting occasionally. Remove from the pan on completion and set aside. Roughly chop when cool enough to handle."
+    },
+    {
+      "step": 4,
+      "title": "FRY THE BEEF STRIPS",
+      "text": "Cut the beef schnitzel into 1-2cm thick strips. Return the pan or wok to a high heat with a drizzle of oil. When hot, fry the strips for 1-2 minutes per side until browned but not completely cooked through. Avoid overcrowding the pan for the best results. Remove from the pan and set aside."
+    },
+    {
+      "step": 5,
+      "title": "THAI BEEF BONANZA",
+      "text": "Return the pan or wok to a medium heat with another drizzle of oil. When hot, fry the sliced pepper and the sliced pak choi stems for 2-3 minutes. Add in two-thirds of the curry paste to taste. Sauté for 1-2 minutes until fragrant, stirring frequently. Pour in the coconut cream. Add the vegetable stock and 100ml of water and allow to simmer for 6-7 minutes. Add in the beef strips and pak choi leaves. Simmer for another 2-3 minutes until the beef is cooked through but still tender and the leaves have wilted. For a spicier curry, add more curry paste and simmer for another 1-2 minutes. When nearing completion, add some lime zest and lime juice to taste, reserving four wedges for serving. Stir in a sweetener of choice and seasoning to taste. If the consistency of the curry sauce is too thick, add a little water."
+    },
+    {
+      "step": 6,
+      "title": "DISH UP AND WARM UP!",
+      "text": "Serve up a bowl of wholesome brown basmati rice and load it up with the thai red beef curry. Sprinkle over some toasted cashew nuts and garnish with the whole mint leaves. Well done, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 3701.0,
+    "energy_kcal": 885.0,
+    "protein_g": 50.0,
+    "carbs_g": 101.0,
+    "sugars_g": 17.0,
+    "fibre_g": 15.0,
+    "fat_g": 32.0,
+    "saturated_fat_g": 19.0,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "For the brown basmati rice, try to keep the lid on for the entire cooking and steaming time, only checking if necessary. This will ensure you get that perfect, nutty texture.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

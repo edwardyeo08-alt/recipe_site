@@ -1,0 +1,142 @@
+{
+  "recipe_number": 121,
+  "title": "Cheesy Gnocchi Napoletana",
+  "subtitle": "with mozzarella, fresh basil & a crisp side salad",
+  "description": "This marriage of crispy, butter-fried sweet potato gnocchi and a two-cheese tomato sauce will make you weep with joy! With added flavour from crunchy chickpeas, garlic, and Italian herbs and added freshness from a leafy salad with radish and tomatoes.",
+  "chef": "Lauren Todd",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Sweet Potato Gnocchi",
+      "quantity": 700,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 3,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "NOMU Italian Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomatoes",
+      "quantity": 800,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Grated Cheese Mix",
+      "quantity": 220,
+      "unit": "g",
+      "prep": "(120g Grated Italian Style Cheese & 100g Grated Mozzarella)"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed & gently shredded"
+    },
+    {
+      "name": "Radish",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed & sliced into thin rounds"
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "rinsed & roughly sliced"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET THOSE CHICKPEAS POPPIN'",
+      "text": "Place a pot for the gnocchi over a high heat. Fill with water, add a pinch of salt, and leave to come to the boil for step 2. Place a large pan over a medium-high heat with a drizzle of oil. When hot, toast the drained chickpeas for 12-13 minutes until crispy. For the best results, only shift occasionally. If they start to pop out, use a lid to rein them in. Remove from the pan on completion and set aside."
+    },
+    {
+      "step": 2,
+      "title": "SWEET POTATO TREATS",
+      "text": "Once the water is boiling rapidly, use 150ml to dilute the stock and set aside. Pop the gnocchi into the pot and cook for 2-3 minutes until they begin to float. Drain on completion, place in a bowl, and toss through some oil to prevent sticking. Wipe down the pot for step 3."
+    },
+    {
+      "step": 3,
+      "title": "TIME TO GET SAUCY!",
+      "text": "Once the chickpeas are crispy, wipe down the pot and return to a medium heat with a drizzle of oil or knob of butter. When heated slightly, fry the grated garlic and Italian Rub for a minute until fragrant, shifting constantly. Stir in the cooked chopped tomatoes and the diluted stock. Simmer for 10-15 minutes until thickened, stirring occasionally. Add three-quarters of the halved baby tomatoes and simmer for a further 2-3 minutes until softened, breaking them up as they cook. On completion, season to taste with salt, pepper, and a sweetener of choice. Keep warm over a low heat while you fry the gnocchi."
+    },
+    {
+      "step": 4,
+      "title": "NUGGETS OF GOLDEN GNOCCHI",
+      "text": "Wipe down the pan and return it to a medium-high heat with a drizzle of oil and a knob of butter. Once foaming, brown the gnocchi for 3-5 minutes until crisped. For the best results, fry in a single layer in batches if necessary, adding more butter in between batches. Remove from the heat on completion and add to the pot of sauce. Mix in three-quarters of the grated cheese until melted and evenly distributed. Stir through the crispy chickpeas and remove from the heat."
+    },
+    {
+      "step": 5,
+      "title": "IT'S A TOSS UP",
+      "text": "Toss together the shredded green leaves, the sliced radish, and the remaining halved baby tomatoes. Add a drizzle of olive oil, season, and toss again to coat."
+    },
+    {
+      "step": 6,
+      "title": "CHEESY COMFORT FOOD",
+      "text": "Dish up hearty spoonfuls of cheesy tomato gnocchi and plate the crisp salad on the side. Finish off with sprinkles of the remaining grated cheese and the fresh, sliced basil. Bellissimo, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 441.0,
+    "energy_kcal": 98.0,
+    "protein_g": 4.3,
+    "carbs_g": 15.0,
+    "sugars_g": 2.0,
+    "fibre_g": 2.5,
+    "fat_g": 2.0,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 343.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "For the best results, boil the gnocchi in batches to prevent crowding the pot and overcooking.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

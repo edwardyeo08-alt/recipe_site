@@ -1,0 +1,132 @@
+{
+  "recipe_number": 176,
+  "title": "30-Minute Venison Rotis",
+  "subtitle": "with chipotle in adobo, flaked almonds & smooth cottage cheese",
+  "description": "We're loco for these roti tacos! They're packed with chipotle-infused venison, charred corn and spring onion tossed with lime and coriander, creamy cottage cheese, and toasted almonds. Best of all, they can be whipped up in no time!",
+  "chef": "Lauren Todd",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 30,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Flaked Almonds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Smooth Cottage Cheese",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Corn",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Spring Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "finely sliced, keeping the white & green parts separate"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Lime",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Whole Wheat Cocktail Rotis",
+      "quantity": 8,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Venison Strips",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chipotle in Adobo Sauce",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "drained & roughly chopped, reserving the sauce"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Tea Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "TOASTED ALMONDS",
+      "text": "Place a nonstick pan over a medium heat. When hot, toast the flaked almonds for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside to cool. Season the cottage cheese to taste and set aside for serving."
+    },
+    {
+      "step": 2,
+      "title": "CRISP, ZESTY CORN",
+      "text": "Return the pan to a high heat with a drizzle of oil. When hot, fry the drained corn for 1-2 minutes until charred, shifting occasionally. Add the white spring onion slices and a pinch of salt, and sauté for 1-2 minutes until lightly browned. On completion, transfer to a bowl with ¾ of the chopped coriander. Toss through some lime juice and zest to taste, cover with a plate to keep warm, and set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "START FLIPPING THE ROTIS!",
+      "text": "Place a clean, dry pan over a medium heat. When hot, warm the rotis for 30-60 seconds per side until heated through and lightly toasted. As you go, stack them on a plate and cover with a tea towel to keep warm. Alternatively, spread out on a plate in a single layer and heat in the microwave for 30-60 seconds."
+    },
+    {
+      "step": 4,
+      "title": "SPICE UP YOUR VENISON",
+      "text": "Pat the venison dry with paper towel and roughly chop into bite-sized pieces. Return the nonstick pan to a high heat with another drizzle of oil. When hot, sear the venison for 1-2 minutes until browned but not cooked through. Add the chopped chipotles to taste (be careful, they're hot!) and fry for a further 1-2 minutes, shifting regularly. On completion, the venison should be cooked medium-rare. Remove from the heat and season to taste. Set aside to rest in the pan for a few minutes before serving."
+    },
+    {
+      "step": 5,
+      "title": "LAYER THOSE TACOS",
+      "text": "Smear some cottage cheese on each roti. Load up with the rinsed green leaves, the charred corn and onion, and the smoky venison. Garnish with the toasted almonds, remaining coriander, green spring onion slices, and any remaining lime zest. Use the reserved adobo sauce to spice it up even more if you'd like! Finish with a squeeze of lime juice and fold them over. It's taco time!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 651.0,
+    "energy_kcal": 156.0,
+    "protein_g": 13.8,
+    "carbs_g": 16.0,
+    "sugars_g": 3.3,
+    "fibre_g": 2.7,
+    "fat_g": 4.1,
+    "saturated_fat_g": 1.1,
+    "sodium_mg": 391.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts",
+    "Soy"
+  ],
+  "chef_tip": "If you're feeling fancy, slice the green parts of the spring onion into long, thin strips and place them in a bowl of ice water to make them curly for your garnish!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

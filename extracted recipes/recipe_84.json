@@ -1,0 +1,130 @@
+{
+  "recipe_number": 84,
+  "title": "Fusion Hot Smoked Trout",
+  "subtitle": "with miso mayo & egg noodles",
+  "description": "This dish is alive with umami, boasting layers upon layers of amazing flavour! Hot smoked trout tops a stir fry of egg noodles, wilted spinach, and peanuts. Seasoned with soy sauce and vinegar, loaded with a sauté of pickled peppers and corn, and splattered with a creamy miso mayo, this dish has everything you could hope for from a dinner!",
+  "chef": "Thea Richter",
+  "category": "Adventurous Foodie",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 30,
+  "wine_pairing": "Boschendal | Chardonnay Pinot Noir",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Egg Noodles",
+      "quantity": 2,
+      "unit": "cakes",
+      "prep": null
+    },
+    {
+      "name": "Peanuts",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Soy Vinegar",
+      "quantity": 50,
+      "unit": "ml",
+      "prep": "(30ml Low Sodium Soy Sauce & 20ml Rice Wine Vinegar)"
+    },
+    {
+      "name": "Miso Mayo",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": "(50ml That Mayo (Original) & 10ml Miso Paste)"
+    },
+    {
+      "name": "Hot Smoked Trout Fillets",
+      "quantity": 250,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Corn",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pickled Bell Peppers",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Spinach",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "OODS OF NOODS",
+      "text": "Preheat the oven to 60°C. Boil the kettle. Fill a pot for the noodles with boiling water, add a pinch of salt, and place over a medium-high heat. Once boiling rapidly, cook the noodles for 7-8 minutes until al dente. Drain on completion and toss through some oil to prevent sticking."
+    },
+    {
+      "step": 2,
+      "title": "FEELING NUTTY",
+      "text": "Place a pan, large enough for the stir fry, over a medium heat. When hot, toast the peanuts for 3-5 minutes until golden, shifting occasionally. Remove from the pan and roughly chop."
+    },
+    {
+      "step": 3,
+      "title": "PREP STEP",
+      "text": "In a bowl, combine the soy vinegar and 20ml of olive oil until emulsified. Set aside. Place the miso mayo in a small bowl and loosen with water in 5ml increments until drizzling consistency. Set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "WARM THE TROUT",
+      "text": "Place the hot smoked trout fillets on a greased baking tray and place in the warm oven for 10 minutes until warmed through."
+    },
+    {
+      "step": 5,
+      "title": "TANGY & UMAMI",
+      "text": "Return the pan to a high heat with a drizzle of oil. When hot, add the corn and fry for 3-4 minutes until charred, shifting occasionally. Add the chopped pickled peppers and fry for 3-4 minutes until starting to brown, shifting occasionally. Add ½ of the chopped peanuts, the emulsified soy vinegar, the cooked noodles, a sweetener of choice, and seasoning. Cook for 2-3 minutes until the sauce has slightly reduced, tossing occasionally. In the final minute, add the rinsed spinach and cook until wilted."
+    },
+    {
+      "step": 6,
+      "title": "NOODLE MANIA!",
+      "text": "Make a bed of saucy noodle stir-fry. Top with the trout and drizzles of the loosened miso mayo. Garnish with the picked coriander and the remaining peanuts. Wowzers!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 836.0,
+    "energy_kcal": 206.0,
+    "protein_g": 13.2,
+    "carbs_g": 22.0,
+    "sugars_g": 2.1,
+    "fibre_g": 1.4,
+    "fat_g": 6.9,
+    "saturated_fat_g": 1.8,
+    "sodium_mg": 965.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Peanuts",
+    "Wheat",
+    "Sulphites",
+    "Fish",
+    "Soy"
+  ],
+  "chef_tip": "To emulsify means to combine two ingredients that do not usually mix together. In cooking, it is usually a fat or oil and a water-based liquid. In this case, it's the soy sauce and olive oil!",
+  "card_obscured_flag": true,
+  "obscured_details": "The allergen 'Sulphites' is partially obscured by the binder ring."
+}

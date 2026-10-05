@@ -1,0 +1,142 @@
+{
+  "recipe_number": 142,
+  "title": "Vegan Chickpea Buttah Masala",
+  "subtitle": "with a coconut cream and tomato base, roast veg & spinach",
+  "description": "Experience first class comfort with this dairy-free, gluten-free \"butter\" chickpea curry: a thick, creamy sauce swirled with roast butternut and cauliflower, wilted spinach, coriander, and brown rice. Flavourful and currylicious! Who needs chicken?",
+  "chef": "Ella Nasser",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Lanzerac Estate | Keldermeester Versameling Bergpad",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Butternut Chunks & Cauliflower Florets",
+      "quantity": 300.0,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 200.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 20.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 240.0,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Coconut Cream",
+      "quantity": 200.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8.0,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 20.0,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "deseeded & thinly sliced"
+    },
+    {
+      "name": "Spice & All Things Nice Curry Paste",
+      "quantity": 30.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 100.0,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "OVEN-GRILLED VEGGIES",
+      "text": "Preheat the oven to 200°C. Spread out the butternut pieces on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes. Place the cauliflower pieces in a bowl, drizzle with oil, and season. Toss to coat and set aside."
+    },
+    {
+      "step": 2,
+      "title": "A BOUNTY OF RICE",
+      "text": "Rinse the rice and place in a pot with ½ of the stock. Submerge in 500ml of water and stir through. Pop on a lid and place over a medium-high heat. Once boiling, reduce the heat and simmer for 25-30 minutes until the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. Drain on completion if necessary and fluff with a fork."
+    },
+    {
+      "step": 3,
+      "title": "CHECK THOSE CHICKPEAS!",
+      "text": "Place a pan over a medium heat with a drizzle of oil. When hot, fry the drained chickpeas for 12-15 minutes until crispy and caramel in colour. For the best results, only shift occasionally. If they start to pop out, use a lid to rein them in!"
+    },
+    {
+      "step": 4,
+      "title": "MEANWHILE...",
+      "text": "When the butternut has been in for about 10 minutes, remove from the oven and give it a shift. Add in the cauliflower pieces and return to the oven for the remaining time. On completion, the cauliflower should be starting to char and the butternut should be cooked through. Boil the kettle. Dilute the remaining stock with 80ml of boiling water and set aside. In a small bowl, mix together ½ of the coconut cream, ½ of the chopped coriander, and some seasoning. Set aside for serving."
+    },
+    {
+      "step": 5,
+      "title": "LET'S GET SPICY",
+      "text": "When the chickpeas are crispy, mix in the grated garlic and ginger. Then, add the sliced chilli and the curry paste, both to taste. Fry for 30-60 seconds until fragrant, shifting constantly. If needed, add a little more oil to prevent it from catching. Pour in the cooked chopped tomato, the remaining coconut cream, and the diluted stock. Stir until combined and bring to a simmer. Allow to cook for 10-12 minutes until reduced to a curry-like consistency, stirring occasionally. In the final 2 minutes, stir through the shredded spinach until wilted. Remove from the heat on completion. Just before serving, mix in the roast vegetables until coated."
+    },
+    {
+      "step": 6,
+      "title": "AS TASTY AS CAN BE",
+      "text": "Pile up the nutty brown rice and spoon over the loaded curry. Cover in drizzles of coriander coconut cream and garnish with the remaining coriander. If you'd like, sprinkle over any remaining chilli! Yum..."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 571.0,
+    "energy_kcal": 137.0,
+    "protein_g": 4.4,
+    "carbs_g": 19.0,
+    "sugars_g": 2.3,
+    "fibre_g": 3.4,
+    "fat_g": 4.3,
+    "saturated_fat_g": 2.7,
+    "sodium_mg": 263.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "Ginger has superpowers! It strengthens the immune system, stops inflammation, eases digestion, and alleviates cold and flu symptoms. Whizz it up fresh with smoothies or juices for extra zing, or add it to just about any curry dish!",
+  "card_obscured_flag": true,
+  "obscured_details": "Chef's tip has the word 'add' partially punched out by the binder ring hole."
+}

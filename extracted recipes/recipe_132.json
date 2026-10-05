@@ -1,0 +1,138 @@
+{
+  "recipe_number": 132,
+  "title": "Moreish Coffee-Spiced Halloumi",
+  "subtitle": "with brown basmati, charred pineapple & Mexican salsa",
+  "description": "Awaken your taste buds with these perfectly spiced melty halloumi slabs. Brilliantly charred sweet pineapple and fresh Mexican-style tomato salsa can only make way for a taste sensation — yum!",
+  "chef": "Alex Levett",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Haute Cabrière | Chardonnay Unwooded",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Rice & Lentils",
+      "quantity": 200.0,
+      "unit": "ml",
+      "prep": "150ml Brown Basmati Rice & 50ml Green Puy Lentils"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Kidney Beans",
+      "quantity": 240.0,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 160.0,
+      "unit": "g",
+      "prep": "halved"
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8.0,
+      "unit": "g",
+      "prep": "rinsed, picked & finely chopped"
+    },
+    {
+      "name": "Pineapple Rings",
+      "quantity": 3.0,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 100.0,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Halloumi",
+      "quantity": 160.0,
+      "unit": "g",
+      "prep": "sliced lengthways into 1cm thick slabs"
+    },
+    {
+      "name": "NOMU Coffee Rub",
+      "quantity": 15.0,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "DREAM DUO",
+      "text": "Rinse the rice & lentils and place in a pot over a medium-high heat. Submerge in 500ml of salted water and pop on a lid. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. On completion, drain if necessary and fluff up with a fork."
+    },
+    {
+      "step": 2,
+      "title": "MEXICAN-STYLE WARM SALSA",
+      "text": "Place a pan over a medium heat with a drizzle of oil. When hot, fry the diced onions and drained kidney beans for 3-4. On completion, the onion should be slightly soft and the kidney beans warmed through. Place in a salad bowl with the halved baby tomatoes, jalapeños, lemon zest, ⅔ chopped coriander, and a drizzle of olive oil. Toss to combine and season to taste."
+    },
+    {
+      "step": 3,
+      "title": "CHAR YOUR RINGS",
+      "text": "Drain the pineapple rings. Return the pan to a high heat with a drizzle of oil. When hot, fry the pineapple rings for 1-2 minutes per side until charred."
+    },
+    {
+      "step": 4,
+      "title": "EAT YOUR GREENS",
+      "text": "Return the pan to a medium heat with a drizzle of oil. When hot, add the spinach and sauté for 2-4 minutes until softened. Remove on completion and season to taste with salt, pepper, and some lemon juice."
+    },
+    {
+      "step": 5,
+      "title": "HEAVENLY HALLOUMI",
+      "text": "Coat the halloumi slices with the coffee rub and a drizzle of oil. Return the pan to a medium heat. When hot, fry the halloumi for 1-2 minutes per side until crispy and golden. Remove and drain on some paper towel. Roughly slice into bite-size pieces."
+    },
+    {
+      "step": 6,
+      "title": "NOURISHING MEAL!",
+      "text": "Make a bed of rice and lentils. Top with the sautéed spinach, salsa, spiced halloumi, and charred pineapple. Garnish with the remaining coriander leaves and lemon wedges. Enjoy, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 596.0,
+    "energy_kcal": 142.0,
+    "protein_g": null,
+    "carbs_g": 17.0,
+    "sugars_g": 3.3,
+    "fibre_g": 4.3,
+    "fat_g": 4.5,
+    "saturated_fat_g": 2.9,
+    "sodium_mg": 216.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in nutritional information is partially obscured by the binder ring hole punch (leading characters punched out before 'g', estimated ~8g based on calorie balance)."
+}

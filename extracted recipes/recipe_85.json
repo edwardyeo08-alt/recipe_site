@@ -1,0 +1,153 @@
+{
+  "recipe_number": 85,
+  "title": "Taphuis Blackened Cajun Hake",
+  "subtitle": "with rustic pea and coconut milk sauce & a butter bean and cauli jumble",
+  "description": "This dish is packed with pizzazz from big, bold flavours. Hake fillet is coated in Cajun spice, charred to smoky perfection, and surrounded by a lemony pea and coconut milk purée. With a warm side of saucy butter beans, garlic, roast cauliflower, and crème fraîche.",
+  "chef": "Stephen Fraser",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 55,
+  "wine_pairing": "Lanzerac Estate | Chenin Blanc",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Cauliflower Florets",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 250,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Coconut Milk",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Butter Beans",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 85,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "rinsed & shredded"
+    },
+    {
+      "name": "Line-caught Hake Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Cajun Spice",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Blender",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "CHARRED CAULI",
+      "text": "Boil the kettle. Preheat the oven to 200°C. Spread out the cauliflower pieces on a roasting tray, coat in oil, and season. Roast in the hot oven for 25-30 minutes until cooked through and crisping up, shifting halfway. Dilute the stock with 100ml of boiling water and set aside."
+    },
+    {
+      "step": 2,
+      "title": "PEA PURÉE",
+      "text": "Set aside 50ml of peas. Place the rest in a pot with the coconut milk and ½ of the grated garlic. Place over a high heat and bring to the boil. Lower the heat to medium and simmer for 4-5 minutes until slightly reduced. Stir in ¾ of the chopped basil, some lemon juice, and ½ of the zest to taste. Blend until smooth, then return to the pot. Cover with a lid and set aside. If it needs reheating before serving, place over a low heat and stir until warmed through."
+    },
+    {
+      "step": 3,
+      "title": "GET SAUCY",
+      "text": "When the cauli has 10 minutes to go, place a pan over a medium heat with a drizzle of oil. When hot, fry the diced onion for 3-4 minutes until soft. Mix in the remaining garlic and a knob of butter. Fry for 30-60 seconds until fragrant, shifting constantly. Stir in the diluted stock until combined. Allow to thicken for 3-4 minutes until the stock has almost evaporated."
+    },
+    {
+      "step": 4,
+      "title": "ADD THE VEG",
+      "text": "When the sauce has thickened, stir in the drained butter beans, reserved peas, and roast cauli. Simmer for 1-2 minutes until the peas and beans are heated. Remove the pan from the heat and mix in the crème fraîche. Season to taste with salt, pepper, lemon juice, and the remaining zest. Place in a bowl, cover to keep warm, and set aside."
+    },
+    {
+      "step": 5,
+      "title": "SPINACH & HAKE",
+      "text": "Wipe down the pan and return it to a medium-high heat with a drizzle of oil. When hot, fry the shredded spinach for 2-3 minutes until wilted. Transfer to a bowl, cover, and set aside for serving. Pat the hake dry with paper towel. Coat the flesh in Cajun spice and seasoning to taste, pressing it so it sticks. Return the pan to a medium heat with a drizzle of oil. When hot, fry the hake skin-side down for 3-4 minutes until crispy. Reduce the heat, add a knob of butter, and flip the hake. Fry for 3-4 minutes until cooked through and lightly charred. Remove from the pan."
+    },
+    {
+      "step": 6,
+      "title": "INDULGE",
+      "text": "Cover one side of the plates in pea purée. Top with the spinach and blackened hake. Plate the saucy veg on the side. Garnish with the remaining basil and any remaining lemon. Look at you go!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 383.0,
+    "energy_kcal": 92.0,
+    "protein_g": 4.6,
+    "carbs_g": 7.0,
+    "sugars_g": 2.6,
+    "fibre_g": 2.4,
+    "fat_g": 4.4,
+    "saturated_fat_g": 3.0,
+    "sodium_mg": 251.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Fish"
+  ],
+  "chef_tip": "When simmering for an extended period of time, always stir occasionally to prevent the sauce from catching on the bottom of the pan.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

@@ -1,0 +1,139 @@
+{
+  "recipe_number": 91,
+  "title": "Tantalising Trout",
+  "subtitle": "with new potatoes & caramelised pomodoro",
+  "description": "Dine like a king with this fresh-flavoured meal. A silken sauce of basil, caramelised tomato, onion, and garlic pools around wilted spinach and softened new potatoes. Topped with a glorious rainbow trout fillet and a side of fresh tossed salad.",
+  "chef": "Kate Gomba",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Cavalli Estate | Pink Pony",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & roughly sliced"
+    },
+    {
+      "name": "Salad Tomatoes",
+      "quantity": 2,
+      "unit": null,
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 4,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Baby Potatoes",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pesto Princess Basil Pesto",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Fresh Chives",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    },
+    {
+      "name": "Spinach",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Rainbow Trout Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter (optional)",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "START YOUR ROAST",
+      "text": "Preheat the oven to 200°C. Place the chopped onion, chopped tomato, and grated garlic on a roasting tray. Mix through some oil, season to taste, and spread out evenly. Pop the tray in the oven and roast for 20-25 minutes. On completion, the onion and tomato should be soft."
+    },
+    {
+      "step": 2,
+      "title": "SOFT POTATOES & SUNNY SEEDS",
+      "text": "Place the baby potatoes in a pot, submerge with salted water, and bring to a simmer for 15-20 minutes until soft. Place the sunflower seeds in a pan over a medium heat. Toast for 2-4 minutes until lightly browned, shifting occasionally. Remove from the pan on completion, place in a salad bowl, and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "ONCE THE ROAST IS READY...",
+      "text": "Remove from the oven. Transfer the cooked onion and tomato to a blender. Add in a knob of butter (optional) and ¾ of the basil pesto. Blend until smooth and taste to test. Stir in a sweetener of choice to taste and add more seasoning if necessary. Cover to keep warm and set aside until serving."
+    },
+    {
+      "step": 4,
+      "title": "SALAD FINISHES",
+      "text": "In the salad bowl with the cooled seeds, add the rinsed salad leaves, a drizzle of oil, a squeeze of lemon juice, and some seasoning. Toss to coat and set aside. Once the potatoes are finished boiling, drain and place in a bowl. Add a drizzle of oil, chopped chives, a pinch of zest and toss through to combine. Season and cover to keep warm."
+    },
+    {
+      "step": 5,
+      "title": "SPINACH & TROUT",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil. When hot, sauté the shredded spinach for 3-4 minutes until wilted. Season to taste and remove from the pan on completion. Return the pan to the heat and add another drizzle of oil if necessary. Pat the trout dry with paper towel and season. When the oil is hot, fry the trout skin-side down for 2-3 minutes until crispy. Flip and fry for a further 30-60 seconds or until cooked to your preference. On completion, remove the pan from the heat."
+    },
+    {
+      "step": 6,
+      "title": "FINE DINING",
+      "text": "Pour the tomato sauce over the base of a plate and pile on the wilted spinach and potatoes. Pop the trout fillet on top and drizzle over the remaining pesto. Serve with the salad and a lemon wedge on the side. Sprinkle the sunflower seeds to garnish. Enjoy Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 291.0,
+    "energy_kcal": 70.0,
+    "protein_g": 4.7,
+    "carbs_g": 8.0,
+    "sugars_g": 2.1,
+    "fibre_g": 1.3,
+    "fat_g": 1.6,
+    "saturated_fat_g": 0.3,
+    "sodium_mg": 74.0
+  },
+  "allergens": [
+    "Allium",
+    "Fish"
+  ],
+  "chef_tip": "Traditionally, the potatoes are peeled, so once cool enough to handle, peel the skin off using a knife, if you fancy and you can crisp them up in the pan with a drizzle of oil and a knob of butter.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

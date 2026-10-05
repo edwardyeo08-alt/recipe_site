@@ -1,0 +1,134 @@
+{
+  "recipe_number": 182,
+  "title": "Venison Steak & Peppercorn Sauce",
+  "subtitle": "with buttery gem squash mash & shavings of Italian-style hard cheese",
+  "description": "Not just any steak: rosemary-and-butter-basted venison steak! Not just any mash: low-carb, golden gem squash mash! Not just any pepper sauce: silky crème fraîche, rainbow peppercorn, and garlic sauce. Not just any weeknight dinner...",
+  "chef": "Lauren Todd",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 55,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Gem Squash",
+      "quantity": 8,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Beef Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Rainbow Peppercorns",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 4,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Italian-Style Hard Cheese",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "peeled into shavings"
+    },
+    {
+      "name": "Cabernet Sauvignon Vinegar",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Venison Steak",
+      "quantity": 640,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Rosemary",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "LET'S GET GOING",
+      "text": "Boil the kettle. Place the gem squash in a pot and fully submerge in cold water. Bring to the boil and cook for 25-30 minutes until they can be easily pierced with a knife. Dilute the stock with 100ml of boiling water. Coarsely crush the peppercorns using a pestle and mortar or the back of a sturdy knife and set aside."
+    },
+    {
+      "step": 2,
+      "title": "LET'S GET SAUCY",
+      "text": "When the gem squash has reached the halfway mark, place a small pot over a medium heat with a drizzle of oil or knob of butter. When hot, sauté the grated garlic and crushed peppercorns for about a minute until fragrant. Pour in the diluted stock and allow to simmer for 3-4 minutes until slightly reduced, stirring occasionally. Mix in the crème fraîche and simmer for a further 2-3 minutes, stirring occasionally. Season to taste and remove from the heat on completion. Pop on a lid and set aside to keep warm until serving."
+    },
+    {
+      "step": 3,
+      "title": "LET'S GET FRESH",
+      "text": "Place the rinsed salad leaves in a bowl with three-quarters of the hard cheese shavings. Toss through the cab sauv vinegar and some seasoning to taste. Set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "SIZZLE THAT STEAK",
+      "text": "Place a large, nonstick pan over a high heat with a drizzle of oil. Pat the steaks dry with some paper towel and season. When the pan is hot, fry the steaks for 6-8 minutes, shifting and turning as they colour until browned all over and cooked to your preference. (The time this takes will depend on the thickness of the steaks. The time frame recommended will yield a medium-rare result.) During the final 2 minutes, add in a knob of butter and the rinsed rosemary sprigs and use them to baste the steaks. Remove from the heat on completion and set aside to rest for 5 minutes before thinly slicing."
+    },
+    {
+      "step": 5,
+      "title": "WHAT A GEM...",
+      "text": "When the gem squash are cooked, remove from the pot and cut in half. Scoop out the seeds and discard, then scoop the flesh into a bowl. Add a small knob of butter or a drizzle of oil and season to taste. Mash with a fork until the flesh is smooth and the butter has melted (if used)."
+    },
+    {
+      "step": 6,
+      "title": "DINNER'S READY!",
+      "text": "Dish up spoonfuls of buttery gem squash mash next to some dressed salad. Lay the rosemary-infused steak slices alongside, and pour over the creamy peppercorn sauce. If you'd like, pick off the rosemary leaves and sprinkle them over the steak, discarding the stalks. Garnish with the remaining hard cheese shavings. Tuck in, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 458.0,
+    "energy_kcal": 109.0,
+    "protein_g": 10.1,
+    "carbs_g": 4.0,
+    "sugars_g": 1.0,
+    "fibre_g": 1.2,
+    "fat_g": 5.2,
+    "saturated_fat_g": 3.1,
+    "sodium_mg": 307.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "If you don't have a pestle and mortar, you can crush the peppercorns using a pot! Press down on the peppercorns with the bottom edge of the pot, slowly moving it back and forth – and voilà!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

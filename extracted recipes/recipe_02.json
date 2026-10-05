@@ -1,0 +1,141 @@
+{
+  "recipe_number": 2,
+  "title": "Herb Crusted Fillet",
+  "subtitle": "with crispy potatoes, horseradish sauce & crème fraîche",
+  "description": "Tender herb-crusted fillet slices are dolloped in a tangy horseradish, crème fraîche and mustard dressing. Served with crispy baby potatoes and a peppery rocket salad drizzled in balsamic glaze and ribbons of Italian hard cheese. Need we say more?",
+  "chef": "Alex Levett",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Haute Cabrière | Pierre Jourdan Blanc de Blancs",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Baby Potatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "halved"
+    },
+    {
+      "name": "NOMU One For All Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Horseradish Sauce",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Dijon Mustard",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed, picked & finely chopped"
+    },
+    {
+      "name": "Fresh Thyme",
+      "quantity": 4,
+      "unit": "g",
+      "prep": "rinsed, picked & finely chopped"
+    },
+    {
+      "name": "Free-range Beef Fillet",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": "smashed whole"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Balsamic Glaze",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Italian-style Hard Cheese",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "peeled into ribbons"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROAST THE POTATOES",
+      "text": "Preheat the oven to 200°C. Spread out the halved baby potatoes on a roasting tray in a single layer. Coat in oil, the One For All rub, and some seasoning. Roast in the hot oven for 25-30 minutes until crispy on the outside and soft on the inside, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "HORSERADISH SAUCE & HERB PLATE",
+      "text": "In a bowl combine the crème fraîche, horseradish sauce, and ½ of the dijon mustard. If it's too thick, loosen with water in 5ml increments and season. Place ¾ of the chopped parsley and all the chopped thyme on a small plate and set aside."
+    },
+    {
+      "step": 3,
+      "title": "COOK THE STEAK",
+      "text": "When the potatoes have 15 minutes remaining, place a pan over a high heat. Pat the fillet dry with paper towel. Rub some oil into the fillets until well coated. When the pan is hot, sear the fillets for about 3-4 minutes, until browned all over, shifting as they colour. Add a knob of butter and the smashed garlic clove and baste the steaks in the garlic butter for another 1-2 minutes. Remove from the pan on completion and set aside to rest for 5 minutes."
+    },
+    {
+      "step": 4,
+      "title": "HERB CRUST",
+      "text": "Once the fillet has rested, lightly spread over the remaining dijon mustard using a spoon or knife. Roll the mustard-basted fillet through the mixed chopped herbs until well coated. Gently slice and season."
+    },
+    {
+      "step": 5,
+      "title": "PLATE",
+      "text": "Plate up the herb crusted fillet slices and dollop over the horseradish dressing. Serve the crispy baby potatoes on the side, and pair with a salad of rinsed rocket, balsamic glaze, and scattered hard cheese ribbons. Garnish with the remaining parsley. Perfection!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 667.0,
+    "energy_kcal": 159.0,
+    "protein_g": 9.4,
+    "carbs_g": 11.0,
+    "sugars_g": 3.0,
+    "fibre_g": 1.7,
+    "fat_g": 5.7,
+    "saturated_fat_g": 2.8,
+    "sodium_mg": 138.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "Meat continues to cook while resting. Remember this when cooking the fillet to your preference.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

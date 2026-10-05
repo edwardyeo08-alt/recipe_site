@@ -1,0 +1,129 @@
+{
+  "recipe_number": 139,
+  "title": "Mamma Mia Ravioli",
+  "subtitle": "with a rainbow pomodoro sauce, bocconcini & fresh basil",
+  "description": "Pomodoro means \"tomato\" in Italian. Here, piquanté peppers, garlic, and a rainbow medley of baby tomatoes come together with flair to smother mouthwatering morsels of spinach and ricotta ravioli and balls of soft Italian cheese.",
+  "chef": "Klaudia Weixelbaumer",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 4.0,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Rainbow Baby Tomato Medley",
+      "quantity": 600.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Mild Piquanté Peppers",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Spinach & Ricotta Ravioli",
+      "quantity": 700.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 20.0,
+      "unit": "g",
+      "prep": "rinsed, picked & gently shredded"
+    },
+    {
+      "name": "Bocconcini Balls",
+      "quantity": 16.0,
+      "unit": null,
+      "prep": "drained & halved"
+    },
+    {
+      "name": "Rocket & Baby Spinach Mix",
+      "quantity": 80.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Balsamic Glaze",
+      "quantity": 40.0,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "START WITH THE SEEDS",
+      "text": "Place the pumpkin seeds in a large pot over a medium heat. Toast for 3-5 minutes until they begin to pop and turn brown. Remove from the pot on completion and set aside to cool."
+    },
+    {
+      "step": 2,
+      "title": "RAINBOW POMODORO SAUCE",
+      "text": "Return the pot to a low-medium heat with a drizzle of oil. When hot, add in the grated garlic, rinsed baby tomatoes, and chopped piquanté peppers. Give a stir and pop on a lid. Cook for 8-10 minutes until the tomatoes are soft, using your cooking utensil to break them up as they cook. Take care not to spatter yourself with hot juice! If the sauce becomes too dry, add in another drizzle of oil or a knob of butter. On completion, season to taste and set aside in a bowl. Wipe down the pot and set aside for step 4."
+    },
+    {
+      "step": 3,
+      "title": "BOIL THE RAVIOLI",
+      "text": "Boil the kettle. Fill a second pot with boiling water, add a generous pinch of salt, and place over a medium-high heat. Once boiling rapidly, cook the ravioli for 3-4 minutes until they begin to float and are heated through. Drain on completion."
+    },
+    {
+      "step": 4,
+      "title": "CRISP THE RAVIOLI",
+      "text": "Return the pot used for the sauce to a medium-high heat with a drizzle of oil and a knob of butter. Once foaming, fry the ravioli in a single layer for 4-5 minutes until crispy and golden, tossing occasionally. Do this step in batches if necessary, adding more butter in between each batch. On completion, return all of the ravioli to the pan."
+    },
+    {
+      "step": 5,
+      "title": "ALL TOGETHER NOW!",
+      "text": "Keeping the pot on the heat, add in the pomodoro sauce. Cook for 3-4 minutes until heated through, gently tossing to coat the ravioli. Remove from the heat and stir in half of the shredded basil and half of the bocconcini halves. Finally, add some more seasoning if necessary. Toss a drizzle of oil through the rinsed rocket and baby spinach."
+    },
+    {
+      "step": 6,
+      "title": "BOWL UP",
+      "text": "Stock up with mouthwatering ravioli al pomodoro. Scatter over the remaining shredded basil, the toasted pumpkin seeds, and the remaining bocconcini. Serve the dressed leaves on the side with drizzles of balsamic glaze. Buon appetito!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 608.0,
+    "energy_kcal": 145.0,
+    "protein_g": 6.7,
+    "carbs_g": 17.0,
+    "sugars_g": 4.9,
+    "fibre_g": 2.2,
+    "fat_g": 4.5,
+    "saturated_fat_g": 2.6,
+    "sodium_mg": 216.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "Boil the ravioli in batches to prevent crowding the pot and overcooking.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

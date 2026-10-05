@@ -1,0 +1,121 @@
+{
+  "recipe_number": 111,
+  "title": "Classy Cajun Rainbow Trout",
+  "subtitle": "with avo hummus, crispy baby potatoes & a sherry dressing",
+  "description": "Packed with omegas, this trout dish will leave you totally 'in the pink'. Here, your favourite fish is enhanced by Cajun spice and served with fresh leaves, creamy hummus, flaked almonds, and a tangy honey and sherry dressing.",
+  "chef": "Runet Van Heerden",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Baby Potatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Flaked Almonds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Avocado Hummus",
+      "quantity": 85,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Sherry Dressing",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": "(20ml Sherry Vinegar & 10ml Honey)"
+    },
+    {
+      "name": "Rainbow Trout Fillet",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Cajun Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BITES OF CRISPINESS!",
+      "text": "Preheat the oven to 200°C. Place the halved baby potatoes on a roasting tray. Coat in oil, season, and spread out evenly. Roast in the hot oven for 30-35 minutes. Place the drained chickpeas in a bowl, coat in oil and seasoning, and set aside."
+    },
+    {
+      "step": 2,
+      "title": "NUTTY FLAKES",
+      "text": "Place the flaked almonds in a pan over a medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "AVO HUMMUS & SHERRY DRESSING",
+      "text": "Loosen the avo hummus with 2 tsp of olive oil and 2 tsp of water. Mix until silky and set aside for serving. Combine the sherry dressing with 40ml of olive oil and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "YOU'RE HALFWAY!",
+      "text": "When the potatoes reach the halfway mark, remove from the oven and give a shift. Scatter over the dressed chickpeas, spread out in a single layer, and return to the oven for the remaining cooking time. On completion, the chickpeas should be crunchy and the baby potatoes should be soft on the inside and crispy on the outside."
+    },
+    {
+      "step": 5,
+      "title": "SPICY CAJUN TROUT",
+      "text": "When the roast has 5 minutes remaining, return the pan to a medium heat with a drizzle of oil. Pat the trout dry with paper towel and coat in the Cajun Rub to taste. When the pan is hot, fry the trout skin-side down for 2-3 minutes until crispy. Flip and fry for another 30-60 seconds or until cooked through to your preference."
+    },
+    {
+      "step": 6,
+      "title": "THE MOMENT OF INDULGENCE...",
+      "text": "Make a bed of rinsed green leaves and drizzle over the sherry dressing. Load up with roast baby potatoes and chickpeas. Top with the spiced trout, and finish off with flecks of toasted almond flakes and a dollop of avo hummus. Stunning, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 550.0,
+    "energy_kcal": 132.0,
+    "protein_g": 8.6,
+    "carbs_g": 14.0,
+    "sugars_g": 2.5,
+    "fibre_g": 3.0,
+    "fat_g": 3.5,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 205.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Fish",
+    "Tree Nuts"
+  ],
+  "chef_tip": "To make the salad dressing, place the ingredients in a clean jar, close the lid up tight, and shake, shake, shake! Using a jar emulsifies the dressing much more successfully than just mixing it in a bowl!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

@@ -1,0 +1,132 @@
+{
+  "recipe_number": 120,
+  "title": "Zippy Black Bean Nachos",
+  "subtitle": "with melted cheddar, crème fraîche & spicy tomato salsa",
+  "description": "Planning a nacho night? We've got it covered! Smothered in black bean chilli, oozing with cheddar cheese, and complemented by coriander-infused crème fraîche, these nachos will have you licking your plate...",
+  "chef": "Jason Kosmas",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 35,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Onion",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "NOMU Mexican Spice Blend",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 800,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & quartered"
+    },
+    {
+      "name": "Sliced Pickled Jalapeños",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 170,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Corn",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Black Beans",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Corn Nachos",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Grated White Cheddar",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Milk (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET THE CHILLI GOING",
+      "text": "Preheat the oven to 200°C on the grill setting. Place a pan over a medium heat with a drizzle of oil. When hot, sauté the diced onion for 2-3 minutes until soft and translucent. Add the Mexican spice blend to taste and fry for 1-2 minutes until fragrant. Pour in the cooked chopped tomatoes and simmer for 10-12 minutes until slightly thickened, stirring regularly. If it starts to become too thick, simply add a splash of water."
+    },
+    {
+      "step": 2,
+      "title": "SALSALICIOUS",
+      "text": "Place the quartered baby tomatoes, the chopped jalapeños, and half of the chopped coriander in a bowl. Add a drizzle of olive oil and toss to combine. Season and set aside for serving. In a second bowl, combine the crème fraîche with the remaining coriander and loosen with a small splash of milk or water. Season to taste and set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "ADD THOSE BEANS & CORN",
+      "text": "Once the sauce has reduced, stir through the drained black beans and corn. Cook for a further 3-4 minutes until heated through, stirring constantly. Season to taste and remove from the heat on completion."
+    },
+    {
+      "step": 4,
+      "title": "SAY CHEEEESE!",
+      "text": "Spread out the nachos on a large roasting tray. Pour over the bean chilli and evenly sprinkle with the grated cheese. Bake in the hot oven for 5-6 minutes until the cheese is melted and golden. Ovens vary, so keep a close eye on the cheese to make sure it doesn't burn!"
+    },
+    {
+      "step": 5,
+      "title": "CHEESY NACHO TREAT",
+      "text": "Plate up some nachos and cheesy bean chilli. Top with the spicy, tangy salsa and dollop over the coriander crème fraîche. Time to get stuck in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 604.0,
+    "energy_kcal": 144.0,
+    "protein_g": 4.4,
+    "carbs_g": 15.0,
+    "sugars_g": 3.8,
+    "fibre_g": 2.7,
+    "fat_g": 7.0,
+    "saturated_fat_g": 2.9,
+    "sodium_mg": 325.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium"
+  ],
+  "chef_tip": "If you'd prefer to eat the nachos as dippers, simply bake the black bean chilli and cheese without them, and serve them on the side for scooping it all up!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

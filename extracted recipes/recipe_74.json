@@ -1,0 +1,139 @@
+{
+  "recipe_number": 74,
+  "title": "Spicy Peanut Satay Chicken",
+  "subtitle": "with mung bean noodles, coconut cream, tamari & fresh basil",
+  "description": "No one can say no to a creamy satay sauce! Especially when made with spicy, artisanal peanut butter and smothering a tender chicken breast. Paired with a lively, saucy salad of slaw, green beans, and noodles, with notes of basil and lime.",
+  "chef": "Alex Levett",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Delheim Wines | Sauvignon Blanc",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "White Sesame Seeds",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Chicken Breasts",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Mung Bean Vermicelli Noodles",
+      "quantity": 2,
+      "unit": "cakes",
+      "prep": null
+    },
+    {
+      "name": "Green Beans",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "rinsed, trimmed & halved"
+    },
+    {
+      "name": "Story Time Spicy Peanut Butter",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Tamari",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Honey",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Coconut Cream",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Limes",
+      "quantity": 2,
+      "unit": null,
+      "prep": "cut into wedges"
+    },
+    {
+      "name": "Cabbage & Julienne Carrot",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "LET'S GET GOING",
+      "text": "Preheat the oven to 220°C on the grill setting and position the oven rack about 15cm from the top. Place the seeds in a pan over a medium heat. Toast for 2-4 minutes until light brown, shifting occasionally. Remove from the pan on completion and set aside. Pat the chicken dry with paper towel. Make wide, criss-cross incisions on its surface, cutting 1/3 of the way into the flesh. Season well and set aside."
+    },
+    {
+      "step": 2,
+      "title": "COOK THE VERMICELLI",
+      "text": "Boil the kettle. Using a shallow bowl, submerge the noodles in boiling water and add a pinch of salt. Give a stir, cover with a plate, and set aside to soak for 6-8 minutes until cooked and glassy. Drain, toss through some oil to prevent sticking, and set aside in a salad bowl."
+    },
+    {
+      "step": 3,
+      "title": "GROOVY GREEN BEANS",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil and a splash of water. When bubbling, simmer the halved green beans for 3-4 minutes until cooked al dente. Drain on completion if necessary, season, and add to the bowl of noodles."
+    },
+    {
+      "step": 4,
+      "title": "SATAY CHICKEN",
+      "text": "Wipe down the pan and return it to a high heat with a drizzle of oil. When hot, fry the chicken scored-side down for 3-4 minutes until crisp. Flip and fry for 2-3 minutes until golden but not cooked through. Transfer to a lightly greased baking tray. Return the pan to a low-medium heat with another drizzle of oil. When hot, whisk in the peanut butter, tamari, honey, and 1/2 of the coconut cream until combined. Simmer for 1-2 minutes until slightly thickened, whisking regularly. Stir in the juice of 1 lime (to taste) and remove from the heat. Bend the breasts to open the slits and spoon over 1/4 of the sauce. Pop under the grill for 5-6 minutes until cooked through and lightly charred."
+    },
+    {
+      "step": 5,
+      "title": "ASSEMBLE THE SALAD",
+      "text": "For the dressing, loosen the remaining satay sauce by whisking in the rest of the coconut cream. If too thick, gradually add water until drizzling consistency. Add the cabbage and carrot to the bowl of noodles and beans. Toss through the dressing, 3/4 of the toasted seeds, and 3/4 of the chopped basil. Season to taste."
+    },
+    {
+      "step": 6,
+      "title": "A SILKY SUPPER!",
+      "text": "Plate up the noodle salad and top with the peanut satay chicken. Garnish with the remaining seeds and basil, and serve with a lime wedge on the side. You did it, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 661.0,
+    "energy_kcal": 158.0,
+    "protein_g": 9.7,
+    "carbs_g": 15.0,
+    "sugars_g": 4.1,
+    "fibre_g": 1.8,
+    "fat_g": 6.4,
+    "saturated_fat_g": 2.6,
+    "sodium_mg": 230.0
+  },
+  "allergens": [
+    "Sesame",
+    "Sulphites",
+    "Soy",
+    "Peanut"
+  ],
+  "chef_tip": "To cook food 'al dente' means that it should still be firm when bitten. It must be tender, but not soft. This typically refers to pasta, but also applies to other grains, as well as a range of veg. In the case of your green beans, they should still have a slight snap to them once cooked.",
+  "card_obscured_flag": true,
+  "obscured_details": "Ring binder hole partially obscures the word 'slight' ('sligh' punched out, 't' visible) in the Chef's Tip."
+}

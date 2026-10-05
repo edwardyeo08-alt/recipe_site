@@ -1,0 +1,147 @@
+{
+  "recipe_number": 68,
+  "title": "ONE-POT CHICKEN CURRY",
+  "subtitle": "with coriander and chilli pesto & whole wheat rotis",
+  "description": "There’s nothing like a speedy, minimal-mess curry and an easy-peasy raita to end off a busy day. With lean protein from chicken mini fillets and complex carbs from roast sweet potato, it’ll leave you nourished and cosy to the core.",
+  "chef": "Jana Verster",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Sweet Potato Chunks",
+      "quantity": 800.0,
+      "unit": "g",
+      "prep": "cut into bite-size pieces"
+    },
+    {
+      "name": "Onion",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "peeled & sliced"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "deseeded & finely chopped"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "NOMU Indian Rub",
+      "quantity": 60.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomatoes",
+      "quantity": 400.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Plain Yoghurt",
+      "quantity": 320.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-Range Chicken Mini Fillets",
+      "quantity": 600.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Green Beans",
+      "quantity": 300.0,
+      "unit": "g",
+      "prep": "trimmed & halved"
+    },
+    {
+      "name": "Whole Wheat Rotis",
+      "quantity": 8.0,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Pesto Princess Coriander & Chilli Pesto",
+      "quantity": 60.0,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Paper Towel",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROAST THE SWEET POTATO",
+      "text": "Preheat the oven to 200°C. Spread out the sweet potato pieces on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "START YOUR CURRY",
+      "text": "Place a large pot for the curry over a medium heat with a drizzle of oil. When hot, fry the sliced onion for 4-5 minutes until soft and translucent. Add the grated ginger and stir in the chopped chilli and the Indian Rub (both to taste). Fry for about a minute until fragrant, shifting continuously. Pour in the cooked chopped tomatoes, then fill the tomato can with 350ml of water. Swirl it around to catch the remaining tomato and add to the pot. Reduce to a low heat and pop on a lid. Allow to simmer for 10-12 minutes until slightly reduced, stirring occasionally."
+    },
+    {
+      "step": 3,
+      "title": "CHICKEN PREP & CUCUMBER RAITA",
+      "text": "While the curry is simmering, rinse the chicken mini fillets to get rid of any residue and pat dry with some paper towel. Place in a bowl with a drizzle of oil and seasoning to taste. Toss to coat and set aside. Grate the cucumber onto some paper towel or a dish cloth and squeeze to remove any excess liquid. Place the yoghurt and grated cucumber in a bowl, season to taste, and mix to combine. Set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "COMPLETE THE CURRY",
+      "text": "When the curry has finished simmering, add in the chicken and the halved green beans. Stir to coat and replace the lid. Simmer for a further 7-8 minutes until the chicken is cooked through and the green beans are al dente. In the final 1-2 minutes, stir through the roast sweet potato, season to taste, and remove from the heat."
+    },
+    {
+      "step": 5,
+      "title": "ROTI TIME",
+      "text": "Place a dry pan over a medium heat. When hot, warm the rotis for about 1 minute per side until heated through and lightly toasted. Alternatively, spread them out on a plate in a single layer and heat up in the microwave for 30-60 seconds, or heat up in the oven for 2-3 minutes."
+    },
+    {
+      "step": 6,
+      "title": "BOWL UP!",
+      "text": "Spoon some fragrant chicken curry into a bowl. Add generous dollops of the cucumber raita and the coriander & chilli pesto. Serve the rotis on the side and use them to scoop up all that deliciousness. Yum!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 469.0,
+    "energy_kcal": 112.0,
+    "protein_g": 6.5,
+    "carbs_g": 15.0,
+    "sugars_g": 4.1,
+    "fibre_g": 2.0,
+    "fat_g": 2.6,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 249.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Tree Nuts",
+    "Soy"
+  ],
+  "chef_tip": "Ginger has superpowers! It strengthens the immune system, stops inflammation, eases digestion, and alleviates cold and flu symptoms. Whizz it up fresh with smoothies or juices for extra zing, or add it to just about any curry dish!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

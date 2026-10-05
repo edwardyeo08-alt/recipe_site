@@ -1,0 +1,140 @@
+{
+  "recipe_number": 30,
+  "title": "Classic Rump & Peppercorn Sauce",
+  "subtitle": "with sweet potato wedges, fresh rosemary & crème fraîche",
+  "description": "There's nothing like steak and creamy peppercorn sauce to keep you feeling invigorated! Here, this timeless dinner is at its best with free-range beef rump and an unbeatable rainbow peppercorn, garlic, and crème fraîche sauce.",
+  "chef": "Tess Witney",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 45,
+  "overall_time_minutes": 55,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "rinsed & cut into wedges"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cabernet Sauvignon Vinegar",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Rainbow Peppercorns",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Beef Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-Range Beef Rump",
+      "quantity": 640,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 4,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 120,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "cut into half-moons"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "SWEET POTATO WEDGES",
+      "text": "Preheat the oven to 200°C. Place the sweet potato wedges and rinsed rosemary on a roasting tray. Coat in oil, season, and spread out evenly. Roast in the hot oven for 35-40 minutes until cooked through and starting to crisp, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "POPPIN' SEEDS",
+      "text": "Place the pumpkin seeds in a large pan over a medium heat. Toast for 3-5 minutes until they begin to pop and turn brown. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "A BIT OF PREP",
+      "text": "Boil the kettle. For the dressing, place the cab sauv vinegar and 65ml of olive oil in a bowl. Mix in 1 tbsp of a sweetener of choice until dissolved. Coarsely crush the peppercorns using a pestle and mortar or the back of a sturdy knife. Dilute the stock with 150ml of boiling water. Set the dressing, crushed peppercorns, and stock aside."
+    },
+    {
+      "step": 4,
+      "title": "JUICY RUMP",
+      "text": "When the sweet potato reaches the halfway mark, return the pan to a medium-high heat with a drizzle of oil. Pat the steaks dry with some paper towel. When the pan is hot, sear the steaks fat-side down for 3-5 minutes until crispy. Then, fry each side for 2-4 minutes or until cooked to your preference. (The time this takes will depend on the thickness of the steaks.) During the final 1-2 minutes, baste the steaks with a knob of butter (optional). Remove from the heat on completion and set aside to rest in the pan for 5 minutes before slicing. Lightly season the slices."
+    },
+    {
+      "step": 5,
+      "title": "MAKE THE PEPPER SAUCE & TOSS THE SALAD",
+      "text": "Place a saucepan over a medium heat with a drizzle of oil or knob of butter. When hot, sauté the grated garlic and crushed peppercorns for 30-60 seconds until fragrant. Stir in the diluted stock and allow to simmer for 4-5 minutes until slightly reduced. Remove from the heat, whisk in the crème fraîche, and season to taste. Toss the cucumber half-moons and rinsed green leaves together with the salad dressing to taste."
+    },
+    {
+      "step": 6,
+      "title": "ET VOILÀ!",
+      "text": "Dish up the juicy slices of rump and drizzle over the creamy peppercorn sauce. Place the roast sweet potato wedges and the dressed salad on the side, and sprinkle over the toasted pumpkin seeds. You just can't beat the classics!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 599.0,
+    "energy_kcal": 143.0,
+    "protein_g": 8.0,
+    "carbs_g": 10.0,
+    "sugars_g": 3.6,
+    "fibre_g": 2.0,
+    "fat_g": 5.1,
+    "saturated_fat_g": 2.3,
+    "sodium_mg": 175.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "To make the salad dressing, place the ingredients in a clean jar, close the lid tight, and shake, shake, shake! Using a jar emulsifies the dressing much better than just mixing it in a bowl!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

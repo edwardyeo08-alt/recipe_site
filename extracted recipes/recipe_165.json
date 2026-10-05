@@ -1,0 +1,134 @@
+{
+  "recipe_number": 165,
+  "title": "Cosy Harissa Potato & Crispy Beans",
+  "subtitle": "with citrusy spinach, piquanté peppers & a cashew cream dressing",
+  "description": "The warming, vibrant flavour of North Africa! These epic baby potatoes are infused with harissa and crisped to perfection. With extra crunch from roast cannellini beans, a ping from salsa, sweetness from dates, and creaminess from a minty cashew dressing.",
+  "chef": "Tess Witney",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 55,
+  "wine_pairing": "Steenberg Vineyards | Semillon",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Baby Potatoes",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Cannellini Beans",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Pesto Princess Harissa",
+      "quantity": 120,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "finely diced"
+    },
+    {
+      "name": "Piquanté Peppers",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "drained & diced"
+    },
+    {
+      "name": "Spring Onions",
+      "quantity": 4,
+      "unit": null,
+      "prep": "thinly sliced"
+    },
+    {
+      "name": "Pitted Dates",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "roughly chopped"
+    },
+    {
+      "name": "Cashew Cream Cheese",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Lemons",
+      "quantity": 2,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Spinach",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Milk or Milk Alternative (optional)",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "OFF YOU GO!",
+      "text": "Preheat the oven to 200°C. Place the halved baby potatoes on a roasting tray. Lightly coat in oil, season, and spread out in a single layer. Roast in the hot oven for 35-40 minutes. Place the drained cannellini beans on a separate roasting tray. Coat in oil, season, and spread out evenly. Combine the harissa with 30ml of oil. Set both aside."
+    },
+    {
+      "step": 2,
+      "title": "HARISSA & CANNELLINI",
+      "text": "When the potatoes reach the halfway mark, coat in the harissa oil to taste and return to the oven. Pop in the tray of beans and cook for the remaining roasting time. On completion, the beans should be crispy and the potatoes should be cooked through and golden."
+    },
+    {
+      "step": 3,
+      "title": "SALSA & DRESSING",
+      "text": "Place the diced cucumber and piquanté peppers, sliced spring onion, and chopped dates in a bowl. Toss together with a drizzle of oil and some seasoning. Set aside for serving. Place the cashew cream cheese in a small bowl. Mix in ¾ of the chopped mint, a squeeze of lemon juice, and some zest to taste. Gradually loosen with milk, a milk alternative, or water until drizzling consistency. Season and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "SAUTÉ THE SPINACH",
+      "text": "Place a pan over a medium-high heat with a drizzle of oil or knob of butter. When hot, sauté the shredded spinach for 5-6 minutes until wilted. Add a generous squeeze of lemon, season, and remove from the heat."
+    },
+    {
+      "step": 5,
+      "title": "BURSTING WITH FLAVA!",
+      "text": "Make a bed of lemony spinach and pile on the harissa potatoes and cannellini beans. Scatter over the salsa and drizzle with the minty cashew dressing. Garnish with the remaining mint and serve with any remaining lemon wedges. Delicious, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 449.0,
+    "energy_kcal": 107.0,
+    "protein_g": null,
+    "carbs_g": null,
+    "sugars_g": 5.0,
+    "fibre_g": 2.5,
+    "fat_g": 3.0,
+    "saturated_fat_g": 0.1,
+    "sodium_mg": 242.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein and Carbs nutritional values are obscured/punched out by ring binder hole."
+}

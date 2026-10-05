@@ -1,0 +1,150 @@
+{
+  "recipe_number": 105,
+  "title": "Homemade Smoked Trout Fishcakes",
+  "subtitle": "with charred broccoli, capers, feta & pecan nut salad",
+  "description": "We've put a delicious new twist on an old classic. Homemade smoked trout fishcakes are loaded with sweet potato, which is perfectly complemented by fresh dill, chives, capers and lemon zest. Served with a charred broccoli & feta salad and silky crème fraîche for dunking. It's absolutely fabulous!",
+  "chef": "Kate Gomba",
+  "category": "Adventurous Foodie",
+  "servings": 2,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 55,
+  "wine_pairing": "Strandveld | Pofadderbos Sauvignon Blanc",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "peeled, rinsed & cut into bite-sized chunks"
+    },
+    {
+      "name": "Pecan Nuts",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Smoked Trout Ribbons",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Fresh Dill",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Fresh Chives",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & finely sliced"
+    },
+    {
+      "name": "Capers",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Cornflour",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Broccoli Florets",
+      "quantity": 300,
+      "unit": "g",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "drained"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "SWEET TATERS",
+      "text": "Preheat the oven to 200°C. Place the sweet potato chunks in a pot and submerge in salted water. Place over medium-high heat and bring to the boil. Once boiling, simmer for 10-15 minutes until soft. Drain and place in a bowl. Mash with a fork or potato masher and set aside to cool in the fridge for at least 10 minutes."
+    },
+    {
+      "step": 2,
+      "title": "PREPARATION STATION",
+      "text": "Place the pecan nuts in a pan over medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion and roughly chop. Set aside. Roughly chop the trout ribbons. Loosen the crème fraîche with a splash of water and a squeeze of lemon juice."
+    },
+    {
+      "step": 3,
+      "title": "HI, SWEETCAKES!",
+      "text": "When the sweet potato has cooled, add the chopped trout, ½ the chopped dill, ½ the sliced chives, ½ the chopped capers, the lemon zest (to taste), the corn flour, and a sprinkle of pepper to the bowl. Mix until combined. Wet your hands slightly to prevent the mixture from sticking to them and roll into 2-3 fishcakes per portion."
+    },
+    {
+      "step": 4,
+      "title": "GOLDEN DELICIOUS",
+      "text": "Place the fishcakes on a greased baking tray and lightly coat in oil. Bake in the hot oven for 15-20 minutes. In the final 5 minutes, turn the oven to the grill setting or the highest temperature and grill until golden brown and cooked through."
+    },
+    {
+      "step": 5,
+      "title": "BROC MY WORLD",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil. When hot, fry the broccoli pieces for 6-7 minutes or until lightly charred. Season to taste."
+    },
+    {
+      "step": 6,
+      "title": "GREEN MACHINE",
+      "text": "In a salad bowl, combine the charred broccoli, the rinsed green leaves, the remaining capers, the drained feta, the chopped nuts, a squeeze of lemon juice, seasoning, and a drizzle of oil. Toss until combined."
+    },
+    {
+      "step": 7,
+      "title": "DIVINE!",
+      "text": "Plate up the homemade fishcakes. Side with the charred broccoli salad. Garnish with the remaining dill and chives. Serve with the loosened crème fraîche for dunking. Well done, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 459.0,
+    "energy_kcal": 110.0,
+    "protein_g": null,
+    "carbs_g": 12.0,
+    "sugars_g": 3.3,
+    "fibre_g": 2.4,
+    "fat_g": 4.4,
+    "saturated_fat_g": 2.2,
+    "sodium_mg": 221.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Fish",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value is partially punched out by the binder ring hole (shows ...3g); Energy kcal unit slightly clipped."
+}

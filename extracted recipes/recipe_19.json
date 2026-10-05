@@ -1,0 +1,139 @@
+{
+  "recipe_number": 19,
+  "title": "Delheim's Succulent Lamb Rump",
+  "subtitle": "with a warm quinoa salad, roast butternut & mint-infused yoghurt",
+  "description": "A flavourful cut of lamb, basted with butter and an aromatic rub, lies atop a cosy salad of red quinoa, crispy kale, and feta. With caramelised butternut for nourishment and a burst of freshness from mint-laced yoghurt. Glorious!",
+  "chef": "Samantha Finnegan",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Delheim Wines | Merlot",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Butternut",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "rinsed, deseeded & cut into bite-sized chunks"
+    },
+    {
+      "name": "Kale",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Red Quinoa",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pumpkin & Sunflower Seed Mix",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Plain Yoghurt",
+      "quantity": 50,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "cut into wedges"
+    },
+    {
+      "name": "Lamb Rump",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Lamb Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "drained"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROASTY TOASTY",
+      "text": "Preheat the oven to 200°C. Place the butternut chunks on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes. Place the shredded kale in a bowl with a drizzle of oil and seasoning. Massage until softened and set aside."
+    },
+    {
+      "step": 2,
+      "title": "RUBY RED QUINOA",
+      "text": "Rinse the quinoa and place in a pot with the stock. Submerge in 600ml of water and stir through. Place over a medium-high heat and bring to a simmer uncovered. Cook for 20-25 minutes until the quinoa is tender and its tails have popped out, adding more water if required during cooking. On completion, drain if necessary and return to the pot. Cover with a lid and allow to stand off the heat for at least 5 minutes."
+    },
+    {
+      "step": 3,
+      "title": "CRUNCHY SEEDS & MINTY YOGHURT",
+      "text": "Place a nonstick pan over a medium heat. Toast the seeds for 3-5 minutes until beginning to pop and turn brown. Remove from the pan on completion and set aside to cool. In a small bowl, combine the yoghurt with ¾ of the chopped mint. Season and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "POP IN THAT KALE",
+      "text": "When the butternut has 10 minutes remaining, give a shift and scatter over the kale. Return to the oven for the remaining cooking time. On completion, the kale should be crisp and the butternut should be cooked through and caramelised."
+    },
+    {
+      "step": 5,
+      "title": "TENDER RUMP & PERKY QUINOA",
+      "text": "Pat the lamb dry with paper towel. Return the pan to a medium heat with a drizzle of oil. When hot, cook the lamb for 7-9 minutes, shifting and turning as it colours, until browned all over and cooked through to your preference. (The time frame recommended will yield a medium-rare result.) During the final 1-2 minutes, baste with the Lamb Rub and a knob of butter. Remove from the pan on completion and set aside to rest for 5 minutes before slicing, reserving any pan juices for serving. When the roast is ready, add the crispy kale to the cooked quinoa. Crumble in ¾ of the drained feta, squeeze over the juice of 2 lemon wedges, and toss to combine."
+    },
+    {
+      "step": 6,
+      "title": "PUT YOUR DINNER TOGETHER",
+      "text": "Make a bed of loaded quinoa and top with the golden butternut. Lay the lamb slices on top and drizzle over any reserved juices from the pan. Garnish with the remaining feta, the minty yoghurt, and the toasted seeds. Sprinkle over the remaining mint and serve with a lemon wedge on the side. What a meal!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 650.0,
+    "energy_kcal": 155.0,
+    "protein_g": 7.9,
+    "carbs_g": 13.0,
+    "sugars_g": 1.9,
+    "fibre_g": 2.3,
+    "fat_g": 7.9,
+    "saturated_fat_g": 3.3,
+    "sodium_mg": 273.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "The butternut skin adds flavour, texture, and nutrients, but can be removed if you prefer!",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

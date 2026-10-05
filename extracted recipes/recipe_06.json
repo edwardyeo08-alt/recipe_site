@@ -1,0 +1,140 @@
+{
+  "recipe_number": 6,
+  "title": "Sirloin On Quinoa Mushroom Risotto",
+  "subtitle": "with crispy kale & zesty gremolata",
+  "description": "Juicy slices of beef sirloin sit atop creamy quinoa risotto laced with mushrooms, crème fraîche and garlic. Served with a fresh gremolata, fried sliced mushrooms and crispy kale. A delectable, healthy dinner - how can you resist?",
+  "chef": "Thea Richter",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Cavalli Estate | Cremello",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Kale",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Beef Stock",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Button Mushrooms",
+      "quantity": 250,
+      "unit": "g",
+      "prep": "wiped clean, 1/2 finely chopped & 1/2 finely sliced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "White Quinoa",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Grated Italian-style Hard Cheese",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Free-range Beef Sirloin",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "MASSAGE YOUR KALE",
+      "text": "Preheat the oven to 180°C. Boil the kettle. Place the shredded kale on a roasting tray with a drizzle of oil and some seasoning. Using your hands, gently massage until softened and coated. Set aside for step 3. Dilute the beef stock with 500ml of boiling water."
+    },
+    {
+      "step": 2,
+      "title": "CREAMY QUINOA RISOTTO",
+      "text": "Place a pot or deep saucepan (large enough for the risotto) over a medium-high heat with a drizzle of oil. Add the chopped onion and sauté for 3-4 minutes until soft and translucent. Add in the chopped mushrooms and fry for 3-5 minutes until soft and golden. Add 1/2 of the grated garlic and fry for a further 30-60 seconds until fragrant. Add the quinoa, stir it through the onion and mushroom, and then fry for about a minute. Pour in the diluted stock and some seasoning and bring to a simmer. Gently cook for 20-25 minutes, stirring frequently. On completion, the quinoa should be cooked and have thickened enough to hold its shape on a plate. Remove from the heat and stir through the grated cheese, 1/2 the crème fraîche and a generous knob of butter (optional)."
+    },
+    {
+      "step": 3,
+      "title": "ZESTY GREMOLATA",
+      "text": "Place the remaining grated garlic, the chopped parsley, the lemon zest and the juice of 2 lemon wedges in a bowl. Add in a good drizzle of olive oil, some seasoning to taste and mix until combined. Set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "GOLDEN MUSHROOMS",
+      "text": "Place a pan over a medium-high heat with a drizzle of oil. Add in the sliced mushroom, fry for 5-6 minutes until soft and golden. Season to taste and remove from the pan. Place the tray of kale in the hot oven and roast for 8-10 minutes until crispy."
+    },
+    {
+      "step": 5,
+      "title": "ALMOST THERE",
+      "text": "Return the pan to a medium-high heat and pat the steaks dry with paper towel. When the pan is hot, sear the steaks fat-side down, for 3-5 minutes until crispy. Then, fry for 2-4 minutes per side, or until cooked to your preference (this time frame may depend on the thickness of the steaks). During the final 1-2 minutes, baste with a knob of butter. Remove from the pan on completion and allow to rest for 5 minutes before slicing. Lightly season the slices."
+    },
+    {
+      "step": 6,
+      "title": "IT'S TIME TO FEAST",
+      "text": "Plate up a mound of the mushroom quinoa risotto. Top with juicy steak slices and spoon the gremolata over the slices. Sprinkle over the fried mushroom slices and dollop the remaining crème fraîche. Side with the crispy kale and a lemon wedge and dig in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 676.0,
+    "energy_kcal": 162.0,
+    "protein_g": 9.5,
+    "carbs_g": 13.0,
+    "sugars_g": 2.1,
+    "fibre_g": 2.1,
+    "fat_g": 6.1,
+    "saturated_fat_g": 2.8,
+    "sodium_mg": 201.0
+  },
+  "allergens": [
+    "Egg",
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "A gremolata is a green sauce made of parsley, lemon zest and fresh garlic. It is often served with steak or roasted veggies. If the raw garlic is too pungent, fry for 1-2 minutes until fragrant.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

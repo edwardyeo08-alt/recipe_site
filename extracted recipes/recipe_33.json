@@ -1,0 +1,137 @@
+{
+  "recipe_number": 33,
+  "title": "North African Lamb Meatballs",
+  "subtitle": "with roast aubergine, crispy chickpeas & a tahini dressing",
+  "description": "Get a midweek boost from this hearty bowl, filled with the vibrant aromas of turmeric-infused basmati and roast aubergine, tomatoes, and chickpeas. Top with tender lamb meatballs, spiced with a Morrocan rub, and spatter with a light, tangy tahini dressing.",
+  "chef": "Tess Witney",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 60,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Aubergine",
+      "quantity": 800,
+      "unit": "g",
+      "prep": "rinsed, trimmed & cut into bite-size chunks"
+    },
+    {
+      "name": "White Basmati Rice",
+      "quantity": 300,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Turmeric & Stock Mix",
+      "quantity": 25,
+      "unit": "ml",
+      "prep": "5ml Turmeric & 20ml Vegetable Stock"
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 600,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "NOMU Moroccan Rub",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pickling Liquid",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": "20ml Honey & 40ml White Wine Vinegar"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    },
+    {
+      "name": "Lamb Mince",
+      "quantity": 600,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Tahini",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GOLDEN RICE",
+      "text": "Preheat the oven to 220°C. Rinse the rice and place in a pot over a medium-high heat. Submerge in 900ml of water, stir in the stock mix, and pop on a lid. Once boiling, reduce the heat and simmer for 10 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. On completion, drain if necessary and fluff up with a fork. Replace the lid and set aside to keep warm until serving."
+    },
+    {
+      "step": 2,
+      "title": "ROAST 'EM UP!",
+      "text": "Place the drained chickpeas and half of the halved baby tomatoes on a roasting tray. Place the aubergine chunks on a separate roasting tray. Use half of the Moroccan Rub and some oil to coat all of the veggies. Roast in the hot oven for 35-40 minutes until the aubergine and tomatoes are soft and the chickpeas are crispy, shifting halfway."
+    },
+    {
+      "step": 3,
+      "title": "PICKLED TOMATOES",
+      "text": "Place the remaining baby tomatoes in a bowl with the pickling liquid and half of the chopped coriander. Add a pinch of salt, toss to coat, and set aside until serving."
+    },
+    {
+      "step": 4,
+      "title": "GET ROLLING!",
+      "text": "Place the mince in a bowl with the remaining Moroccan Rub and chopped coriander. Add in the chopped onion to your taste preference. (If there's lots remaining, toss it through the pickled tomatoes to make a salsa!) Season to taste and mix until well combined. Roll into 4-5 meatballs per portion and place on a lightly greased baking tray. When the roast veggies reach the halfway mark, pop the meatballs in the oven for 12-15 minutes until browned and glossy, shifting halfway. Remove on completion and allow to rest in the tray for 2-3 minutes before serving."
+    },
+    {
+      "step": 5,
+      "title": "TANGY TAHINI DRESSING",
+      "text": "Place the tahini in a bowl. Drain the pickling liquid from the tomatoes and gradually mix it into the tahini to taste. Combine with a small drizzle of oil and some seasoning."
+    },
+    {
+      "step": 6,
+      "title": "SERVE IT UP!",
+      "text": "Make a bed of turmeric rice and cover in spicy roast veggies. Place the juicy lamb meatballs on top and scatter over the pickled baby tomatoes. Drizzle with the tahini dressing to taste and tuck in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 575.0,
+    "energy_kcal": 138.0,
+    "protein_g": 7.4,
+    "carbs_g": 15.0,
+    "sugars_g": 2.9,
+    "fibre_g": 2.4,
+    "fat_g": 5.2,
+    "saturated_fat_g": 1.8,
+    "sodium_mg": 171.0
+  },
+  "allergens": [
+    "Allium",
+    "Sesame",
+    "Sulphites"
+  ],
+  "chef_tip": "Draining and rinsing tinned beans, lentils, and chickpeas before use drastically reduces the amount of sodium you're adding to your meal. It also reduces complex sugar content (which humans can't digest!) and improves the flavour and texture of the food.",
+  "card_obscured_flag": true,
+  "obscured_details": "Right-hand binder ring hole clips text on the right side of Chef's Tip ('which humans can't digest!' and 'flavour and')."
+}

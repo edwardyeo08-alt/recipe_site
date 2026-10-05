@@ -1,0 +1,144 @@
+{
+  "recipe_number": 66,
+  "title": "Sleek & Simple Butter Chicken",
+  "subtitle": "with nutty basmati, greek yoghurt & a crispy poppadom",
+  "description": "Get that creamy, aromatic butter chicken curry experience — with none of the guilt! Thickened with greek yoghurt, loaded with baby spinach, and paired with nourishing brown basmati rice.",
+  "chef": "Samantha Finnegan",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 60,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "quantity": 300,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Spice And All Things Nice Butter Chicken Curry Paste",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-Range Chicken Mini Fillets",
+      "quantity": 600,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Flaked Almonds",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 4,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Cooked Chopped Tomatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Poppadom",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Greek Yoghurt",
+      "quantity": 400,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 4,
+      "unit": null,
+      "prep": "finely sliced"
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET THE BASMATI GOING",
+      "text": "Rinse the rice and place in a pot over a medium-high heat. Submerge in 800ml of salted water and pop on a lid. Once boiling, reduce the heat and simmer for 25-30 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for a further 10 minutes. Drain on completion if necessary and fluff up with a fork."
+    },
+    {
+      "step": 2,
+      "title": "MARINATING & TOASTING",
+      "text": "In a large bowl, mix together 2 tsp of the curry paste, a drizzle of oil, and some seasoning to taste. Rinse the chicken mini fillets to get rid of any residue from the packet, pat dry with paper towel, and add to the bowl. Toss until coated and set aside to marinate. Place the flaked almonds in a small pan over a medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "CURRY BASE",
+      "text": "Place a large pot over a medium heat with a drizzle of oil. When hot, fry the diced onion for 4-5 minutes until soft and translucent. Add the grated garlic and the remaining curry paste to taste, and fry for another minute until fragrant, shifting constantly. Pour in the cooked chopped tomatoes and 200ml of water. Give it a stir, bring to a simmer, and pop on a lid. Cook for 15-20 minutes until thickened."
+    },
+    {
+      "step": 4,
+      "title": "CRISPY POPPADOM",
+      "text": "When the sauce is nearing completion, return the pan to a medium-high heat with enough oil to cover the base. When hot, shallow fry the poppadoms one at a time for 30 seconds per side. As soon as it starts curling, use tongs or a spatula to flip it and flatten it out. Keep flipping and flattening until puffed up and golden. Remove from the pan on completion and drain on some paper towel."
+    },
+    {
+      "step": 5,
+      "title": "THINGS ARE ABOUT TO GET CREAMY...",
+      "text": "Once the sauce has thickened, stir through the yoghurt and marinated chicken. Replace the lid and simmer for 7-8 minutes until the chicken is cooked through, giving it a stir halfway. During the final minute, stir through the rinsed baby spinach until wilted. Season to taste and remove from the heat on completion."
+    },
+    {
+      "step": 6,
+      "title": "GRUB'S UP!",
+      "text": "Make a bed of nutty basmati and smother in the creamy butter chicken curry. Garnish with the toasted almond flakes, chopped mint, and sliced spring onion. Scoop up all of that flavour with the crispy poppadoms. Good work, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 519.0,
+    "energy_kcal": 124.0,
+    "protein_g": 10.1,
+    "carbs_g": 15.0,
+    "sugars_g": 1.7,
+    "fibre_g": 2.0,
+    "fat_g": 2.9,
+    "saturated_fat_g": 0.7,
+    "sodium_mg": 123.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Tree Nuts"
+  ],
+  "chef_tip": "If you don't feel like frying the poppadoms, you can cook them in the microwave! Simply heat them one at a time in 10 second bursts. Do this until puffed up and crispy — about 30-40 seconds in total.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

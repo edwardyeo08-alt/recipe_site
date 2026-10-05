@@ -1,0 +1,128 @@
+{
+  "recipe_number": 173,
+  "title": "Exotic Mushroom Tabbouleh",
+  "subtitle": "with mixed herbs, dried apricots & toasted almonds",
+  "description": "Dish up a generous helping of fluffy bulgur wheat, a mixed herb medley, sweet dried apricots, toasted almonds, and golden mushrooms. Add some extra zing with a final squeeze of fresh lemon.",
+  "chef": "Rhea Hsu",
+  "category": "Veggie",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Strandveld | Pofadderbos Sauvignon Blanc",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Bulgur Wheat",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 160,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Mixed Herbs",
+      "quantity": 24,
+      "unit": "g",
+      "prep": "8g Fresh Parsley, 8g Fresh Mint & 8g Fresh Dill"
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Dried Apricots",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Mixed Exotic Mushrooms",
+      "quantity": 250,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Almonds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Moroccan Rub",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BEGIN WITH BULGUR",
+      "text": "Boil the kettle. Using a shallow bowl, submerge the bulgur wheat in 200ml of salted, boiling water. Add a drizzle of oil and stir through with a fork. Cover and steam for 15-20 minutes until cooked. Fluff up with a fork, cover, and set aside."
+    },
+    {
+      "step": 2,
+      "title": "A MEDLEY OF FRESH FLAVOURS",
+      "text": "Rinse and quarter the baby tomatoes. Rinse, pick, and roughly chop the mixed herbs. Rinse and thinly slice the spring onion. Cut the lemon into wedges. Roughly chop the dried apricots. Cut the mushrooms into bite-sized pieces."
+    },
+    {
+      "step": 3,
+      "title": "ALL OF THE ALMONDS",
+      "text": "Place the almonds in a pan over medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan and set aside to cool."
+    },
+    {
+      "step": 4,
+      "title": "GO FOR GOLDEN",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil. When hot, fry the mushroom pieces for 5-6 minutes until golden, shifting as they colour. In the final minute, baste with the NOMU rub. Remove from the pan and season."
+    },
+    {
+      "step": 5,
+      "title": "COMBINE BEFORE YOU DINE",
+      "text": "In a large salad bowl, combine the cooked bulgur, the quartered baby tomatoes, the chopped herbs, ¾ of the sliced spring onion (to taste), ½ the chopped dried apricots, ½ the toasted almonds, a squeeze of lemon juice, a drizzle of olive oil, a sweetener of choice, and seasoning."
+    },
+    {
+      "step": 6,
+      "title": "TIME FOR TASTY TABBOULEH!",
+      "text": "Plate up a generous helping of the herby tabbouleh and scatter over the golden mushrooms. Sprinkle over the remaining apricots, toasted almonds, & spring onion. Serve with any remaining lemon wedges. Good job, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 551.0,
+    "energy_kcal": 132.0,
+    "protein_g": null,
+    "carbs_g": 24.0,
+    "sugars_g": 4.0,
+    "fibre_g": 5.2,
+    "fat_g": 2.0,
+    "saturated_fat_g": 0.2,
+    "sodium_mg": 78.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in Nutritional Information is punched out/obscured by the binder ring hole."
+}

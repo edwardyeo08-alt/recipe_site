@@ -1,0 +1,142 @@
+{
+  "recipe_number": 89,
+  "title": "Bistro Sixteen82 Fusion Hake Fillet",
+  "subtitle": "with miso That Mayo, soba noodles & portobellini mushrooms",
+  "description": "Radiating with umami and nourishment, this delectable dinner will enliven any wintery eve. Perfectly crisped hake tops a sumptuous stir fry of soba noodles, wilted spinach, and peanuts — seasoned with soy and honey. Covered in a warming sauté of marinated mushrooms, corn, and carrot, and decorated with splatters of miso mayo.",
+  "chef": "Kerry Kilpin",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 45,
+  "overall_time_minutes": 70,
+  "wine_pairing": "Steenberg Vineyards | Sauvignon Blanc",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Soy Marinade",
+      "quantity": 170,
+      "unit": "ml",
+      "prep": "(85ml Low Sodium Soy Sauce & 85ml Rice Wine Vinegar)"
+    },
+    {
+      "name": "Portobellini Mushrooms",
+      "quantity": 250,
+      "unit": "g",
+      "prep": "wiped clean & roughly sliced"
+    },
+    {
+      "name": "Peanuts",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Miso Mayo",
+      "quantity": 115,
+      "unit": "ml",
+      "prep": "(15ml Miso Paste & 100ml That Mayo - Original)"
+    },
+    {
+      "name": "Soba Noodles",
+      "quantity": 180,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Corn",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Julienne Carrot",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Spinach",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Honey",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Line-caught Hake Fillets",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "MARINADE, NUTS & MAYO",
+      "text": "In a salad bowl, whisk together the soy marinade and 40ml of olive oil until emulsified. Toss through the sliced mushrooms and allow to marinate for at least 20 minutes. Place a pan for the stir fry over a medium heat. When hot, toast the peanuts for 3-5 minutes until golden, shifting occasionally. Remove from the pan and set aside. Finely chop when cool enough to handle. Boil the kettle. Place the miso mayo in a small bowl and loosen with water in 5ml increments until drizzling consistency. Set aside for serving."
+    },
+    {
+      "step": 2,
+      "title": "OODLES OF NOODLES",
+      "text": "Fill a pot with boiling water, add a pinch of salt, and place over a high heat. Once bubbling rapidly, cook the noodles for 6-8 minutes until tender. Drain on completion and run under cold water to stop the cooking process. Toss through some oil to prevent sticking and set aside for step 4."
+    },
+    {
+      "step": 3,
+      "title": "MOUNTAINS OF MUSHIES",
+      "text": "Return the pan to a high heat with a drizzle of oil. When hot, fry the drained corn for 4-5 minutes until charred. Add in the mushrooms, reserving the marinade in the bowl, and fry for 4-5 minutes until cooked through. Transfer ¼ of the corn and mushrooms to a bowl (leaving the rest in the pan) and cover with a plate. Set aside for serving. Keeping the pan on the heat, mix in the carrot and ¾ of the chopped coriander. Cook for 7-8 minutes until the carrot is slightly softened. Transfer to a separate bowl, cover to keep warm, and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "TANGY & UMAMI",
+      "text": "Return the pan to a medium heat with a drizzle of oil. When hot, add in the cooked noodles, chopped peanuts, and rinsed spinach. Toss together with the reserved marinade, the honey, and some seasoning — all to taste. Cook for 5-7 minutes until the spinach is wilted and the noodles are reheated, tossing occasionally. On completion, remove the pan from the heat and cover to keep warm until serving."
+    },
+    {
+      "step": 5,
+      "title": "FRY THE HAKE",
+      "text": "Pat the hake dry with paper towel. Place a nonstick pan over a medium heat with a drizzle of oil. When hot, fry the hake skin-side down for 3-4 minutes until crispy. Flip and fry the other side for 3-4 minutes until cooked through. Remove from the pan."
+    },
+    {
+      "step": 6,
+      "title": "SIT DOWN TO DINNER",
+      "text": "Make a bed of noodles and pile on the saucy stir fry. Top with the flaky fish, the reserved mushrooms and corn, and drizzles of miso mayo. Garnish with the remaining coriander. Wowzers!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 585.0,
+    "energy_kcal": 140.0,
+    "protein_g": 8.5,
+    "carbs_g": 16.0,
+    "sugars_g": 3.8,
+    "fibre_g": 1.8,
+    "fat_g": 4.2,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 390.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Peanuts",
+    "Wheat",
+    "Sulphites",
+    "Fish",
+    "Soy"
+  ],
+  "chef_tip": "The mushrooms need to marinate for a while to get them fully flavourful. So, get step one done first before completing the rest of your prep.",
+  "card_obscured_flag": true,
+  "obscured_details": "Ring binder hole clips 'Sulphites' in the allergens list on the reverse side."
+}

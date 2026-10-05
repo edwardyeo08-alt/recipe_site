@@ -1,0 +1,133 @@
+{
+  "recipe_number": 129,
+  "title": "Saucy Bacon Gnocchi",
+  "subtitle": "with spinach & pumpkin seeds",
+  "description": "Don't miss out on this extraordinary meal! Tantalising tomato-based ragù — thick, silky, and packed with bacon — surrounds crisp butternut gnocchi. Sprinkled with Italian-style cheese and popping with seeds.",
+  "chef": "Kerry Kilpin",
+  "category": "Fan Faves",
+  "servings": 3,
+  "hands_on_time_minutes": 50,
+  "overall_time_minutes": 60,
+  "wine_pairing": "Strandveld | Grenache",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 30.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Butternut Gnocchi",
+      "quantity": 525.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onions",
+      "quantity": 2.0,
+      "unit": null,
+      "prep": "1½ peeled & finely diced"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 360.0,
+      "unit": "g",
+      "prep": "rinsed, trimmed & roughly chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 3.0,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 600.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Streaky Pork Bacon",
+      "quantity": 9.0,
+      "unit": "strips",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 60.0,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Grated Italian-style Hard Cheese",
+      "quantity": 90.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 12.0,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "OPENING ACT",
+      "text": "Boil the kettle. Place the pumpkin seeds in a large saucepan over a medium heat. Toast for 3-5 minutes until browned, shifting occasionally. Set aside to cool. Fill a pot with boiling water, add a pinch of salt, and place over a high heat. Once bubbling, cook the gnocchi for 2-3 minutes until floating and heated through. Drain, reserving a cup of the water. Toss some oil through the gnocchi and set aside."
+    },
+    {
+      "step": 2,
+      "title": "NEXT UP",
+      "text": "Return the pan to a medium heat with a drizzle of oil. When hot, fry the diced onion for 6-8 minutes until soft, shifting occasionally. Add the chopped carrot and a splash of water. Simmer for 5-6 minutes until the carrot is al dente and the water has been absorbed. In the final minute, add the grated garlic and sauté until fragrant. Mix in the cooked chopped tomato and 300ml of water. Bring to the boil. Reduce the heat and simmer for 10-12 minutes, stirring occasionally."
+    },
+    {
+      "step": 3,
+      "title": "MEANWHILE...",
+      "text": "Place a second large pan over a medium heat. When hot, fry the bacon for 2 minutes per side until cooked but not too crispy. Set aside to drain on paper towel. Wipe down the pan and return it to a medium heat with a knob of butter and a small drizzle of oil. Once foaming, fry the gnocchi in a single layer for 4-5 minutes until crispy, shifting as they colour. Do this step in batches to avoid overcrowding the pan. Remove the pan from the heat. Roughly chop the bacon."
+    },
+    {
+      "step": 4,
+      "title": "FINALE!",
+      "text": "Once the sauce has simmered, remove from the heat. Stir in the rinsed spinach, ¾ of the bacon and the fried gnocchi. If the sauce is too thick, gradually mix in the reserved gnocchi water until the desired consistency. Season to taste with salt, pepper, and a sweetener of choice, and remove from the heat."
+    },
+    {
+      "step": 5,
+      "title": "THE TASTE OF A WARM SUNSET",
+      "text": "Help yourself to bacon ragù gnocchi. Sprinkle over the grated cheese and the remaining bacon. Garnish with the seeds and chopped parsley. Magnificent!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 438.0,
+    "energy_kcal": 105.0,
+    "protein_g": 4.3,
+    "carbs_g": 14.0,
+    "sugars_g": 2.8,
+    "fibre_g": 2.2,
+    "fat_g": 3.0,
+    "saturated_fat_g": 1.0,
+    "sodium_mg": 236.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "Make sure you use a large enough pot to boil the gnocchi, so that they don't end up sticking together from overcrowding. You can boil them in batches if necessary.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

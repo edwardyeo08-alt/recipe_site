@@ -1,0 +1,133 @@
+{
+  "recipe_number": 34,
+  "title": "Cheesy Nachos & Beef Mince",
+  "subtitle": "with fresh salsa & guacamole",
+  "description": "A classic is a classic for a reason! Crunchy corn nachos are smothered in an easy tomato sauce, succulent beef mince, and a layer of mozzarella & cheddar cheese. Served with a fresh tomato & coriander salsa, guacamole and sour cream, this dish is perfection on a plate!",
+  "chef": "Thea Richter",
+  "category": "Quick & Easy",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 25,
+  "wine_pairing": "Waterkloof | Circumstance Petit Verdot",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Free-range Beef Mince",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "NOMU Mexican Spice Blend",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Corn Nachos",
+      "quantity": 160,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Grated Mozzarella & Cheddar Cheese",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": 90,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Guacamole",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Sliced Pickled Jalapeños",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "drained"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "FRY BABY",
+      "text": "Preheat the oven to the grill setting or the highest temperature. Place a nonstick pan over a high heat with a drizzle of oil. When hot, add the mince and work quickly to break it up as it starts to cook. Allow to caramelise for 5-6 minutes until browned, shifting occasionally."
+    },
+    {
+      "step": 2,
+      "title": "SAUCY",
+      "text": "When the mince is browned, add the grated garlic and the spice blend and fry for 1 minute until fragrant, shifting constantly. Pour in the cooked chopped tomato and 200ml of water. Leave to simmer for 8-10 minutes until slightly reduced and thickened. Season with salt, pepper, and a sweetener of choice. Remove from the heat."
+    },
+    {
+      "step": 3,
+      "title": "NACHO BUSINESS",
+      "text": "Place the nachos in an ovenproof dish and spread out in an even layer. Evenly cover in the tomato and beef mixture. Sprinkle over the grated cheese and pop in the hot oven. Bake for 4-5 minutes until the cheese is melted and golden."
+    },
+    {
+      "step": 4,
+      "title": "LET'S SALSA",
+      "text": "While the nachos are baking, rinse and pick the coriander. Roughly dice the tomato. In a bowl, combine the diced tomato, ½ the picked coriander, a drizzle of oil, and seasoning."
+    },
+    {
+      "step": 5,
+      "title": "DINNER IS SERVED!",
+      "text": "Pile up the cheesy nachos. Dollop on the sour cream and the guacamole. Top with the fresh salsa, the remaining coriander, and the jalapeño slices (to taste). Indulge yourself, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 848.0,
+    "energy_kcal": 203.0,
+    "protein_g": 14.0,
+    "carbs_g": 12.0,
+    "sugars_g": 2.6,
+    "fibre_g": 1.9,
+    "fat_g": 13.5,
+    "saturated_fat_g": 4.7,
+    "sodium_mg": 242.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punches through the nutritional information column, partially obscuring the protein value ('...4g', likely 14g)."
+}

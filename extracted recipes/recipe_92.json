@@ -1,0 +1,121 @@
+{
+  "recipe_number": 92,
+  "title": "Yellowtail & Apricot Glaze",
+  "subtitle": "with sautéed spinach and onion, roast pumpkin & fresh lemon",
+  "description": "Fish and apricot is a beloved local pairing — for good reason! Here, the buttery flavour of pan-seared yellowtail is elevated by the fruitiness of an apricot, garlic, and honey glaze. With nutrient-rich veg for balanced, delicious dining.",
+  "chef": "Lauren Todd",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 60,
+  "wine_pairing": "Steenberg Vineyards | Rattlesnake Sauvignon Blanc",
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Pumpkin Chunks",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Dried Apricots",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Lemons",
+      "quantity": 2,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Honey",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 4,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & roughly diced"
+    },
+    {
+      "name": "Spinach",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Line-caught Yellowtail Fillets",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Water",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "PREP THE ORANGE THINGS",
+      "text": "Preheat the oven to 200°C. Boil the kettle. Spread out the pumpkin pieces on a roasting tray, coat in oil, and season. Roast in the hot oven for 35-40 minutes until cooked through and crisping up. Place the dried apricots in a bowl and submerge in boiling water. Allow to soak for 4-5 minutes until plump and rehydrated. Drain, roughly chop, and set aside."
+    },
+    {
+      "step": 2,
+      "title": "AMAZE GLAZE",
+      "text": "When the pumpkin reaches the halfway mark, give it a shift and return to the oven. Place a small pot over a medium heat with a drizzle of oil. When hot, add in the chopped apricots, the juice of 4 lemon wedges, and 80ml of water. Give a stir and gently simmer for 4-5 minutes until sticky, breaking up the apricots as they soften. If starting to dry out during cooking, gradually mix in water in 10ml increments. On completion, stir through the honey, ½ of the grated garlic, and a knob of butter (optional). Remove from the heat and season to taste. Pop on a lid and set aside to keep warm."
+    },
+    {
+      "step": 3,
+      "title": "SAUTÉ THE SPINACH",
+      "text": "Place a large pan over a medium heat with a drizzle of oil. When hot, fry the diced onion for 3-4 minutes until soft and translucent, shifting occasionally. Add the remaining grated garlic and fry for a minute until fragrant, shifting constantly. Add the shredded spinach and sauté for 5-6 minutes until wilted. On completion, transfer to a bowl and season. Cover to keep warm and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "DECADENT FISH",
+      "text": "Pat the yellowtail dry with paper towel and season the flesh. Return the pan to a medium-high heat with another drizzle of oil. When hot, fry the yellowtail skin-side down for 3-5 minutes until the skin is crispy. Flip, add a knob of butter (optional), and pour over ½ of the apricot glaze. Fry for a further 2-3 minutes until cooked through, continuously basting with the glaze in the pan. Remove the pan from the heat on completion."
+    },
+    {
+      "step": 5,
+      "title": "STICKY APRICOT HEAVEN",
+      "text": "Dish up a generous portion of tender spinach and cover in roast pumpkin. Top with the yellowtail fillet, pour over the pan juices to taste, and douse in the remaining apricot glaze. Finish off with sprinklings of chopped parsley and lemon zest — and don't forget to serve a lemon wedge on the side. Indulge..."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 345.0,
+    "energy_kcal": 83.0,
+    "protein_g": 7.7,
+    "carbs_g": 10.0,
+    "sugars_g": 6.7,
+    "fibre_g": 1.9,
+    "fat_g": 1.3,
+    "saturated_fat_g": 0.3,
+    "sodium_mg": 148.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Fish"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punches through the digit before .7g in the Protein nutritional information value."
+}

@@ -1,0 +1,143 @@
+{
+  "recipe_number": 119,
+  "title": "Delheim's Creamy Mushroom Gnocchi",
+  "subtitle": "with crispy sage butter, fresh cream & a side salad",
+  "description": "Tender on the inside and crisp on the outside, this potato gnocchi is steeped in a decadently creamy mushroom and hard cheese sauce, topped with buttery sage, and served with a leafy tomato side salad. A dinner to remember!",
+  "chef": "Alex Levett",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Delheim Wines | Shiraz/Cabernet Sauvignon",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Sunflower Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salad Dressing",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": "(30ml Willow Creek Cabernet Sauvignon Vinegar & 10ml Honey)"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 160,
+      "unit": "g",
+      "prep": "rinsed & quartered"
+    },
+    {
+      "name": "Fresh Sage",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed, picked & dried"
+    },
+    {
+      "name": "Portobellini Mushrooms",
+      "quantity": 250,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Potato Gnocchi",
+      "quantity": 350,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Cream",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Grated Italian-style Hard Cheese",
+      "quantity": 50,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter",
+    "Milk"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET GOING",
+      "text": "Place the seeds in a large pan over a medium heat. Toast for 2-4 minutes until lightly browned, shifting occasionally. Remove from the pan on completion and set aside to cool. In a salad bowl, whisk together the dressing and 20ml of olive oil until well combined. Toss through the quartered baby tomatoes, season to taste, and set aside."
+    },
+    {
+      "step": 2,
+      "title": "CRISPY SAGE BUTTER",
+      "text": "Return the pan to a medium-high heat with a drizzle of oil and a generous knob of butter. Once foaming, fry the sage leaves for about 1 minute per side until crispy. (Use tongs if you have them!) Remove from the pan and set aside to drain on paper towel. Pour the sage butter into a bowl and set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "CARAMELISE THE MUSHIES",
+      "text": "Return the pan to the heat with another drizzle of oil if necessary. Wipe the mushrooms clean and roughly slice. When the pan is hot, fry for 3-5 minutes until golden, shifting as they colour. You may need to do this step in batches. Remove from the pan, season, and set aside."
+    },
+    {
+      "step": 4,
+      "title": "THINGS ARE HEATING UP!",
+      "text": "Boil the kettle. Place a pot over a high heat, fill with boiling water, and add a pinch of salt. Once bubbling, cook the gnocchi for 2-3 minutes until they begin to float and are heated through. Drain on completion, reserving 1 cup of the water. Return the pan to a medium-high heat with another drizzle of oil. When hot, fry the gnocchi in a single layer for 2-4 minutes until crisp and golden, shifting as they colour. Remove from the pan and set aside."
+    },
+    {
+      "step": 5,
+      "title": "CREAMY SAUCE",
+      "text": "Return the pan to a medium heat with another drizzle of oil if necessary. When hot, sauté the diced onion for 4-5 minutes until soft. Add in the grated garlic and sauté for a minute until fragrant. Lower the heat and stir in the cream, the cheese, 60ml of milk, and seasoning. Simmer for 2-3 minutes until thickened, stirring occasionally. Mix in the gnocchi and mushrooms, and cook for 2-3 minutes until coated and reheated. If the sauce is too thick, loosen with the reserved gnocchi water. Remove from the heat on completion. Toss the rinsed green leaves through the bowl of tomatoes."
+    },
+    {
+      "step": 6,
+      "title": "YOU'RE IN FOR A TREAT!",
+      "text": "Dish up the decadent gnocchi, pour over the sage butter to taste, and top with the sage leaves. Side with the salad and sprinkle it all with the sunflower seeds. Scrumptious!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 536.0,
+    "energy_kcal": 128.0,
+    "protein_g": 3.3,
+    "carbs_g": 11.0,
+    "sugars_g": 3.0,
+    "fibre_g": 3.7,
+    "fat_g": 8.4,
+    "saturated_fat_g": 4.0,
+    "sodium_mg": 116.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "For the best results, boil the gnocchi in batches to prevent crowding the pot and overcooking.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

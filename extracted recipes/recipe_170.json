@@ -1,0 +1,140 @@
+{
+  "recipe_number": 170,
+  "title": "Indulgent Pea Risotto",
+  "subtitle": "with pecorino cheese, pine nuts & balsamic-glazed onions",
+  "description": "This rich and buttery risotto is swirled with peas and fresh basil, creamed with pecorino cheese, and speckled with chunks of charred baby marrow. And to top it all? The luxury of sticky braised baby onions and the sweet pop of pine nuts.",
+  "chef": "Jessica Sole",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Steenberg Vineyards | Rattlesnake Sauvignon Blanc",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Baby Onions",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Arborio Rice",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "White Wine",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pecorino Romano Cheese",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pine Nuts",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "rinsed, trimmed & sliced into 1,5cm thick strips"
+    },
+    {
+      "name": "Balsamic Glaze",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly sliced"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BRAISED BABY ONIONS",
+      "text": "Peel the onions and halve lengthways. Don't remove the tip that keeps the layers joined together. Place a nonstick pan (that has a lid) over a medium heat with enough oil to cover the base. Place the onions in the pan in a single layer and turn cut-side down. Once sizzling, reduce to a low heat and pop on the lid. Allow to braise for 20-25 minutes until the cut side is charred, shifting occasionally."
+    },
+    {
+      "step": 2,
+      "title": "START THE RISOTTO",
+      "text": "Place a pot for the risotto over a medium heat with a drizzle of oil and 60g of butter. Once foaming, stir in the rice and grated garlic for 30-60 seconds until coated. Mix in the white wine and simmer until almost fully evaporated. Add a ladle of stock and allow it to be absorbed by simmering and stirring regularly. Only add the next ladle of stock when the previous one has been absorbed. Repeat this process for 20-25 minutes until the rice is cooked al dente."
+    },
+    {
+      "step": 3,
+      "title": "WHILE IT'S SIMMERING...",
+      "text": "Boil the kettle. Grate ¾ of the cheese and peel the rest into ribbons. Dilute the stock with 800ml of boiling water. Set the cheese and stock aside. Place a second pan over a medium heat. Toast the pine nuts for 3-5 minutes until golden brown, shifting occasionally. Keep a close watch; they burn easily! Remove from the pan on completion and set aside to cool. Coat the baby marrow strips in oil. Return the pan to a medium heat — or use a griddle pan if you'd like. When hot, fry the strips for 3-4 minutes per side until charred and cooked al dente. Transfer to a bowl on completion, cover to keep warm, and set aside."
+    },
+    {
+      "step": 4,
+      "title": "ADD IN THE GLAZE",
+      "text": "When the onions are charred, set the lid aside. Add in 2-3 small knobs of butter and ¾ of the balsamic glaze, and give the pan a shift to distribute. Allow to bubble for 2-3 minutes until sticky. Remove the pan from the heat, cover to keep warm, and set aside."
+    },
+    {
+      "step": 5,
+      "title": "THE END IS NEAR!",
+      "text": "When the rice is cooked, mix in the peas, the grated cheese, and a naughty-sized knob of butter. Remove from the heat and stir through ½ of the sliced basil and some seasoning. Cut the baby marrow into bite-sized chunks."
+    },
+    {
+      "step": 6,
+      "title": "DIVE INTO DECADENCE",
+      "text": "Dish up a mound of risotto, scatter with the baby marrow, and top with the onions. Garnish with the cheese ribbons, pine nuts, and remaining basil. Drizzle with the remaining balsamic glaze and the basting from the onion pan to taste. You're a natural!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 735.0,
+    "energy_kcal": 176.0,
+    "protein_g": 6.9,
+    "carbs_g": 25.0,
+    "sugars_g": 5.4,
+    "fibre_g": 2.5,
+    "fat_g": 5.2,
+    "saturated_fat_g": 2.7,
+    "sodium_mg": 392.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Sulphites",
+    "Tree Nuts",
+    "Alcohol"
+  ],
+  "chef_tip": "To cook food 'al dente' means that it should still be firm when bitten. It must be tender, but not soft. This typically refers to pasta, but also applies to other grains, as well as a range of veg. Remember this when you see 'al dente' in other recipes!",
+  "card_obscured_flag": true,
+  "obscured_details": "Chef's tip end of text partially clipped by binder ring hole ('other reci[pes!]')."
+}

@@ -1,0 +1,134 @@
+{
+  "recipe_number": 46,
+  "title": "Cumin Basted Beef Fillet",
+  "subtitle": "with butternut harra, hummus & flaked almonds",
+  "description": "Indulgence at its best with this tender spiced cumin beef fillet. A side of Lebanese “batata harra” with a butternut twist, is paired excellently with creamy hummus and sprinklings of toasted almonds. Come on.... take a flavour trip with us!",
+  "chef": "Ella Nasser",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 55,
+  "wine_pairing": "Haute Cabrière | Pinot Noir Réserve",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Butternut",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "deseeded, peeled (optional) & cut into bite-sized chunks"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Dried Chilli Flakes",
+      "quantity": 5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & finely chopped"
+    },
+    {
+      "name": "Flaked Almonds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Free-range Beef Fillet",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Ground Cumin",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lime Juice",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Hummus",
+      "quantity": 85,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROASTED BUTTERNUT PERFECTION",
+      "text": "Preheat the oven to 200°C. Place the butternut chunks on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "FLAVOURFUL SAUTÈ",
+      "text": "Place a pan over medium heat with a drizzle of oil. Once hot, add the grated garlic, ½ the chilli flakes and ½ the chopped coriander. Fry until the garlic is golden in colour, about 2-4 minutes. Remove from the pan and set aside."
+    },
+    {
+      "step": 3,
+      "title": "TOASTY ALMONDS & SALAD",
+      "text": "Wipe down the pan. Add the flaked almonds and toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion. Place the rinsed green leaves, a drizzle of olive oil and seasoning in a bowl. Toss to combine and set aside."
+    },
+    {
+      "step": 4,
+      "title": "CUMINY FILLET",
+      "text": "Return the pan to high heat. Pat the fillet dry with some paper towel. Rub some oil into the fillets until well coated. When the pan is hot, sear the fillets for about 4-5 minutes, until browned all over, shifting as they colour. Add a knob of butter or a drizzle of oil and ¾ of the cumin and baste the steaks for 1-2 minutes. Remove from the pan on completion and set aside to rest for 5 minutes before slicing."
+    },
+    {
+      "step": 5,
+      "title": "TOSS & MIX",
+      "text": "Once the butternut chunks are roasted, toss with the garlic mixture, the remaining coriander and chilli flakes, and lime juice."
+    },
+    {
+      "step": 6,
+      "title": "LEBANESE-STYLE FEASTING",
+      "text": "Plate up the cumin beef slices alongside the roasted butternut harra. Side with the dressed leaves and sprinkle over the flaked almonds. Serve with the hummus and use the back of a spoon to create a swirl on the surface. Drizzle with olive oil, and sprinkle over the remaining cumin. Sahtein, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 527.0,
+    "energy_kcal": 126.0,
+    "protein_g": null,
+    "carbs_g": 9.0,
+    "sugars_g": 1.4,
+    "fibre_g": 2.4,
+    "fat_g": 3.8,
+    "saturated_fat_g": 1.0,
+    "sodium_mg": 80.0
+  },
+  "allergens": [
+    "Allium",
+    "Sesame",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein value in the Nutritional Information table is obscured and punched out by the binder ring."
+}

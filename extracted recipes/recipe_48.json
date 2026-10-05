@@ -1,0 +1,127 @@
+{
+  "recipe_number": 48,
+  "title": "Sesame-crusted Beef Fillet",
+  "subtitle": "with gochujang sweet potato & tonkatsu sauce",
+  "description": "Sweet potato chunks are tossed in spicy gochujang and served alongside tender sesame seed-crusted beef fillet. Pickled cucumber ribbons bring an acidic kick, whilst a tonkatsu drizzle adds some tangy sweetness. This dish will make you smile long after you eat it!",
+  "chef": "Kate Gomba",
+  "category": "Adventurous Foodie",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Boschendal | Nicolas",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "rinsed & cut into bite-sized chunks"
+    },
+    {
+      "name": "Lime Juice",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "peeled into ribbons"
+    },
+    {
+      "name": "Tonkatsu Sauce",
+      "quantity": 50,
+      "unit": "ml",
+      "prep": "(20ml Oyster Sauce, 20ml Tomato Sauce & 10ml Worcestershire Sauce)"
+    },
+    {
+      "name": "Mixed Sesame Seeds",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Gochujang Paste",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Fillet",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROAST POTATO",
+      "text": "Preheat the oven to 200°C. Spread out the sweet potato chunks on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "ZINGY MOMENT",
+      "text": "In a bowl, add the lime juice, 2 tbsp of water, seasoning, and a sweetener of choice (to taste). Mix until the sweetener is fully dissolved. Add the cucumber ribbons, toss until fully combined, and set aside."
+    },
+    {
+      "step": 3,
+      "title": "LET'S PREP",
+      "text": "In a bowl, combine the tonkatsu sauce, seasoning, and 2 tsp of a sweetener of choice. Set aside. Place the mixed sesame seeds on a shallow dish or plate and set aside. Loosen the gochujang with a drizzle of oil."
+    },
+    {
+      "step": 4,
+      "title": "CRUSTED BEEF FILLET",
+      "text": "Place a pan over a high heat. Pat the fillets dry with some paper towel, and season. Rub some oil into the fillets until well coated. When the pan is hot, sear the fillets for 4-5 minutes per side until browned (The time frame may vary depending on the thickness of the fillets). In the final 1-2 minutes, baste with a knob of butter or a drizzle of oil. Remove from the pan and set aside to rest for 5 minutes. On completion, roll the fillets through the sesame seeds until well coated. Gently slice and season."
+    },
+    {
+      "step": 5,
+      "title": "SPICY SWEET POTS",
+      "text": "When the sweet potato has 10 minutes remaining, remove the tray from the oven and coat the sweet potato in the loosened gochujang paste — use it to taste, it's spicy! Return to the oven for the remaining roasting time until cooked through and crisping up. Drain the pickling liquid from the cucumber ribbons."
+    },
+    {
+      "step": 6,
+      "title": "DINNER IS SERVED!",
+      "text": "Plate up the spicy sweet potato and side with the sesame fillet. Drizzle the tonkatsu sauce over the fillet. Serve the pickled cucumber on the side. Sprinkle over the chopped coriander and any remaining sesame seeds. Wow, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 481.0,
+    "energy_kcal": 115.0,
+    "protein_g": 7.4,
+    "carbs_g": 10.0,
+    "sugars_g": 4.1,
+    "fibre_g": 1.5,
+    "fat_g": 2.9,
+    "saturated_fat_g": 0.7,
+    "sodium_mg": 3.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Sulphites",
+    "Sugar Alcohol (Xylitol)",
+    "Soy",
+    "Shellfish/Seafood"
+  ],
+  "chef_tip": "If you want to toast your sesame seeds, place in a pan and toast for 2-4 minutes until the white ones are lightly browned.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

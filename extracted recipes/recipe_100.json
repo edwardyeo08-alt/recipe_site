@@ -1,0 +1,139 @@
+{
+  "recipe_number": 100,
+  "title": "Spiced Basa & Corn Esquites",
+  "subtitle": "with roast sweet potato, fresh lime & creamy feta",
+  "description": "A take on Mexican street food that'll delight even the fussiest eater. Spiced basa fillet with zingy corn esquites: a fry-up of chilli, garlic, and melty feta, tossed with lime-marinated baby tomatoes. All ready in no time!",
+  "chef": "Alex Levett",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "rinsed & cut into bite-size chunks"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 3,
+      "unit": null,
+      "prep": "thinly sliced"
+    },
+    {
+      "name": "Lime",
+      "quantity": 2,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Fresh Chilli",
+      "quantity": 2,
+      "unit": null,
+      "prep": "deseeded & finely chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 3,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Corn",
+      "quantity": 400,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Danish-Style Feta",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "Basa Fillet",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Spanish Rub",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROAST THE SWEET POTATO",
+      "text": "Preheat the oven to 200°C. Place the sweet potato chunks on a roasting tray. Coat in oil, season, and spread out evenly. Roast in the hot oven for 35-40 minutes until cooked through and becoming golden, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "MARINATE THE TOMATOES",
+      "text": "Place the halved baby tomatoes in a large bowl. Add in two-thirds of the chopped coriander and two-thirds of the sliced spring onion. Toss through a drizzle of olive oil and some lime juice and zest, both to taste. Set aside to marinate."
+    },
+    {
+      "step": 3,
+      "title": "CHEESY CORN ESQUITES",
+      "text": "When the sweet potato reaches the halfway mark, place a large, nonstick pan over a low-medium heat with a knob of butter and a small drizzle of oil. When hot, fry the chopped chilli (to taste) and the grated garlic for about a minute until fragrant, shifting constantly. Increase the heat to medium-high and add in the corn. Fry for 4-6 minutes until starting to brown, shifting occasionally. Crumble in the drained feta and cook for a further 3-4 minutes until smooshy and melted. On completion, transfer to the bowl of tomatoes. Toss to combine, cover to keep warm, and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "SASSY BASA",
+      "text": "Wipe down the pan and return it to a medium-high heat with another drizzle of oil. Pat the basa dry with some paper towel and coat in the Spanish Rub to taste. When the pan is hot, fry the fish for 1-2 minutes per side until cooked through and golden. Remove from the pan on completion. Toss a drizzle of oil through the rinsed salad leaves and season."
+    },
+    {
+      "step": 5,
+      "title": "MEXICAN FUSION FIESTA!",
+      "text": "Plate up a bed of dressed leaves alongside the corn esquites and roast sweet potato. Top with the spiced basa and garnish with the remaining spring onion and coriander. Serve with any remaining lime wedges. Tuck in, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 404.0,
+    "energy_kcal": 96.0,
+    "protein_g": 6.8,
+    "carbs_g": 11.0,
+    "sugars_g": 3.0,
+    "fibre_g": 1.7,
+    "fat_g": 2.6,
+    "saturated_fat_g": 1.3,
+    "sodium_mg": 199.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium",
+    "Fish"
+  ],
+  "chef_tip": "Tomatoes are high in antioxidants, which reduce the damage to the body's cells caused by free radicals. Tomatoes can be sliced up for salads, chopped up for salsas, or cooked into sauces for extra flavour. Avoid food waste and use leftover tomatoes by cooking up a quick relish!",
+  "card_obscured_flag": true,
+  "obscured_details": "Chef's Tip text partially obscured by binder ring hole ('use le[ftover] tomatoes')."
+}

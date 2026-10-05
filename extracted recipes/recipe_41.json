@@ -1,0 +1,139 @@
+{
+  "recipe_number": 41,
+  "title": "Juicy Japanese Yakitori",
+  "subtitle": "with rice noodles, pickled veg & pak choi",
+  "description": "Japanese 'yakitori' is what we call 'skewers' — spiced beef yakitori sits atop a steaming bowl of glassy rice noodles, swimming with sweet-sesame-soy and pickled veg for a flavour punch! Taste-bud mastery!",
+  "chef": "Tess Witney",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 35,
+  "overall_time_minutes": 50,
+  "wine_pairing": "Haute Cabrière | Pinot Noir Unwooded",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Wooden Skewers",
+      "quantity": 4.0,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Beef Schnitzel (without crumb)",
+      "quantity": 300.0,
+      "unit": "g",
+      "prep": "cut into 1-2cm thick strips"
+    },
+    {
+      "name": "NOMU Oriental Rub",
+      "quantity": 15.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Sweet Sesame-Soy",
+      "quantity": 105.0,
+      "unit": "ml",
+      "prep": "(60ml Indonesian Soy Sauce, 30ml Low Sodium Soy Sauce & 15ml Sesame Oil)"
+    },
+    {
+      "name": "Pak Choi",
+      "quantity": 200.0,
+      "unit": "g",
+      "prep": "rinsed, base trimmed & discarded"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "quantity": 60.0,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Radish",
+      "quantity": 40.0,
+      "unit": "g",
+      "prep": "rinsed & sliced into thin rounds"
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 100.0,
+      "unit": "g",
+      "prep": "cut into half-moons"
+    },
+    {
+      "name": "Flat Rice Noodles",
+      "quantity": 100.0,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Mirin (contains alcohol)",
+      "quantity": 60.0,
+      "unit": "ml",
+      "prep": "optional"
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 1.0,
+      "unit": null,
+      "prep": "finely sliced"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BEGIN THE YUM",
+      "text": "Place the skewers in a shallow dish, cover with water, and allow to soak for 10 minutes — this prevents them from burning when over the heat. Place the beef strips into a bowl with 20ml of the sweet sesame-soy sauce, the Oriental rub, and some pepper. Mix until well coated. Set aside to marinate for 5-10 minutes."
+    },
+    {
+      "step": 2,
+      "title": "PICKLE PICKLE",
+      "text": "Boil a full kettle. Slice the pak choi leaves in half lengthways and then in half again horizontally. Place a large, deep pan over a medium heat. Pour in the rice wine vinegar and 180ml of boiling water. Add the radish rounds, cucumber half-moons, and a generous pinch of salt. Once the liquid starts to boil, remove the pan from the heat and put the veggies and liquid together in a bowl. Cover and set aside to pickle for at least 10 minutes."
+    },
+    {
+      "step": 3,
+      "title": "OODLES OF NOODLES",
+      "text": "Using a shallow dish, submerge the noodles in boiling water and add a pinch of salt. Cover with a plate and set aside to soak for 6-8 minutes until cooked through and glassy. Drain on completion. Toss through some oil to prevent sticking. Thread 2-4 beef strips onto each skewer making sure they are secure."
+    },
+    {
+      "step": 4,
+      "title": "FRY TIME!",
+      "text": "Wipe down the pan and return to a high heat with a drizzle of oil. When hot, sear the skewers for 1-2 minutes, turning them as they colour, until evenly browned but not cooked through. Remove from the pan on completion. Keep the pan on the heat and add in the remaining sweet sesame-soy sauce and the mirin (optional). Simmer for 4-5 minutes until the sauce becomes sticky. In the final minute, place the skewers into the pan and thoroughly baste them. Remove the beef skewers from the pan on completion. Reduce the heat to medium and add the trimmed pak choi to the sauce. Toss until fully coated and cook for 3-5 minutes until the pak choi is soft. Remove the pak choi from the pan and reserve the remaining sauce."
+    },
+    {
+      "step": 5,
+      "title": "FINAL",
+      "text": "Just before serving, drain the pickled veggies, reserving 30ml of the liquid. Toss this reserved liquid and the remaining sweet sesame-soy marinade through the noodles."
+    },
+    {
+      "step": 6,
+      "title": "FLAVOUR BOMB",
+      "text": "Make a bed of rice noodles. Cover with the pickled veg and pak choi. Lay the saucy skewers on top. Pour over the sweet sesame-soy sauce from the pan. Garnish with the sliced spring onion. Enjoy, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": null,
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbs_g": 13.0,
+    "sugars_g": 3.6,
+    "fibre_g": 0.8,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 328.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Sesame",
+    "Wheat",
+    "Soy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Top binder ring hole punch obscures Energy (kJ), Energy (kcal), and Protein values in the Nutritional Information table."
+}

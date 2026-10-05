@@ -1,0 +1,134 @@
+{
+  "recipe_number": 18,
+  "title": "Steakhouse Rump & Truffled Roasties",
+  "subtitle": "with coffee-caramelised onion, sunflower seeds & green salad",
+  "description": "No need to leave home for a steakhouse dinner! Your griddled rump is swathed in silky caramelised onion infused with coffee rub. It's accompanied by baby potato roasties, dripping with truffle oil, and a leafy cucumber salad.",
+  "chef": "Kate Gomba",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Lanzerac Estate | Pionier Pinotage",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Baby Potatoes",
+      "quantity": 500,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "sliced into half-moons"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & finely sliced"
+    },
+    {
+      "name": "NOMU Coffee Rub",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Truffle Oil",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Beef Rump",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Sugar/Sweetener/Honey",
+    "Tinfoil",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "READY THE ROASTIES!",
+      "text": "Preheat the oven to 200°C. Place the halved baby potatoes on a roasting tray. Coat in oil, season, and spread out in a single layer. Roast in the hot oven for 30-35 minutes."
+    },
+    {
+      "step": 2,
+      "title": "SUNNY SEEDS & PICKLED CUCUMBER",
+      "text": "In a salad bowl, whisk together the vinegar, 10ml of olive oil, and a small splash of water. Mix in some seasoning and a sweetener of choice to taste until dissolved. Add in the cucumber half-moons and ½ of the chopped parsley. Toss to coat and set aside to pickle. Place the seeds in a pan over a medium heat. Toast for 2-4 minutes until lightly browned, shifting occasionally. Remove from the pan on completion and set aside to cool."
+    },
+    {
+      "step": 3,
+      "title": "THAT IRRESISTIBLE COFFEE FLAVA",
+      "text": "Return the pan to a medium heat with a drizzle of oil and a knob of butter (optional). When hot, fry the sliced onion for 9-12 minutes until soft and caramelised, shifting occasionally. At the halfway mark, mix in the Coffee Rub and a sweetener of choice - both to taste. Remove from the pan on completion, cover to keep warm, and set aside for serving."
+    },
+    {
+      "step": 4,
+      "title": "TRUFFLE IT UP",
+      "text": "When the potatoes reach the halfway mark, remove from the oven. Drizzle over the truffle oil, toss to coat, and return to the oven for the remaining time. On completion, they should be crispy on the outside and soft on the inside."
+    },
+    {
+      "step": 5,
+      "title": "GRIDDLED BEEF",
+      "text": "Place a griddle pan over a medium-high heat. Pat the rump dry with paper towel, coat in oil, and season with pepper. When the pan is hot, sear the steak fat-side down for 3-5 minutes until crispy. Then, fry for 2-4 minutes per side or until cooked to your preference. (This time frame may depend on the thickness of the steak). During the final 1-2 minutes, baste with a knob of butter (optional). On completion, place in tinfoil and pour in the pan juices. Close up tightly and set aside for 5 minutes before seasoning with salt and thinly slicing, reserving the juices. Drain the pickling liquid into a small bowl. Add the rinsed green leaves to the bowl of cucumber, drizzle over the pickling liquid to taste, and toss to coat."
+    },
+    {
+      "step": 6,
+      "title": "AN AROMATIC FEAST",
+      "text": "Plate up the truffled roasties next to the rump slices. Top with the caramelised onion and drizzles of the reserved meat juices to taste. Garnish the salad with the toasted seeds and serve on the side. Finally, sprinkle over the remaining parsley. Wow, Chef..."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 536.0,
+    "energy_kcal": 128.0,
+    "protein_g": 7.2,
+    "carbs_g": 9.0,
+    "sugars_g": 2.1,
+    "fibre_g": 1.1,
+    "fat_g": 4.9,
+    "saturated_fat_g": 1.0,
+    "sodium_mg": 89.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites"
+  ],
+  "chef_tip": "Meat continues to cook while resting. Remember this when cooking the beef rump to your preference.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

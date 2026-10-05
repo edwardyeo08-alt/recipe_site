@@ -1,0 +1,149 @@
+{
+  "recipe_number": 148,
+  "title": "Tandoori Paneer & Homemade Naan",
+  "subtitle": "with coriander, spring onion & pickled peppers",
+  "description": "One-tray coconut rice, red onion and tandoori-spiced paneer is sided with homemade garlic butter flatbreads, and sprinkled with coriander and spring onions. Mouth-wateringly good!",
+  "chef": "Thea Richter",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Fat Bastard | Rosé",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Paneer Cheese",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "cut into bite-sized cubes"
+    },
+    {
+      "name": "NOMU Tandoori Rub",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Jasmine Rice",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Spring Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "finely sliced, keeping the white & green parts seperate"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & cut into wedges"
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Coconut Milk",
+      "quantity": 400,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Self-raising Flour",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Low Fat Plain Yoghurt",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Pickled Bell Peppers",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "drained & roughly sliced"
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter",
+    "Flour",
+    "Milk (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "CURRY UP!",
+      "text": "Preheat the oven to 200°C. Gently toss the paneer cubes with a drizzle of oil and ½ the rub. In an ovenproof dish, place the rinsed rice, the spring onion whites, the onion wedges, the stock, the remaining rub, the coconut milk, and 400ml of water. Mix until fully combined and spread out in a single layer. Top with the paneer cubes in a single layer. Pop in the hot oven and roast for 15-20 minutes until the rice is fully cooked and the paneer is golden."
+    },
+    {
+      "step": 2,
+      "title": "SERIOUSLY, DOUGH...",
+      "text": "In a bowl, add the flour and the yoghurt and mix until fully combined. Tip out onto a floured surface and knead until a dough forms. Add a splash of milk if it's too dry. Cover and set aside."
+    },
+    {
+      "step": 3,
+      "title": "GARLIC GOODNESS",
+      "text": "Place a pan over a medium-high heat with 40g of butter. Once melted, add the grated garlic and fry for about 1 minute, until fragrant, shifting constantly. Remove from the pan on completion."
+    },
+    {
+      "step": 4,
+      "title": "ROLL IT OUT",
+      "text": "Divide the dough into 4 balls. On a floured surface, use a floured rolling pin or a bottle to roll out each ball into a flatbread, about 3mm thick. Return the pan, wiped down, to a high heat. When hot, add a flatbread and cook for 2-3 minutes per side, until slightly charred and puffed up. Remove from the pan and drizzle over some of the garlic butter. Repeat with the remaining flatbreads. Cover with a tea towel to keep warm until serving."
+    },
+    {
+      "step": 5,
+      "title": "PERFECTION!",
+      "text": "Pile up a delicious helping of the paneer and rice. Top with the pickled peppers. Make a bed of the rinsed salad leaves and top with the garlicy flatbreads. Sprinkle over the chopped coriander and spring onion greens and dive in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 736.0,
+    "energy_kcal": 183.0,
+    "protein_g": 6.2,
+    "carbs_g": 19.0,
+    "sugars_g": 2.1,
+    "fibre_g": 1.3,
+    "fat_g": 8.3,
+    "saturated_fat_g": 6.6,
+    "sodium_mg": 356.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "To knead dough is to work it with your hands by stretching, folding, and pushing. If you don't have a rolling pin, just use a glass jar or bottle.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

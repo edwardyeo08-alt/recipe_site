@@ -1,0 +1,129 @@
+{
+  "recipe_number": 126,
+  "title": "Spicy Mexican Tomato Pasta",
+  "subtitle": "with corn & cashew nut cream cheese",
+  "description": "Think nachos with a pasta twist... are you imagining it? Well no need because it's right here! Tasty homemade tomato sauce and corn is mixed through tender fusilli pasta before being topped with dollops of cashew nut cream cheese, sprinklings of crispy onion, and a dash of spicy jalapeño and lime. Wow, wow and wow!",
+  "chef": "Aisling Kenny",
+  "category": "Veggie",
+  "servings": 3,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 35,
+  "wine_pairing": "Boschendal | 1685 Shiraz",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Whole Wheat Fusilli Pasta",
+      "quantity": 375,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "1½ peeled & roughly diced"
+    },
+    {
+      "name": "Corn",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "NOMU Mexican Spice Blend",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Dried Chilli Flakes",
+      "quantity": 7.5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Tomato Passata",
+      "quantity": 300,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cashew Nut Cream Cheese",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Limes",
+      "quantity": 2,
+      "unit": null,
+      "prep": "1½ zested & cut into wedges"
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Crispy Onions",
+      "quantity": 45,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 12,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "WHAT'S ALL THE FUSILLI ABOUT?",
+      "text": "Boil the kettle. Fill a pot with boiling water, add a pinch of salt, and place over a high heat. Once bubbling rapidly, add a drizzle of oil and cook the pasta for 13-15 minutes until al dente. Keep stirring for the first 3 minutes to prevent sticking, then stir sporadically during the remaining cooking time. Drain on completion, reserving a cup of pasta water, and return to the pot. Toss through some oil to prevent sticking."
+    },
+    {
+      "step": 2,
+      "title": "MEXI SAUCE",
+      "text": "Place a deep pan over a medium heat with a drizzle of oil. When hot, fry the diced onion for 4-5 minutes until soft and translucent, shifting occasionally. Add the corn and fry for 4-5 minutes until charred, shifting occasionally. Add the spice blend and ½ the chilli flakes (to taste) and fry for 1 minute until fragrant, shifting constantly. Pour in the tomato passata and leave to simmer for 4-5 minutes, until slightly reduced. On completion, season with salt, pepper, and a sweetener of choice (to taste)."
+    },
+    {
+      "step": 3,
+      "title": "TOSS IT UP",
+      "text": "In a bowl, combine the cream cheese with the lime zest and seasoning. Set aside. Add the cooked pasta to the pan with the sauce. Toss until fully coated and loosen with the reserved pasta water, if necessary."
+    },
+    {
+      "step": 4,
+      "title": "MEXICAN PASTA FIESTA!",
+      "text": "Dish up the hearty Mexican pasta. Top with the chopped jalapeños (to taste), the crispy onions, the chopped coriander, and the remaining chilli flakes (to taste). Dollop on the zesty cashew cream cheese and serve with a lime wedge. Dig in, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 751.0,
+    "energy_kcal": 179.0,
+    "protein_g": null,
+    "carbs_g": 28.0,
+    "sugars_g": 3.7,
+    "fibre_g": 3.6,
+    "fat_g": 4.0,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 178.0
+  },
+  "allergens": [
+    "Gluten",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Ring binder hole and metal ring obscure the Protein value in the Nutritional Information table."
+}

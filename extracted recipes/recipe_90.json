@@ -1,0 +1,140 @@
+{
+  "recipe_number": 90,
+  "title": "Yellowtail & Rosé Applesauce",
+  "subtitle": "with fresh basil & roast baby potatoes, butternut and cauliflower",
+  "description": "Looking for the ideal balance of fresh and rich? This heavenly yellowtail fillet is your answer: suffused with the delicate sweetness of a homemade rosé and apple sauce and resting on a crispy roast of cauli, butternut, and baby potatoes.",
+  "chef": "Tess Witney",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 50,
+  "overall_time_minutes": 60,
+  "wine_pairing": null,
+  "cook_within_days": 1,
+  "ingredients": [
+    {
+      "name": "Baby Potatoes",
+      "quantity": 800,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Butternut Chunks & Cauliflower Florets",
+      "quantity": 600,
+      "unit": "g",
+      "prep": "cut into bite-size pieces"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 320,
+      "unit": "g",
+      "prep": "rinsed & quartered"
+    },
+    {
+      "name": "Fresh Basil",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "rinsed & roughly sliced"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Apple",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled, cored & finely chopped"
+    },
+    {
+      "name": "Rosé Wine",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Honey",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Yellowtail Fillet",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter (optional)",
+    "Paper Towel",
+    "Blender"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET YOUR ROAST STARTED",
+      "text": "Preheat the oven to 200°C. Place the halved baby potatoes on a roasting tray, coat in oil, and season. Roast in the hot oven for 35-40 minutes until crispy on the outside and soft on the inside. Place the butternut and cauliflower pieces on a second roasting tray. Coat in oil, season, and set aside."
+    },
+    {
+      "step": 2,
+      "title": "SALAD & STOCK",
+      "text": "Boil the kettle. Place the quartered baby tomatoes in a bowl with three-quarters of the sliced basil. Toss through the white wine vinegar and a drizzle of oil until coated. Season to taste and set aside to marinate until serving. Dilute the stock with 180ml of boiling water and set aside for the sauce."
+    },
+    {
+      "step": 3,
+      "title": "ADDITIONAL VEGGIES",
+      "text": "When the potatoes have been roasting for 10 minutes, give them a shift and return to the oven. Pop in the tray of butternut and cauliflower and cook for the remaining roasting time until crispy."
+    },
+    {
+      "step": 4,
+      "title": "MAKE THE ROSÉ APPLESAUCE",
+      "text": "Place a small pot over a medium heat with a drizzle of oil or knob of butter. When hot, fry the chopped apple for 8-10 minutes until soft, breaking it up as it cooks. Pour in the rosé and allow to bubble and reduce slightly. Stir through the honey and diluted stock, bring to a simmer, and cook for 8-10 minutes until reduced by half. On completion, transfer to a blender and blend until smooth. Return to the pot and season to taste. Pop on a lid and place over a low heat to keep warm."
+    },
+    {
+      "step": 5,
+      "title": "PAN FRY THE YELLOWTAIL",
+      "text": "Pat the fish dry with some paper towel and season. Place a nonstick pan over a medium-high heat with a drizzle of oil. When hot, fry the fish for 3-5 minutes until becoming crispy and golden. Flip, add a knob of butter (optional), and fry for a further 2-3 minutes until cooked through, continuously basting it with the butter. Remove from the pan on completion."
+    },
+    {
+      "step": 6,
+      "title": "DINNER IS SERVED",
+      "text": "Pile up some roast baby potatoes, butternut, and cauliflower. Side with the yellowtail fillet and pour the applesauce over it (to taste). Make a bed of rinsed salad leaves on the side and top with the marinated baby tomatoes. Garnish with the remaining fresh, sliced basil. Take a seat, it's time to eat."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 337.0,
+    "energy_kcal": 81.0,
+    "protein_g": 5.8,
+    "carbs_g": 10.0,
+    "sugars_g": 3.7,
+    "fibre_g": 1.3,
+    "fat_g": 1.2,
+    "saturated_fat_g": 0.3,
+    "sodium_mg": 112.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Fish"
+  ],
+  "chef_tip": "Cauliflower is high in fiber (good for digestive health), antioxidants (good for cell health), and Choline (essential for learning and memory). Add them to just about any tray of roast veg, or just snack on them raw with dips or spreads as crudité!",
+  "card_obscured_flag": true,
+  "obscured_details": "Ring binder hole clips 'snack' in Chef's Tip on the reverse side."
+}

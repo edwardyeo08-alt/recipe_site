@@ -1,0 +1,149 @@
+{
+  "recipe_number": 11,
+  "title": "Higgs' Lush Lamb Rump",
+  "subtitle": "with minty couscous, labneh & almonds",
+  "description": "You can't go wrong with this scrumptious lamb, sided with a minty couscous, fresh salad and zinger of homemade labneh - topped with a little pow of jalapeños. Due to seasonality, we've had to sub the limes for lemons but don't fret, there's no skimping on flavour!",
+  "chef": "David Higgs",
+  "category": "Easy Peasy",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 30,
+  "wine_pairing": "Haute Cabrière | Pinot Noir Réserve",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Slivered Almonds",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Labneh",
+      "quantity": 65,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "½ peeled & finely sliced"
+    },
+    {
+      "name": "Whole Wheat Couscous",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed, picked & finely chopped"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Free-range Lamb Rump Steak",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "CRISPY CHICKPEAS",
+      "text": "Preheat the oven to 180°C. Place the drained chickpeas on a roasting tray. Coat in oil, season, and spread out in a single layer. Roast in the hot oven for 15-20 minutes until crispy and caramel in colour."
+    },
+    {
+      "step": 2,
+      "title": "TOASTY NUTS & ZESTY LABNEH",
+      "text": "Place the slivered almonds in a pan over a medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Remove from the pan on completion and set aside to cool. In a bowl, mix the labneh with some seasoning and some lemon zest to taste."
+    },
+    {
+      "step": 3,
+      "title": "IN A PICKLE",
+      "text": "Boil a full kettle. Place the juice of 3 lemon wedges, 2 tsp of a sweetener of choice and 2 tsp of boiling water in a bowl. Mix until the sweetener has fully dissolved. Add the sliced onions and mix until fully coated. Set aside and leave to pickle for at least 10 minutes. Drain on completion, discarding the pickling liquid."
+    },
+    {
+      "step": 4,
+      "title": "SOME MORE PREP",
+      "text": "Using a shallow bowl, submerge the couscous and stock in 250ml of boiling water. Add a drizzle of oil and gently stir through with a fork. Cover with a plate and set aside to steam for 5-8 minutes until tender. Once cooked, fluff up with the fork and stir through the crispy chickpeas, ½ the chopped mint, ½ the slivered almonds and the drained pickled red onions. Place the rinsed green leaves in a salad bowl, add some seasoning, a drizzle of olive oil and some lemon juice to taste. Toss until combined and set aside."
+    },
+    {
+      "step": 5,
+      "title": "ALMOST THERE...",
+      "text": "Pat the lamb rump dry with some paper towel, and season with some pepper. When the pan is hot, sear the steaks fat-side down, for 3-5 minutes until crispy. Then, fry for 3-4 minutes per side, or until cooked to your preference (this time frame may depend on the thickness of the steaks). During the final 1-2 minutes, baste the steaks with a knob of butter. Remove from the pan on completion and allow to rest for 5 minutes before slicing. Lightly season the slices with some salt. Keeping the pan on the heat, add the peas and fry for 2-3 minutes. Remove from the heat and add to the couscous salad along with the meat pan juices."
+    },
+    {
+      "step": 6,
+      "title": "WOW!",
+      "text": "Serve up a heap of the loaded minty, pickled couscous salad. Top with the lamb rump slices and side with the fresh green salad. Dollop over the zesty labneh and sprinkle over the remaining mint and slivered almonds. Garnish with the chopped pickled jalapeño."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 806.0,
+    "energy_kcal": 193.0,
+    "protein_g": 10.3,
+    "carbs_g": 14.0,
+    "sugars_g": 2.5,
+    "fibre_g": 3.0,
+    "fat_g": 9.4,
+    "saturated_fat_g": 4.0,
+    "sodium_mg": 227.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "Depending on the thickness of your cut of lamb, it may need more time in the oven to finish cooking. If you have a thicker cut, simply leave it in the oven for an extra 2-3 minutes.",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring partially obscures text in Chef's Tip ('thicker cut', 'extra') and in Allergens ('Sulphites')."
+}

@@ -1,0 +1,138 @@
+{
+  "recipe_number": 86,
+  "title": "Baked Basa & Fried Rainbow Quinoa",
+  "subtitle": "with grilled baby marrow and carrot & a piquanté pepper salad",
+  "description": "The deliciousness of fried rice, but made with nourishing quinoa instead (hello protein!) Pan-fried with a colourful array of diced veggies and covered by a tender fillet of oven-baked, herb-coated basa. What's not to love?",
+  "chef": "Ella Nasser",
+  "category": "Health Nut",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Steenberg Vineyards | Ruby Rosé",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Red Quinoa",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "cut into wedges"
+    },
+    {
+      "name": "Piquanté Peppers",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "drained & chopped, reserving the liquid"
+    },
+    {
+      "name": "Green Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 240,
+      "unit": "g",
+      "prep": "rinsed, trimmed & diced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "rinsed, trimmed & diced"
+    },
+    {
+      "name": "Basa Fillets",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "NOMU Seafood Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GET YOUR GRAIN ON",
+      "text": "Preheat the oven to 200°C. Rinse the quinoa and place in a pot. Submerge in 400ml of salted water and place over a medium-high heat. Pop on a lid and bring to a simmer. Cook for 12-15 minutes until the quinoa is tender and its tails have popped out, adding more water if required during cooking. On completion, drain if necessary and return to the pot. Replace the lid and allow to stand off the heat for at least 5 minutes."
+    },
+    {
+      "step": 2,
+      "title": "SALAD WITH A PING",
+      "text": "Place ½ of the chopped parsley in a small bowl with a squeeze of lemon juice and the reserved piquanté pepper liquid. Gradually mix in olive oil until combined to form a dressing, and season to taste. Place the chopped piquanté peppers and rinsed green leaves in a salad bowl and toss through the dressing to taste. Set aside for serving."
+    },
+    {
+      "step": 3,
+      "title": "A RAINBOW OF FRIED VEGGIES",
+      "text": "When the quinoa is at the halfway mark, place a pan over a medium heat with a generous drizzle of oil. When hot, sauté the diced onion, diced carrot, and grated garlic for 2-4 minutes. Add the diced baby marrow and fry for 4-5 minutes until all the veg has softened, shifting occasionally."
+    },
+    {
+      "step": 4,
+      "title": "IN THE MEANTIME...",
+      "text": "Pat the basa dry with paper towel and place on a lightly greased baking tray. Coat in oil, the Seafood Rub, and seasoning. Pop in the hot oven and bake for 7-8 minutes until cooked through and crisping at the edges."
+    },
+    {
+      "step": 5,
+      "title": "WRAP IT UP",
+      "text": "Once the quinoa is cooked, add to the pan of veg and toss to combine. Fry for 3-4 minutes, shifting constantly. Season well with salt and pepper, and remove from heat."
+    },
+    {
+      "step": 6,
+      "title": "TUCK IN!",
+      "text": "Make a bed of veg fried quinoa and top with the oven-baked basa. Garnish with the remaining parsley and a lemon wedge, and serve with the vibrant salad on the side. Good job, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 373.0,
+    "energy_kcal": 89.0,
+    "protein_g": 7.5,
+    "carbs_g": 13.0,
+    "sugars_g": 3.3,
+    "fibre_g": 2.1,
+    "fat_g": 1.2,
+    "saturated_fat_g": 0.2,
+    "sodium_mg": 138.0
+  },
+  "allergens": [
+    "Allium",
+    "Sulphites",
+    "Fish"
+  ],
+  "chef_tip": "If you have a mandolin, use it to slice up your carrots before dicing them. Carrots are hard vegetables and take a good amount of time and effort to chop, so make your prep as easy for yourself as possible!",
+  "card_obscured_flag": true,
+  "obscured_details": "The word 'possible!' at the end of Chef's Tip is partially obscured by the binder ring."
+}

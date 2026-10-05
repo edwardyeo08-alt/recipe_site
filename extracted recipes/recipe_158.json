@@ -1,0 +1,162 @@
+{
+  "recipe_number": 158,
+  "title": "Temptations Mushroom Tikka Masala",
+  "subtitle": "with rotis, coconut cream, minty raita & crispy onions",
+  "description": "A tasty vegetarian take on tikka masala that's so full of flavourful mushrooms that you won't even miss the meat. With comfort from warm cocktail rotis and cool creaminess from double thick yoghurt raita. You'll be licking the bowl!",
+  "chef": "Prim Reddy & Niranj Pather",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Steenberg Vineyards | Nebbiolo",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Green Bell Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Portobellini Mushrooms",
+      "quantity": 250,
+      "unit": "g",
+      "prep": "wiped clean & roughly chopped"
+    },
+    {
+      "name": "Medium Curry Powder",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 400,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Coconut Cream",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Double Cream Yoghurt",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "finely diced"
+    },
+    {
+      "name": "Cocktail Rotis",
+      "quantity": 6,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Crispy Onions",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Sugar/Sweetener/Honey",
+    "Butter (optional)",
+    "Tea Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BUILD THE MASALA BASE",
+      "text": "Place a large, deep pan over a medium heat with a drizzle of oil. When hot, fry the diced onion for 5-6 minutes. In the meantime, rinse and halve the green pepper. Deseed and cut into bite-sized pieces. When the onion is soft and golden, add in the grated garlic and green pepper, and cook for 1-2 minutes, shifting regularly. Remove from the pan on completion and set aside."
+    },
+    {
+      "step": 2,
+      "title": "BRING THE FLAVOUR",
+      "text": "Wipe down the pan and return it to a high heat with a drizzle of oil and a knob of butter (optional). When hot, fry the chopped mushrooms for 3-5 minutes until soft and golden, shifting as they colour. You may need to do this step in batches, adding more oil or butter between batches."
+    },
+    {
+      "step": 3,
+      "title": "BRING THE BULK",
+      "text": "When the mushrooms are cooked, reduce the heat to medium and stir in the onion and green pepper, curry powder, cooked chopped tomato, and coconut cream. Season to taste with salt, pepper, and a sweetener of choice. Simmer for 10 minutes until the sauce has reduced and the flavours are combined, stirring occasionally."
+    },
+    {
+      "step": 4,
+      "title": "COOLING DOWN, WARMING UP",
+      "text": "In a small bowl, combine the yoghurt with the chopped mint and diced cucumber. Mix in some seasoning and set aside for serving. Place a clean pan over a medium heat. When hot, warm the rotis for about 30-60 seconds per side until heated through and lightly toasted. As you go, stack the heated ones on a plate and cover with a tea towel to keep warm. (Alternatively, spread them out on a plate in a single layer and heat up in the microwave for 30-60 seconds.)"
+    },
+    {
+      "step": 5,
+      "title": "FINAL FIDDLES",
+      "text": "When the masala has 1-2 minutes remaining, stir through the shredded spinach until wilted. Remove from the heat on completion."
+    },
+    {
+      "step": 6,
+      "title": "TIME TO...",
+      "text": "Serve up this glorious veggie tikka masala! Pop a large helping of curry in a bowl, and garnish with the chopped coriander and crispy onions. On the side, serve the minty raita for dolloping and the warm rotis for scooping up that yummy sauce. Enjoy your trip to tikka town!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 309.0,
+    "energy_kcal": 74.0,
+    "protein_g": 2.7,
+    "carbs_g": 10.0,
+    "sugars_g": 3.5,
+    "fibre_g": 1.9,
+    "fat_g": 2.6,
+    "saturated_fat_g": 1.5,
+    "sodium_mg": 184.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Soy"
+  ],
+  "chef_tip": "Your mint and coriander have been packaged together to prevent the use of unnecessary extra plastic. If you struggle to tell the difference between them, do a quick online search to find some pics for reference!",
+  "card_obscured_flag": true,
+  "obscured_details": "Allergen 'Sulphites' is partially punched through by binder ring hole."
+}

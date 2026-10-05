@@ -1,0 +1,148 @@
+{
+  "recipe_number": 123,
+  "title": "Bistro Sixteen82 Bacon Ragù Gnocchi",
+  "subtitle": "with hard cheese, spinach & a melted Emmental and cream swirl",
+  "description": "Don't miss out on this extraordinary meal, designed by the Head Chef of Steenberg's two restaurants. Tantalising tomato-based ragù – thick, silky, and packed with bacon – surrounds crisp butternut gnocchi. Rippled with warm Emmental cream and popping with seeds.",
+  "chef": "Kerry Kilpin",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 55,
+  "overall_time_minutes": 65,
+  "wine_pairing": "Steenberg Vineyards | Merlot",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Pumpkin Seeds",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Butternut Gnocchi",
+      "quantity": 700,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "rinsed, trimmed & roughly chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 4,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Cooked Chopped Tomato",
+      "quantity": 800,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Streaky Bacon",
+      "quantity": 12,
+      "unit": "strips",
+      "prep": null
+    },
+    {
+      "name": "Spinach",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Fresh Cream",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Grated Italian-style Hard Cheese",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Emmental Cheese",
+      "quantity": 120,
+      "unit": "g",
+      "prep": "grated"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "OPENING ACT",
+      "text": "Boil the kettle. Place the pumpkin seeds in a large saucepan over a medium heat. Toast for 3-5 minutes until browned, shifting occasionally. Set aside to cool. Fill a pot with boiling water, add a pinch of salt, and place over a high heat. Once bubbling, cook the gnocchi for 2-3 minutes until floating and heated through. Drain, reserving a cup of the water. Toss some oil through the gnocchi and set aside."
+    },
+    {
+      "step": 2,
+      "title": "NEXT UP",
+      "text": "Return the pan to a medium heat with a drizzle of oil. When hot, fry the diced onion for 6-8 minutes until soft, shifting occasionally. Add the chopped carrot and a splash of water. Simmer for 5-6 minutes until the carrot is al dente and the water has been absorbed. In the final minute, add the grated garlic and sauté until fragrant. Mix in the cooked chopped tomato until well combined and bring to the boil. Reduce the heat and simmer for 12-15 minutes, stirring occasionally."
+    },
+    {
+      "step": 3,
+      "title": "MEANWHILE...",
+      "text": "Place a second large pan over a medium heat. When hot, fry the bacon for 2 minutes per side until cooked but not too crispy. Set aside to drain on paper towel. Wipe down the pan and return it to a medium heat with a knob of butter and a small drizzle of oil. Once foaming, fry the gnocchi in a single layer for 4-5 minutes until crispy, shifting as they colour. Do this step in batches to avoid overcrowding the pan. Remove the pan from the heat. Roughly chop the bacon."
+    },
+    {
+      "step": 4,
+      "title": "FINALE!",
+      "text": "Once the sauce has simmered, lower the heat and stir in the rinsed spinach and ¾ of the bacon. If the sauce is too thick, gradually mix in the reserved gnocchi water until the desired consistency. Simmer for 3-4 minutes until the spinach has wilted. On completion, stir through the fried gnocchi. Season to taste with salt, pepper, and a sweetener of choice, and remove from the heat."
+    },
+    {
+      "step": 5,
+      "title": "SILKY SWIRL",
+      "text": "Place the cream in a small pot over a medium heat. Once bubbling, cook for 4-5 minutes until slightly thickened and reduced, stirring occasionally. Remove from the heat, whisk in the grated Emmental cheese until melted, and season."
+    },
+    {
+      "step": 6,
+      "title": "THE TASTE OF WARM SUNSET",
+      "text": "Help yourself to bacon ragù gnocchi and a swirl of Emmental cream. Sprinkle over the hard cheese and remaining bacon. Garnish with the seeds and chopped parsley. Magnificent!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 635.0,
+    "energy_kcal": 152.0,
+    "protein_g": 6.0,
+    "carbs_g": 12.0,
+    "sugars_g": 2.7,
+    "fibre_g": 1.9,
+    "fat_g": 8.3,
+    "saturated_fat_g": 3.9,
+    "sodium_mg": 285.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat"
+  ],
+  "chef_tip": "Make sure you use a large enough pot to boil the gnocchi so that they don't end up sticking together from overcrowding. You can boil them in batches if necessary.",
+  "card_obscured_flag": true,
+  "obscured_details": "Ring binder punch hole clips the end of allergen 'Wheat' ('Whea')."
+}

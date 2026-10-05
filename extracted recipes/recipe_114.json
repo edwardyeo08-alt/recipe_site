@@ -1,0 +1,137 @@
+{
+  "recipe_number": 114,
+  "title": "Classic Cheesy Nachos",
+  "subtitle": "with ready-made guacamole, fresh chives & a baked chilli relleno",
+  "description": "A Nacho Dinner Extravaganza, with all the usual guests: a tangy guacamole, a cluster of corn nachos, strings of melty cheese, a spicy kidney bean and corn chilli, and a sassy, cheese-stuffed jalapeño.",
+  "chef": "Tess Witney",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 35,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Red Onion",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled"
+    },
+    {
+      "name": "NOMU Mexican Rub",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Cooked Chopped Tomatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Kidney Beans",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Pickled Jalapeño",
+      "quantity": 4,
+      "unit": null,
+      "prep": "drained"
+    },
+    {
+      "name": "Grated Cheddar & Mozzarella Mix",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Corn",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 2,
+      "unit": null,
+      "prep": "cut into wedges"
+    },
+    {
+      "name": "Heirloom Corn Nachos",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Guacamole",
+      "quantity": 320,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chives",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "rinsed & finely chopped"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "NACHO FILLING",
+      "text": "Preheat the oven to 200°C. Dice half of the peeled red onion and set aside. Finely slice the remainder. Place a large pan over a medium-high heat with a drizzle of oil. When hot, sauté the sliced onion for 4-5 minutes until soft. Add the Mexican spice blend to taste and fry for another minute. Stir in the cooked chopped tomatoes, drained kidney beans, and 120ml of water. Allow to simmer for 8-10 minutes until thickened, stirring occasionally."
+    },
+    {
+      "step": 2,
+      "title": "WHILE THE NACHO SAUCE IS REDUCING...",
+      "text": "Stuff your chilli rellenos! Make a horizontal incision along one side of the jalapeños, keeping the stems intact. It should be just deep enough to allow you to remove and discard the seeds. Stuff the deseeded jalapeños with some grated cheese mix and set aside."
+    },
+    {
+      "step": 3,
+      "title": "COMPLETE THE FILLING",
+      "text": "Once the sauce has thickened, stir through the corn and a squeeze of lemon juice. Add some sweetener of choice to taste, season, and remove the pan from the heat."
+    },
+    {
+      "step": 4,
+      "title": "CHIP CHIP HOORAY!",
+      "text": "Spread a layer of nachos over the bottom of a roasting tray. (Use two trays if necessary to keep the layers to the recommended number.) Evenly spoon over half of the nacho sauce and scatter over half of the remaining grated cheese. Repeat this process once more to create one more layer of each, using up the rest of the sauce and cheese. Place the chilli rellenos on top of the nachos and pop the tray in the oven. Bake for 6-8 minutes until the cheese has melted."
+    },
+    {
+      "step": 5,
+      "title": "SPRUCE IT UP",
+      "text": "In a bowl, combine the guacamole with three-quarters of the chopped chives. Mix in the diced onion and a squeeze of lemon juice (both to taste) and season."
+    },
+    {
+      "step": 6,
+      "title": "IT’S GONNA GUAC YOUR WORLD!",
+      "text": "For serving, you can either eat the cheesy corn nachos right out of the tray or dish them up on plates. Dollop over the tangy guacamole and sprinkle over the remaining chopped chives. Get stuck in!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 707.0,
+    "energy_kcal": 169.0,
+    "protein_g": 5.2,
+    "carbs_g": 16.0,
+    "sugars_g": 3.1,
+    "fibre_g": 3.8,
+    "fat_g": 8.8,
+    "saturated_fat_g": 2.9,
+    "sodium_mg": 370.0
+  },
+  "allergens": [
+    "Dairy",
+    "Allium"
+  ],
+  "chef_tip": "Draining and rinsing tinned beans, lentils, and chickpeas before use drastically reduces the amount of sodium you’re adding to your meal. It also reduces the complex sugar content (which humans can’t digest!) and improves the flavour and texture of the food.",
+  "card_obscured_flag": true,
+  "obscured_details": "Chef's Tip text partially obscured by binder ring hole ('flavour [and] texture')."
+}

@@ -1,0 +1,134 @@
+{
+  "recipe_number": 124,
+  "title": "Tryn's Truffle Mushroom Tagliatelle",
+  "subtitle": "with charred broccoli, spinach & an artichoke and cream velouté",
+  "description": "This creamy mushroom pasta’s gonna be your new go-to cosy comfort food! Designed by the Head Chef of Steenberg’s restaurant Tryn, it features fresher-than-fresh tagliatelle, illuminated by broccoli, truffle zest, and a caramelised artichoke and cream sauce. Hard to beat!",
+  "chef": "Kerry Kilpin",
+  "category": "Vegetarian",
+  "servings": 2,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 45,
+  "wine_pairing": "Steenberg Vineyards | Nebbiolo",
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "Portobellini Mushrooms",
+      "quantity": 250,
+      "unit": "g",
+      "prep": "wiped clean & roughly sliced"
+    },
+    {
+      "name": "Broccoli",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "cut into bite-sized florets"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Cream",
+      "quantity": 250,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Italian-style Hard Cheese",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "½ grated & ½ peeled into ribbons"
+    },
+    {
+      "name": "Spinach",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": "zested & cut into wedges"
+    },
+    {
+      "name": "Fresh Tagliatelle Pasta",
+      "quantity": 300,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly chopped"
+    },
+    {
+      "name": "Truffle Zest",
+      "quantity": 5,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Blender",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GOLDEN MUSHIES",
+      "text": "Place a nonstick pan over a medium-high heat with a drizzle of oil and a knob of butter (optional). When hot, fry the sliced mushrooms for 4-5 minutes until soft and golden, shifting as they colour. On completion, transfer to a bowl and season. Cover to keep warm and set aside."
+    },
+    {
+      "step": 2,
+      "title": "BUBBLE THE BROC",
+      "text": "Wipe down the pan and return it to a medium-high heat with another drizzle of oil. When hot, fry the broccoli florets for 4-5 minutes until lightly charred. Add a splash of water, cover with a lid, and simmer for 1-2 minutes until cooked al dente. Remove from the pan and add to the bowl of mushrooms."
+    },
+    {
+      "step": 3,
+      "title": "CREAMY ARTICHOKE SAUCE",
+      "text": "Return the pan to a medium heat with another drizzle of oil. When hot, sauté the artichoke hearts for 4-5 minutes until lightly charred. Deglaze the pan with a splash of water, and mix in the cream and grated hard cheese. Allow to simmer for 3-4 minutes until slightly reduced, stirring occasionally. On completion, transfer to a blender. Blend until smooth and set aside."
+    },
+    {
+      "step": 4,
+      "title": "FRESHER THAN FRESH!",
+      "text": "Place a pot of salted water over a high heat and leave to come to the boil. Toss ½ of the rinsed spinach with a squeeze of lemon juice, a pinch of zest, and some seasoning. Set aside for serving. Once the water is bubbling rapidly, cook the pasta for 2-3 minutes until al dente. Drain on completion, reserving a cup of the water. Toss some oil through the pasta to prevent sticking and return to the pot. Cover with a lid and set aside to keep warm."
+    },
+    {
+      "step": 5,
+      "title": "IT'S THE LAST STRETCH",
+      "text": "Return the pan to a low heat. Add in the mushrooms and broccoli, the artichoke sauce, and the remaining spinach. Stir to combine and bring to a simmer. Cook for 2-3 minutes until the spinach is wilted, stirring occasionally. If the sauce is too thick, gradually loosen with the reserved pasta water. Season to taste with lemon juice, zest, salt, and pepper. Remove from the heat on completion. Pour ½ into the pot of pasta and toss to coat."
+    },
+    {
+      "step": 6,
+      "title": "BRAVO!",
+      "text": "Dish up a bowl of creamy pasta and spoon over the remaining artichoke sauce. Sprinkle with the chopped parsley and truffle zest. Serve the salad on the side, and scatter the hard cheese ribbons over the lot. Hop to it, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 703.0,
+    "energy_kcal": 168.0,
+    "protein_g": 5.7,
+    "carbs_g": 16.0,
+    "sugars_g": 1.7,
+    "fibre_g": 1.8,
+    "fat_g": 9.3,
+    "saturated_fat_g": 5.4,
+    "sodium_mg": 82.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Wheat"
+  ],
+  "chef_tip": "Deglazing is a technique for lifting food residue from the base of a pan by adding in liquid and using a utensil to stir and scrape. This mixture can be used to add flavour to sauces and gravies.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

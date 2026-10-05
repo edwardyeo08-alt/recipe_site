@@ -1,0 +1,133 @@
+{
+  "recipe_number": 191,
+  "title": "Okonomiyaki & Sticky Pork Belly",
+  "subtitle": "with fresh coriander & pickled ginger",
+  "description": "Okonomiyaki are pan-fried Japanese pancakes loaded with cabbage! Our take is topped with pork belly pieces doused in a sticky soy, honey, & orange sauce. Garnished with pickled ginger, fresh coriander, and served with Kewpie mayo - Japan in your kitchen!",
+  "chef": "Thea Richter",
+  "category": "Adventurous Foodie",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Waterford Estate | Waterford Chardonnay",
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Asian BBQ Sauce",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Gochujang",
+      "quantity": 10,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Self-raising Flour",
+      "quantity": 400,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "finely sliced, keeping the white & green parts separate"
+    },
+    {
+      "name": "Cabbage",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "roughly shredded"
+    },
+    {
+      "name": "Pork Belly Pieces",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rind removed & cut into chunks"
+    },
+    {
+      "name": "Pork Belly Sauce",
+      "quantity": 45,
+      "unit": "ml",
+      "prep": "(30ml Low Sodium Soy Sauce & 15ml Honey)"
+    },
+    {
+      "name": "Orange Juice",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Pickled Ginger",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Kewpie Mayo",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "YOU BATTER BELIEVE IT",
+      "text": "In a bowl, combine the BBQ sauce and the gochujang (to taste). Set aside. In a separate bowl, combine the flour and 200ml of water. Add the spring onion whites, the shredded cabbage, and a pinch of salt. Mix until fully combined."
+    },
+    {
+      "step": 2,
+      "title": "FRYING FRENZY",
+      "text": "Place a pan over medium-low heat with a drizzle of oil and a knob of butter (optional). When hot, add ½ the cabbage batter and spread out across the pan in an even thickness of about 0.5cm. Fry for 6-7 minutes per side until set and golden brown. On completion, drain on paper towel. Repeat this process until you have 2 pancakes. Cover to keep warm."
+    },
+    {
+      "step": 3,
+      "title": "STICKY PORK BELLY",
+      "text": "Pat the pork belly chunks dry with paper towel. Return the pan to medium-high heat with a drizzle of oil. When hot, add the pork chunks and sear for 3-5 minutes per side, or until browned and cooked through. In the final 3-5 minutes, baste with the pork belly sauce, the orange juice, and 30ml of water."
+    },
+    {
+      "step": 4,
+      "title": "MOUTH-WATERING DINNER!",
+      "text": "Plate up the okonomiyaki pancake. Drizzle over the BBQ-gochujang sauce (to taste). Top with the sticky pork belly (and any remaining sticky sauce) and the chopped pickled ginger. Sprinkle over the spring onion greens and the picked coriander. Side with the mayo for dunking."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 824.0,
+    "energy_kcal": 197.0,
+    "protein_g": 8.0,
+    "carbs_g": 18.0,
+    "sugars_g": 3.7,
+    "fibre_g": 1.4,
+    "fat_g": 7.3,
+    "saturated_fat_g": 2.1,
+    "sodium_mg": 213.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Allium",
+    "Wheat",
+    "Sulphites",
+    "Sugar Alcohol (Xylitol)",
+    "Soy"
+  ],
+  "chef_tip": "If you're having trouble flipping the pancake, cover the pan with a plate. Flip the pan quickly, so the pancake flips onto the plate. Slide back into the pan.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

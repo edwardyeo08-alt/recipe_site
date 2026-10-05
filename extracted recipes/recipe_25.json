@@ -1,0 +1,148 @@
+{
+  "recipe_number": 25,
+  "title": "Braised Lamb Flatbread",
+  "subtitle": "with a creamy pea purée & roasted butternut",
+  "description": "We're convinced a picture of this dish should be next to the dictionary's definition of 'lip-smacking'. Juicy, melt-in-your-mouth lamb shoulder adorns a lightly crisped flatbread that has been generously coated with a creamy pea & mint purée & sided with zesty lemon wedges. *Smacks lips*",
+  "chef": "Megan Bure",
+  "category": "Adventurous Foodie",
+  "servings": 3,
+  "hands_on_time_minutes": 45,
+  "overall_time_minutes": 55,
+  "wine_pairing": "Waterford Estate | Waterford The Library Collection Spring Shiraz 2017",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Butternut",
+      "quantity": 750,
+      "unit": "g",
+      "prep": "deseeded, peeled (optional) & cut into bite-sized chunks"
+    },
+    {
+      "name": "Beef Stock",
+      "quantity": 15,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Free-range Lamb Shoulder Cubes",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "patted dry with paper towel"
+    },
+    {
+      "name": "Spice & All Things Nice Rogan Josh Curry Paste",
+      "quantity": 22.5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Tomato Paste",
+      "quantity": 45,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onions",
+      "quantity": 2,
+      "unit": null,
+      "prep": "1½ peeled & finely diced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & grated"
+    },
+    {
+      "name": "Fresh Cream",
+      "quantity": 150,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Mint",
+      "quantity": 12,
+      "unit": "g",
+      "prep": "rinsed, picked & roughly sliced"
+    },
+    {
+      "name": "Flatbreads",
+      "quantity": 3,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Lemons",
+      "quantity": 2,
+      "unit": null,
+      "prep": "cut into wedges"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Blender",
+    "Paper Towel",
+    "Butter (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "OVEN-ROASTED GOODNESS",
+      "text": "Preheat the oven to 200°C. Boil the kettle. Place the butternut chunks on a roasting tray, coat in oil, and season. Roast in the hot oven for 30-35 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "TENDER & TOMATOEY LAMB",
+      "text": "Dilute the stock with 450ml of boiling water. Place a pot over medium-high heat with a drizzle of oil. When hot, fry the lamb cubes for 1-2 minutes until sealed but not cooked through. You may need to do this step in batches. Add the curry paste (to taste) and fry for 2-3 minutes until fragrant. Mix in the tomato paste and diluted stock, and bring to the boil. Reduce the heat and simmer for 20-25 minutes until the lamb is tender and the sauce is thick. Stir occasionally and remove from the heat on completion."
+    },
+    {
+      "step": 3,
+      "title": "OH-SO-CREAMY & DREAMY",
+      "text": "Place a pan over a medium heat with a drizzle of oil. When hot, fry the diced onion for 4-5 minutes until soft. Add the grated garlic and fry for 1-2 minutes until fragrant, shifting constantly. Stir in a splash of water to deglaze the pan and remove from the heat. Stir in the cream until heated through. Transfer to a bowl, cover to keep warm, and set aside."
+    },
+    {
+      "step": 4,
+      "title": "IN MINT CONDITION",
+      "text": "Boil the kettle again. Place the peas in a bowl, submerge in boiling water, and allow to sit for 1 minute. Drain and place in a blender with ½ of the sliced mint and the cream sauce and blend until smooth. Add water in 10ml increments until smooth and the desired consistency. Season, cover to keep warm, and set aside for serving."
+    },
+    {
+      "step": 5,
+      "title": "FLAVOURFUL FLATBREAD",
+      "text": "Return the pan to a high heat with a small drizzle of oil or knob of butter. When hot, cook the flatbreads one at a time for 2 minutes per side until heated through and lightly crisped. Remove from the pan on completion and allow to drain on paper towel."
+    },
+    {
+      "step": 6,
+      "title": "LUSCIOUS LAMB FOR DINNER!",
+      "text": "Place the flatbread on a plate and smother in pea & mint purée. Top with the saucy lamb. Squeeze over some lemon juice. Side with the roasted butternut. Garnish with the remaining sliced mint and any remaining lemon wedges. What a treat!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 627.0,
+    "energy_kcal": 150.0,
+    "protein_g": 6.0,
+    "carbs_g": 14.0,
+    "sugars_g": 3.2,
+    "fibre_g": 1.9,
+    "fat_g": 7.6,
+    "saturated_fat_g": 3.5,
+    "sodium_mg": 112.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": "If you're feeling fancy, why not char the lemon wedges for plating? Pop them in a pan over high heat and fry for 1-2 minutes per side until charred.",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring clips 'minutes' in Chef's Tip and 'Sulphites' in Allergens."
+}

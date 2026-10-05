@@ -1,0 +1,152 @@
+{
+  "recipe_number": 17,
+  "title": "Greek Lamb Feasting Platter",
+  "subtitle": "with marinated olives, pickled onions & flatbread",
+  "description": "Let's feast like the Greek Gods! Lamb cubes are served with pita triangles, marinated olives & feta, a pickled onion and tomato salad, fresh oregano, sunflower seeds, and tangy tzatziki. Perfect for grazing guests or when you just want to snack and laze about!",
+  "chef": "Thea Richter",
+  "category": "Adventurous Foodie",
+  "servings": 2,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 40,
+  "wine_pairing": "Paserene | Dark Shiraz",
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Pitted Kalamata Olives",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "drained & halved"
+    },
+    {
+      "name": "Danish-style Feta",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "drained"
+    },
+    {
+      "name": "NOMU Provençal Rub",
+      "quantity": 20,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Lemon Juice",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "½ peeled & finely sliced"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Free-range Lamb Shoulder",
+      "quantity": 320,
+      "unit": "g",
+      "prep": "cut into bite-sized cubes"
+    },
+    {
+      "name": "Pita Breads",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fresh Oregano",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": null,
+      "prep": "cut into bite-sized chunks"
+    },
+    {
+      "name": "Tzatziki",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "rinsed & roughly shredded"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Sugar/Sweetener/Honey",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "MARINATION STATION",
+      "text": "In a bowl, combine the halved olives, the drained feta, ¾ of the rub, ½ the lemon juice, 50ml of olive oil, and seasoning. Set aside to marinate."
+    },
+    {
+      "step": 2,
+      "title": "IN A PICKLE",
+      "text": "In a small bowl, combine the remaining lemon juice, 30ml of water, and 10ml of a sweetener of choice. Add the sliced onion and toss until coated. Set aside to pickle."
+    },
+    {
+      "step": 3,
+      "title": "THAT'S A BIT SEEDY",
+      "text": "Place the sunflower seeds in a pan over medium heat. Toast for 2-4 minutes until lightly browned, shifting occasionally. Remove from the pan and set aside to cool."
+    },
+    {
+      "step": 4,
+      "title": "LUSH LAMB",
+      "text": "Pat the lamb cubes dry with paper towel. Return the pan to a medium-high heat with a drizzle of oil. When hot, add the lamb cubes and fry for 5-6 minutes until crispy, shifting as they colour. In the final minute, baste with the remaining rub. Remove from the pan and set aside to rest for 3 minutes."
+    },
+    {
+      "step": 5,
+      "title": "FLATBREAD PARTY",
+      "text": "Return the pan, wiped down, to a high heat. When hot, warm the pitas for 1-3 minutes per side until heated through and starting to brown. Cut into quarters or triangles."
+    },
+    {
+      "step": 6,
+      "title": "ALMOST THERE!",
+      "text": "Drain the pickling liquid from the onion. In a bowl, combine the pickled onion, ½ the picked oregano, ½ the toasted sunflower seeds, the tomato chunks, a drizzle of oil, and seasoning. Season the tzatziki with salt and pepper."
+    },
+    {
+      "step": 7,
+      "title": "DELISH, CHEF!",
+      "text": "Let's make the platter! Make a bed of the shredded salad leaves and top with the tomato salad. Side with the marinated olives & feta, the pita pieces, the lamb cubes, and the tzatziki. Sprinkle over the remaining oregano and sunflower seeds. Kali Orexi, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": null,
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbs_g": 13.0,
+    "sugars_g": 2.0,
+    "fibre_g": 1.8,
+    "fat_g": 8.8,
+    "saturated_fat_g": 3.6,
+    "sodium_mg": 281.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punch obscures Energy (kJ), Energy (kcal), and Protein values in the Nutritional Information table."
+}

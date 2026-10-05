@@ -1,0 +1,123 @@
+{
+  "recipe_number": 117,
+  "title": "Sage & Roast Butternut Gnocchi",
+  "subtitle": "with burnt butter, crème fraîche & toasted pine nuts",
+  "description": "Sage burnt butter and gnocchi: an all-time favourite! These mini dumplings are browned and crisped but retain their gloriously gooey centre. Tossed with Italian-style hard cheese and served atop roast butternut and fresh rocket. Mouthwateringly moreish!",
+  "chef": "Kate Gomba",
+  "category": "Vegetarian",
+  "servings": 4,
+  "hands_on_time_minutes": 40,
+  "overall_time_minutes": 60,
+  "wine_pairing": null,
+  "cook_within_days": 4,
+  "ingredients": [
+    {
+      "name": "Butternut",
+      "quantity": 1,
+      "unit": "kg",
+      "prep": "peeled & cut into bite-size pieces"
+    },
+    {
+      "name": "Pine Nuts",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whole Italian-Style Hard Cheese",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Potato Gnocchi",
+      "quantity": 800,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Sage",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Rocket",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    },
+    {
+      "name": "Cabernet Sauvignon Vinegar",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": 100,
+      "unit": "ml",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "ROAST THE BUTTERNUT",
+      "text": "Preheat the oven to 200°C. Place the butternut pieces on a roasting tray. Coat in oil, season, and spread out in a single layer. Roast in the hot oven for 35-40 minutes until cooked through and crisping up, shifting halfway."
+    },
+    {
+      "step": 2,
+      "title": "TOAST THE NUTS & PREP THE CHEESE",
+      "text": "Place the pine nuts in a large pan over a medium heat. Toast for 3-5 minutes until golden brown, shifting occasionally. Keep a close eye on them; they burn easily! Remove from the pan on completion. Using a vegetable peeler, shave half of the hard cheese into ribbons and set aside for garnish. Grate the remainder and set aside for the burnt butter."
+    },
+    {
+      "step": 3,
+      "title": "GNOCCHI ON THE GO!",
+      "text": "When the butternut reaches the halfway mark, boil the kettle. Place a pot over a high heat, fill with boiling water, and add a pinch of salt. Once boiling rapidly, cook the gnocchi for 2-3 minutes until they begin to float and are heated through. Drain on completion."
+    },
+    {
+      "step": 4,
+      "title": "CRISPY GNOCCHI & SAGE BURNT BUTTER",
+      "text": "Return the pan to a medium heat with a knob of butter. When starting to foam, fry the gnocchi in a single layer for 2-4 minutes until browned and crisped. Do this step in batches for the crispiest results, adding more butter between batches. Remove from the pan on completion. Return the pan to the heat with 160g of butter. Bring to a simmer and stir for 3-4 minutes until foaming and light brown. Add the sage leaves and fry for 2-3 minutes until crispy. On completion, return the gnocchi to the pan along with the grated hard cheese. Toss to coat, season to taste, and remove from the heat."
+    },
+    {
+      "step": 5,
+      "title": "SOME FRESHNESS",
+      "text": "Place the rinsed rocket in a bowl with a drizzle of the cab sauv vinegar. Toss to coat and season to taste."
+    },
+    {
+      "step": 6,
+      "title": "ORA DI CENA! DINNERTIME!",
+      "text": "Make a bed of dressed rocket and cover in the gorgeous roast butternut. Top with the burnt butter and sage gnocchi and dollop over the crème fraîche. Garnish with the hard cheese shavings and a scattering of pine nuts. Buon appetito, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 545.0,
+    "energy_kcal": 130.0,
+    "protein_g": 3.9,
+    "carbs_g": 14.0,
+    "sugars_g": 2.0,
+    "fibre_g": 4.5,
+    "fat_g": 6.9,
+    "saturated_fat_g": 3.6,
+    "sodium_mg": 137.0
+  },
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Dairy",
+    "Wheat",
+    "Sulphites",
+    "Tree Nuts"
+  ],
+  "chef_tip": "For the best results, boil the gnocchi in batches to prevent crowding the pot and overcooking.",
+  "card_obscured_flag": false,
+  "obscured_details": null
+}

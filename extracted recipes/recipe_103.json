@@ -1,0 +1,119 @@
+{
+  "recipe_number": 103,
+  "title": "Rainbow Trout Niçoise",
+  "subtitle": "with Kalamata olives, cannellini beans & crispy baby potatoes",
+  "description": "A French salad niçoise is already a class act with its olives, baby tomatoes, fresh herbs, and vinaigrette. Add crispy baby potatoes, roast cannellini beans, and a flakey trout fillet, and you've a thing of true beauty!",
+  "chef": "Lauren Todd",
+  "category": "Health Nut",
+  "servings": 4,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": 2,
+  "ingredients": [
+    {
+      "name": "Baby Potatoes",
+      "quantity": 800,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Cannellini Beans",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "drained & rinsed"
+    },
+    {
+      "name": "Vinaigrette Niçoise",
+      "quantity": 80,
+      "unit": "ml",
+      "prep": "60ml Cabernet Sauvignon Vinegar & 20ml Honey"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    },
+    {
+      "name": "Fresh Thyme",
+      "quantity": 8,
+      "unit": "g",
+      "prep": "rinsed & picked"
+    },
+    {
+      "name": "Rainbow Trout Fillet",
+      "quantity": 4,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Pitted Kalamata Olives",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "drained & roughly chopped"
+    },
+    {
+      "name": "Salad Leaves",
+      "quantity": 80,
+      "unit": "g",
+      "prep": "rinsed"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Paper Towel"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "GOLDEN NEW POTATOES",
+      "text": "Preheat the oven to 200°C. Place the halved baby potatoes on a roasting tray. Coat in oil, season, and spread out in a single layer. Roast in the hot oven for 35-40 minutes. Place the drained cannellini beans on a second roasting tray. Coat in oil, season, and spread out in a single layer. Scatter over the thyme leaves and set aside for step 3."
+    },
+    {
+      "step": 2,
+      "title": "MARINATE THE TOMATOES",
+      "text": "Place the vinaigrette Niçoise and 2 tbsp of olive oil in a large salad bowl. Add a pinch of salt, toss through the halved baby tomatoes, and set aside to marinate."
+    },
+    {
+      "step": 3,
+      "title": "POP IN THE CANNELLINIS",
+      "text": "When the potatoes reach the halfway mark, give them a shift and return to the oven. Pop in the tray of cannellini beans and cook for the remaining roasting time. On completion, the cannellini beans should be crisping up and the potatoes should be cooked through and caramelised."
+    },
+    {
+      "step": 4,
+      "title": "SEARED RAINBOW TROUT",
+      "text": "When the roast has 5 minutes remaining, place a large, nonstick pan over a medium-high heat with a drizzle of oil. Pat the trout dry with some paper towel and season. When the pan is hot, fry the trout skin-side down for 2-3 minutes until crispy. Flip and fry for a further 30-60 seconds or until cooked to your preference. Remove from the pan on completion."
+    },
+    {
+      "step": 5,
+      "title": "TANGY SALAD NIÇOISE",
+      "text": "When the roast is ready, transfer to the bowl of marinated baby tomatoes. Add in the chopped olives and rinsed salad leaves. Toss together until coated in vinaigrette and evenly distributed."
+    },
+    {
+      "step": 6,
+      "title": "FRESH & FRENCH",
+      "text": "Dish up some scrumptious salad Niçoise and top with the tender trout fillet. There you go, Chef – it's that easy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 372.0,
+    "energy_kcal": 89.0,
+    "protein_g": 5.9,
+    "carbs_g": 11.0,
+    "sugars_g": 2.4,
+    "fibre_g": 1.9,
+    "fat_g": 1.9,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 114.0
+  },
+  "allergens": [
+    "Sulphites",
+    "Fish"
+  ],
+  "chef_tip": "Cannellini beans have a great source of fiber and protein, making them a strong support for a healthy body weight, lean muscle mass, and optimal digestion. Use them blended into dips, roasted for salads or stirred into stews and soups",
+  "card_obscured_flag": true,
+  "obscured_details": "Binder ring hole punches through text in Chef's Tip ('roasted for s[...]')."
+}

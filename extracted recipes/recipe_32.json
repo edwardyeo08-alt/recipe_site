@@ -1,0 +1,148 @@
+{
+  "recipe_number": 32,
+  "title": "Zippy Beef Bobotie",
+  "subtitle": "with sambal, sultanas & The Larder's guava chutney",
+  "description": "A simple, speedy way to honour this traditional South African food gem: a juicy layer of spiced beef mince, golden sultanas, onion, and carrot; with a fragrant, egg-based topping, basmati rice, and a fresh cucumber and tomato sambal.",
+  "chef": "Kate Gomba",
+  "category": "Easy Peasy",
+  "servings": 4,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 40,
+  "wine_pairing": null,
+  "cook_within_days": 3,
+  "ingredients": [
+    {
+      "name": "White Basmati Rice",
+      "quantity": 300,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fresh Coriander",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "rinsed & roughly chopped"
+    },
+    {
+      "name": "Turmeric Powder",
+      "quantity": 5,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 2,
+      "unit": null,
+      "prep": "peeled & finely diced"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 480,
+      "unit": "g",
+      "prep": "peeled & roughly chopped"
+    },
+    {
+      "name": "Free-Range Beef Mince",
+      "quantity": 600,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Medium Curry Powder",
+      "quantity": 60,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Golden Sultanas",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "The Larder Spiced Guava Chutney",
+      "quantity": 180,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Peas",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cucumber",
+      "quantity": 200,
+      "unit": "g",
+      "prep": "sliced into half-moons"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 400,
+      "unit": "g",
+      "prep": "rinsed & halved"
+    }
+  ],
+  "from_your_kitchen": [
+    "Oil (cooking, olive or coconut)",
+    "Salt & Pepper",
+    "Water",
+    "Milk",
+    "Egg/s",
+    "Butter"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "BEFORE YOU GET GOING",
+      "text": "Read the whole recipe. You'll find the ingredient prep instructions displayed in the ingredient list, directly under the item they apply to."
+    },
+    {
+      "step": 2,
+      "title": "CORIANDER RICE",
+      "text": "Preheat the oven to 200°C. Rinse the rice. Place in a pot over a medium-high heat and submerge in 900ml of salted water. Pop on a lid and bring to the boil. Once boiling, reduce the heat and simmer for 10 minutes until most of the water has been absorbed. Keeping the lid on, remove from the heat and set aside to steam for 10 minutes until cooked and tender. Fluff with a fork on completion and stir through three-quarters of the chopped coriander. Replace the lid and set aside until serving."
+    },
+    {
+      "step": 3,
+      "title": "PREP YOUR TOPPING",
+      "text": "Place 200ml of milk and the turmeric powder in a mixing bowl. Crack in 4 eggs and whisk until combined. Season to taste and set aside."
+    },
+    {
+      "step": 4,
+      "title": "BOLD BEEF BOBOTIE",
+      "text": "Place a large, nonstick pan over a medium heat with a drizzle of oil and a knob of butter. When hot, fry the chopped carrot and diced onion for 5-6 minutes until softened, shifting regularly. Add in the mince and quickly break it up as it starts to cook. Allow to caramelise for 5-6 minutes until browned, stirring occasionally. In the final minute, add in the curry powder, sultanas, and half of the guava chutney (use it to taste, it has a bite!) Stir until combined and season to taste. Evenly spread out in an ovenproof dish and pour the egg topping over it. Bake in the hot oven for 15-20 minutes until the topping is set and golden."
+    },
+    {
+      "step": 5,
+      "title": "VIBRANT SAMBAL",
+      "text": "Boil the kettle. Place the halved baby tomatoes in a salad bowl with a drizzle of olive oil and some seasoning. Toss to coat and set aside to marinate. Submerge the peas in boiling water for 2-3 minutes until heated through. Drain on completion. Just before serving, toss the peas and cucumber half-moons through the marinated tomatoes."
+    },
+    {
+      "step": 6,
+      "title": "CLASSIC BOBOTIE SUPPER",
+      "text": "Dish up some fluffy coriander rice alongside the golden beef bobotie and garnish with the remaining chopped coriander. Serve the colourful sambal on the side. Enjoy with the remaining guava chutney however you'd like! Geniet, Chef!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 560.0,
+    "energy_kcal": 134.0,
+    "protein_g": null,
+    "carbs_g": null,
+    "sugars_g": 7.7,
+    "fibre_g": 3.2,
+    "fat_g": 4.5,
+    "saturated_fat_g": 1.6,
+    "sodium_mg": 25.0
+  },
+  "allergens": [
+    "Gluten",
+    "Dairy",
+    "Allium",
+    "Wheat",
+    "Sulphites"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": true,
+  "obscured_details": "Protein and Carbs values in Nutritional Information are partially obscured/punched out by the binder ring."
+}
