@@ -1,0 +1,11 @@
+# Cloudflare Workers / Wrangler static asset ignore list
+.git
+.github
+.agents
+.gemini
+.vscode
+scripts
+scratch
+node_modules
+*.log
+*.ps1
