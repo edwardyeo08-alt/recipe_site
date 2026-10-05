@@ -56,19 +56,40 @@ console.log(`✓ ingredients_nutrition.json verified: ${nutrData.length} ingredi
 // 3. Test Protein Classification
 const sampleRecipes = allRecipesData.recipes;
 function classifyProtein(r) {
-  const fullText = (r.title + ' ' + (r.subtitle || '') + ' ' + (r.ingredients || []).map(i => i.name).join(' ')).toLowerCase();
-  if (/beef|steak|fillet|rump|sirloin|brisket|meatball|meatloaf|bobotie/.test(fullText)) return 'Beef';
-  if (/lamb|mutton/.test(fullText)) return 'Lamb';
-  if (/chicken|poultry/.test(fullText)) return 'Chicken';
-  if (/pork|bacon|ham|kassler|chorizo/.test(fullText)) return 'Pork';
-  if (/fish|hake|trout|salmon|tuna|yellowtail|dorado|basa|squid|calamari|prawn|seafood|mussel/.test(fullText)) return 'Fish & Seafood';
-  if (/ostrich|venison|duck|turkey/.test(fullText)) return 'Game';
+  if (r.category === 'Vegetarian' || r.category === 'Veggie') return 'Vegetarian';
+  const titleText = (r.title + ' ' + (r.subtitle || '')).toLowerCase();
+  if (/fish|hake|trout|salmon|tuna|yellowtail|dorado|basa|squid|calamari|prawn|seafood|mussel/.test(titleText)) return 'Fish & Seafood';
+  if (/chicken|poultry/.test(titleText)) return 'Chicken';
+  if (/lamb|mutton/.test(titleText)) return 'Lamb';
+  if (/pork|bacon|\bham\b|kassler|chorizo/.test(titleText)) return 'Pork';
+  if (/ostrich|venison|duck|turkey/.test(titleText)) return 'Game';
+  if (/beef|steak|rump|sirloin|brisket|bobotie/.test(titleText)) return 'Beef';
+
+  const ingNames = (r.ingredients || []).map(i => i.name.toLowerCase()).filter(n => !n.includes('stock') && !n.includes('broth')).join(' ');
+  if (/fish|hake|trout|salmon|tuna|yellowtail|dorado|basa|squid|calamari|prawn|seafood|mussel/.test(ingNames)) return 'Fish & Seafood';
+  if (/chicken|poultry/.test(ingNames)) return 'Chicken';
+  if (/lamb|mutton/.test(ingNames)) return 'Lamb';
+  if (/pork|bacon|\bham\b|kassler|chorizo/.test(ingNames)) return 'Pork';
+  if (/ostrich|venison|duck|turkey/.test(ingNames)) return 'Game';
+  if (/beef|rump|sirloin|brisket|mince|biltong|fillet/.test(ingNames)) return 'Beef';
   return 'Vegetarian';
 }
 
 assert.strictEqual(classifyProtein(sampleRecipes[0]), 'Lamb', 'Recipe 1 should be Lamb');
 assert.strictEqual(classifyProtein(sampleRecipes[1]), 'Beef', 'Recipe 2 should be Beef');
-console.log('✓ Protein classification logic verified');
+// Check previously misclassified edge cases
+const r57 = sampleRecipes.find(r => r.recipe_number === 57);
+assert.strictEqual(classifyProtein(r57), 'Chicken', 'Recipe 57 should be Chicken (not Beef)');
+const r81 = sampleRecipes.find(r => r.recipe_number === 81);
+assert.strictEqual(classifyProtein(r81), 'Fish & Seafood', 'Recipe 81 should be Fish & Seafood (not Beef)');
+const r147 = sampleRecipes.find(r => r.recipe_number === 147);
+assert.strictEqual(classifyProtein(r147), 'Vegetarian', 'Recipe 147 should be Vegetarian (not Pork)');
+const r178 = sampleRecipes.find(r => r.recipe_number === 178);
+assert.strictEqual(classifyProtein(r178), 'Game', 'Recipe 178 should be Game (not Beef)');
+const r183 = sampleRecipes.find(r => r.recipe_number === 183);
+assert.strictEqual(classifyProtein(r183), 'Pork', 'Recipe 183 should be Pork (not Beef)');
+console.log('✓ Protein classification logic verified across all meat types and edge cases');
+
 
 // 4. Test Portion Scaling & Unit Conversion
 const r1 = sampleRecipes[0]; // Vibey Durban Lamb Curry (servings: 4, Free-Range Deboned Lamb Leg: 640g, Baby Potatoes: 1kg)

@@ -8,27 +8,23 @@ const recipes = allRecipesData.recipes;
 
 // Simulate enrichment
 function enrichRecipe(r) {
+  if (r.category === 'Vegetarian' || r.category === 'Veggie') return { ...r, protein: 'Vegetarian' };
   const titleText = (r.title + ' ' + (r.subtitle || '')).toLowerCase();
-  const ingText = (r.ingredients || []).map(i => i.name).join(' ').toLowerCase();
-  const fullText = titleText + ' ' + ingText;
+  if (/fish|hake|trout|salmon|tuna|yellowtail|dorado|basa|squid|calamari|prawn|seafood|mussel/.test(titleText)) return { ...r, protein: 'Fish & Seafood' };
+  if (/chicken|poultry/.test(titleText)) return { ...r, protein: 'Chicken' };
+  if (/lamb|mutton/.test(titleText)) return { ...r, protein: 'Lamb' };
+  if (/pork|bacon|\bham\b|kassler|chorizo/.test(titleText)) return { ...r, protein: 'Pork' };
+  if (/ostrich|venison|duck|turkey/.test(titleText)) return { ...r, protein: 'Game' };
+  if (/beef|steak|rump|sirloin|brisket|bobotie/.test(titleText)) return { ...r, protein: 'Beef' };
 
-  let protein = 'Vegetarian';
-  if (/beef|steak|fillet|rump|sirloin|brisket|meatball|meatloaf|bobotie/.test(fullText)) {
-    protein = 'Beef';
-  } else if (/lamb|mutton/.test(fullText)) {
-    protein = 'Lamb';
-  } else if (/chicken|poultry/.test(fullText)) {
-    protein = 'Chicken';
-  } else if (/pork|bacon|ham|kassler|chorizo/.test(fullText)) {
-    protein = 'Pork';
-  } else if (/fish|hake|trout|salmon|tuna|yellowtail|dorado|basa|squid|calamari|prawn|seafood|mussel/.test(fullText)) {
-    protein = 'Fish & Seafood';
-  } else if (/ostrich|venison|duck|turkey/.test(fullText)) {
-    protein = 'Game';
-  } else if (r.category === 'Vegetarian' || r.category === 'Veggie') {
-    protein = 'Vegetarian';
-  }
-  return { ...r, protein };
+  const ingNames = (r.ingredients || []).map(i => i.name.toLowerCase()).filter(n => !n.includes('stock') && !n.includes('broth')).join(' ');
+  if (/fish|hake|trout|salmon|tuna|yellowtail|dorado|basa|squid|calamari|prawn|seafood|mussel/.test(ingNames)) return { ...r, protein: 'Fish & Seafood' };
+  if (/chicken|poultry/.test(ingNames)) return { ...r, protein: 'Chicken' };
+  if (/lamb|mutton/.test(ingNames)) return { ...r, protein: 'Lamb' };
+  if (/pork|bacon|\bham\b|kassler|chorizo/.test(ingNames)) return { ...r, protein: 'Pork' };
+  if (/ostrich|venison|duck|turkey/.test(ingNames)) return { ...r, protein: 'Game' };
+  if (/beef|rump|sirloin|brisket|mince|biltong|fillet/.test(ingNames)) return { ...r, protein: 'Beef' };
+  return { ...r, protein: 'Vegetarian' };
 }
 
 const enrichedRecipes = recipes.map(enrichRecipe);

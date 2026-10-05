@@ -9,3 +9,6 @@ scratch
 node_modules
 *.log
 *.ps1
+extracted recipes/recipe_*.json
+extracted recipes/*.csv
+extracted recipes/ingredients_nutrition.json

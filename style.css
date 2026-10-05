@@ -1056,6 +1056,48 @@ button:disabled {
   font-weight: 600;
 }
 
+.btn-voice-prompt {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: linear-gradient(135deg, #7C3AED 0%, #4F46E5 100%);
+  color: #FFFFFF !important;
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  font-size: 0.78rem;
+  font-weight: 700;
+  box-shadow: 0 2px 6px rgba(124, 58, 237, 0.25);
+  transition: all 0.2s ease;
+  cursor: pointer;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.btn-voice-prompt:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(124, 58, 237, 0.35);
+  filter: brightness(1.08);
+}
+
+.btn-voice-prompt:active {
+  transform: translateY(0);
+}
+
+.btn-voice-prompt.copied {
+  background: linear-gradient(135deg, #059669 0%, #10B981 100%);
+  box-shadow: 0 2px 6px rgba(16, 185, 129, 0.3);
+}
+
+.btn-voice-prompt .voice-prompt-icon {
+  font-size: 0.95rem;
+  line-height: 1;
+}
+
+.active-wake-lock {
+  background: var(--primary-light) !important;
+  color: var(--primary) !important;
+  border-color: var(--primary) !important;
+}
+
 .cook-columns {
   display: grid;
   grid-template-columns: 1fr;
@@ -1416,8 +1458,31 @@ button:disabled {
   .view-section {
     display: none !important;
   }
-  #cookView {
+  body.printing-shopping #shoppingView {
     display: block !important;
+  }
+  body:not(.printing-shopping) #cookView {
+    display: block !important;
+  }
+
+  body.printing-shopping .shopping-actions-group,
+  body.printing-shopping .shopping-progress-wrapper,
+  body.printing-shopping #shoppingEmptyState {
+    display: none !important;
+  }
+  body.printing-shopping .shopping-aisle-card {
+    border: 1px solid #CCC !important;
+    box-shadow: none !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    margin-bottom: 12px !important;
+  }
+  body.printing-shopping .shopping-item {
+    border-bottom: 1px solid #EEE !important;
+  }
+
+  .btn-voice-prompt {
+    display: none !important;
   }
 
   .cook-recipe-card {

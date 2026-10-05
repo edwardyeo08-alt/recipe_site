@@ -28,6 +28,7 @@
   };
 
   let wakeLockSentinel = null;
+  let isWakeLockRequested = false;
 
   // --- DOM ELEMENT REFERENCES ---
   const elements = {
@@ -202,29 +203,62 @@
   }
 
   function enrichRecipe(r) {
-    const titleText = (r.title + ' ' + (r.subtitle || '')).toLowerCase();
-    const ingText = (r.ingredients || []).map(i => i.name).join(' ').toLowerCase();
-    const fullText = titleText + ' ' + ingText;
-
-    // Detect primary protein type
-    let protein = 'Vegetarian';
-    if (/beef|steak|fillet|rump|sirloin|brisket|meatball|meatloaf|bobotie/.test(fullText)) {
-      protein = 'Beef';
-    } else if (/lamb|mutton/.test(fullText)) {
-      protein = 'Lamb';
-    } else if (/chicken|poultry/.test(fullText)) {
-      protein = 'Chicken';
-    } else if (/pork|bacon|ham|kassler|chorizo/.test(fullText)) {
-      protein = 'Pork';
-    } else if (/fish|hake|trout|salmon|tuna|yellowtail|dorado|basa|squid|calamari|prawn|seafood|mussel/.test(fullText)) {
-      protein = 'Fish & Seafood';
-    } else if (/ostrich|venison|duck|turkey/.test(fullText)) {
-      protein = 'Game';
-    } else if (r.category === 'Vegetarian' || r.category === 'Veggie') {
-      protein = 'Vegetarian';
+    if (r.category === 'Vegetarian' || r.category === 'Veggie') {
+      return buildEnrichedRecipe(r, 'Vegetarian');
     }
 
-    // Image path
+    const titleText = (r.title + ' ' + (r.subtitle || '')).toLowerCase();
+
+    // Check title & subtitle first for definitive protein indicators
+    if (/fish|hake|trout|salmon|tuna|yellowtail|dorado|basa|squid|calamari|prawn|seafood|mussel/.test(titleText)) {
+      return buildEnrichedRecipe(r, 'Fish & Seafood');
+    }
+    if (/chicken|poultry/.test(titleText)) {
+      return buildEnrichedRecipe(r, 'Chicken');
+    }
+    if (/lamb|mutton/.test(titleText)) {
+      return buildEnrichedRecipe(r, 'Lamb');
+    }
+    if (/pork|bacon|\bham\b|kassler|chorizo/.test(titleText)) {
+      return buildEnrichedRecipe(r, 'Pork');
+    }
+    if (/ostrich|venison|duck|turkey/.test(titleText)) {
+      return buildEnrichedRecipe(r, 'Game');
+    }
+    if (/beef|steak|rump|sirloin|brisket|bobotie/.test(titleText)) {
+      return buildEnrichedRecipe(r, 'Beef');
+    }
+
+    // Next check primary ingredients (excluding stocks/broths that might be secondary flavoring)
+    const ingNames = (r.ingredients || [])
+      .map(i => i.name.toLowerCase())
+      .filter(n => !n.includes('stock') && !n.includes('broth'))
+      .join(' ');
+
+    if (/fish|hake|trout|salmon|tuna|yellowtail|dorado|basa|squid|calamari|prawn|seafood|mussel/.test(ingNames)) {
+      return buildEnrichedRecipe(r, 'Fish & Seafood');
+    }
+    if (/chicken|poultry/.test(ingNames)) {
+      return buildEnrichedRecipe(r, 'Chicken');
+    }
+    if (/lamb|mutton/.test(ingNames)) {
+      return buildEnrichedRecipe(r, 'Lamb');
+    }
+    if (/pork|bacon|\bham\b|kassler|chorizo/.test(ingNames)) {
+      return buildEnrichedRecipe(r, 'Pork');
+    }
+    if (/ostrich|venison|duck|turkey/.test(ingNames)) {
+      return buildEnrichedRecipe(r, 'Game');
+    }
+    if (/beef|rump|sirloin|brisket|mince|biltong|fillet/.test(ingNames)) {
+      return buildEnrichedRecipe(r, 'Beef');
+    }
+
+    return buildEnrichedRecipe(r, 'Vegetarian');
+  }
+
+  function buildEnrichedRecipe(r, protein) {
+    const ingText = (r.ingredients || []).map(i => i.name).join(' ').toLowerCase();
     const numStr = String(r.recipe_number).padStart(2, '0');
     const imagePath = `extracted recipes/recipe_${numStr}_dish.jpg`;
 
@@ -395,13 +429,34 @@
 
     // Listen for tab visibility changes for Wake Lock
     document.addEventListener('visibilitychange', async () => {
-      if (wakeLockSentinel !== null && document.visibilityState === 'visible') {
+      if (isWakeLockRequested && document.visibilityState === 'visible' && 'wakeLock' in navigator) {
         try {
           wakeLockSentinel = await navigator.wakeLock.request('screen');
+          updateWakeLockUI(true);
+          wakeLockSentinel.addEventListener('release', () => {
+            wakeLockSentinel = null;
+            if (!isWakeLockRequested) {
+              updateWakeLockUI(false);
+            }
+          });
         } catch (e) {
           console.warn('Wake Lock re-acquire failed:', e);
         }
       }
+    });
+
+    // Handle beforeprint and afterprint to ensure cook/shopping views are ready for printing
+    window.addEventListener('beforeprint', () => {
+      if (state.activeTab === 'shopping') {
+        document.body.classList.add('printing-shopping');
+      } else {
+        document.body.classList.remove('printing-shopping');
+        renderCookView();
+      }
+    });
+
+    window.addEventListener('afterprint', () => {
+      document.body.classList.remove('printing-shopping');
     });
   }
 
@@ -893,11 +948,36 @@
     return result;
   }
 
+  const PLURAL_MAP = {
+    'apples': 'Apple',
+    'avocados': 'Avocado',
+    'basa fillets': 'Basa Fillet',
+    'carrots': 'Carrot',
+    'cashew nuts': 'Cashew Nut',
+    'cooked chopped tomatoes': 'Cooked Chopped Tomatoes',
+    'corn tortillas': 'Corn Tortilla',
+    'fresh chillies': 'Fresh Chilli',
+    'garlic cloves': 'Garlic Clove',
+    'lemons': 'Lemon',
+    'limes': 'Lime',
+    'line-caught hake fillets': 'Line-Caught Hake Fillet',
+    'onions': 'Onion',
+    'pickled jalapeños': 'Pickled Jalapeño',
+    'poppadoms': 'Poppadom',
+    'rainbow trout fillets': 'Rainbow Trout Fillet',
+    'red onions': 'Red Onion',
+    'spring onions': 'Spring Onion',
+    'tomatoes': 'Tomato',
+    'whole wheat rotis': 'Whole Wheat Roti'
+  };
+
   function normalizeIngredientName(name) {
     // Strip common prep prefixes/suffixes while preserving the food noun
-    return name
+    const cleaned = name
       .replace(/\s*\([^)]*\)/g, '') // remove parenthetical notes
       .trim();
+    const lower = cleaned.toLowerCase();
+    return PLURAL_MAP[lower] || cleaned;
   }
 
   function categorizeGroceryAisle(name) {
@@ -1113,13 +1193,115 @@
       text += `\n`;
     }
 
+    await copyTextToClipboard(text, null, 'Shopping list copied to clipboard!');
+  }
+
+  // --- CLIPBOARD & AI VOICE COOK PROMPT GENERATOR ---
+  async function copyTextToClipboard(text, feedbackBtn = null, successToast = 'Copied to clipboard!') {
     try {
-      await navigator.clipboard.writeText(text);
-      showToast('Shopping list copied to clipboard!');
+      if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+      } else {
+        const textarea = document.createElement('textarea');
+        textarea.value = text;
+        textarea.style.position = 'fixed';
+        textarea.style.left = '-9999px';
+        textarea.style.top = '-9999px';
+        document.body.appendChild(textarea);
+        textarea.focus();
+        textarea.select();
+        document.execCommand('copy');
+        textarea.remove();
+      }
+
+      if (feedbackBtn) {
+        const textEl = feedbackBtn.querySelector('.voice-prompt-text');
+        const iconEl = feedbackBtn.querySelector('.voice-prompt-icon');
+        const origText = textEl ? textEl.textContent : feedbackBtn.textContent;
+        const origIcon = iconEl ? iconEl.textContent : '';
+
+        feedbackBtn.classList.add('copied');
+        if (textEl) textEl.textContent = 'Copied to Clipboard!';
+        if (iconEl) iconEl.textContent = '✓';
+
+        setTimeout(() => {
+          feedbackBtn.classList.remove('copied');
+          if (textEl) textEl.textContent = origText;
+          if (iconEl) iconEl.textContent = origIcon;
+        }, 2500);
+      }
+
+      if (successToast) {
+        showToast(successToast);
+      }
+      return true;
     } catch (err) {
       console.warn('Clipboard write failed:', err);
       showToast('Please copy manually (Clipboard blocked)');
+      return false;
     }
+  }
+
+  function generateAiVoicePrompt(recipe, portions) {
+    const baseServings = recipe.servings || 4;
+    const factor = (Number(portions) || 4) / baseServings;
+
+    const scaledIngredients = (recipe.ingredients || []).map(ing => {
+      let line = '';
+      if (ing.quantity !== null && ing.quantity !== undefined && !isNaN(ing.quantity)) {
+        const scaled = roundNumber(ing.quantity * factor, 1);
+        line = `${scaled} ${ing.unit || ''} ${ing.name}`.trim();
+      } else {
+        line = ing.name;
+      }
+      if (ing.prep) line += ` (${ing.prep})`;
+      return `- ${line}`;
+    }).join('\n');
+
+    const staples = (recipe.from_your_kitchen && recipe.from_your_kitchen.length)
+      ? recipe.from_your_kitchen.map(s => `- ${s}`).join('\n')
+      : '- Standard kitchen staples (oil, salt, pepper, water)';
+
+    const instructions = (recipe.instructions || []).map(s => {
+      const heading = s.title ? ` [${s.title}]` : '';
+      return `Step ${s.step}${heading}:\n${s.text || ''}`;
+    }).join('\n\n');
+
+    const chefTip = recipe.chef_tip ? `\n\n### CHEF TIP:\n${recipe.chef_tip}` : '';
+
+    return `# Voice Cooking Assistant Prompt: ${recipe.title}
+
+You are my interactive, hands-free voice sous-chef and step-by-step cooking guide. I am about to cook "${recipe.title}" in my kitchen right now using your voice chat mode. My hands will be busy with chopping, stirring, and handling food, so please follow these voice-guidance rules:
+
+### VOICE ASSISTANT INSTRUCTIONS:
+1. **Interactive Step-by-Step Pace:** Do NOT recite the entire recipe at once. We will cook together one step at a time.
+2. **Start with Mise en Place:** First, briefly tell me what ingredients and cookware/utensils to gather on my countertop. Then ask: "Let me know when you have everything ready, and we will begin Step 1!"
+3. **Wait for Confirmation:** Only move to the next cooking step when I say "Next", "Done", "What's next?", or confirm that the current step is completed.
+4. **Kitchen-Friendly Speech:** Keep your spoken responses concise, direct, and easy to understand over sizzling pans and kitchen background noise. Avoid long walls of text.
+5. **Timers & Heat Cues:** When a step involves cooking time (e.g. simmer for 15 minutes) or a sensory cue (e.g. "until fragrant" or "golden brown"), call it out clearly and offer to help keep track of time.
+6. **Substitutions & Help:** If I ask questions or need emergency ingredient substitutions, provide quick, practical culinary advice, then return smoothly to the active step.
+7. **Tone:** Keep a warm, encouraging, professional chef demeanor throughout.
+
+---
+
+### RECIPE SPECIFICATIONS:
+- **Recipe:** ${recipe.title}
+- **Subtitle:** ${recipe.subtitle || 'N/A'}
+- **Planned Portions:** ${portions} portions (scaled from base ${baseServings} servings)
+- **Total Cooking Time:** ${recipe.overall_time_minutes || 45} minutes
+- **Chef / Cuisine:** ${recipe.chef || 'Chef'}
+
+### SCALED INGREDIENTS (${portions} PORTIONS):
+${scaledIngredients}
+
+### FROM YOUR KITCHEN (PANTRY STAPLES):
+${staples}
+
+### COOKING METHOD:
+${instructions}${chefTip}
+
+---
+Please start now by greeting me, introducing the dish and portion count, and telling me what key ingredients and equipment to lay out. Then ask if I am ready for Step 1!`;
   }
 
   // --- RENDER COOK & PRINT VIEW ---
@@ -1175,6 +1357,10 @@
               <span class="cook-meta-tag">🍽️ Scaled to: <strong>${planItem.portions} portions</strong></span>
               <span class="cook-meta-tag">⏱ Total Time: ${recipe.overall_time_minutes || 45} mins</span>
               <span class="cook-meta-tag">👨‍🍳 By ${escapeHtml(recipe.chef || 'Chef')}</span>
+              <button class="btn-voice-prompt print-hide" data-action="copy-ai-prompt" data-id="${planId}" title="Copy hands-free AI voice cooking prompt for Gemini or ChatGPT">
+                <span class="voice-prompt-icon">🎙️</span>
+                <span class="voice-prompt-text">Copy AI Voice Cooking Prompt</span>
+              </button>
             </div>
           </div>
         </div>
@@ -1208,6 +1394,19 @@
         </div>
       `;
 
+      // Voice prompt button event
+      const voiceBtn = card.querySelector('[data-action="copy-ai-prompt"]');
+      if (voiceBtn) {
+        voiceBtn.addEventListener('click', () => {
+          const promptText = generateAiVoicePrompt(recipe, planItem.portions);
+          copyTextToClipboard(
+            promptText,
+            voiceBtn,
+            `Copied AI voice prompt for "${recipe.title}"! Paste into Gemini or ChatGPT.`
+          );
+        });
+      }
+
       fragment.appendChild(card);
     });
 
@@ -1221,13 +1420,13 @@
       return;
     }
 
-    if (wakeLockSentinel !== null) {
+    if (isWakeLockRequested && wakeLockSentinel !== null) {
       // Release
       try {
+        isWakeLockRequested = false;
         await wakeLockSentinel.release();
         wakeLockSentinel = null;
-        elements.wakeLockIcon.textContent = '💡';
-        elements.wakeLockText.textContent = 'Keep Screen Awake';
+        updateWakeLockUI(false);
         showToast('Screen Wake Lock disabled');
       } catch (e) {
         console.warn('Error releasing wake lock:', e);
@@ -1235,19 +1434,33 @@
     } else {
       // Acquire
       try {
+        isWakeLockRequested = true;
         wakeLockSentinel = await navigator.wakeLock.request('screen');
-        elements.wakeLockIcon.textContent = '🔆';
-        elements.wakeLockText.textContent = 'Screen Awake: ACTIVE';
+        updateWakeLockUI(true);
         showToast('Screen will stay awake while cooking!');
         wakeLockSentinel.addEventListener('release', () => {
           wakeLockSentinel = null;
-          elements.wakeLockIcon.textContent = '💡';
-          elements.wakeLockText.textContent = 'Keep Screen Awake';
+          if (!isWakeLockRequested) {
+            updateWakeLockUI(false);
+          }
         });
       } catch (err) {
+        isWakeLockRequested = false;
         console.warn('Wake Lock request failed:', err);
         showToast('Could not activate screen wake lock.');
       }
+    }
+  }
+
+  function updateWakeLockUI(active) {
+    if (active) {
+      elements.wakeLockIcon.textContent = '🔆';
+      elements.wakeLockText.textContent = 'Screen Awake: ACTIVE';
+      elements.wakeLockBtn.classList.add('active-wake-lock');
+    } else {
+      elements.wakeLockIcon.textContent = '💡';
+      elements.wakeLockText.textContent = 'Keep Screen Awake';
+      elements.wakeLockBtn.classList.remove('active-wake-lock');
     }
   }
 

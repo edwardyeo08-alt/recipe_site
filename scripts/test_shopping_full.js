@@ -28,10 +28,19 @@ function calculateAggregatedShopping(plan, recipes) {
 
     const factor = (planItem.portions || 4) / (recipe.servings || 4);
 
+    const PLURAL_MAP = {
+      'onions': 'Onion',
+      'garlic cloves': 'Garlic Clove',
+      'carrots': 'Carrot',
+      'lemons': 'Lemon',
+      'tomatoes': 'Tomato'
+    };
+
     (recipe.ingredients || []).forEach(ing => {
       if (!ing || !ing.name) return;
       const rawName = ing.name.trim();
-      const baseName = rawName.replace(/\s*\([^)]*\)/g, '').trim();
+      const cleaned = rawName.replace(/\s*\([^)]*\)/g, '').trim();
+      const baseName = PLURAL_MAP[cleaned.toLowerCase()] || cleaned;
       const unit = ing.unit || null;
       let qty = (ing.quantity !== null && ing.quantity !== undefined && !isNaN(ing.quantity))
         ? ing.quantity * factor

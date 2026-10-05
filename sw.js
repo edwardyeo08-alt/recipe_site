@@ -7,8 +7,9 @@ const CORE_ASSETS = [
   './app.js',
   './manifest.webmanifest',
   './icons/icon.svg',
-  './extracted%20recipes/all_recipes.json',
-  './extracted recipes/all_recipes.json'
+  './icons/icon-192.png',
+  './icons/icon-512.png',
+  './extracted%20recipes/all_recipes.json'
 ];
 
 // Install: Cache core app shell and recipe database
@@ -85,10 +86,16 @@ self.addEventListener('fetch', event => {
       }).catch(err => {
         // Offline and not in cache
         console.log('[SW] Fetch failed offline:', event.request.url);
-        return cachedResponse;
+        if (cachedResponse) return cachedResponse;
+        return new Response('Offline resource unavailable', {
+          status: 503,
+          statusText: 'Offline',
+          headers: { 'Content-Type': 'text/plain; charset=utf-8' }
+        });
       });
 
       return cachedResponse || fetchPromise;
     })
   );
 });
+
