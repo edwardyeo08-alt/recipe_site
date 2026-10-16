@@ -1,0 +1,108 @@
+{
+  "recipe_number": 195,
+  "title": "Berry Overnight Oats",
+  "subtitle": "High Protein • Low Calorie • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious berry overnight oats with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 5,
+  "overall_time_minutes": 5,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Almond Milk",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": "g±ml"
+    },
+    {
+      "name": "Bannana",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Berries",
+      "quantity": 70,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chia Seeds",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Greek Yoghurt",
+      "quantity": 120,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Oats",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Protein Powder",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "In a bowl or meal prep jar, combine rolled oats, protein powder, and a pinch of salt."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Pour in the almond milk or water and stir thoroughly until no lumps remain."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Fold in any fruit, sweetener, or cinnamon."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Seal and refrigerate overnight (or at least 4 hours) to thicken into a creamy pudding."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Top with your favourite toppings (berries, nuts, or peanut butter) before enjoying!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 316.7,
+    "energy_kcal": 75.7,
+    "protein_g": 6.7,
+    "carbs_g": 10,
+    "sugars_g": 2.5,
+    "fibre_g": 2.4,
+    "fat_g": 1.6,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 202
+  },
+  "allergens": [
+    "Dairy",
+    "Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 340
+}

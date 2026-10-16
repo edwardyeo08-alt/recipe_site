@@ -113,15 +113,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 774.0,
-    "energy_kcal": 185.0,
-    "protein_g": 10.0,
-    "carbs_g": 15.0,
+    "energy_kj": 774,
+    "energy_kcal": 185,
+    "protein_g": 10,
+    "carbs_g": 15,
     "sugars_g": 1.5,
     "fibre_g": 3.5,
     "fat_g": 7.1,
     "saturated_fat_g": 2.6,
-    "sodium_mg": 304.0
+    "sodium_mg": 304
   },
   "allergens": [
     "Dairy",
@@ -132,5 +132,6 @@
   ],
   "chef_tip": "If you have the time, why not take the opportunity to light up the braai and grill the coffee-seasoned fillet to smoky perfection for a proper South African steak supper and a festive evening!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 800
 }

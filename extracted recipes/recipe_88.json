@@ -114,15 +114,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 428.0,
-    "energy_kcal": 102.0,
+    "energy_kj": 428,
+    "energy_kcal": 102,
     "protein_g": 7.3,
-    "carbs_g": 12.0,
+    "carbs_g": 12,
     "sugars_g": 2.6,
     "fibre_g": 1.8,
     "fat_g": 2.8,
     "saturated_fat_g": 0.8,
-    "sodium_mg": 193.0
+    "sodium_mg": 193
   },
   "allergens": [
     "Egg",
@@ -132,5 +132,6 @@
   ],
   "chef_tip": "You can peel the potatoes if you prefer, but leaving them with their skins on to roast means they will come out of the oven with a deliciously crispy finish.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 486
 }

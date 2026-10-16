@@ -13,67 +13,67 @@
   "ingredients": [
     {
       "name": "Free-range Chicken Pieces",
-      "quantity": 4.0,
+      "quantity": 4,
       "unit": null,
       "prep": null
     },
     {
       "name": "Ground Cumin",
-      "quantity": 10.0,
+      "quantity": 10,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Pumpkin Chunks",
-      "quantity": 500.0,
+      "quantity": 500,
       "unit": "g",
       "prep": "rinsed & cut into bite-sized chunks"
     },
     {
       "name": "Chickpeas",
-      "quantity": 240.0,
+      "quantity": 240,
       "unit": "g",
       "prep": "drained & rinsed"
     },
     {
       "name": "Garlic Cloves",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "Golden Sultanas",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": "roughly chopped"
     },
     {
       "name": "Onion",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "peeled & finely diced"
     },
     {
       "name": "Baby Tomatoes",
-      "quantity": 160.0,
+      "quantity": 160,
       "unit": "g",
       "prep": "quartered"
     },
     {
       "name": "Fresh Coriander",
-      "quantity": 10.0,
+      "quantity": 10,
       "unit": "g",
       "prep": "rinsed, picked & roughly chopped"
     },
     {
       "name": "Fresh Chilli",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "deseeded & finely chopped"
     },
     {
       "name": "White Wine Vinegar",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "ml",
       "prep": null
     }
@@ -107,15 +107,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 515.0,
-    "energy_kcal": 123.0,
+    "energy_kj": 515,
+    "energy_kcal": 123,
     "protein_g": 7.3,
-    "carbs_g": 16.0,
+    "carbs_g": 16,
     "sugars_g": 3.4,
     "fibre_g": 3.6,
     "fat_g": 2.9,
     "saturated_fat_g": 0.7,
-    "sodium_mg": 18.0
+    "sodium_mg": 18
   },
   "allergens": [
     "Allium",
@@ -123,5 +123,6 @@
   ],
   "chef_tip": "To check if your chicken is ready, pierce it with a knife. If it’s cooked through, the juices will run clear.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 750
 }

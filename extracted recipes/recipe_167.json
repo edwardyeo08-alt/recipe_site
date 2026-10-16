@@ -113,15 +113,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 675.0,
-    "energy_kcal": 165.0,
+    "energy_kj": 675,
+    "energy_kcal": 165,
     "protein_g": 5.9,
-    "carbs_g": 18.0,
+    "carbs_g": 18,
     "sugars_g": 5.2,
     "fibre_g": 2.7,
     "fat_g": 6.3,
-    "saturated_fat_g": 3.0,
-    "sodium_mg": 271.0
+    "saturated_fat_g": 3,
+    "sodium_mg": 271
   },
   "allergens": [
     "Gluten",
@@ -132,5 +132,6 @@
   ],
   "chef_tip": "Pizza bases are sneaky things and can burn very easily, so keep your eyes peeled for rapidly browning edges!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 883
 }

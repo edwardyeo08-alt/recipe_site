@@ -112,15 +112,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 703.0,
-    "energy_kcal": 168.0,
+    "energy_kj": 703,
+    "energy_kcal": 168,
     "protein_g": 5.7,
-    "carbs_g": 16.0,
+    "carbs_g": 16,
     "sugars_g": 1.7,
     "fibre_g": 1.8,
     "fat_g": 9.3,
     "saturated_fat_g": 5.4,
-    "sodium_mg": 82.0
+    "sodium_mg": 82
   },
   "allergens": [
     "Egg",
@@ -130,5 +130,6 @@
   ],
   "chef_tip": "Deglazing is a technique for lifting food residue from the base of a pan by adding in liquid and using a utensil to stir and scrape. This mixture can be used to add flavour to sauces and gravies.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 1058
 }

@@ -1,0 +1,120 @@
+{
+  "recipe_number": 216,
+  "title": "Seared Salmon & Sweet Potato Bowl",
+  "subtitle": "High Protein • Meal Prep Friendly",
+  "description": "Nutritious, delicious seared salmon & sweet potato bowl with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Lunch",
+  "servings": 1,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 30,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Baby Lettuce",
+      "quantity": 35,
+      "unit": "g",
+      "prep": "one head ± 450g"
+    },
+    {
+      "name": "Butternut",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "large butternut ± 1.3kg"
+    },
+    {
+      "name": "Chives",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Everything Bagel Seasoning",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fresh Salmon Fillet",
+      "quantity": 120,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Cooking Spray",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Sweet Potato",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Teriyaki Sauce",
+      "quantity": 25,
+      "unit": "g",
+      "prep": "can be made with soya sauce and vinagar"
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Cook grains (quinoa or brown rice) according to package instructions and allow to cool slightly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Chop fresh vegetables (cucumbers, tomatoes, greens, avocado) into bite-sized pieces."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook or prepare the protein seasoned with herbs and lemon juice."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Whisk together the light dressing with lemon juice, mustard, salt, and pepper."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Assemble the power bowl by arranging grains, vegetables, and protein in sections, then drizzle with dressing."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 299.2,
+    "energy_kcal": 71.5,
+    "protein_g": 5,
+    "carbs_g": 6,
+    "sugars_g": 1.5,
+    "fibre_g": 0.9,
+    "fat_g": 2.8,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 254
+  },
+  "allergens": [
+    "Dairy",
+    "Fish & Seafood"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 403
+}

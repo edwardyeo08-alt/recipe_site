@@ -113,15 +113,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 489.0,
-    "energy_kcal": 117.0,
+    "energy_kj": 489,
+    "energy_kcal": 117,
     "protein_g": 9.2,
-    "carbs_g": 11.0,
+    "carbs_g": 11,
     "sugars_g": 2.4,
     "fibre_g": 2.5,
     "fat_g": 4.1,
     "saturated_fat_g": 1.4,
-    "sodium_mg": 61.0
+    "sodium_mg": 61
   },
   "allergens": [
     "Egg",
@@ -131,5 +131,6 @@
   ],
   "chef_tip": "To get the pumpkin to cook evenly and quicker, the best advice: chop in the most uniform pieces you can! The thicker the veggie, the longer it will take to cook.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 664
 }

@@ -140,5 +140,6 @@
   ],
   "chef_tip": "Draining and rinsing tinned beans, lentils, and chickpeas reduces the amount of sodium you're ingesting. It also reduces the complex sugar content (which humans can't digest!) and improves the flavour and texture of the food.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 910
 }

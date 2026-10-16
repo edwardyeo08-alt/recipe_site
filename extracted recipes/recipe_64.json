@@ -134,5 +134,6 @@
   ],
   "chef_tip": "To cook food 'al dente' means that it should still be firm when bitten. It must be tender, but not soft. This typically refers to pasta, but applies to other grains, as well as a range of veg. In the case of your green beans, they should still have a snap to them once cooked.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 404
 }

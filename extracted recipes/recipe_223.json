@@ -1,0 +1,119 @@
+{
+  "recipe_number": 223,
+  "title": "Tiramisu Overnight Oats",
+  "subtitle": "Low Calorie • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious tiramisu overnight oats with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 180,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Almond Milk",
+      "quantity": 200,
+      "unit": "ml",
+      "prep": "g±ml"
+    },
+    {
+      "name": "Cocoa Powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Greek Yoghurt",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Instant Coffee Powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Oats",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pinch Salt",
+      "quantity": 1,
+      "unit": null,
+      "prep": "pinch"
+    },
+    {
+      "name": "Protein Powder",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Vanilla Essence",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "200g Low Fat Greek/PIain Yoghurt 2g Powdered Sweetener* Igppjng; 1/2 Tsp Cocoa Powder"
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Add the oats, protein powder, instant coffee (or espresso), almond milk, vanilla essence, salt, and sweetener to a small pot."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook over medium heat, stirring occasionally, until the oats is soft and creamy. Remove from heat and let cool slightly. (Alternatively, microwave in 30-second intervals, stirring in between, until thick and creamy,)"
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "1n a separate bowl, mix the yoghurt and sweetener until well combined."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Layer half the oats into a serving glass or bowl, followed by a layer of sweetened yoghurt. Repeat with the remaining oats and yoghurt."
+    },
+    {
+      "step": 6,
+      "title": "",
+      "text": "Sprinkle with cocoa powder and refrigerate for a few hours or overnight. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 282,
+    "energy_kcal": 67.4,
+    "protein_g": 4.2,
+    "carbs_g": 9.3,
+    "sugars_g": 2.3,
+    "fibre_g": 1,
+    "fat_g": 1.5,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 233
+  },
+  "allergens": [
+    "Dairy",
+    "Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 349
+}

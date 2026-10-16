@@ -1,0 +1,111 @@
+{
+  "recipe_number": 202,
+  "title": "Comfy Protein Cottage Pie",
+  "subtitle": "High Protein • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious comfy protein cottage pie with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 30,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Extra Lean Beef Mince",
+      "quantity": 140,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Frozen Vegetable Mix",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Cooking Spray",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Sweet Potato",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Thyme",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Tomato & Onion Mix",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Prepare all fresh ingredients and season the protein thoroughly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a cooking skillet or oven to appropriate temperature with light cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook the main protein over medium-high heat until nicely browned and cooked through."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 270.3,
+    "energy_kcal": 64.6,
+    "protein_g": 5.3,
+    "carbs_g": 8.1,
+    "sugars_g": 2,
+    "fibre_g": 1.5,
+    "fat_g": 1.1,
+    "saturated_fat_g": 0.3,
+    "sodium_mg": 323
+  },
+  "allergens": [],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 464
+}

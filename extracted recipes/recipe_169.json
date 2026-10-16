@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 601.0,
-    "energy_kcal": 144.0,
+    "energy_kj": 601,
+    "energy_kcal": 144,
     "protein_g": 5.2,
-    "carbs_g": 22.0,
+    "carbs_g": 22,
     "sugars_g": 1.9,
     "fibre_g": 3.9,
     "fat_g": 4.1,
     "saturated_fat_g": 1.3,
-    "sodium_mg": 413.0
+    "sodium_mg": 413
   },
   "allergens": [
     "Egg",
@@ -138,5 +138,6 @@
   ],
   "chef_tip": "Spanakopita ingredients: phyllo pastry; organic spinach, onions, leeks, celery, and rocket; halloumi; feta; cheddar; extra virgin olive oil; butter; free-range egg; milk; flour; herbs; spices; lemon; sweet chilli sauce; sriracha.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 470
 }

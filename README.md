@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Progressive%20Web%20App-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 [![Hosting](https://img.shields.io/badge/Deploy-Cloudflare%20Workers%20Static%20Assets-F38020?logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/workers/)
-[![Recipes](https://img.shields.io/badge/Recipes-192%20Dishes-2A7E4F.svg)](#dataset-and-data-structures)
+[![Recipes](https://img.shields.io/badge/Recipes-247%20Dishes-2A7E4F.svg)](#dataset-and-data-structures)
 [![Offline Ready](https://img.shields.io/badge/Offline%20Mode-Service%20Worker%20Active-blue.svg)](#offline-and-pwa-architecture)
 
 **MealPlan** is a mobile-first, high-performance Progressive Web Application (PWA) designed for weekly meal planning, dynamic portion scaling, aggregated supermarket grocery lists organized by store aisle, and kitchen cooking mode with screen wake-lock support.
@@ -42,7 +42,7 @@ Built with **Vanilla JavaScript (ES6+)**, **semantic HTML5**, and **pure CSS3**,
 ## ✨ Key Features
 
 ### 🍲 1. Recipe Catalog & Instant Search
-- **192 Chef-Crafted Recipes:** Complete with dish photography, prep/cook times, chef tips, allergens, and nutritional profiles per 100g.
+- **247 Chef-Crafted Recipes:** Complete with dish photography, prep/cook times, chef tips, allergens, and nutritional profiles per 100g.
 - **Client-Side Search Corpus:** Sub-millisecond full-text search indexing title, subtitle, chef, category, protein classification, and all ingredient names.
 - **Multi-Dimensional Filtering:**
   - **Protein / Diet Filter Chips:** All, Beef, Chicken, Lamb, Pork, Fish & Seafood, Game, Vegetarian.

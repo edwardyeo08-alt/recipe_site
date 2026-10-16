@@ -13,73 +13,73 @@
   "ingredients": [
     {
       "name": "Sweet Potato Chunks",
-      "quantity": 800.0,
+      "quantity": 800,
       "unit": "g",
       "prep": "cut into bite-size pieces"
     },
     {
       "name": "Onion",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "peeled & sliced"
     },
     {
       "name": "Fresh Chilli",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "deseeded & finely chopped"
     },
     {
       "name": "Fresh Ginger",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": "peeled & grated"
     },
     {
       "name": "NOMU Indian Rub",
-      "quantity": 60.0,
+      "quantity": 60,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Cooked Chopped Tomatoes",
-      "quantity": 400.0,
+      "quantity": 400,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Cucumber",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Plain Yoghurt",
-      "quantity": 320.0,
+      "quantity": 320,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Free-Range Chicken Mini Fillets",
-      "quantity": 600.0,
+      "quantity": 600,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Green Beans",
-      "quantity": 300.0,
+      "quantity": 300,
       "unit": "g",
       "prep": "trimmed & halved"
     },
     {
       "name": "Whole Wheat Rotis",
-      "quantity": 8.0,
+      "quantity": 8,
       "unit": null,
       "prep": null
     },
     {
       "name": "Pesto Princess Coriander & Chilli Pesto",
-      "quantity": 60.0,
+      "quantity": 60,
       "unit": "ml",
       "prep": null
     }
@@ -123,15 +123,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 469.0,
-    "energy_kcal": 112.0,
+    "energy_kj": 469,
+    "energy_kcal": 112,
     "protein_g": 6.5,
-    "carbs_g": 15.0,
+    "carbs_g": 15,
     "sugars_g": 4.1,
-    "fibre_g": 2.0,
+    "fibre_g": 2,
     "fat_g": 2.6,
     "saturated_fat_g": 0.5,
-    "sodium_mg": 249.0
+    "sodium_mg": 249
   },
   "allergens": [
     "Gluten",
@@ -143,5 +143,6 @@
   ],
   "chef_tip": "Ginger has superpowers! It strengthens the immune system, stops inflammation, eases digestion, and alleviates cold and flu symptoms. Whizz it up fresh with smoothies or juices for extra zing, or add it to just about any curry dish!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 829
 }

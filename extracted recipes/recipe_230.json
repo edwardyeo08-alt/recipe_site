@@ -1,0 +1,70 @@
+{
+  "recipe_number": 230,
+  "title": "Decadent Chocolate Chia Pudding",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein decadent chocolate chia pudding if smacking your fibre goal while indulging in a thick, creamy chocolate pudding before 8 am sounds like your style - this decadent, high-protein chia pudding is about to be your new bestie. o top it with a dollop of tangy yoghurt and fresh strawberries to seal the deal. prep: 5 mins total: 3-4 hours/ overnight 25g chia seeds 150g unsweetened almond milk 1 serving , pp calories 333 protein carbs fat fibre 34 g 22 g 13 g 15 g 30g whey protein powder (chocolate or vanilla) 15g cocoa powder 2g powdered sweetener* lopping; 50g low-fat plain yoghurt 20g strawberries instructions 1. blend the chia seeds, almond milk, protein powder, cocoa powder, and sweetener in a blender or nutribullet until smooth. 2. if the mixture is too thick, add a splash of water - it will continue to thicken as it sets. 3. pour into a glass or jar, cover, and refrigerate for at least 3 hours. 4. serve chilled with yogurt and sliced strawberries. enjoy! pro lip: swap ou4 almond milk for faf-free milk io pump up lhe prolein and creaminess/ time-saving 'ip: prep iwo of lhese in advance and enjoy lomorrow/ noles from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 5,
+  "overall_time_minutes": 15,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whey Protein Powder",
+      "quantity": 25,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Blend the chia seeds, almond milk, protein powder, cocoa powder, and sweetener in a blender or Nutribullet until smooth."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "If the mixture is too thick, add a splash of water - it will continue to thicken as it sets."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Pour into a glass or jar, cover, and refrigerate for at least 3 hours."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Serve chilled with yogurt and sliced strawberries. Enjoy! Pro lip: Swap ou4 almond milk for Faf-free milk Io pump up lhe prolein and creaminess/ Time-saving 'ip: Prep Iwo of lhese in advance and enjoy lomorrow/ Noles"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 464.4,
+    "energy_kcal": 111,
+    "protein_g": 8,
+    "carbs_g": 11.7,
+    "sugars_g": 2.9,
+    "fibre_g": 11.3,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 135
+  },
+  "allergens": [],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 333
+}

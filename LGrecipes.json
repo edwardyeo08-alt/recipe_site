@@ -1,0 +1,4625 @@
+[
+  {
+    "id": "avocado_black_bean_power_bowl",
+    "name": "Avocado & Black Bean Power Bowl",
+    "description": "Nutritious, delicious avocado & black bean power bowl with balanced macros and simple prep.",
+    "category": "Lunch",
+    "prepTime": 15,
+    "totalTime": 25,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Meal Prep Friendly"
+    ],
+    "calories": 605,
+    "protein": 28.0,
+    "carbs": 62.0,
+    "fat": 15.0,
+    "fiber": 52.0,
+    "estimatedCost": 32.0,
+    "sourcePage": "https://docs.google.com/document/d/1RpzknI-mcq0eASZ5gOIFSrndViwPhYgHbsWCih6Hzqk/edit?usp=sharing",
+    "ingredients": [
+      {
+        "ingredientId": "avo",
+        "name": "avo",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "small avo ±140g"
+      },
+      {
+        "ingredientId": "black_beans",
+        "name": "black beans",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_feta",
+        "name": "fat-free feta",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "lemon",
+        "name": "lemon",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "quinoa",
+        "name": "quinoa",
+        "amount": 60.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "sweet_corn_kernals",
+        "name": "sweet corn kernals",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Cook grains (quinoa or brown rice) according to package instructions and allow to cool slightly.",
+      "Chop fresh vegetables (cucumbers, tomatoes, greens, avocado) into bite-sized pieces.",
+      "Cook or prepare the protein seasoned with herbs and lemon juice.",
+      "Whisk together the light dressing with lemon juice, mustard, salt, and pepper.",
+      "Assemble the power bowl by arranging grains, vegetables, and protein in sections, then drizzle with dressing."
+    ]
+  },
+  {
+    "id": "banging_beef_burrito",
+    "name": "Banging beef burrito",
+    "description": "Nutritious, delicious banging beef burrito with balanced macros and simple prep.",
+    "category": "Lunch",
+    "prepTime": 20,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Meal Prep Friendly"
+    ],
+    "calories": 418,
+    "protein": 32.0,
+    "carbs": 38.0,
+    "fat": 15.0,
+    "fiber": 6.0,
+    "estimatedCost": 42.0,
+    "sourcePage": "160",
+    "ingredients": [
+      {
+        "ingredientId": "avo",
+        "name": "avo",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "small avo ±140g"
+      },
+      {
+        "ingredientId": "baby_lettuce",
+        "name": "baby lettuce",
+        "amount": 35.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one head ± 450g"
+      },
+      {
+        "ingredientId": "bell_peppers",
+        "name": "bell peppers",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "1 = 160 grams"
+      },
+      {
+        "ingredientId": "ebtb_seasoning",
+        "name": "ebtb seasoning",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "extra_lean_beef_mince",
+        "name": "extra lean beef mince",
+        "amount": 120.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "paprika",
+        "name": "paprika",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato_onion_mix",
+        "name": "tomato & onion mix",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tortila_wrap",
+        "name": "tortila wrap",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "bakery",
+        "notes": "medium, 150 cal each"
+      }
+    ],
+    "instructions": [
+      "Heat a non-stick skillet over medium heat with cooking spray.",
+      "Cook the protein (lean beef or chicken strips) with Mexican spices (cumin, paprika, chilli flakes) until browned.",
+      "Warm the tortillas or wraps in a dry pan for 20 seconds each to make them pliable.",
+      "Layer each wrap with shredded lettuce, diced tomato, beans, cooked protein, and avocado or cottage cheese.",
+      "Tightly fold the sides in and roll up firmly. Slice in half and serve warm or wrap in foil for meal prep."
+    ]
+  },
+  {
+    "id": "berry_overnight_oats",
+    "name": "Berry overnight oats",
+    "description": "Nutritious, delicious berry overnight oats with balanced macros and simple prep.",
+    "category": "Breakfast",
+    "prepTime": 5,
+    "totalTime": 5,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Low Calorie",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 340,
+    "protein": 30.0,
+    "carbs": 45.0,
+    "fat": 7.0,
+    "fiber": 11.0,
+    "estimatedCost": 38.0,
+    "sourcePage": "1",
+    "ingredients": [
+      {
+        "ingredientId": "almond_milk",
+        "name": "almond milk",
+        "amount": 125.0,
+        "unit": "ml",
+        "storeSection": "dairy products",
+        "notes": "g±ml"
+      },
+      {
+        "ingredientId": "bannana",
+        "name": "bannana",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "berries",
+        "name": "berries",
+        "amount": 70.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "chia_seeds",
+        "name": "chia seeds",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_greek_yogurt",
+        "name": "fat-free greek yogurt",
+        "amount": 120.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "oats",
+        "name": "oats",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "protein_powder",
+        "name": "protein powder",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "In a bowl or meal prep jar, combine rolled oats, protein powder, and a pinch of salt.",
+      "Pour in the almond milk or water and stir thoroughly until no lumps remain.",
+      "Fold in any fruit, sweetener, or cinnamon.",
+      "Seal and refrigerate overnight (or at least 4 hours) to thicken into a creamy pudding.",
+      "Top with your favourite toppings (berries, nuts, or peanut butter) before enjoying!"
+    ]
+  },
+  {
+    "id": "beefy_burrito_lettuce_boats",
+    "name": "Beefy Burrito Lettuce Boats",
+    "description": "Nutritious, delicious beefy burrito lettuce boats with balanced macros and simple prep.",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "totalTime": 15,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Low Calorie",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 289,
+    "protein": 28.0,
+    "carbs": 19.0,
+    "fat": 10.0,
+    "fiber": 3.0,
+    "estimatedCost": 45.0,
+    "sourcePage": "170",
+    "ingredients": [
+      {
+        "ingredientId": "baby_lettuce",
+        "name": "baby lettuce",
+        "amount": 200.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one head ± 450g"
+      },
+      {
+        "ingredientId": "chutney",
+        "name": "chutney",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "extra_lean_beef_mince",
+        "name": "extra lean beef mince",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "jalapenos",
+        "name": "jalapenos",
+        "amount": 15.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "parmesan_cheese",
+        "name": "parmesan cheese",
+        "amount": 15.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "sriracha",
+        "name": "sriracha",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato_sauce",
+        "name": "tomato sauce",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Heat a non-stick skillet over medium heat with cooking spray.",
+      "Cook the protein (lean beef or chicken strips) with Mexican spices (cumin, paprika, chilli flakes) until browned.",
+      "Warm the tortillas or wraps in a dry pan for 20 seconds each to make them pliable.",
+      "Layer each wrap with shredded lettuce, diced tomato, beans, cooked protein, and avocado or cottage cheese.",
+      "Tightly fold the sides in and roll up firmly. Slice in half and serve warm or wrap in foil for meal prep."
+    ]
+  },
+  {
+    "id": "bold_cheesy_beef_gnocchi",
+    "name": "Bold cheesy beef gnocchi",
+    "description": "Nutritious, delicious bold cheesy beef gnocchi with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 15,
+    "totalTime": 15,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 434,
+    "protein": 29.0,
+    "carbs": 34.0,
+    "fat": 19.0,
+    "fiber": 4.0,
+    "estimatedCost": 51.0,
+    "sourcePage": "154",
+    "ingredients": [
+      {
+        "ingredientId": "baby_spinach",
+        "name": "baby spinach",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "cajun_spice",
+        "name": "cajun spice",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "chedder_cheese",
+        "name": "chedder cheese",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "extra_lean_beef_mince",
+        "name": "extra lean beef mince",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "gnocchi",
+        "name": "gnocchi",
+        "amount": 150.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "mushrooms",
+        "name": "mushrooms",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "rosa_tomatoes",
+        "name": "rosa tomatoes",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato_basil_pasta_sauce",
+        "name": "tomato & basil pasta sauce",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Bring a pot of salted water to a rolling boil and cook the gnocchi for 2-3 minutes until they float, then drain.",
+      "Heat a skillet over medium heat with cooking spray. Brown the lean mince with diced onion and seasonings.",
+      "Pour in marinara sauce or passata and simmer on low for 5 minutes until rich and fragrant.",
+      "Gently fold the boiled gnocchi into the simmering beef sauce.",
+      "Top with cheese, cover with a lid for 2 minutes until melted and bubbly, then portion out."
+    ]
+  },
+  {
+    "id": "boss_burger_fries",
+    "name": "Boss burger & fries",
+    "description": "Nutritious, delicious boss burger & fries with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 20,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 346,
+    "protein": 33.0,
+    "carbs": 36.0,
+    "fat": 7.0,
+    "fiber": 6.0,
+    "estimatedCost": 52.0,
+    "sourcePage": "152",
+    "ingredients": [
+      {
+        "ingredientId": "baby_lettuce",
+        "name": "baby lettuce",
+        "amount": 25.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one head ± 450g"
+      },
+      {
+        "ingredientId": "brown_hamburger_roll",
+        "name": "brown hamburger roll",
+        "amount": 60.0,
+        "unit": "g",
+        "storeSection": "bakery",
+        "notes": "one roll ± 60g"
+      },
+      {
+        "ingredientId": "chedder_cheese",
+        "name": "chedder cheese",
+        "amount": 15.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "ebtb_seasoning",
+        "name": "ebtb seasoning",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "extra_lean_beef_mince",
+        "name": "extra lean beef mince",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "gherkins",
+        "name": "gherkins",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato",
+        "name": "tomato",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "zucchini",
+        "name": "zucchini",
+        "amount": 200.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Shape the lean mince or patties into even rounds, seasoning generously with salt, pepper, and garlic powder.",
+      "Preheat a heavy skillet or grill pan over medium-high heat with cooking spray.",
+      "Sear the burger patties for 4-5 minutes per side until cooked through and nicely charred.",
+      "Lightly toast the burger buns. If making homemade fries, air fry the potato wedges at 200°C for 18-20 minutes.",
+      "Assemble each burger with crisp lettuce, fresh tomato slices, sauce, and the cooked patties. Serve hot!"
+    ]
+  },
+  {
+    "id": "butter_chicken_curry",
+    "name": "Butter chicken curry",
+    "description": "Nutritious, delicious butter chicken curry with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 30,
+    "totalTime": 30,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 307,
+    "protein": 37.0,
+    "carbs": 24.0,
+    "fat": 7.0,
+    "fiber": 6.0,
+    "estimatedCost": 32.0,
+    "sourcePage": "google",
+    "ingredients": [
+      {
+        "ingredientId": "chicken_breast",
+        "name": "chicken breast",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "coriander",
+        "name": "coriander",
+        "amount": 2.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "cumin",
+        "name": "cumin",
+        "amount": 2.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_greek_yogurt",
+        "name": "fat-free greek yogurt",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garam_masala",
+        "name": "garam masala",
+        "amount": 4.0,
+        "unit": "garam masala",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_clove",
+        "name": "garlic clove",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 2.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "ground_ginger",
+        "name": "ground ginger",
+        "amount": 2.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "olive_oil",
+        "name": "olive oil",
+        "amount": 5.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "1g ± 1.1ml"
+      },
+      {
+        "ingredientId": "onion",
+        "name": "onion",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one onion ± 150g"
+      },
+      {
+        "ingredientId": "paprika",
+        "name": "paprika",
+        "amount": 2.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato",
+        "name": "tomato",
+        "amount": 80.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Cut the chicken breasts into bite-sized pieces and season with curry powder, cumin, turmeric, and salt.",
+      "Heat a deep skillet or pot over medium heat. Sear the chicken pieces until lightly browned on all sides.",
+      "Add diced aromatics (onion, garlic, ginger) and saute until fragrant.",
+      "Stir in the tomato puree, light coconut milk or yoghurt, and simmer gently for 10-12 minutes until chicken is tender.",
+      "Serve hot over basmati rice or with warmed roti, garnished with fresh coriander."
+    ]
+  },
+  {
+    "id": "chicken_tacos",
+    "name": "Chicken tacos",
+    "description": "Nutritious, delicious chicken tacos with balanced macros and simple prep.",
+    "category": "Lunch",
+    "prepTime": 10,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 705,
+    "protein": 53.0,
+    "carbs": 69.0,
+    "fat": 20.0,
+    "fiber": 8.0,
+    "estimatedCost": 57.0,
+    "sourcePage": "",
+    "ingredients": [
+      {
+        "ingredientId": "bell_peppers",
+        "name": "bell peppers",
+        "amount": 90.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "1 = 160 grams"
+      },
+      {
+        "ingredientId": "chedder_cheese",
+        "name": "chedder cheese",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "chicken_breast",
+        "name": "chicken breast",
+        "amount": 150.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "cucumber",
+        "name": "cucumber",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "honey",
+        "name": "honey",
+        "amount": 5.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "onion",
+        "name": "onion",
+        "amount": 80.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one onion ± 150g"
+      },
+      {
+        "ingredientId": "paprika",
+        "name": "paprika",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "rosa_tomatoes",
+        "name": "rosa tomatoes",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato_sauce",
+        "name": "tomato sauce",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tortila_wrap",
+        "name": "tortila wrap",
+        "amount": 2.0,
+        "unit": "unit",
+        "storeSection": "bakery",
+        "notes": "medium, 150 cal each"
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "chinesse_velvet_chicken_stirfry",
+    "name": "Chinesse velvet chicken stirfry",
+    "description": "Nutritious, delicious chinesse velvet chicken stirfry with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 30,
+    "totalTime": 50,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Meal Prep Friendly"
+    ],
+    "calories": 469,
+    "protein": 43.0,
+    "carbs": 54.0,
+    "fat": 8.0,
+    "fiber": 9.0,
+    "estimatedCost": 45.0,
+    "sourcePage": "156",
+    "ingredients": [
+      {
+        "ingredientId": "baking_soda",
+        "name": "baking soda",
+        "amount": 1.0,
+        "unit": "Tbsp",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "cabbage",
+        "name": "cabbage",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "1 = 1kg"
+      },
+      {
+        "ingredientId": "chicken_breast",
+        "name": "chicken breast",
+        "amount": 130.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "chilli_oil",
+        "name": "chilli oil",
+        "amount": 5.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "1g ± 1.1ml"
+      },
+      {
+        "ingredientId": "ebtb_seasoning",
+        "name": "ebtb seasoning",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "soy_sauce",
+        "name": "soy sauce",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "ml = g"
+      },
+      {
+        "ingredientId": "teriyaki_sauce",
+        "name": "teriyaki sauce",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "can be made with soya sauce and vinagar"
+      },
+      {
+        "ingredientId": "white_wine_vinegar",
+        "name": "white wine vinegar",
+        "amount": 15.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "ml=g"
+      },
+      {
+        "ingredientId": "wholewheat_asian_noodle_nest",
+        "name": "wholewheat asian noodle nest",
+        "amount": 60.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Slice the protein into thin strips and toss with soy sauce and cornstarch for a velvety texture.",
+      "Heat a wok or large skillet over high heat with cooking spray.",
+      "Stir-fry the protein rapidly for 3-4 minutes until cooked through, then transfer to a plate.",
+      "Toss in the mixed vegetables and stir-fry for 2-3 minutes until crisp-tender.",
+      "Return the protein to the pan, pour in the stir-fry sauce, and toss everything together for 1 minute before serving over rice or noodles."
+    ]
+  },
+  {
+    "id": "comfy_protein_cottage_pie",
+    "name": "Comfy protein cottage pie",
+    "description": "Nutritious, delicious comfy protein cottage pie with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 15,
+    "totalTime": 30,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 464,
+    "protein": 38.0,
+    "carbs": 58.0,
+    "fat": 8.0,
+    "fiber": 11.0,
+    "estimatedCost": 46.0,
+    "sourcePage": "118",
+    "ingredients": [
+      {
+        "ingredientId": "extra_lean_beef_mince",
+        "name": "extra lean beef mince",
+        "amount": 140.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "frozen_vegetable_mix",
+        "name": "frozen vegetable mix",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "freezer",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "sweet_potato",
+        "name": "sweet potato",
+        "amount": 200.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "thyme",
+        "name": "thyme",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato_onion_mix",
+        "name": "tomato & onion mix",
+        "amount": 150.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "creamy_carrot_cake_overnight_oats",
+    "name": "Creamy Carrot Cake Overnight Oats Carrot Cake For Breakfast? Say Less.",
+    "description": "Nutritious, delicious creamy carrot cake overnight oats with balanced macros and simple prep.",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "totalTime": 180,
+    "defaultPortions": 1,
+    "tags": [
+      "Low Calorie",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 334,
+    "protein": 20.0,
+    "carbs": 38.0,
+    "fat": 10.0,
+    "fiber": 8.0,
+    "estimatedCost": 46.0,
+    "sourcePage": "42",
+    "ingredients": [
+      {
+        "ingredientId": "almond_milk",
+        "name": "almond milk",
+        "amount": 150.0,
+        "unit": "ml",
+        "storeSection": "dairy products",
+        "notes": "g±ml"
+      },
+      {
+        "ingredientId": "carrot",
+        "name": "carrot",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "cinnamon",
+        "name": "cinnamon",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_greek_yogurt",
+        "name": "fat-free greek yogurt",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_smooth_cottage_cheese",
+        "name": "fat-free smooth cottage cheese",
+        "amount": 125.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "oats",
+        "name": "oats",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "peacan_nuts",
+        "name": "peacan nuts",
+        "amount": 5.0,
+        "unit": "unit",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "peanut_butter",
+        "name": "peanut butter",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "pinch_salt",
+        "name": "pinch salt",
+        "amount": 1.0,
+        "unit": "pinch",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "In a bowl, mix the oats, salt, and almond milk.",
+      "Stir in the grated carrot, sweetener, cinnamon, and cottage cheese until well combined.",
+      "Transfer to a glass dish or bowl, cover, and refrigerate for at least a few hours (overnight for best results).",
+      "Before serving, top with peanut butter and a sprinkle of cinnamon.",
+      "(Optional) Add a dollop of yoghurt and crushed pecans for extra flavour.",
+      "Dig in and enjoy! This is one of my favouri+e recipes Io meal prep and enjoy all week/ Noles: Meal Prep Friendly Freezer Friendly x TRIED IT"
+    ]
+  },
+  {
+    "id": "creamy_chicken_lasagna",
+    "name": "Creamy chicken lasagna",
+    "description": "Nutritious, delicious creamy chicken lasagna with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 15,
+    "totalTime": 45,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Low Calorie",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 374,
+    "protein": 37.0,
+    "carbs": 34.0,
+    "fat": 8.0,
+    "fiber": 2.0,
+    "estimatedCost": 28.0,
+    "sourcePage": "106",
+    "ingredients": [
+      {
+        "ingredientId": "chedder_cheese",
+        "name": "chedder cheese",
+        "amount": 12.5,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "chicken_breast",
+        "name": "chicken breast",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_feta",
+        "name": "fat-free feta",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_milk",
+        "name": "fat-free milk",
+        "amount": 125.0,
+        "unit": "ml",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "lasagna",
+        "name": "lasagna",
+        "amount": 25.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "maizena",
+        "name": "maizena",
+        "amount": 6.25,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "mushrooms",
+        "name": "mushrooms",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "onion",
+        "name": "onion",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one onion ± 150g"
+      },
+      {
+        "ingredientId": "pinch_thyme",
+        "name": "pinch thyme",
+        "amount": 0.25,
+        "unit": "pinch",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Boil a large pot of salted water and cook the pasta according to package directions until al dente.",
+      "In a separate skillet, brown the protein with minced garlic and herbs over medium heat.",
+      "Stir in the sauce and diced vegetables, allowing the flavours to simmer together for 8-10 minutes.",
+      "Toss the drained pasta directly into the sauce so every strand is evenly coated.",
+      "Garnish with grated parmesan or fresh herbs and divide evenly into meal prep bowls."
+    ]
+  },
+  {
+    "id": "creamy_chicken_mayo",
+    "name": "Creamy chicken mayo",
+    "description": "Nutritious, delicious creamy chicken mayo with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 10,
+    "totalTime": 10,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 490,
+    "protein": 44.0,
+    "carbs": 50.0,
+    "fat": 13.0,
+    "fiber": 7.0,
+    "estimatedCost": 24.0,
+    "sourcePage": "132",
+    "ingredients": [
+      {
+        "ingredientId": "brown_bread",
+        "name": "brown bread",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "bakery",
+        "notes": "2 slices"
+      },
+      {
+        "ingredientId": "chicken_breast",
+        "name": "chicken breast",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "ebtb_seasoning",
+        "name": "ebtb seasoning",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_smooth_cottage_cheese",
+        "name": "fat-free smooth cottage cheese",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "light_mayo",
+        "name": "light mayo",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "pickled_onion",
+        "name": "pickled onion",
+        "amount": 15.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": "ed is happy with girkins"
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spring_onion",
+        "name": "spring onion",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "fruit and veg",
+        "notes": "one bunch = many units"
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "creamy_comforting_carbonara",
+    "name": "Creamy comforting carbonara",
+    "description": "Nutritious, delicious creamy comforting carbonara with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 20,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Meal Prep Friendly"
+    ],
+    "calories": 435,
+    "protein": 34.0,
+    "carbs": 51.0,
+    "fat": 9.0,
+    "fiber": 3.0,
+    "estimatedCost": 47.0,
+    "sourcePage": "188",
+    "ingredients": [
+      {
+        "ingredientId": "egg_whites",
+        "name": "egg whites",
+        "amount": 2.0,
+        "unit": "unit",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_milk",
+        "name": "fat-free milk",
+        "amount": 30.0,
+        "unit": "ml",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_smooth_cottage_cheese",
+        "name": "fat-free smooth cottage cheese",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "lean_bacon",
+        "name": "lean bacon",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "parmesan_cheese",
+        "name": "parmesan cheese",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spaghetti",
+        "name": "spaghetti",
+        "amount": 60.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Boil a large pot of salted water and cook the pasta according to package directions until al dente.",
+      "In a separate skillet, brown the protein with minced garlic and herbs over medium heat.",
+      "Stir in the sauce and diced vegetables, allowing the flavours to simmer together for 8-10 minutes.",
+      "Toss the drained pasta directly into the sauce so every strand is evenly coated.",
+      "Garnish with grated parmesan or fresh herbs and divide evenly into meal prep bowls."
+    ]
+  },
+  {
+    "id": "dreamy_spaghetti_bolognese",
+    "name": "Dreamy spaghetti bolognese",
+    "description": "Nutritious, delicious dreamy spaghetti bolognese with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 20,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Meal Prep Friendly"
+    ],
+    "calories": 441,
+    "protein": 35.0,
+    "carbs": 53.0,
+    "fat": 10.0,
+    "fiber": 10.0,
+    "estimatedCost": 47.0,
+    "sourcePage": "144",
+    "ingredients": [
+      {
+        "ingredientId": "carrot",
+        "name": "carrot",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "extra_lean_beef_mince",
+        "name": "extra lean beef mince",
+        "amount": 125.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "onion",
+        "name": "onion",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one onion ± 150g"
+      },
+      {
+        "ingredientId": "paprika",
+        "name": "paprika",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "parmesan_cheese",
+        "name": "parmesan cheese",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato_basil_pasta_sauce",
+        "name": "tomato & basil pasta sauce",
+        "amount": 75.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "wholewheat_asian_noodle_nest",
+        "name": "wholewheat asian noodle nest",
+        "amount": 60.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Boil a large pot of salted water and cook the pasta according to package directions until al dente.",
+      "In a separate skillet, brown the protein with minced garlic and herbs over medium heat.",
+      "Stir in the sauce and diced vegetables, allowing the flavours to simmer together for 8-10 minutes.",
+      "Toss the drained pasta directly into the sauce so every strand is evenly coated.",
+      "Garnish with grated parmesan or fresh herbs and divide evenly into meal prep bowls."
+    ]
+  },
+  {
+    "id": "gorgeous_greek_gyro",
+    "name": "Gorgeous Greek Gyro",
+    "description": "Nutritious, delicious gorgeous greek gyro with balanced macros and simple prep.",
+    "category": "Lunch",
+    "prepTime": 20,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 390,
+    "protein": 31.0,
+    "carbs": 51.0,
+    "fat": 5.0,
+    "fiber": 6.0,
+    "estimatedCost": 33.0,
+    "sourcePage": "194",
+    "ingredients": [
+      {
+        "ingredientId": "chicken_breast",
+        "name": "chicken breast",
+        "amount": 80.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "cucumber",
+        "name": "cucumber",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_smooth_cottage_cheese",
+        "name": "fat-free smooth cottage cheese",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "potato",
+        "name": "potato",
+        "amount": 150.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "red_onion",
+        "name": "red onion",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "sriracha",
+        "name": "sriracha",
+        "amount": 5.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tortila_wrap",
+        "name": "tortila wrap",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "bakery",
+        "notes": "medium, 150 cal each"
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "honey_garlic_salmon_roasted_broccoli",
+    "name": "Honey-Garlic Salmon & Roasted Broccoli",
+    "description": "Nutritious, delicious honey-garlic salmon & roasted broccoli with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 15,
+    "totalTime": 25,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 410,
+    "protein": 27.0,
+    "carbs": 20.0,
+    "fat": 25.0,
+    "fiber": 4.0,
+    "estimatedCost": 105.0,
+    "sourcePage": "https://docs.google.com/document/d/1RpzknI-mcq0eASZ5gOIFSrndViwPhYgHbsWCih6Hzqk/edit?usp=sharing",
+    "ingredients": [
+      {
+        "ingredientId": "broccoli",
+        "name": "broccoli",
+        "amount": 150.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_clove",
+        "name": "garlic clove",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "honey",
+        "name": "honey",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "olive_oil",
+        "name": "olive oil",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "1g ± 1.1ml"
+      },
+      {
+        "ingredientId": "salmon_fillet",
+        "name": "salmon fillet",
+        "amount": 110.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "soy_sauce",
+        "name": "soy sauce",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "ml = g"
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "korean_fried_chicken",
+    "name": "Korean fried chicken",
+    "description": "Nutritious, delicious korean fried chicken with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 25,
+    "totalTime": 25,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Meal Prep Friendly"
+    ],
+    "calories": 476,
+    "protein": 48.0,
+    "carbs": 49.0,
+    "fat": 9.0,
+    "fiber": 1.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "0",
+    "ingredients": [
+      {
+        "ingredientId": "chicken_breast",
+        "name": "chicken breast",
+        "amount": 200.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_clove",
+        "name": "garlic clove",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "gochujang",
+        "name": "gochujang",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "honey",
+        "name": "honey",
+        "amount": 35.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "maizena",
+        "name": "maizena",
+        "amount": 17.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "soy_sauce",
+        "name": "soy sauce",
+        "amount": 15.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "ml = g"
+      },
+      {
+        "ingredientId": "vegetable_oil",
+        "name": "vegetable oil",
+        "amount": 0.5,
+        "unit": "tbsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "white_wine_vinegar",
+        "name": "white wine vinegar",
+        "amount": 5.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "ml=g"
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "mince_and_sweet_potatoe",
+    "name": "Mince and sweet potatoe",
+    "description": "Nutritious, delicious mince and sweet potatoe with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 20,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 390,
+    "protein": 30.0,
+    "carbs": 45.0,
+    "fat": 9.0,
+    "fiber": 8.0,
+    "estimatedCost": 28.0,
+    "sourcePage": "Ez's brain",
+    "ingredients": [
+      {
+        "ingredientId": "avo",
+        "name": "avo",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "small avo ±140g"
+      },
+      {
+        "ingredientId": "extra_lean_beef_mince",
+        "name": "extra lean beef mince",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_feta",
+        "name": "fat-free feta",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "rosa_tomatoes",
+        "name": "rosa tomatoes",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "sweet_potato",
+        "name": "sweet potato",
+        "amount": 200.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "mom_s_traditional_chicken_pie",
+    "name": "Mom's traditional chicken pie",
+    "description": "Nutritious, delicious mom's traditional chicken pie with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 20,
+    "totalTime": 45,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Meal Prep Friendly"
+    ],
+    "calories": 453,
+    "protein": 35.0,
+    "carbs": 35.0,
+    "fat": 17.0,
+    "fiber": 5.0,
+    "estimatedCost": 34.0,
+    "sourcePage": "186",
+    "ingredients": [
+      {
+        "ingredientId": "carrot",
+        "name": "carrot",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "chicken_breast",
+        "name": "chicken breast",
+        "amount": 110.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "egg_whites",
+        "name": "egg whites",
+        "amount": 0.5,
+        "unit": "unit",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_milk",
+        "name": "fat-free milk",
+        "amount": 40.0,
+        "unit": "ml",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "mushrooms",
+        "name": "mushrooms",
+        "amount": 75.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "onion",
+        "name": "onion",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one onion ± 150g"
+      },
+      {
+        "ingredientId": "peas",
+        "name": "peas",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "puff_pastry",
+        "name": "puff pastry",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "reduced_fat_coconut_milk",
+        "name": "reduced fat coconut milk",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "1g ± 1ml"
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "no_fuss_tangy_tuna_fishcakes",
+    "name": "No fuss tangy tuna fishcakes",
+    "description": "Nutritious, delicious no fuss tangy tuna fishcakes with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 15,
+    "totalTime": 15,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Low Calorie",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 332,
+    "protein": 39.0,
+    "carbs": 12.0,
+    "fat": 13.0,
+    "fiber": 4.0,
+    "estimatedCost": 48.0,
+    "sourcePage": "110",
+    "ingredients": [
+      {
+        "ingredientId": "avo",
+        "name": "avo",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "small avo ±140g"
+      },
+      {
+        "ingredientId": "baby_lettuce",
+        "name": "baby lettuce",
+        "amount": 70.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one head ± 450g"
+      },
+      {
+        "ingredientId": "balsamic_vinegar",
+        "name": "balsamic vinegar",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "eggs",
+        "name": "eggs",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_smooth_cottage_cheese",
+        "name": "fat-free smooth cottage cheese",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 2.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "light_mayo",
+        "name": "light mayo",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "mixed_peppers",
+        "name": "mixed peppers",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spring_onion",
+        "name": "spring onion",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "fruit and veg",
+        "notes": "one bunch = many units"
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tuna_in_brine_drained",
+        "name": "tuna in brine (drained)",
+        "amount": 120.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "not_so_naughty_nachos",
+    "name": "Not so naughty nachos",
+    "description": "Nutritious, delicious not so naughty nachos with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 15,
+    "totalTime": 15,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 420,
+    "protein": 36.0,
+    "carbs": 32.0,
+    "fat": 16.0,
+    "fiber": 6.0,
+    "estimatedCost": 44.0,
+    "sourcePage": "146",
+    "ingredients": [
+      {
+        "ingredientId": "avo",
+        "name": "avo",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "small avo ±140g"
+      },
+      {
+        "ingredientId": "extra_lean_beef_mince",
+        "name": "extra lean beef mince",
+        "amount": 120.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_smooth_cottage_cheese",
+        "name": "fat-free smooth cottage cheese",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "lime_juice",
+        "name": "lime juice",
+        "amount": 5.0,
+        "unit": "ml",
+        "storeSection": "fruit and veg",
+        "notes": "one lemon ± 30ml"
+      },
+      {
+        "ingredientId": "paprika",
+        "name": "paprika",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "pop_chips_triangle",
+        "name": "pop chips (triangle)",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salsa",
+        "name": "salsa",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato_onion_mix",
+        "name": "tomato & onion mix",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "salmon_poke_bowl",
+    "name": "Salmon poke bowl",
+    "description": "Nutritious, delicious salmon poke bowl with balanced macros and simple prep.",
+    "category": "Lunch",
+    "prepTime": 15,
+    "totalTime": 15,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 455,
+    "protein": 28.0,
+    "carbs": 33.0,
+    "fat": 21.0,
+    "fiber": 6.0,
+    "estimatedCost": 97.0,
+    "sourcePage": "162",
+    "ingredients": [
+      {
+        "ingredientId": "avo",
+        "name": "avo",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "small avo ±140g"
+      },
+      {
+        "ingredientId": "carrot",
+        "name": "carrot",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "cucumber",
+        "name": "cucumber",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "ebtb_seasoning",
+        "name": "ebtb seasoning",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "edamame_beans",
+        "name": "edamame beans",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salmon_fillet",
+        "name": "salmon fillet",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spring_onion",
+        "name": "spring onion",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "fruit and veg",
+        "notes": "one bunch = many units"
+      },
+      {
+        "ingredientId": "teriyaki_sauce",
+        "name": "teriyaki sauce",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "can be made with soya sauce and vinagar"
+      },
+      {
+        "ingredientId": "white_basmati_rice",
+        "name": "white basmati rice",
+        "amount": 80.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Cook grains (quinoa or brown rice) according to package instructions and allow to cool slightly.",
+      "Chop fresh vegetables (cucumbers, tomatoes, greens, avocado) into bite-sized pieces.",
+      "Cook or prepare the protein seasoned with herbs and lemon juice.",
+      "Whisk together the light dressing with lemon juice, mustard, salt, and pepper.",
+      "Assemble the power bowl by arranging grains, vegetables, and protein in sections, then drizzle with dressing."
+    ]
+  },
+  {
+    "id": "seared_salmon_sweet_potato_bowl",
+    "name": "Seared salmon & sweet potato bowl",
+    "description": "Nutritious, delicious seared salmon & sweet potato bowl with balanced macros and simple prep.",
+    "category": "Lunch",
+    "prepTime": 30,
+    "totalTime": 30,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Meal Prep Friendly"
+    ],
+    "calories": 403,
+    "protein": 28.0,
+    "carbs": 34.0,
+    "fat": 16.0,
+    "fiber": 5.0,
+    "estimatedCost": 103.0,
+    "sourcePage": "138",
+    "ingredients": [
+      {
+        "ingredientId": "baby_lettuce",
+        "name": "baby lettuce",
+        "amount": 35.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one head ± 450g"
+      },
+      {
+        "ingredientId": "butternut",
+        "name": "butternut",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "large butternut ± 1.3kg"
+      },
+      {
+        "ingredientId": "chives",
+        "name": "chives",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "ebtb_seasoning",
+        "name": "ebtb seasoning",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salmon_fillet",
+        "name": "salmon fillet",
+        "amount": 120.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "sweet_potato",
+        "name": "sweet potato",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "teriyaki_sauce",
+        "name": "teriyaki sauce",
+        "amount": 25.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "can be made with soya sauce and vinagar"
+      }
+    ],
+    "instructions": [
+      "Cook grains (quinoa or brown rice) according to package instructions and allow to cool slightly.",
+      "Chop fresh vegetables (cucumbers, tomatoes, greens, avocado) into bite-sized pieces.",
+      "Cook or prepare the protein seasoned with herbs and lemon juice.",
+      "Whisk together the light dressing with lemon juice, mustard, salt, and pepper.",
+      "Assemble the power bowl by arranging grains, vegetables, and protein in sections, then drizzle with dressing."
+    ]
+  },
+  {
+    "id": "snappy_chicken_ramen_bowl",
+    "name": "Snappy chicken ramen bowl",
+    "description": "Nutritious, delicious snappy chicken ramen bowl with balanced macros and simple prep.",
+    "category": "Lunch",
+    "prepTime": 10,
+    "totalTime": 10,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 456,
+    "protein": 40.0,
+    "carbs": 31.0,
+    "fat": 18.0,
+    "fiber": 5.0,
+    "estimatedCost": 42.0,
+    "sourcePage": "148",
+    "ingredients": [
+      {
+        "ingredientId": "bok_choy",
+        "name": "bok choy",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "chicken_breast",
+        "name": "chicken breast",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "chilli_oil",
+        "name": "chilli oil",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "1g ± 1.1ml"
+      },
+      {
+        "ingredientId": "ebtb_seasoning",
+        "name": "ebtb seasoning",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "instant_noodles",
+        "name": "instant noodles",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "mushrooms",
+        "name": "mushrooms",
+        "amount": 150.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spring_onion",
+        "name": "spring onion",
+        "amount": 0.5,
+        "unit": "unit",
+        "storeSection": "fruit and veg",
+        "notes": "one bunch = many units"
+      },
+      {
+        "ingredientId": "vegetable_stock",
+        "name": "vegetable stock",
+        "amount": 250.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Cook grains (quinoa or brown rice) according to package instructions and allow to cool slightly.",
+      "Chop fresh vegetables (cucumbers, tomatoes, greens, avocado) into bite-sized pieces.",
+      "Cook or prepare the protein seasoned with herbs and lemon juice.",
+      "Whisk together the light dressing with lemon juice, mustard, salt, and pepper.",
+      "Assemble the power bowl by arranging grains, vegetables, and protein in sections, then drizzle with dressing."
+    ]
+  },
+  {
+    "id": "spicy_burger_salad_bowl",
+    "name": "Spicy burger salad bowl",
+    "description": "Nutritious, delicious spicy burger salad bowl with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 15,
+    "totalTime": 15,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Low Calorie",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 355,
+    "protein": 35.0,
+    "carbs": 24.0,
+    "fat": 12.0,
+    "fiber": 5.0,
+    "estimatedCost": 50.0,
+    "sourcePage": "120",
+    "ingredients": [
+      {
+        "ingredientId": "baby_lettuce",
+        "name": "baby lettuce",
+        "amount": 70.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one head ± 450g"
+      },
+      {
+        "ingredientId": "extra_lean_beef_mince",
+        "name": "extra lean beef mince",
+        "amount": 150.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "gherkins",
+        "name": "gherkins",
+        "amount": 2.0,
+        "unit": "unit",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "gherkin_juice",
+        "name": "gherkin juice",
+        "amount": 1.0,
+        "unit": "Tbsp",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "light_mayo",
+        "name": "light mayo",
+        "amount": 15.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "mustard",
+        "name": "mustard",
+        "amount": 5.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "onion",
+        "name": "onion",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one onion ± 150g"
+      },
+      {
+        "ingredientId": "onion_marmalade",
+        "name": "onion marmalade",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "rosa_tomatoes",
+        "name": "rosa tomatoes",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "sriracha",
+        "name": "sriracha",
+        "amount": 5.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato_sauce",
+        "name": "tomato sauce",
+        "amount": 15.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato_basil_pasta_sauce",
+        "name": "tomato & basil pasta sauce",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Shape the lean mince or patties into even rounds, seasoning generously with salt, pepper, and garlic powder.",
+      "Preheat a heavy skillet or grill pan over medium-high heat with cooking spray.",
+      "Sear the burger patties for 4-5 minutes per side until cooked through and nicely charred.",
+      "Lightly toast the burger buns. If making homemade fries, air fry the potato wedges at 200°C for 18-20 minutes.",
+      "Assemble each burger with crisp lettuce, fresh tomato slices, sauce, and the cooked patties. Serve hot!"
+    ]
+  },
+  {
+    "id": "sticky_baked_sweet_potatoe_and_tuna_salad",
+    "name": "Sticky baked sweet potatoe and tuna salad",
+    "description": "Nutritious, delicious sticky baked sweet potatoe and tuna salad with balanced macros and simple prep.",
+    "category": "Lunch",
+    "prepTime": 10,
+    "totalTime": 30,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Low Calorie",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 392,
+    "protein": 33.0,
+    "carbs": 38.0,
+    "fat": 10.0,
+    "fiber": 9.0,
+    "estimatedCost": 32.0,
+    "sourcePage": "152",
+    "ingredients": [
+      {
+        "ingredientId": "baby_lettuce",
+        "name": "baby lettuce",
+        "amount": 35.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one head ± 450g"
+      },
+      {
+        "ingredientId": "fat_free_feta",
+        "name": "fat-free feta",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "light_mayo",
+        "name": "light mayo",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "olive_oil",
+        "name": "olive oil",
+        "amount": 5.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "1g ± 1.1ml"
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "sriracha",
+        "name": "sriracha",
+        "amount": 1.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "sweet_corn_kernals",
+        "name": "sweet corn kernals",
+        "amount": 60.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "sweet_potato",
+        "name": "sweet potato",
+        "amount": 200.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tuna_in_brine_drained",
+        "name": "tuna in brine (drained)",
+        "amount": 120.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Cook grains (quinoa or brown rice) according to package instructions and allow to cool slightly.",
+      "Chop fresh vegetables (cucumbers, tomatoes, greens, avocado) into bite-sized pieces.",
+      "Cook or prepare the protein seasoned with herbs and lemon juice.",
+      "Whisk together the light dressing with lemon juice, mustard, salt, and pepper.",
+      "Assemble the power bowl by arranging grains, vegetables, and protein in sections, then drizzle with dressing."
+    ]
+  },
+  {
+    "id": "sunday_morning_shakshuka",
+    "name": "Sunday Morning Shakshuka",
+    "description": "Nutritious, delicious sunday morning shakshuka with balanced macros and simple prep.",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "totalTime": 15,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Low Calorie",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 385,
+    "protein": 26.0,
+    "carbs": 46.0,
+    "fat": 11.0,
+    "fiber": 5.0,
+    "estimatedCost": 36.0,
+    "sourcePage": "60",
+    "ingredients": [
+      {
+        "ingredientId": "baby_spinach",
+        "name": "baby spinach",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "chilli_flakes",
+        "name": "chilli flakes",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "eggs",
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": "unit",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_feta",
+        "name": "fat-free feta",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "rye_bread",
+        "name": "rye bread",
+        "amount": 70.0,
+        "unit": "g",
+        "storeSection": "bakery",
+        "notes": "one loaf ± 400g"
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato_onion_mix",
+        "name": "tomato & onion mix",
+        "amount": 250.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Heat a small deep pan over medium heat and lightly spray with cooking spray.",
+      "Add the tinned tomato & onion mix, garlic powder, salt, pepper, and chilli flakes (if using). Stir and bring to a simmer.",
+      "Add the spinach and let it wilt, allowing the sauce to reduce slightly.",
+      "Make two small wells in the sauce and crack in the eggs.",
+      "Cover with a lid and cook until the eggs reach your preferred doneness.",
+      "Remove from heat and sprinkle with crumbled feta.",
+      "Serve straight from the pan with crispy toast for dipping - devour! Tip: Like i/ hop Throw in some fresh chilli 40 }urn up heaf queen/"
+    ]
+  },
+  {
+    "id": "sweet_chilli_nut_noodles",
+    "name": "Sweet chilli nut noodles",
+    "description": "Nutritious, delicious sweet chilli nut noodles with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 20,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Meal Prep Friendly"
+    ],
+    "calories": 469,
+    "protein": 32.0,
+    "carbs": 63.0,
+    "fat": 10.0,
+    "fiber": 9.0,
+    "estimatedCost": 49.0,
+    "sourcePage": "140",
+    "ingredients": [
+      {
+        "ingredientId": "chicken_breast",
+        "name": "chicken breast",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "mixed_peppers",
+        "name": "mixed peppers",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "mushroom_soya_stir_fry_sauce",
+        "name": "mushroom & soya stir-fry sauce",
+        "amount": 70.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "onion",
+        "name": "onion",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one onion ± 150g"
+      },
+      {
+        "ingredientId": "pinch_salt",
+        "name": "pinch salt",
+        "amount": 1.0,
+        "unit": "pinch",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "roasted_chilli_paste",
+        "name": "roasted chilli paste",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_cashews",
+        "name": "salt cashews",
+        "amount": 5.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spring_onion",
+        "name": "spring onion",
+        "amount": 0.5,
+        "unit": "unit",
+        "storeSection": "fruit and veg",
+        "notes": "one bunch = many units"
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "wholewheat_asian_noodle_nest",
+        "name": "wholewheat asian noodle nest",
+        "amount": 60.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "thai_green_prawn_curry",
+    "name": "Thai green prawn curry",
+    "description": "Nutritious, delicious thai green prawn curry with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 20,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Meal Prep Friendly"
+    ],
+    "calories": 424,
+    "protein": 29.0,
+    "carbs": 43.0,
+    "fat": 15.0,
+    "fiber": 4.0,
+    "estimatedCost": 109.0,
+    "sourcePage": "128",
+    "ingredients": [
+      {
+        "ingredientId": "baby_corn",
+        "name": "baby corn",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "baby_marrow",
+        "name": "baby marrow",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "coriander",
+        "name": "coriander",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "ebtb_seasoning",
+        "name": "ebtb seasoning",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "green_thai_curry_paste",
+        "name": "green thai curry paste",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "onion",
+        "name": "onion",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one onion ± 150g"
+      },
+      {
+        "ingredientId": "prawn_meat",
+        "name": "prawn meat",
+        "amount": 150.0,
+        "unit": "g",
+        "storeSection": "freezer",
+        "notes": ""
+      },
+      {
+        "ingredientId": "reduced_fat_coconut_milk",
+        "name": "reduced fat coconut milk",
+        "amount": 150.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "1g ± 1ml"
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "snap_peas",
+        "name": "snap peas",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "spray_and_cook",
+        "name": "spray and cook",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "white_basmati_rice",
+        "name": "white basmati rice",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Cut the chicken breasts into bite-sized pieces and season with curry powder, cumin, turmeric, and salt.",
+      "Heat a deep skillet or pot over medium heat. Sear the chicken pieces until lightly browned on all sides.",
+      "Add diced aromatics (onion, garlic, ginger) and saute until fragrant.",
+      "Stir in the tomato puree, light coconut milk or yoghurt, and simmer gently for 10-12 minutes until chicken is tender.",
+      "Serve hot over basmati rice or with warmed roti, garnished with fresh coriander."
+    ]
+  },
+  {
+    "id": "tiramisu_overnight_oats",
+    "name": "Tiramisu Overnight Oats",
+    "description": "Nutritious, delicious tiramisu overnight oats with balanced macros and simple prep.",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "totalTime": 180,
+    "defaultPortions": 1,
+    "tags": [
+      "Low Calorie",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 349,
+    "protein": 22.0,
+    "carbs": 48.0,
+    "fat": 8.0,
+    "fiber": 5.0,
+    "estimatedCost": 26.0,
+    "sourcePage": "54",
+    "ingredients": [
+      {
+        "ingredientId": "almond_milk",
+        "name": "almond milk",
+        "amount": 200.0,
+        "unit": "ml",
+        "storeSection": "dairy products",
+        "notes": "g±ml"
+      },
+      {
+        "ingredientId": "cocoa_powder",
+        "name": "cocoa powder",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_greek_yogurt",
+        "name": "fat-free greek yogurt",
+        "amount": 200.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "instant_coffee",
+        "name": "instant coffee",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "oats",
+        "name": "oats",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "pinch_salt",
+        "name": "pinch salt",
+        "amount": 1.0,
+        "unit": "pinch",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "protein_powder",
+        "name": "protein powder",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "vanilla_essence",
+        "name": "vanilla essence",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "200g Low Fat Greek/PIain Yoghurt 2g Powdered Sweetener* Igppjng; 1/2 Tsp Cocoa Powder",
+      "Add the oats, protein powder, instant coffee (or espresso), almond milk, vanilla essence, salt, and sweetener to a small pot.",
+      "Cook over medium heat, stirring occasionally, until the oats is soft and creamy. Remove from heat and let cool slightly. (Alternatively, microwave in 30-second intervals, stirring in between, until thick and creamy,)",
+      "1n a separate bowl, mix the yoghurt and sweetener until well combined.",
+      "Layer half the oats into a serving glass or bowl, followed by a layer of sweetened yoghurt. Repeat with the remaining oats and yoghurt.",
+      "Sprinkle with cocoa powder and refrigerate for a few hours or overnight. Enjoy!"
+    ]
+  },
+  {
+    "id": "toasty_tuna_pita_pocket",
+    "name": "Toasty tuna pita pocket",
+    "description": "Nutritious, delicious toasty tuna pita pocket with balanced macros and simple prep.",
+    "category": "Lunch",
+    "prepTime": 10,
+    "totalTime": 10,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 448,
+    "protein": 40.0,
+    "carbs": 52.0,
+    "fat": 10.0,
+    "fiber": 10.0,
+    "estimatedCost": 43.0,
+    "sourcePage": "172",
+    "ingredients": [
+      {
+        "ingredientId": "avo",
+        "name": "avo",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "small avo ±140g"
+      },
+      {
+        "ingredientId": "baby_cucumber",
+        "name": "baby cucumber",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "ebtb_seasoning",
+        "name": "ebtb seasoning",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_feta",
+        "name": "fat-free feta",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "light_mayo",
+        "name": "light mayo",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "onion",
+        "name": "onion",
+        "amount": 75.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one onion ± 150g"
+      },
+      {
+        "ingredientId": "rosa_tomatoes",
+        "name": "rosa tomatoes",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tuna_in_brine_drained",
+        "name": "tuna in brine (drained)",
+        "amount": 120.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "wholewheat_pita",
+        "name": "wholewheat pita",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "bakery",
+        "notes": "medium, 80g each"
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "toosh_friendly_beef_tacos",
+    "name": "Toosh friendly beef tacos",
+    "description": "Nutritious, delicious toosh friendly beef tacos with balanced macros and simple prep.",
+    "category": "Lunch",
+    "prepTime": 15,
+    "totalTime": 15,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 432,
+    "protein": 30.0,
+    "carbs": 39.0,
+    "fat": 15.0,
+    "fiber": 4.0,
+    "estimatedCost": 57.0,
+    "sourcePage": "180",
+    "ingredients": [
+      {
+        "ingredientId": "baby_lettuce",
+        "name": "baby lettuce",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": "one head ± 450g"
+      },
+      {
+        "ingredientId": "coriander",
+        "name": "coriander",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "corn_tacos",
+        "name": "corn tacos",
+        "amount": 3.0,
+        "unit": "unit",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "extra_lean_beef_mince",
+        "name": "extra lean beef mince",
+        "amount": 100.0,
+        "unit": "g",
+        "storeSection": "butcher",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_greek_yogurt",
+        "name": "fat-free greek yogurt",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 1.0,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "taco_seasoning",
+        "name": "taco seasoning",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato_basil_pasta_sauce",
+        "name": "tomato & basil pasta sauce",
+        "amount": 40.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Prepare all fresh ingredients and season the protein thoroughly.",
+      "Heat a cooking skillet or oven to appropriate temperature with light cooking spray.",
+      "Cook the main protein over medium-high heat until nicely browned and cooked through.",
+      "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended.",
+      "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    ]
+  },
+  {
+    "id": "veggie_omelette",
+    "name": "Veggie omelette",
+    "description": "Nutritious, delicious veggie omelette with balanced macros and simple prep.",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "totalTime": 10,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Low Calorie",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 220,
+    "protein": 27.0,
+    "carbs": 6.0,
+    "fat": 7.0,
+    "fiber": 1.0,
+    "estimatedCost": 25.0,
+    "sourcePage": "1",
+    "ingredients": [
+      {
+        "ingredientId": "baby_spinach",
+        "name": "baby spinach",
+        "amount": 20.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "eggs",
+        "name": "eggs",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "egg_whites",
+        "name": "egg whites",
+        "amount": 3.0,
+        "unit": "unit",
+        "storeSection": "other",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_feta",
+        "name": "fat-free feta",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "fat_free_smooth_cottage_cheese",
+        "name": "fat-free smooth cottage cheese",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "mushrooms",
+        "name": "mushrooms",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "tomato",
+        "name": "tomato",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Heat a skillet over medium heat with cooking spray and saute peppers, onions, and garlic until soft.",
+      "Pour in crushed tomatoes and spices (cumin, paprika, salt, pepper) and let simmer for 5-8 minutes.",
+      "Use a spoon to make small wells in the sauce, then crack the eggs gently into each well.",
+      "Cover the skillet with a lid and cook on low heat for 5-7 minutes until the egg whites are set but yolks remain soft.",
+      "Sprinkle with fresh herbs and crumbled feta, and serve immediately with toasted crusty bread."
+    ]
+  },
+  {
+    "id": "zesty_lemon_garlic_prawn_pasta",
+    "name": "Zesty lemon & garlic prawn pasta",
+    "description": "Nutritious, delicious zesty lemon & garlic prawn pasta with balanced macros and simple prep.",
+    "category": "Dinner",
+    "prepTime": 20,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "High Protein",
+      "Meal Prep Friendly"
+    ],
+    "calories": 456,
+    "protein": 33.0,
+    "carbs": 51.0,
+    "fat": 15.0,
+    "fiber": 7.0,
+    "estimatedCost": 73.0,
+    "sourcePage": "136",
+    "ingredients": [
+      {
+        "ingredientId": "baby_spinach",
+        "name": "baby spinach",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "chilli_flakes",
+        "name": "chilli flakes",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_clove",
+        "name": "garlic clove",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "garlic_powder",
+        "name": "garlic powder",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "lemon",
+        "name": "lemon",
+        "amount": 1.0,
+        "unit": "unit",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "olive_oil",
+        "name": "olive oil",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": "1g ± 1.1ml"
+      },
+      {
+        "ingredientId": "paprika",
+        "name": "paprika",
+        "amount": 0.5,
+        "unit": "Tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "parmesan_cheese",
+        "name": "parmesan cheese",
+        "amount": 10.0,
+        "unit": "g",
+        "storeSection": "dairy products",
+        "notes": ""
+      },
+      {
+        "ingredientId": "prawns",
+        "name": "prawns",
+        "amount": 130.0,
+        "unit": "g",
+        "storeSection": "freezer",
+        "notes": ""
+      },
+      {
+        "ingredientId": "rosa_tomatoes",
+        "name": "rosa tomatoes",
+        "amount": 50.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      },
+      {
+        "ingredientId": "salt_and_pepper",
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "servings",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "vegetable_stock",
+        "name": "vegetable stock",
+        "amount": 125.0,
+        "unit": "g",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      },
+      {
+        "ingredientId": "wholewheat_asian_noodle_nest",
+        "name": "wholewheat asian noodle nest",
+        "amount": 60.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Boil a large pot of salted water and cook the pasta according to package directions until al dente.",
+      "In a separate skillet, brown the protein with minced garlic and herbs over medium heat.",
+      "Stir in the sauce and diced vegetables, allowing the flavours to simmer together for 8-10 minutes.",
+      "Toss the drained pasta directly into the sauce so every strand is evenly coated.",
+      "Garnish with grated parmesan or fresh herbs and divide evenly into meal prep bowls."
+    ]
+  },
+  {
+    "id": "creamy",
+    "name": "Creamy Carrot Cake Overnight Oats Carrot Cake For Breakfast? Say Less.",
+    "description": "Delicious, high-protein creamy carrot cake overnight oats carrot cake for breakfast? say less. these creamy, dessert-inspired overnight oats are the ultimate meal prep win - thick, dreamy, and packed with all the cozy spiced goodness of your fave carrot cake. prep: 10 mins total: 3 hours/ overnight 1 serving v, gf*, protein calories carbs fat 3 34 fibre optional topping; ioog low-fat yoghurt 5 crushed pecan nuts additional macros: (99c / p4g / c6g / f6g / fibre lg) 20 g 38 g io g ingredients -40g oats 50g carrot (finely grated) 150ml unsweetened almond milk 125g smooth fat-free cottage cheese 3g powdered sweetener* 1 tsp cinnamon pinch salt 10g peanut butter instructions i.in a bowl, mix the oats, salt, and almond milk. 2.stir in the grated carrot, sweetener, cinnamon, and cottage cheese until well combined. 3. transfer to a glass dish or bowl, cover, and refrigerate for at least a few hours (overnight for best results). 4. before serving, top with peanut butter and a sprinkle of cinnamon. 5. (optional) add a dollop of yoghurt and crushed pecans for extra flavour. 6. dig in and enjoy! this is one of my favouri+e recipes io meal prep and enjoy all week/ noles: meal prep friendly freezer friendly x tried it from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 350,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 3.0,
+    "fiber": 4.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2197.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "In a bowl, mix the oats, salt, and almond milk.",
+      "Stir in the grated carrot, sweetener, cinnamon, and cottage cheese until well combined.",
+      "Transfer to a glass dish or bowl, cover, and refrigerate for at least a few hours (overnight for best results).",
+      "Before serving, top with peanut butter and a sprinkle of cinnamon.",
+      "(Optional) Add a dollop of yoghurt and crushed pecans for extra flavour.",
+      "Dig in and enjoy! This is one of my favouri+e recipes Io meal prep and enjoy all week/ Noles: Meal Prep Friendly Freezer Friendly x TRIED IT"
+    ]
+  },
+  {
+    "id": "perfect_pumpkin_pancakes",
+    "name": "Perfect Pumpkin Pancakes Fluffy, Golden, And Downright Gorgeous! O",
+    "description": "Delicious, high-protein perfect pumpkin pancakes fluffy, golden, and downright gorgeous! o this stack is serving looks! with a sneaky veggie boost, it's the ultimate cozy weekend breakfast. pile 'em high, drizzle with your fave toppings, and dig in darling! 17 g prep: 20 mins k total: 20 mins 1 serving v, gf*, df calories 306 protein carbs fat fibre ingredients 150g steamed pumpkin (cooled) 50g oats 90g egg whites (3) 2g powdered sweetener* pinch salt 1/2 tsp baking powder 1 tsp vanilla essence 1 tsp cinnamon spray & cook instructions qptional topping; iog almond butter 10g honey additional macros: (92c / p2g / c9g / f5g / fibre lg) i.steam or boil the pumpkin until soft, then allow it to cool. 2. blend the pumpkin, oats, egg whites, sweetener, salt, baking powder, vanilla essence, and cinnamon until smooth. 3. heat a non-stick pan and spray with cooking spray. 4. pour the batter into the pan, forming medium-sized pancakes. 5. cook until bubbles appear on the surface, then flip and cook the other side until golden. 6.serve with your favourite toppings and enjoy! b e sure 40 use a good non-shck pan for easy flippinl/ no}es: meal prep friendly freezer from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "totalTime": 30,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 306,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 4.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2198.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "prep_20_mins_k_total_20_mins_1_serving_v_gf_df_calories_306_protein_carbs_fat_fibre_ingredients_150g_steamed_pumpkin",
+        "name": "prep: 20 mins k total: 20 mins 1 serving v, gf*, df calories 306 protein carbs fat fibre ingredients 150g steamed pumpkin",
+        "amount": 17.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven or heat a non-stick pan over medium heat with cooking spray.",
+      "Mix measured ingredients together in a prep bowl or blender until well combined.",
+      "Cook or bake until thoroughly done, aromatic, and lightly golden.",
+      "Garnish with remaining toppings and enjoy immediately or pack for meal prep."
+    ]
+  },
+  {
+    "id": "decadent_chocolate_chia_pudding_if_smacking_your_fibre_goal_while_indulging_in",
+    "name": "Decadent Chocolate Chia Pudding",
+    "description": "Delicious, high-protein decadent chocolate chia pudding if smacking your fibre goal while indulging in a thick, creamy chocolate pudding before 8 am sounds like your style - this decadent, high-protein chia pudding is about to be your new bestie. o top it with a dollop of tangy yoghurt and fresh strawberries to seal the deal. prep: 5 mins total: 3-4 hours/ overnight 25g chia seeds 150g unsweetened almond milk 1 serving , pp calories 333 protein carbs fat fibre 34 g 22 g 13 g 15 g 30g whey protein powder (chocolate or vanilla) 15g cocoa powder 2g powdered sweetener* lopping; 50g low-fat plain yoghurt 20g strawberries instructions 1. blend the chia seeds, almond milk, protein powder, cocoa powder, and sweetener in a blender or nutribullet until smooth. 2. if the mixture is too thick, add a splash of water - it will continue to thicken as it sets. 3. pour into a glass or jar, cover, and refrigerate for at least 3 hours. 4. serve chilled with yogurt and sliced strawberries. enjoy! pro lip: swap ou4 almond milk for faf-free milk io pump up lhe prolein and creaminess/ time-saving 'ip: prep iwo of lhese in advance and enjoy lomorrow/ noles from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 5,
+    "totalTime": 15,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 333,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 34.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2199.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Blend the chia seeds, almond milk, protein powder, cocoa powder, and sweetener in a blender or Nutribullet until smooth.",
+      "If the mixture is too thick, add a splash of water - it will continue to thicken as it sets.",
+      "Pour into a glass or jar, cover, and refrigerate for at least 3 hours.",
+      "Serve chilled with yogurt and sliced strawberries. Enjoy! Pro lip: Swap ou4 almond milk for Faf-free milk Io pump up lhe prolein and creaminess/ Time-saving 'ip: Prep Iwo of lhese in advance and enjoy lomorrow/ Noles"
+    ]
+  },
+  {
+    "id": "peanut_butter_banana_pancakes",
+    "name": "Peanut Butter Banana Pancakes",
+    "description": "Delicious, high-protein peanut butter banana pancakes auntie's pancakes, but almost all booty-building protein! light, slightly sweet, and the ultimate post-workout plate. roll, fold, top, and stack, sister! prep: 15 mins total: 15 mins 1 serving v, gf, df*, pp calories lqq2ing\u0007: protein carbs fat fibre 36 g 29 g ingredients 250g egg whites (8) 50g fat-free cottage cheese 1 pinch salt 1 tsp vanilla essence 3g powdered sweetener* spray & cook instructions 50g banana iog honey iog almond/peanut butter i tsp cinnamon 1. add the egg whites, cottage cheese, salt, sweetener, and vanilla essence to a blender. blend on high speed until smooth. 2. heat a non-stick pan and spray with cooking spray. 3. pour a thin layer of the batter into medium-sized pancakes, cooking until bubbles form, then flip to cook the other side. 4. repeat until all batter is used, making 5-6 pancakes. 5. roll the pancakes and place on a plate. 6. mix peanut butter with the honey and pop it into the microwave to melt. 7.top the pancakes with sliced banana, sprinkle with cinnamon, and drizzle with the melted peanut butter and honey mixture. enjoy! pro use a pan of spray & cook in pancake for easy flipping/ no'es. meal prep friendly x freezer friendly x from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "totalTime": 25,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 350,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 36.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2200.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "50g Banana IOg Honey IOg Almond/Peanut Butter I Tsp Cinnamon",
+      "Add the egg whites, cottage cheese, salt, sweetener, and vanilla essence to a blender. Blend on high speed until smooth.",
+      "Heat a non-stick pan and spray with cooking spray.",
+      "Pour a thin layer of the batter into medium-sized pancakes, cooking until bubbles form, then flip to cook the other side.",
+      "Repeat until all batter is used, making 5-6 pancakes.",
+      "Roll the pancakes and place on a plate.",
+      "Mix peanut butter with the honey and pop it into the microwave to melt.",
+      "Top the pancakes with sliced banana, sprinkle with cinnamon, and drizzle with the melted peanut butter and honey mixture. Enjoy! Pro use a pan Of spray & cook in pancake for easy flipping/ No'es. Meal Prep Friendly x Freezer Friendly X"
+    ]
+  },
+  {
+    "id": "bang_in_breakfast_stack",
+    "name": "Bang In' Breakfast Stack",
+    "description": "Delicious, high-protein bang in' breakfast stack dazzling all your classic brekkie flavours, this simple yet sexy stack is egg-ceptional! with jammy eggs, crispy chicken rashers, creamy avo. and perfectly roasted veggies, she's a breakfast beauty you'll be making on repeat. [13 prep: 20 mins @ total: 20 mins 1 serving calories 434 protein carbs fibre 32 g 20 g ingredients 2 whole eggs 40g chicken rashers 60g mushrooms 50g baby tomatoes 50g baby spinach instructions i.heat a non-stick pan and lightly spray with cooking spray. 1 multi-seed sandwich thin 40g avocado salt & pepper chilli flakes (optional) spray & cook 2.chop the mushrooms, spinach, and baby tomatoes, then add them to the pan. season and saut‚ until soft, then remove from the pan and set aside. 3.respray the pan, return to medium heat, and add the chicken rashers. flip after 3 minutes, allowing each side to crisp and cook through. 4.using egg rings, crack the eggs directly into the pan alongside the rashers. cook until the whites are set and the yolks reach your preferred doneness. remove from the pan. 5. toast the multiseed sandwich thin until golden brown. 6.spread the avocado evenly over the toasted bread and season. 7.layer with the saut‚ed veggies, crispy chicken rashers, and pan-fried eggs. 8. serve and enjoy! pro {p: use a non-s+ick egg ring 40 make perfec+ly round pan fried eggs/ asy subs: swap chicken rashers for 1+09 lean round cu+ bacon no+es: from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 20,
+    "totalTime": 30,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Meal Prep Friendly"
+    ],
+    "calories": 434,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 32.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2201.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "avo",
+        "name": "20 g ingredients 2 whole eggs 40g chicken rashers 60g mushrooms 50g baby tomatoes 50g baby spinach instructions i.heat a non-stick pan and lightly spray with cooking spray. 1 multi-seed sandwich thin 40g avocado salt & pepper chilli flakes",
+        "amount": 32.0,
+        "unit": "g",
+        "storeSection": "fruit and veg",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Heat a non-stick pan and lightly spray with cooking spray. 1 Multi-seed Sandwich Thin 40g Avocado Salt & Pepper Chilli Flakes (Optional) Spray & Cook",
+      "Chop the mushrooms, spinach, and baby tomatoes, then add them to the pan. Season and saut‚ until soft, then remove from the pan and set aside.",
+      "Respray the pan, return to medium heat, and add the chicken rashers. Flip after 3 minutes, allowing each side to crisp and cook through.",
+      "Using egg rings, crack the eggs directly into the pan alongside the rashers. Cook until the whites are set and the yolks reach your preferred doneness. Remove from the pan.",
+      "Toast the multiseed sandwich thin until golden brown.",
+      "Spread the avocado evenly over the toasted bread and season.",
+      "Layer with the saut‚ed veggies, crispy chicken rashers, and pan-fried eggs.",
+      "Serve and enjoy! Pro {p: use a non-s+ick egg ring 40 make perfec+ly round pan fried eggs/ asy subs: Swap chicken rashers for 1+09 lean round cu+ bacon"
+    ]
+  },
+  {
+    "id": "big_ole_breakfast_wrap",
+    "name": "Big Ole' Breakfast Wrap",
+    "description": "Delicious, high-protein big ole' breakfast wrap meet the big ole breakfast wrap: a classic cheesy omelette, hugged by a toasty tortilla. built for savoury sisters with hungry hearts, this one's a breakfast you'll keep coming back to! prep: 15 mins k total: 15 mins 1 serving v, gf*, calories 13 protein carbs fat fibre 28 g 1 og ingredients 1 whole egg 90g egg whites (3) i small/medium wrap (100-120 calories) ioog mushrooms 20g baby spinach ic)g mature cheddar cheese ebtb seasoning salt & pepper spray & cook instructions i. heat a medium non-stick pan and lightly spray with cooking spray. 2. chop the mushrooms and spinach, then add them to the pan. season with salt and pepper and saut‚ until soft. remove from the pan and set aside. 3.1n a small bowl, whisk the whole egg and egg whites with a pinch of salt and pepper. 4. respray the pan and pour in the egg mixture. cook for 1-2 minutes until just set. 5. place the wrap directly on top of the eggs, pressing gently to adhere. flip and toast for another minute. 6. transfer to a plate, top with the saut‚ed mushrooms, spinach, and grated cheddar. 7. sprinkle with ebtb seasoning, fold, and enjoy! no}es: from the healthy recipe collection.",
+    "category": "Dinner",
+    "prepTime": 15,
+    "totalTime": 25,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 360,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 28.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2202.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "egg_whites",
+        "name": "1 og ingredients 1 whole egg 90g egg whites",
+        "amount": 28.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Heat a medium non-stick pan and lightly spray with cooking spray.",
+      "Chop the mushrooms and spinach, then add them to the pan. Season with salt and pepper and saut‚ until soft. Remove from the pan and set aside.",
+      "1n a small bowl, whisk the whole egg and egg whites with a pinch of salt and pepper.",
+      "Respray the pan and pour in the egg mixture. Cook for 1-2 minutes until just set.",
+      "Place the wrap directly on top of the eggs, pressing gently to adhere. Flip and toast for another minute.",
+      "Transfer to a plate, top with the saut‚ed mushrooms, spinach, and grated cheddar.",
+      "Sprinkle with EBTB seasoning, fold, and enjoy!"
+    ]
+  },
+  {
+    "id": "tiramisu_overnight_oats_these_creamy_coffee_kissed_overnight_oats_layered",
+    "name": "Tiramisu Overnight Oats",
+    "description": "Delicious, high-protein tiramisu overnight oats these creamy, coffee-kissed overnight oats, layered with sweet yoghurt, will have you set for a dreamy dessert-for-breakfast moment. rich, satisfying, and totally worth waking up for! [b prep: 15 mins k total: 3-4 hours/ overnight 1 serving (9 v, gf*, calories 4 protein carbs fibre 22 g 48 g ingredients 40g quick oats iog whey protein powder (vanilla) 1 tsp instant coffee or 1 espresso shot 200g unsweetened almond milk 1/2 tsp vanilla essence 3g powdered sweetener* pinch salt instructions 200g low fat greek/piain yoghurt 2g powdered sweetener* igppjng; 1/2 tsp cocoa powder i.add the oats, protein powder, instant coffee (or espresso), almond milk, vanilla essence, salt, and sweetener to a small pot. 2. cook over medium heat, stirring occasionally, until the oats is soft and creamy. remove from heat and let cool slightly. (alternatively, microwave in 30-second intervals, stirring in between, until thick and creamy,) 3.1n a separate bowl, mix the yoghurt and sweetener until well combined. 4. layer half the oats into a serving glass or bowl, followed by a layer of sweetened yoghurt. repeat with the remaining oats and yoghurt. 5. sprinkle with cocoa powder and refrigerate for a few hours or overnight. enjoy! pro 4ip: you can enjoy {hs righ away, buf for +he bes+ 'exfure, chill i} for a} leas+ an hour - or le+ i} si+ overnigh+ for peak creaminess. bonus: a liále caffeine kick in every bi+e/ no}es: from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "totalTime": 25,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 360,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 22.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2203.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "oats",
+        "name": "48 g ingredients 40g quick oats iog whey protein powder",
+        "amount": 22.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "200g Low Fat Greek/PIain Yoghurt 2g Powdered Sweetener* Igppjng; 1/2 Tsp Cocoa Powder",
+      "Add the oats, protein powder, instant coffee (or espresso), almond milk, vanilla essence, salt, and sweetener to a small pot.",
+      "Cook over medium heat, stirring occasionally, until the oats is soft and creamy. Remove from heat and let cool slightly. (Alternatively, microwave in 30-second intervals, stirring in between, until thick and creamy,)",
+      "1n a separate bowl, mix the yoghurt and sweetener until well combined.",
+      "Layer half the oats into a serving glass or bowl, followed by a layer of sweetened yoghurt. Repeat with the remaining oats and yoghurt.",
+      "Sprinkle with cocoa powder and refrigerate for a few hours or overnight. Enjoy!"
+    ]
+  },
+  {
+    "id": "beautiful_brekkie_bun",
+    "name": "Beautiful Brekkie Bun",
+    "description": "Delicious, high-protein beautiful brekkie bun the perfect balance of wholesome and treat-y! like a drive-thru fave, but way better. this brekkie bun brings crispy bacon. a perfectly cooked egg, fresh tomato. and creamy cottage cheese, all tucked into a toasted seeded roll. q [b prep: 10 mins total: 10 mins 1 serving (9 gf*, calories 279 protein carbs fibre 21 g 23 g ingredients i whole large egg 50g round cut bacon 1 small seeded roll (50g) 15g fat-free cottage cheese 60g tomato 20g baby spinach ebtb seasoning salt & pepper instructions i. heat a medium pan and lightly spray with cooking spray. 2. slice the tomato and cut the seeded roll in half. 3.add the bacon and egg to the pan. cook the bacon until crispy and the egg to your preferred doneness. remove from the pan and set aside. 4. spread the cottage cheese on each half of the roll. 5. layer the sliced tomato, spinach, crispy bacon, and egg onto the roll. 6.season with ebtb seasoning and salt & pepper, close it up, and enjoy! no}es: meal prep friendly x tried it freezer friendly x from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 279,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 21.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2204.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Heat a medium pan and lightly spray with cooking spray.",
+      "Slice the tomato and cut the seeded roll in half.",
+      "Add the bacon and egg to the pan. Cook the bacon until crispy and the egg to your preferred doneness. Remove from the pan and set aside.",
+      "Spread the cottage cheese on each half of the roll.",
+      "Layer the sliced tomato, spinach, crispy bacon, and egg onto the roll.",
+      "Season with EBTB seasoning and salt & pepper, close it up, and enjoy!"
+    ]
+  },
+  {
+    "id": "wake_me_up_chocolate_overnight_oats",
+    "name": "Wake Me Up Chocolate Overnight Oats",
+    "description": "Delicious, high-protein wake me up chocolate overnight oats a chocolate lover's dream! these rich, double choc overnight oats bring together the perfect mix of creamy, crunchy, and fruity - finished with a cheeky hit of cadbury flake. because honestly, can a day be bad after a start like this? [e prep: 15 mins c) total: 1-2 hours/ overnight ingredients 35g rolled oats serving calories 8 iqpplng; protein carbs f at fibre 25g 48 g 15 g iog whey protein powder (vanilla) ioog almond unsweetend milk 65g smooth fat-free cottage cheese 7g cocoa powder 20g all bran flakes 2g powdered sweetener* pinch salt 1/2 tsp cinnamon instructions 40g blueberries 40g raspberries 8g flake cadbury 1. in a bowl, combine the rolled oats, almond milk, cottage cheese, all bran flakes, cocoa powder, whey protein, salt, cinnamon, and sweetener. mix well. 2. transfer to a serving bowl and smooth the top with the back of a spoon. 3. top with blueberries, raspberries, and crumbled flake chocolate. 4. cover and refrigerate for a few hours or overnight. 5.serve chilled and enjoy! these are meal prep magic - }hey only gel leger by 'he day/ for 'he freshes' flavor, add 'he frui'jus/ before serving. meal prep friendly freezer friendly x tried it favourite from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "totalTime": 25,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 360,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 25.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2205.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "40g Blueberries 40g Raspberries 8g Flake Cadbury",
+      "In a bowl, combine the rolled oats, almond milk, cottage cheese, All Bran Flakes, cocoa powder, whey protein, salt, cinnamon, and sweetener. Mix well.",
+      "Transfer to a serving bowl and smooth the top with the back of a spoon.",
+      "Top with blueberries, raspberries, and crumbled Flake chocolate.",
+      "Cover and refrigerate for a few hours or overnight.",
+      "Serve chilled and enjoy! These are meal prep magic - }hey only gel Leger by 'he day/ For 'he freshes' flavor, add 'he frui'jus/ before serving. Meal Prep Friendly Freezer Friendly x TRIED IT FAVOURITE"
+    ]
+  },
+  {
+    "id": "protein_pumped_eggs_avo_on_toast_wake_up_starving",
+    "name": "Protein Pumped Eggs & Avo On Toast",
+    "description": "Delicious, high-protein protein pumped eggs & avo on toast wake up starving? this pretty, protein-pumped avo & egg toast is designed to keep hunger gone for the next 6 hours! finished with microgreens and a sprinkle of ebtb seasoning - you're golden, girl! prep: 15 mins total: 15 mins 1 serving (9 calories 46 protein carbs fat fibre 30 g 56 g 13 g ingredients 1 whole egg 90g egg whites (3) 40g avocado 30g smooth fat-free cottage cheese 2 slices of sourdough/rye bread (ioog) 15g microgreens 1/2 tsp garlic powder salt & pepper ebtb seasoning instructions 1. bring a saucepan of water to a boil. 2.add the eggs and boil for 6 minutes and 30 seconds. transfer to cold water. let cool, then peel. 3. remove the yolks from three eggs, keeping one whole egg and three egg whites. chop them. 4. in a bowl, mash the avocado and mix with cottage cheese, garlic powder, salt. and pepper. 5. toast the sourdough or rye until golden brown. 6. spread the avocado mixture evenly over the toast. 7.top with chopped eggs and microgreens. 8. sprinkle with ebtb seasoning and garnish with extra greens! no+es: meal prep friendly x freezer friendly x tried it from the healthy recipe collection.",
+    "category": "Dinner",
+    "prepTime": 15,
+    "totalTime": 25,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 360,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 30.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2207.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Bring a saucepan Of water to a boil.",
+      "Add the eggs and boil for 6 minutes and 30 seconds. Transfer to cold water. let cool, then peel.",
+      "Remove the yolks from three eggs, keeping one Whole egg and three egg whites. Chop them.",
+      "In a bowl, mash the avocado and mix with cottage cheese, garlic powder, salt. and pepper.",
+      "Toast the sourdough or rye until golden brown.",
+      "Spread the avocado mixture evenly over the toast.",
+      "Top with chopped eggs and microgreens.",
+      "Sprinkle with EBTB seasoning and garnish with extra greens!"
+    ]
+  },
+  {
+    "id": "berry_baked_oats_cake_for_breakfast_we_re_in_these_berry_studded_baked_oats_are_warm",
+    "name": "Berry Baked Oats",
+    "description": "Delicious, high-protein berry baked oats cake for breakfast? we're in! these berry-studded baked oats are warm, fluffy, and oh-so-filling. if you're after something cute and cozy, just mix, bake, and dive in, doll! 24 g prep: 5 mins k total: 20 mins ingredients 50g oats 90g egg whites (3) serving calories protein carbs fat fibre 80g smooth fat-free cottage cheese 3g powdered sweetener* pinch of salt instructions 1. preheat the oven to 1800c. 1/2 tsp baking powder pinch of cinnamon spray & cook 40g blueberries 40g raspberries 2. in a blender, combine the oats, sweetener. salt, baking powder, cinnamon, egg whites, and cottage cheese. blend until smooth. 3. lightly spray an oven-safe bowl with cooking spray. 4. pour the blended mixture into the bowl and gently fold in the blueberries and raspberries. 5. sprinkle with a little extra cinnamon. 6. bake for 15-20 minutes or until golden brown. 7. serve and enjoy warm! mo} 4ip: if you love a semi-baked, cake \"her-like lex'ure, bake for 12-15 minu+es/ easy subs: frozen berries work perfec+ly here/ i always keep a dash in 'he freezer - no' only are +hey more cos'- effec+ive. +hey day fresh much longer +00/ no/es: meal prep friendly freezer friendly x *see substitutions section 64 tried it favourite from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 5,
+    "totalTime": 15,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 350,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 80.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2208.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 180°C. 1/2 Tsp Baking Powder Pinch of Cinnamon Spray & Cook 40g Blueberries 40g Raspberries",
+      "In a blender, combine the oats, sweetener. salt, baking powder, cinnamon, egg whites, and cottage cheese. Blend until smooth.",
+      "Lightly spray an oven-safe bowl with cooking spray.",
+      "Pour the blended mixture into the bowl and gently fold in the blueberries and raspberries.",
+      "Sprinkle with a little extra cinnamon.",
+      "Bake for 15-20 minutes or until golden brown.",
+      "Serve and enjoy warm! Mo} 4ip: If you love a semi-baked, cake \"her-like lex'ure, bake for 12-15 minu+es/ Easy subs: Frozen berries work perfec+ly here/ I always keep a dash in 'he freezer - no' only are +hey more cos'- effec+ive. +hey day fresh much longer +00/ No/es: Meal Prep Friendly Freezer Friendly x *See substitutions section 64 TRIED IT FAVOURITE"
+    ]
+  },
+  {
+    "id": "fancy_protein_french_toast_golden_and_gorgeous",
+    "name": "Fancy Protein French Toast",
+    "description": "Delicious, high-protein fancy protein french toast golden and gorgeous - this french toast is as fast as she is fancy! top with a dollop of yogurt. fresh berries, and a drizzle of honey. bon app‚tit. ma ch‚rie! [ed prep: 10 mins total: 10 mins 1 serving calories 2 lopping; protein carbs fat fibre 29 g 61 g ingredients 1 whole egg 90g egg whites (3) 3 slices of low kj bread or 2 slices brown (ioog) 3g powdered sweetener* i tsp vanilla essence pinch salt h tsp cinnamon spray & cook instructions 50g low-fat greek/plain yoghurt 60g strawberries 10g honey extra cinnamon & sweetener (optional) i.in a bowl, whisk together the egg, egg whites, sweetener, vanilla essence, salt, and cinnamon. 2. heat a non-stick pan over medium heat and lightly spray with cooking spray. 3. dip each slice of bread into the egg mixture, coating both sides well. 4.place the soaked bread into the pan and cook for a few minutes on each side until golden brown. 5. transfer to a plate and top with yoghurt, sliced strawberries, and a drizzle of honey. 6.sprinkie with extra cinnamon and sweetener if desired - dig in! 4ip: use sugar-free syrup or your favourife nd buáer 40 jazz fhese up a liále more/ no'es: from the healthy recipe collection.",
+    "category": "Dinner",
+    "prepTime": 10,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 360,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 29.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2209.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "egg_whites",
+        "name": "61 g ingredients 1 whole egg 90g egg whites",
+        "amount": 29.0,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "50g Low-Fat Greek/Plain Yoghurt 60g Strawberries 10g Honey Extra Cinnamon & Sweetener (Optional)",
+      "In a bowl, whisk together the egg, egg whites, sweetener, vanilla essence, salt, and cinnamon.",
+      "Heat a non-stick pan over medium heat and lightly spray with cooking spray.",
+      "Dip each slice of bread into the egg mixture, coating both sides well.",
+      "Place the soaked bread into the pan and cook for a few minutes on each side until golden brown.",
+      "Transfer to a plate and top with yoghurt, sliced strawberries, and a drizzle of honey.",
+      "SprinkIe with extra cinnamon and sweetener if desired - dig in! 4ip: use sugar-free syrup or your favourife nd buáer 40 jazz fhese up a liále more/ No'es:"
+    ]
+  },
+  {
+    "id": "tropical_parfait_zing",
+    "name": "Tropical Parfait Zing",
+    "description": "Delicious, high-protein tropical parfait zing a tropical summer in a glass! this brekkie parfait layers juicy mango, sweet pineapple, and creamy yoghurt with golden, honey-toasted oats for the perfect crunchy contrast. [e prep: 15 mins total: 15 mins 1 serving calories 3b protein carbs fat fibre 13 g 60 g ingredients 20g rolled oats ioog mango ioog pineapple 250g low-fat plain/greek yoghurt iog honey h tsp cinnamon instructions 1. heat a non-stick pan over medium heat. 2.add the rolled oats, cinnamon, and honey, stirring occasionally until golden brown and fragrant. remove from heat and let cool. 3. peel the pineapple and mango and cut into small bite-sized cubes. 4. in a glass or serving bowl, layer the fruit, yoghurt, and toasted oats until all ingredients are used - smile and savour! no}es: from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 15,
+    "totalTime": 25,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 360,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 13.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2210.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Heat a non-stick pan over medium heat.",
+      "Add the rolled oats, cinnamon, and honey, stirring occasionally until golden brown and fragrant. Remove from heat and let cool.",
+      "Peel the pineapple and mango and cut into small bite-sized cubes.",
+      "In a glass or serving bowl, layer the fruit, yoghurt, and toasted oats until all ingredients are used - smile and savour!"
+    ]
+  },
+  {
+    "id": "sunshine_smoothie_bowl",
+    "name": "Sunshine Smoothie Bowl",
+    "description": "Delicious, high-protein sunshine smoothie bowl thick, creamy, and bursting with beautiful berry flavour - this sweet smoothie bowl is the perfect way to cool down on a warm summer morning. blend it up, pour it out, and make it pretty! prep: 5 mins k total: 5 mins ingredients serving v, gf, calories 235 protein carbs fat fibre 25g 30g whey protein powder (vanilla or strawberry) 50g frozen banana 50g frozen blueberries 80g frozen strawberries ioog unsweetened almond milk 3 blocks of ice 2g powdered sweetener* (optional) instructions i.add the protein powder, frozen banana, frozen blueberries, frozen strawberries, almond milk, ice blocks, and sweetener (if using) to a nutribullet or high-speed blender. 2. blend until smooth, adjusting the almond milk as needed for your desired consistency. 3. pour into a bowl, decorate with fruit and enjoy immediately! pro 4ip: save a few slices of banana & berries as prehy foppings/ no}es: from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 5,
+    "totalTime": 15,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 235,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 25.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2211.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Add the protein powder, frozen banana, frozen blueberries, frozen strawberries, almond milk, ice blocks, and sweetener (if using) to a Nutribullet or high-speed blender.",
+      "Blend until smooth, adjusting the almond milk as needed for your desired consistency.",
+      "Pour into a bowl, decorate with fruit and enjoy immediately!"
+    ]
+  },
+  {
+    "id": "toasty_brekkie_bagel",
+    "name": "Toasty Brekkie Bagel",
+    "description": "Delicious, high-protein toasty brekkie bagel not much beats a big, toasty bagel for breakfast! e slapped with creamy avo, cottage cheese, fluffy egg whites, and salty feta. pair with your favourite cup of coffee and you're smiling. prep: 10 mins k total: 10 mins 1 serving (9 v, gf*, pp calories a 28 protein carbs fat fibre 56 g ingredients 1 sesame/piain bagel (ioog) 3c)g avocado 30g fat-free smooth cottage cheese 130g egg whites (4) 2c)g fat-free feta 10g microgreens ebtb seasoning spray & cook salt & pepper instructions i.cut the bagel in half and toast until golden brown. 2. in a small bowl, mash the avocado and mix with the cottage cheese. season with salt and pepper, then set aside. 3. heat a non-stick pan over medium heat and spray lightly with cooking spray. 4. pour in the egg whites, season with salt and pepper, and add the feta cheese. 5. gently fold the eggs until fully cooked and fluffy. 6. spread the avocado mixture onto the toasted bagel halves. 7. top with the scrambled eggs. 8. sprinkle with ebtb seasoning. 9. finish with the microgreens, close the bagel, and enjoy! no+es: from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 350,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 56.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2212.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Cut the bagel in half and toast until golden brown.",
+      "In a small bowl, mash the avocado and mix with the cottage cheese. Season with salt and pepper, then set aside.",
+      "Heat a non-stick pan over medium heat and spray lightly with cooking spray.",
+      "Pour in the egg whites, season with salt and pepper, and add the feta cheese.",
+      "Gently fold the eggs until fully cooked and fluffy.",
+      "Spread the avocado mixture onto the toasted bagel halves.",
+      "Top with the scrambled eggs.",
+      "Sprinkle with EBTB seasoning.",
+      "Finish with the microgreens, close the bagel, and enjoy!"
+    ]
+  },
+  {
+    "id": "glazed_churro_baked_oats",
+    "name": "Glazed Churro Baked Oats",
+    "description": "Delicious, high-protein glazed churro baked oats fashioned after a crunchy, cinnamon-dusted mexican treat, this baked oats is a community favourite for its unbeatable moist cake texture. enjoy warm, loved up with a drizzle of sugar-free syrup or honey! prep: 10 mins total: 20 mins 1 serving (9 v, gf*, protein calories carbs fat 94 fibre igppjng; 1 tsp cinnamon 1 tsp sugar 19 g 44 g ingredients 40g oat flour iog whey protein powder (vanilla) ioog unsweetened almond milk 30g egg white (1) 40g banana (mashed) 3g powdered sweetener* h tsp vanilla essence 1/2 tsp baking powder spray & cook instructions i.preheat the oven to 1800c. 2. lightly spray a small oven-safe dish with cooking spray. 3. in a mixing bowl, combine the oat flour, whey protein powder, baking powder, and sweetener. 4.add the almond milk, egg white, mashed banana, and vanilla essence. mix until smooth. 5. pour the batter into the prepared dish. 6. sprinkle with cinnamon and sugar. 7. bake for 12-15 minutes or until the center is fully cooked. 8.serve warm with sugar-free syrup or honey and enjoy! nofes: from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 350,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 94.0,
+    "fiber": 4.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2213.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "cinnamon",
+        "name": "cinnamon 1 tsp sugar 19 g 44 g ingredients 40g oat flour iog whey protein powder",
+        "amount": 1.0,
+        "unit": "tsp",
+        "storeSection": "sauce and spice",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 180°C.",
+      "Lightly spray a small oven-safe dish with cooking spray.",
+      "In a mixing bowl, combine the oat flour, whey protein powder, baking powder, and sweetener.",
+      "Add the almond milk, egg white, mashed banana, and vanilla essence. Mix until smooth.",
+      "Pour the batter into the prepared dish.",
+      "Sprinkle with cinnamon and sugar.",
+      "Bake for 12-15 minutes or until the center is fully cooked.",
+      "Serve warm with sugar-free syrup or honey and enjoy! Nofes:"
+    ]
+  },
+  {
+    "id": "feta_breakfast_frittata",
+    "name": "Feta Breakfast Frittata",
+    "description": "Delicious, high-protein feta breakfast frittata busy morning? prep this one-pan wonder! this cheesy egg bake comes together in minutes and makes not one, but four big, beautiful slices. bake it, slice it, and you've got a heat-and-eat brekkie that feels straight-up gourmet girl! [e prep: 10 mins total: 30 mins protein carbs fibre 16 g 4 serving calories 3 ingredients 3 whole eggs 200g egg whites (7) 125g mushrooms ioog cherry tomatoes 40g baby spinach 60g fat-free feta instructions 1. preheat the oven or air fryer to 1800c. 2. slice the mushrooms and cherry tomatoes. 20g mature cheddar cheese 1 tsp garlic powder salt & pepper chilli flakes (optional) spray & cook 3.1n a large bowl, whisk together the egg whites, whole eggs, garlic powder, salt, and pepper. 4. stir in the mushrooms, cherry tomatoes, and baby spinach. 5. lightly spray a non-stick baking tray with cooking spray. 6. pour the egg and veggie mixture into the prepared tray. 7.sprinkie the crumbled feta and grated cheddar evenly over the top. 8.air fry for 20 minutes or bake for 25 minutes, until the eggs are set and the top is lightly golden. 9. cut into 4 equal slices and serve warm - or store for meal prep! pro 4ip: serve wi+h a crus}y slice of bread and some smashed avocado/ no}es: meal prep friendly from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 360,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 16.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2214.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Preheat the oven or air fryer to 180°C.",
+      "Slice the mushrooms and cherry tomatoes. 20g Mature Cheddar Cheese 1 Tsp Garlic Powder Salt & Pepper Chilli Flakes (Optional) Spray & Cook",
+      "1n a large bowl, whisk together the egg whites, whole eggs, garlic powder, salt, and pepper.",
+      "Stir in the mushrooms, cherry tomatoes, and baby spinach.",
+      "Lightly spray a non-stick baking tray with cooking spray.",
+      "Pour the egg and veggie mixture into the prepared tray.",
+      "SprinkIe the crumbled feta and grated cheddar evenly over the top.",
+      "Air fry for 20 minutes or bake for 25 minutes, until the eggs are set and the top is lightly golden.",
+      "Cut into 4 equal slices and serve warm - or store for meal prep!"
+    ]
+  },
+  {
+    "id": "gooey_brownie_baked_oats",
+    "name": "Gooey Brownie Baked Oats",
+    "description": "Delicious, high-protein gooey brownie baked oats this rich, chocolatey, fudgey baked oats is always on my menu! perfect for a meal prep, this brekkie oat bake makes 6 serves and it's just as good fresh out of the oven as it is straight from the fridge. [e prep: 5 mins k total: 25 mins 6 serving calories 9 protein carbs fat fibre 14g 23 g ingredients 120g rolled oats 60g whey protein powder (vanilla or chocolate) 40g cocoa powder 100g banana (mashed) ioog smooth fat-free cottage cheese 200g unsweetened almond milk 10g powdered sweetener* instructions 1. preheat the oven to 1800c. i tsp vanilla essence 1 tsp baking powder 1 tbsp instant coffee (optional) i tsp salt lqf2qing; 40g chocolate chips 2. in a bowl, mix the oats, protein powder, cocoa powder, baking powder, instant coffee (if using), salt, and sweetener. 3.add the mashed banana, vanilla essence, cottage cheese, and almond milk. stir until smooth. 4. pour the batter into a lined or greased baking dish and spread evenly using the back of a spoon. 5. sprinkle the chocolate chips on top. 6. bake for 20 minutes, or until a knife inserted in the center comes out clean. for a fudgier texture, slightly underbake. 7. let cool slightly before slicing into 6 pretty portions. 8. enjoy warm or chilled! no+es: from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 5,
+    "totalTime": 15,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 360,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 14.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2215.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 180°C. I Tsp Vanilla Essence 1 Tsp Baking Powder 1 Tbsp Instant Coffee (Optional) I Tsp Salt LQF2Qing; 40g Chocolate Chips",
+      "In a bowl, mix the oats, protein powder, cocoa powder, baking powder, instant coffee (if using), salt, and sweetener.",
+      "Add the mashed banana, vanilla essence, cottage cheese, and almond milk. Stir until smooth.",
+      "Pour the batter into a lined or greased baking dish and spread evenly using the back of a spoon.",
+      "Sprinkle the chocolate chips on top.",
+      "Bake for 20 minutes, or until a knife inserted in the center comes out clean. For a fudgier texture, slightly underbake.",
+      "Let cool slightly before slicing into 6 pretty portions.",
+      "Enjoy warm or chilled!"
+    ]
+  },
+  {
+    "id": "strawberry_cheesecake_pancake_bowl_pancakes_but_no_flippin_required",
+    "name": "Strawberry Cheesecake Pancake Bowl Pancakes, But No Flippin' Required!",
+    "description": "Delicious, high-protein s t raw berry cheesecake pancake bowl pancakes, but no flippin' required! this beautiful bowl delivers a divine cakey texture with a creamy, tangy twist - like cheesecake and pancakes had a dessert baby the ultimate meal-prep-friendly brekkie that you can heat and eat all week long. prep: 10 mins total: 25 mins 1 serving calories 15 pinch salt spray & cook qpflqngliqppjng; protein carbs fat fibre 30 g 47 g ingredients 50g oats 15g whey protein powder (vanilla) 1 whole egg 60g unsweetened almond milk 60g fat-free smooth cottage cheese 100g chopped strawberries 2g powdered sweetener* 1/2 tsp vanilla essence 1/2 tsp baking powder h tsp cinnamon instructions i.preheat the oven or air fryer to 1800c. ioog double cream greek yoghurt ioog chopped strawberries additional macros: (129c / plog / c12g / f5g / fibre 2g) 2. in a blender, add all ingredients except the strawberries and blend until smooth. 3. lightly spray an oven-safe bowl with cooking spray. 4. pour the batter into the bowl. 5.add the chopped strawberries on top. 6. bake for 12-15 minutes, or until the center is firm. (for a thick cake batter texture, bake for only 10-12 minutes.) 7. (optional) top with greek yoghurt and chopped strawberries. 8. serve and enjoy! no+es: from the healthy recipe collection.",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "totalTime": 20,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "Low Calorie",
+      "Meal Prep Friendly"
+    ],
+    "calories": 360,
+    "protein": 24.0,
+    "carbs": 35.0,
+    "fat": 10.0,
+    "fiber": 30.0,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2216.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "oats",
+        "name": "47 g ingredients 50g oats 15g whey protein powder",
+        "amount": 30.0,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "In a blender or mixing bowl, combine oats/flour, protein powder, egg whites, and baking powder.",
+      "Blend until a smooth, pourable batter forms. Let rest for 2 minutes.",
+      "Heat a non-stick skillet over medium-low heat and lightly coat with cooking spray.",
+      "Pour 2-3 tablespoons of batter per pancake. Cook until bubbles form on top (about 2 minutes), then flip and cook for another minute.",
+      "Stack high, drizzle with sugar-free syrup or honey, and serve warm!"
+    ]
+  },
+  {
+    "id": "s_t_raw_berry_cheesecake_pancake_bowl_pancakes_but_no_flippin_required",
+    "name": "S T Raw Berry Cheesecake Pancake Bowl Pancakes, But No Flippin' Required!",
+    "description": "Nutritious, delicious s t raw berry cheesecake pancake bowl pancakes, but no flippin' required! with balanced macros and simple prep.",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "totalTime": 25,
+    "defaultPortions": 1,
+    "tags": [
+      "Cookbook Special",
+      "High Protein",
+      "Low Calorie",
+      "Quick & Easy",
+      "Meal Prep Friendly"
+    ],
+    "calories": 15,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 10,
+    "fiber": 30,
+    "estimatedCost": 35.0,
+    "sourcePage": "IMG_2216.HEIC",
+    "ingredients": [
+      {
+        "ingredientId": "rolled_oats",
+        "name": "Rolled Oats",
+        "amount": 50,
+        "unit": "g",
+        "storeSection": "grains",
+        "notes": ""
+      },
+      {
+        "ingredientId": "whey_protein_powder",
+        "name": "Whey Protein Powder",
+        "amount": 25,
+        "unit": "g",
+        "storeSection": "other",
+        "notes": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven or heat a non-stick pan over medium heat with cooking spray.",
+      "Mix measured ingredients together in a prep bowl or blender until well combined.",
+      "Cook or bake until thoroughly done, aromatic, and lightly golden.",
+      "Garnish with remaining toppings and enjoy immediately or pack for meal prep."
+    ]
+  }
+]

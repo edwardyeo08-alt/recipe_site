@@ -1,0 +1,126 @@
+{
+  "recipe_number": 221,
+  "title": "Sweet Chilli Nut Noodles",
+  "subtitle": "High Protein • Meal Prep Friendly",
+  "description": "Nutritious, delicious sweet chilli nut noodles with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 20,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Mixed Bell Peppers",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Mushroom & Soya Stir-Fry Sauce",
+      "quantity": 70,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "one onion ± 150g"
+    },
+    {
+      "name": "Pinch Salt",
+      "quantity": 1,
+      "unit": null,
+      "prep": "pinch"
+    },
+    {
+      "name": "Roasted Chilli Paste",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salt Cashews",
+      "quantity": 5,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 0.5,
+      "unit": null,
+      "prep": "one bunch = many units"
+    },
+    {
+      "name": "Cooking Spray",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Wholewheat Asian Noodle Nest",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Prepare all fresh ingredients and season the protein thoroughly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a cooking skillet or oven to appropriate temperature with light cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook the main protein over medium-high heat until nicely browned and cooked through."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 353.5,
+    "energy_kcal": 84.5,
+    "protein_g": 5.8,
+    "carbs_g": 11.4,
+    "sugars_g": 2.9,
+    "fibre_g": 1.6,
+    "fat_g": 1.8,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 250
+  },
+  "allergens": [
+    "Nuts",
+    "Soy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 469
+}

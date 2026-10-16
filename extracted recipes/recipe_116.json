@@ -139,5 +139,6 @@
   ],
   "chef_tip": "Black beans are a great source of fiber, protein and folate. Folate contributes to normal amino acid production and is necessary for normal blood formation.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 950
 }

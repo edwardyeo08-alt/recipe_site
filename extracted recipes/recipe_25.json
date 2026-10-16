@@ -144,5 +144,6 @@
   ],
   "chef_tip": "If you're feeling fancy, why not char the lemon wedges for plating? Pop them in a pan over high heat and fry for 1-2 minutes per side until charred.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 932
 }

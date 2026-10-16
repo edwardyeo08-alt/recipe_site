@@ -112,15 +112,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 546.0,
-    "energy_kcal": 131.0,
+    "energy_kj": 546,
+    "energy_kcal": 131,
     "protein_g": 8.9,
-    "carbs_g": 12.0,
+    "carbs_g": 12,
     "sugars_g": 1.7,
     "fibre_g": 1.8,
     "fat_g": 4.9,
     "saturated_fat_g": 1.6,
-    "sodium_mg": 105.0
+    "sodium_mg": 105
   },
   "allergens": [
     "Egg",
@@ -131,5 +131,6 @@
   ],
   "chef_tip": "Spinach is rich in vitamin K. This micronutrient is vital for wound healing, bone health, important cognitive functions, and lowering blood pressure. Add spinach to sauces or smoothies for vitamin K kick!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 743
 }

@@ -13,73 +13,73 @@
   "ingredients": [
     {
       "name": "Brown Basmati Rice",
-      "quantity": 150.0,
+      "quantity": 150,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Indian Butter Curry Paste",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Chickpeas",
-      "quantity": 240.0,
+      "quantity": 240,
       "unit": "g",
       "prep": "drained & rinsed"
     },
     {
       "name": "Flaked Almonds",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Onion",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "peeled & finely diced"
     },
     {
       "name": "Garlic Cloves",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "Cooked Chopped Tomato",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Poppadoms",
-      "quantity": 4.0,
+      "quantity": 4,
       "unit": null,
       "prep": null
     },
     {
       "name": "Coconut Cream",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Spinach",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": "rinsed & roughly shredded"
     },
     {
       "name": "Fresh Mint",
-      "quantity": 5.0,
+      "quantity": 5,
       "unit": "g",
       "prep": "rinsed, picked & roughly chopped"
     },
     {
       "name": "Spring Onions",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "finely sliced"
     }
@@ -123,15 +123,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 661.0,
-    "energy_kcal": 158.0,
+    "energy_kj": 661,
+    "energy_kcal": 158,
     "protein_g": 5.3,
-    "carbs_g": 20.0,
+    "carbs_g": 20,
     "sugars_g": 2.7,
     "fibre_g": 3.6,
     "fat_g": 5.9,
     "saturated_fat_g": 3.3,
-    "sodium_mg": 149.0
+    "sodium_mg": 149
   },
   "allergens": [
     "Allium",
@@ -140,5 +140,6 @@
   ],
   "chef_tip": "If you don't feel like frying the poppadoms, you can cook them in the microwave! Simply heat them one at a time in 10 second bursts. Do this until puffed up and crispy – about 30 seconds.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 881
 }

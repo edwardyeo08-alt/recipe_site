@@ -1,0 +1,90 @@
+{
+  "recipe_number": 245,
+  "title": "Gooey Brownie Baked Oats",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein gooey brownie baked oats this rich, chocolatey, fudgey baked oats is always on my menu! perfect for a meal prep, this brekkie oat bake makes 6 serves and it's just as good fresh out of the oven as it is straight from the fridge. [e prep: 5 mins k total: 25 mins 6 serving calories 9 protein carbs fat fibre 14g 23 g ingredients 120g rolled oats 60g whey protein powder (vanilla or chocolate) 40g cocoa powder 100g banana (mashed) ioog smooth fat-free cottage cheese 200g unsweetened almond milk 10g powdered sweetener* instructions 1. preheat the oven to 1800c. i tsp vanilla essence 1 tsp baking powder 1 tbsp instant coffee (optional) i tsp salt lqf2qing; 40g chocolate chips 2. in a bowl, mix the oats, protein powder, cocoa powder, baking powder, instant coffee (if using), salt, and sweetener. 3.add the mashed banana, vanilla essence, cottage cheese, and almond milk. stir until smooth. 4. pour the batter into a lined or greased baking dish and spread evenly using the back of a spoon. 5. sprinkle the chocolate chips on top. 6. bake for 20 minutes, or until a knife inserted in the center comes out clean. for a fudgier texture, slightly underbake. 7. let cool slightly before slicing into 6 pretty portions. 8. enjoy warm or chilled! no+es: from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 5,
+  "overall_time_minutes": 15,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whey Protein Powder",
+      "quantity": 25,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Preheat the oven to 180°C. I Tsp Vanilla Essence 1 Tsp Baking Powder 1 Tbsp Instant Coffee (Optional) I Tsp Salt LQF2Qing; 40g Chocolate Chips"
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "In a bowl, mix the oats, protein powder, cocoa powder, baking powder, instant coffee (if using), salt, and sweetener."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Add the mashed banana, vanilla essence, cottage cheese, and almond milk. Stir until smooth."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Pour the batter into a lined or greased baking dish and spread evenly using the back of a spoon."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Sprinkle the chocolate chips on top."
+    },
+    {
+      "step": 6,
+      "title": "",
+      "text": "Bake for 20 minutes, or until a knife inserted in the center comes out clean. For a fudgier texture, slightly underbake."
+    },
+    {
+      "step": 7,
+      "title": "",
+      "text": "Let cool slightly before slicing into 6 pretty portions."
+    },
+    {
+      "step": 8,
+      "title": "",
+      "text": "Enjoy warm or chilled!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 502.1,
+    "energy_kcal": 120,
+    "protein_g": 8,
+    "carbs_g": 11.7,
+    "sugars_g": 2.9,
+    "fibre_g": 4.7,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 135
+  },
+  "allergens": [],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 360
+}

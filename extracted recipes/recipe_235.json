@@ -1,0 +1,80 @@
+{
+  "recipe_number": 235,
+  "title": "Beautiful Brekkie Bun",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein beautiful brekkie bun the perfect balance of wholesome and treat-y! like a drive-thru fave, but way better. this brekkie bun brings crispy bacon. a perfectly cooked egg, fresh tomato. and creamy cottage cheese, all tucked into a toasted seeded roll. q [b prep: 10 mins total: 10 mins 1 serving (9 gf*, calories 279 protein carbs fibre 21 g 23 g ingredients i whole large egg 50g round cut bacon 1 small seeded roll (50g) 15g fat-free cottage cheese 60g tomato 20g baby spinach ebtb seasoning salt & pepper instructions i. heat a medium pan and lightly spray with cooking spray. 2. slice the tomato and cut the seeded roll in half. 3.add the bacon and egg to the pan. cook the bacon until crispy and the egg to your preferred doneness. remove from the pan and set aside. 4. spread the cottage cheese on each half of the roll. 5. layer the sliced tomato, spinach, crispy bacon, and egg onto the roll. 6.season with ebtb seasoning and salt & pepper, close it up, and enjoy! no}es: meal prep friendly x tried it freezer friendly x from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 10,
+  "overall_time_minutes": 20,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whey Protein Powder",
+      "quantity": 25,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Heat a medium pan and lightly spray with cooking spray."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Slice the tomato and cut the seeded roll in half."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Add the bacon and egg to the pan. Cook the bacon until crispy and the egg to your preferred doneness. Remove from the pan and set aside."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Spread the cottage cheese on each half of the roll."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Layer the sliced tomato, spinach, crispy bacon, and egg onto the roll."
+    },
+    {
+      "step": 6,
+      "title": "",
+      "text": "Season with EBTB seasoning and salt & pepper, close it up, and enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 389.1,
+    "energy_kcal": 93,
+    "protein_g": 8,
+    "carbs_g": 11.7,
+    "sugars_g": 2.9,
+    "fibre_g": 7,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 135
+  },
+  "allergens": [],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 279
+}

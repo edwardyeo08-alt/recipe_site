@@ -111,15 +111,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 621.0,
-    "energy_kcal": 148.0,
-    "protein_g": 7.0,
-    "carbs_g": 14.0,
+    "energy_kj": 621,
+    "energy_kcal": 148,
+    "protein_g": 7,
+    "carbs_g": 14,
     "sugars_g": 3.8,
     "fibre_g": 3.3,
     "fat_g": 6.6,
     "saturated_fat_g": 3.7,
-    "sodium_mg": 371.0
+    "sodium_mg": 371
   },
   "allergens": [
     "Dairy",
@@ -129,5 +129,6 @@
   ],
   "chef_tip": "To make the salad dressing, place the ingredients in a clean jar, close the lid up tight, and shake, shake, shake! Using a jar emulsifies the dressing much more successfully than just mixing it in a bowl!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 820
 }

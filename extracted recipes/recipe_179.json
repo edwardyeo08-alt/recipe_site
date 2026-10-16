@@ -129,5 +129,6 @@
   ],
   "chef_tip": "You can use a wok for this recipe if you have one. The best things about wok are that they distribute heat more evenly and require less oil. It also ensures that food tossed during stir frying lands back in the pan and not all over the stove!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 456
 }

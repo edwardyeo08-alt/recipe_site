@@ -1,0 +1,138 @@
+{
+  "recipe_number": 222,
+  "title": "Thai Green Prawn Curry",
+  "subtitle": "High Protein • Meal Prep Friendly",
+  "description": "Nutritious, delicious thai green prawn curry with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 20,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Baby Corn",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Baby Marrow",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Coriander",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Everything Bagel Seasoning",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Green Thai Curry Paste",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "one onion ± 150g"
+    },
+    {
+      "name": "Prawn Meat",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Reduced Fat Coconut Milk",
+      "quantity": 150,
+      "unit": "g",
+      "prep": "1g ± 1ml"
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Snap Peas",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cooking Spray",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "White Basmati Rice",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Cut the chicken breasts into bite-sized pieces and season with curry powder, cumin, turmeric, and salt."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a deep skillet or pot over medium heat. Sear the chicken pieces until lightly browned on all sides."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Add diced aromatics (onion, garlic, ginger) and saute until fragrant."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Stir in the tomato puree, light coconut milk or yoghurt, and simmer gently for 10-12 minutes until chicken is tender."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Serve hot over basmati rice or with warmed roti, garnished with fresh coriander."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 227.6,
+    "energy_kcal": 54.4,
+    "protein_g": 3.7,
+    "carbs_g": 5.5,
+    "sugars_g": 1.4,
+    "fibre_g": 0.5,
+    "fat_g": 1.9,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 351
+  },
+  "allergens": [
+    "Dairy",
+    "Fish & Seafood"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 424
+}

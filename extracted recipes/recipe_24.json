@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 488.0,
-    "energy_kcal": 117.0,
+    "energy_kj": 488,
+    "energy_kcal": 117,
     "protein_g": 6.1,
-    "carbs_g": 9.0,
+    "carbs_g": 9,
     "sugars_g": 3.1,
     "fibre_g": 2.5,
     "fat_g": 5.5,
     "saturated_fat_g": 1.5,
-    "sodium_mg": 128.0
+    "sodium_mg": 128
   },
   "allergens": [
     "Dairy",
@@ -135,5 +135,6 @@
   ],
   "chef_tip": "Air fryer method: Coat the sweet potato in oil and season. Air fry at 200°C for 15-20 minutes or until cooked through and crispy.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 679
 }

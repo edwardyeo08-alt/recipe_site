@@ -13,73 +13,73 @@
   "ingredients": [
     {
       "name": "Corn",
-      "quantity": 100.0,
+      "quantity": 100,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Avocado",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": null
     },
     {
       "name": "Lemon",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "cut into wedges"
     },
     {
       "name": "Free-range Chicken Breasts",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": null
     },
     {
       "name": "NOMU Mexican Spice Blend",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Tomato",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "roughly diced"
     },
     {
       "name": "Black Beans",
-      "quantity": 120.0,
+      "quantity": 120,
       "unit": "g",
       "prep": "drained & rinsed"
     },
     {
       "name": "Pickled Bell Peppers",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": "drained & roughly chopped"
     },
     {
       "name": "Red Onion",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "½ peeled & roughly diced"
     },
     {
       "name": "Fresh Coriander",
-      "quantity": 8.0,
+      "quantity": 8,
       "unit": "g",
       "prep": "rinsed & picked"
     },
     {
       "name": "Sour Cream",
-      "quantity": 60.0,
+      "quantity": 60,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Heirloom Corn Nachos",
-      "quantity": 160.0,
+      "quantity": 160,
       "unit": "g",
       "prep": null
     }
@@ -120,15 +120,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 656.0,
-    "energy_kcal": 157.0,
+    "energy_kj": 656,
+    "energy_kcal": 157,
     "protein_g": 6.5,
-    "carbs_g": 14.0,
+    "carbs_g": 14,
     "sugars_g": 2.5,
     "fibre_g": 3.2,
     "fat_g": 8.7,
     "saturated_fat_g": 1.8,
-    "sodium_mg": 212.0
+    "sodium_mg": 212
   },
   "allergens": [
     "Dairy",
@@ -137,5 +137,6 @@
   ],
   "chef_tip": "If you have some extra time, shred the chicken after it has been cooked and toss it through the salsa!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 634
 }

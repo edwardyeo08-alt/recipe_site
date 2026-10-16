@@ -13,55 +13,55 @@
   "ingredients": [
     {
       "name": "Pumpkin Seeds",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Garlic Clove",
-      "quantity": 4.0,
+      "quantity": 4,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "Rainbow Baby Tomato Medley",
-      "quantity": 600.0,
+      "quantity": 600,
       "unit": "g",
       "prep": "rinsed"
     },
     {
       "name": "Mild Piquanté Peppers",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": "drained & roughly chopped"
     },
     {
       "name": "Spinach & Ricotta Ravioli",
-      "quantity": 700.0,
+      "quantity": 700,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Fresh Basil",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": "rinsed, picked & gently shredded"
     },
     {
       "name": "Bocconcini Balls",
-      "quantity": 16.0,
+      "quantity": 16,
       "unit": null,
       "prep": "drained & halved"
     },
     {
       "name": "Rocket & Baby Spinach Mix",
-      "quantity": 80.0,
+      "quantity": 80,
       "unit": "g",
       "prep": "rinsed"
     },
     {
       "name": "Balsamic Glaze",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "ml",
       "prep": null
     }
@@ -105,15 +105,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 608.0,
-    "energy_kcal": 145.0,
+    "energy_kj": 608,
+    "energy_kcal": 145,
     "protein_g": 6.7,
-    "carbs_g": 17.0,
+    "carbs_g": 17,
     "sugars_g": 4.9,
     "fibre_g": 2.2,
     "fat_g": 4.5,
     "saturated_fat_g": 2.6,
-    "sodium_mg": 216.0
+    "sodium_mg": 216
   },
   "allergens": [
     "Egg",
@@ -125,5 +125,6 @@
   ],
   "chef_tip": "Boil the ravioli in batches to prevent crowding the pot and overcooking.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 653
 }

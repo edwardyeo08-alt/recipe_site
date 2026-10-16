@@ -101,15 +101,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 481.0,
-    "energy_kcal": 115.0,
+    "energy_kj": 481,
+    "energy_kcal": 115,
     "protein_g": 7.4,
-    "carbs_g": 10.0,
+    "carbs_g": 10,
     "sugars_g": 4.1,
     "fibre_g": 1.5,
     "fat_g": 2.9,
     "saturated_fat_g": 0.7,
-    "sodium_mg": 3.0
+    "sodium_mg": 3
   },
   "allergens": [
     "Gluten",
@@ -123,5 +123,6 @@
   ],
   "chef_tip": "If you want to toast your sesame seeds, place in a pan and toast for 2-4 minutes until the white ones are lightly browned.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 677
 }

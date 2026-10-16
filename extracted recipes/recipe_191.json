@@ -108,15 +108,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 824.0,
-    "energy_kcal": 197.0,
-    "protein_g": 8.0,
-    "carbs_g": 18.0,
+    "energy_kj": 824,
+    "energy_kcal": 197,
+    "protein_g": 8,
+    "carbs_g": 18,
     "sugars_g": 3.7,
     "fibre_g": 1.4,
     "fat_g": 7.3,
     "saturated_fat_g": 2.1,
-    "sodium_mg": 213.0
+    "sodium_mg": 213
   },
   "allergens": [
     "Egg",
@@ -129,5 +129,6 @@
   ],
   "chef_tip": "If you're having trouble flipping the pancake, cover the pan with a plate. Flip the pan quickly, so the pancake flips onto the plate. Slide back into the pan.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 1500
 }

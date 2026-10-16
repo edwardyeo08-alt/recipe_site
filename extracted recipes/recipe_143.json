@@ -120,5 +120,6 @@
   ],
   "chef_tip": "Cooking pasta in salted water allows it to absorb the salt, enhancing its flavour, because the salt is dispersed throughout the dish and not just on the surface of the pasta, so you get a better end result!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 830
 }

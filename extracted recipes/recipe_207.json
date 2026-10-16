@@ -1,0 +1,119 @@
+{
+  "recipe_number": 207,
+  "title": "Dreamy Spaghetti Bolognese",
+  "subtitle": "High Protein • Meal Prep Friendly",
+  "description": "Nutritious, delicious dreamy spaghetti bolognese with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 20,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Extra Lean Beef Mince",
+      "quantity": 125,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "one onion ± 150g"
+    },
+    {
+      "name": "Paprika",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Parmesan Cheese",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Tomato & Basil Pasta Sauce",
+      "quantity": 75,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Wholewheat Asian Noodle Nest",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Boil a large pot of salted water and cook the pasta according to package directions until al dente."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "In a separate skillet, brown the protein with minced garlic and herbs over medium heat."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Stir in the sauce and diced vegetables, allowing the flavours to simmer together for 8-10 minutes."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Toss the drained pasta directly into the sauce so every strand is evenly coated."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Garnish with grated parmesan or fresh herbs and divide evenly into meal prep bowls."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 463.6,
+    "energy_kcal": 110.8,
+    "protein_g": 8.8,
+    "carbs_g": 13.3,
+    "sugars_g": 3.3,
+    "fibre_g": 2.5,
+    "fat_g": 2.5,
+    "saturated_fat_g": 0.7,
+    "sodium_mg": 179
+  },
+  "allergens": [
+    "Dairy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 441
+}

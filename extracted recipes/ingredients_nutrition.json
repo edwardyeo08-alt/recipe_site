@@ -1,7 +1,7 @@
 [
   {
     "name": "Almond Flour",
-    "category": "Nuts & Seeds",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -18,7 +18,7 @@
   },
   {
     "name": "Almonds",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 579,
     "energy_kj": 2422.5,
@@ -35,7 +35,7 @@
   },
   {
     "name": "Anchovy Pieces",
-    "category": "Fish & Seafood",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 210,
     "energy_kj": 878.6,
@@ -52,7 +52,7 @@
   },
   {
     "name": "Apple",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 52,
     "energy_kj": 217.6,
@@ -69,7 +69,7 @@
   },
   {
     "name": "Apples",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 52,
     "energy_kj": 217.6,
@@ -86,7 +86,7 @@
   },
   {
     "name": "Arborio Rice",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -103,7 +103,7 @@
   },
   {
     "name": "Artichoke Hearts",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -120,7 +120,7 @@
   },
   {
     "name": "Artichoke Quarters",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -137,7 +137,7 @@
   },
   {
     "name": "Asian BBQ Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -154,7 +154,7 @@
   },
   {
     "name": "Asian Marinade",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -171,7 +171,7 @@
   },
   {
     "name": "Asian-Style Slaw Mix",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 28,
     "energy_kj": 117.2,
@@ -188,7 +188,7 @@
   },
   {
     "name": "Aubergine",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -205,7 +205,7 @@
   },
   {
     "name": "Avocado",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 160,
     "energy_kj": 669.4,
@@ -222,7 +222,7 @@
   },
   {
     "name": "Avocado Hummus",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -239,7 +239,7 @@
   },
   {
     "name": "Avocados",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 160,
     "energy_kj": 669.4,
@@ -256,7 +256,7 @@
   },
   {
     "name": "Baby Carrot Medley",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 38,
     "energy_kj": 159,
@@ -273,7 +273,7 @@
   },
   {
     "name": "Baby Marrow",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 17,
     "energy_kj": 71.1,
@@ -290,7 +290,7 @@
   },
   {
     "name": "Baby Onions",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 40,
     "energy_kj": 167.4,
@@ -307,7 +307,7 @@
   },
   {
     "name": "Baby Potatoes",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 77,
     "energy_kj": 322.2,
@@ -324,7 +324,7 @@
   },
   {
     "name": "Baby Spinach",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 23,
     "energy_kj": 96.2,
@@ -341,7 +341,7 @@
   },
   {
     "name": "Baby Tomato Medley",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 22,
     "energy_kj": 92,
@@ -358,7 +358,7 @@
   },
   {
     "name": "Baby Tomatoes",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 22,
     "energy_kj": 92,
@@ -375,7 +375,7 @@
   },
   {
     "name": "Balsamic Glaze",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -392,7 +392,7 @@
   },
   {
     "name": "Balsamic Reduction",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -409,7 +409,7 @@
   },
   {
     "name": "Balsamic Vinegar",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 88,
     "energy_kj": 368.2,
@@ -426,7 +426,7 @@
   },
   {
     "name": "Basa Fillet",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 95,
     "energy_kj": 397.5,
@@ -443,7 +443,7 @@
   },
   {
     "name": "Basa Fillets",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 95,
     "energy_kj": 397.5,
@@ -460,7 +460,7 @@
   },
   {
     "name": "Basil Pesto Mayo",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -477,7 +477,7 @@
   },
   {
     "name": "BBQ Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -494,7 +494,7 @@
   },
   {
     "name": "Beef Mince",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 215,
     "energy_kj": 899.6,
@@ -511,7 +511,7 @@
   },
   {
     "name": "Beef Schnitzel",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 210,
     "energy_kj": 878.6,
@@ -528,7 +528,7 @@
   },
   {
     "name": "Beef Schnitzel (without crumb)",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 190,
     "energy_kj": 795,
@@ -545,7 +545,7 @@
   },
   {
     "name": "Beef Stock",
-    "category": "Soups & Stocks",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 15,
     "energy_kj": 62.8,
@@ -562,7 +562,7 @@
   },
   {
     "name": "Beetroot",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -579,7 +579,7 @@
   },
   {
     "name": "Beetroot Chunks",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -596,7 +596,7 @@
   },
   {
     "name": "BIO XXI Gluten-free Multigrain Fettuccine",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 280,
     "energy_kj": 1171.5,
@@ -613,7 +613,7 @@
   },
   {
     "name": "Black Beans",
-    "category": "Legumes",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 120,
     "energy_kj": 502.1,
@@ -630,7 +630,7 @@
   },
   {
     "name": "Black Rice",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 340,
     "energy_kj": 1422.6,
@@ -647,7 +647,7 @@
   },
   {
     "name": "Black Sesame Seeds",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 573,
     "energy_kj": 2397.4,
@@ -664,7 +664,7 @@
   },
   {
     "name": "Bocconcini Balls",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -681,7 +681,7 @@
   },
   {
     "name": "Brandy",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -698,7 +698,7 @@
   },
   {
     "name": "Broccoli",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 34,
     "energy_kj": 142.3,
@@ -715,7 +715,7 @@
   },
   {
     "name": "Broccoli Florets",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 34,
     "energy_kj": 142.3,
@@ -732,7 +732,7 @@
   },
   {
     "name": "Brown Basmati Rice",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 345,
     "energy_kj": 1443.5,
@@ -749,7 +749,7 @@
   },
   {
     "name": "Brown Rice",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -766,7 +766,7 @@
   },
   {
     "name": "Bulgur & Stock Mix",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -783,7 +783,7 @@
   },
   {
     "name": "Bulgur Wheat",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 342,
     "energy_kj": 1430.9,
@@ -800,7 +800,7 @@
   },
   {
     "name": "Bulgur Wheat & Vegetable Stock",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -817,7 +817,7 @@
   },
   {
     "name": "Butter Beans",
-    "category": "Legumes",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 120,
     "energy_kj": 502.1,
@@ -834,7 +834,7 @@
   },
   {
     "name": "Butter Chicken Curry Paste",
-    "category": "Poultry",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 140,
     "energy_kj": 585.8,
@@ -851,7 +851,7 @@
   },
   {
     "name": "Butter Lettuce",
-    "category": "Produce",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -868,7 +868,7 @@
   },
   {
     "name": "Butternut",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -885,7 +885,7 @@
   },
   {
     "name": "Butternut & Ricotta Ravioli",
-    "category": "Dairy",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -902,7 +902,7 @@
   },
   {
     "name": "Butternut Chunks",
-    "category": "Produce",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -919,7 +919,7 @@
   },
   {
     "name": "Butternut Chunks & Cauliflower Florets",
-    "category": "Nuts & Seeds",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -936,7 +936,7 @@
   },
   {
     "name": "Butternut Gnocchi",
-    "category": "Pasta & Grains",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 280,
     "energy_kj": 1171.5,
@@ -953,7 +953,7 @@
   },
   {
     "name": "Button Mushrooms",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -970,7 +970,7 @@
   },
   {
     "name": "Cabbage",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -987,7 +987,7 @@
   },
   {
     "name": "Cabbage & Julienne Carrot",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -1004,7 +1004,7 @@
   },
   {
     "name": "Cabernet Sauvignon Balsamic Vinegar",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 22,
     "energy_kj": 92,
@@ -1021,7 +1021,7 @@
   },
   {
     "name": "Cabernet Sauvignon Vinegar",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 22,
     "energy_kj": 92,
@@ -1038,7 +1038,7 @@
   },
   {
     "name": "Cajun Spice",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -1055,7 +1055,7 @@
   },
   {
     "name": "Cake Flour",
-    "category": "Produce",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1072,7 +1072,7 @@
   },
   {
     "name": "Camembert",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 300,
     "energy_kj": 1255.2,
@@ -1089,7 +1089,7 @@
   },
   {
     "name": "Cannellini Beans",
-    "category": "Legumes",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 120,
     "energy_kj": 502.1,
@@ -1106,7 +1106,7 @@
   },
   {
     "name": "Cape Herb & Spice Thai 7 Spice",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -1123,7 +1123,7 @@
   },
   {
     "name": "Capers",
-    "category": "Pantry",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 23,
     "energy_kj": 96.2,
@@ -1140,7 +1140,7 @@
   },
   {
     "name": "CarbSmart BBQ Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -1157,7 +1157,7 @@
   },
   {
     "name": "Carrot",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 41,
     "energy_kj": 171.5,
@@ -1174,7 +1174,7 @@
   },
   {
     "name": "Carrots",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 41,
     "energy_kj": 171.5,
@@ -1191,7 +1191,7 @@
   },
   {
     "name": "Cashew Cream Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -1208,7 +1208,7 @@
   },
   {
     "name": "Cashew Nut",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "Cashew Nut Cream Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -1242,7 +1242,7 @@
   },
   {
     "name": "Cashew Nut Pieces",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -1259,7 +1259,7 @@
   },
   {
     "name": "Cashew Nuts",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 553,
     "energy_kj": 2313.8,
@@ -1276,7 +1276,7 @@
   },
   {
     "name": "Cauliflower Florets",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -1293,7 +1293,7 @@
   },
   {
     "name": "Cheese Mix",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -1310,7 +1310,7 @@
   },
   {
     "name": "Cheesy Crumb",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1327,7 +1327,7 @@
   },
   {
     "name": "Chevin Goat's Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -1344,7 +1344,7 @@
   },
   {
     "name": "Chicken Stock",
-    "category": "Soups & Stocks",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 15,
     "energy_kj": 62.8,
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "Chickpeas",
-    "category": "Legumes",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 120,
     "energy_kj": 502.1,
@@ -1378,7 +1378,7 @@
   },
   {
     "name": "Chillies",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1395,7 +1395,7 @@
   },
   {
     "name": "Chinese 5-Spice",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -1412,7 +1412,7 @@
   },
   {
     "name": "Chipotle Chillies in Adobo",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1429,7 +1429,7 @@
   },
   {
     "name": "Chipotle in Adobo Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -1446,7 +1446,7 @@
   },
   {
     "name": "Chives",
-    "category": "Fresh Herbs",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 35,
     "energy_kj": 146.4,
@@ -1463,7 +1463,7 @@
   },
   {
     "name": "Clarks Kitchen Bourbon BBQ Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -1480,7 +1480,7 @@
   },
   {
     "name": "Cocktail Rotis",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -1497,7 +1497,7 @@
   },
   {
     "name": "Coconut Cream",
-    "category": "Canned Goods",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 230,
     "energy_kj": 962.3,
@@ -1514,7 +1514,7 @@
   },
   {
     "name": "Coconut Milk",
-    "category": "Canned Goods",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 195,
     "energy_kj": 815.9,
@@ -1531,7 +1531,7 @@
   },
   {
     "name": "Coconut Yoghurt",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 80,
     "energy_kj": 334.7,
@@ -1548,7 +1548,7 @@
   },
   {
     "name": "Conchiglie Pasta",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 280,
     "energy_kj": 1171.5,
@@ -1565,7 +1565,7 @@
   },
   {
     "name": "Cooked Chopped Tomato",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1582,7 +1582,7 @@
   },
   {
     "name": "Cooked Chopped Tomatoes",
-    "category": "Pantry",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 24,
     "energy_kj": 100.4,
@@ -1599,7 +1599,7 @@
   },
   {
     "name": "Cooksister Sosatie Marinade",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -1616,7 +1616,7 @@
   },
   {
     "name": "Corn",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 86,
     "energy_kj": 359.8,
@@ -1633,7 +1633,7 @@
   },
   {
     "name": "Corn Nachos",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1650,7 +1650,7 @@
   },
   {
     "name": "Corn On The Cob",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 86,
     "energy_kj": 359.8,
@@ -1667,7 +1667,7 @@
   },
   {
     "name": "Corn Tortilla",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -1684,7 +1684,7 @@
   },
   {
     "name": "Corn Tortillas",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 218,
     "energy_kj": 912.1,
@@ -1701,7 +1701,7 @@
   },
   {
     "name": "Cornflour",
-    "category": "Produce",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1718,7 +1718,7 @@
   },
   {
     "name": "Cos Lettuce",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -1735,7 +1735,7 @@
   },
   {
     "name": "Cremè Fraîche",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1752,7 +1752,7 @@
   },
   {
     "name": "Crème Fraîche",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 300,
     "energy_kj": 1255.2,
@@ -1769,7 +1769,7 @@
   },
   {
     "name": "Crispy Onions",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1786,7 +1786,7 @@
   },
   {
     "name": "Crushed Black Peppercorns",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1803,7 +1803,7 @@
   },
   {
     "name": "Cucumber",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 15,
     "energy_kj": 62.8,
@@ -1820,7 +1820,7 @@
   },
   {
     "name": "Cucumber Raita",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1837,7 +1837,7 @@
   },
   {
     "name": "Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -1854,7 +1854,7 @@
   },
   {
     "name": "Danish-style Feta",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -1871,7 +1871,7 @@
   },
   {
     "name": "Danish-Style Feta",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -1888,7 +1888,7 @@
   },
   {
     "name": "De-alcoholised Red Wine",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1905,7 +1905,7 @@
   },
   {
     "name": "De-alcoholised White Wine",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1922,7 +1922,7 @@
   },
   {
     "name": "Deboned Lamb Leg",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 210,
     "energy_kj": 878.6,
@@ -1939,7 +1939,7 @@
   },
   {
     "name": "Desiccated Coconut",
-    "category": "Nuts & Seeds",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -1956,7 +1956,7 @@
   },
   {
     "name": "Diced Piquanté Peppers",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1973,7 +1973,7 @@
   },
   {
     "name": "Dijon & Lemon",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -1990,7 +1990,7 @@
   },
   {
     "name": "Dijon Dressing",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -2007,7 +2007,7 @@
   },
   {
     "name": "Dijon Mustard",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 130,
     "energy_kj": 543.9,
@@ -2024,7 +2024,7 @@
   },
   {
     "name": "Dorado Fillets",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 110,
     "energy_kj": 460.2,
@@ -2041,7 +2041,7 @@
   },
   {
     "name": "Double Cream Yoghurt",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 80,
     "energy_kj": 334.7,
@@ -2058,7 +2058,7 @@
   },
   {
     "name": "Dried Apricots",
-    "category": "Dried Fruits",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 300,
     "energy_kj": 1255.2,
@@ -2075,7 +2075,7 @@
   },
   {
     "name": "Dried Chilli Flakes",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -2092,7 +2092,7 @@
   },
   {
     "name": "Dried Cranberries",
-    "category": "Dried Fruits",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 300,
     "energy_kj": 1255.2,
@@ -2109,7 +2109,7 @@
   },
   {
     "name": "Dried Tarragon",
-    "category": "Fresh Herbs",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 35,
     "energy_kj": 146.4,
@@ -2126,7 +2126,7 @@
   },
   {
     "name": "Dukkah",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -2143,7 +2143,7 @@
   },
   {
     "name": "Edamame Beans",
-    "category": "Legumes",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 120,
     "energy_kj": 502.1,
@@ -2160,7 +2160,7 @@
   },
   {
     "name": "Egg Noodles",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 380,
     "energy_kj": 1589.9,
@@ -2177,7 +2177,7 @@
   },
   {
     "name": "Emmental Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -2194,7 +2194,7 @@
   },
   {
     "name": "Flaked Almonds",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 579,
     "energy_kj": 2422.5,
@@ -2211,7 +2211,7 @@
   },
   {
     "name": "Flat Rice Noodles",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -2228,7 +2228,7 @@
   },
   {
     "name": "Flatbreads",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -2245,7 +2245,7 @@
   },
   {
     "name": "Free-Range Beef Biltong",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 280,
     "energy_kj": 1171.5,
@@ -2262,7 +2262,7 @@
   },
   {
     "name": "Free-range Beef Fillet",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -2279,7 +2279,7 @@
   },
   {
     "name": "Free-Range Beef Fillet",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -2296,7 +2296,7 @@
   },
   {
     "name": "Free-range Beef Mince",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 215,
     "energy_kj": 899.6,
@@ -2313,7 +2313,7 @@
   },
   {
     "name": "Free-Range Beef Mince",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 215,
     "energy_kj": 899.6,
@@ -2330,7 +2330,7 @@
   },
   {
     "name": "Free-range Beef Rump",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 195,
     "energy_kj": 815.9,
@@ -2347,7 +2347,7 @@
   },
   {
     "name": "Free-Range Beef Rump",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 195,
     "energy_kj": 815.9,
@@ -2364,7 +2364,7 @@
   },
   {
     "name": "Free-range Beef Rump Strips",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 195,
     "energy_kj": 815.9,
@@ -2381,7 +2381,7 @@
   },
   {
     "name": "Free-range Beef Schnitzel",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 210,
     "energy_kj": 878.6,
@@ -2398,7 +2398,7 @@
   },
   {
     "name": "Free-range Beef Sirloin",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 205,
     "energy_kj": 857.7,
@@ -2415,7 +2415,7 @@
   },
   {
     "name": "Free-range Beef Strips",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 195,
     "energy_kj": 815.9,
@@ -2432,7 +2432,7 @@
   },
   {
     "name": "Free-Range Beef Strips",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 195,
     "energy_kj": 815.9,
@@ -2449,7 +2449,7 @@
   },
   {
     "name": "Free-range Chicken Breasts",
-    "category": "Poultry",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 120,
     "energy_kj": 502.1,
@@ -2466,7 +2466,7 @@
   },
   {
     "name": "Free-Range Chicken Breasts",
-    "category": "Poultry",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 120,
     "energy_kj": 502.1,
@@ -2483,7 +2483,7 @@
   },
   {
     "name": "Free-range Chicken Mince",
-    "category": "Poultry",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 170,
     "energy_kj": 711.3,
@@ -2500,7 +2500,7 @@
   },
   {
     "name": "Free-range Chicken Mini Fillets",
-    "category": "Poultry",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 120,
     "energy_kj": 502.1,
@@ -2517,7 +2517,7 @@
   },
   {
     "name": "Free-Range Chicken Mini Fillets",
-    "category": "Poultry",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 120,
     "energy_kj": 502.1,
@@ -2534,7 +2534,7 @@
   },
   {
     "name": "Free-range Chicken Pieces",
-    "category": "Poultry",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -2551,7 +2551,7 @@
   },
   {
     "name": "Free-Range Chicken Pieces",
-    "category": "Poultry",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -2568,7 +2568,7 @@
   },
   {
     "name": "Free-Range Deboned Lamb Leg",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 210,
     "energy_kj": 878.6,
@@ -2585,7 +2585,7 @@
   },
   {
     "name": "Free-range Duck Breasts",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 230,
     "energy_kj": 962.3,
@@ -2602,7 +2602,7 @@
   },
   {
     "name": "Free-range Lamb",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -2619,7 +2619,7 @@
   },
   {
     "name": "Free-range Lamb Chunks",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 230,
     "energy_kj": 962.3,
@@ -2636,7 +2636,7 @@
   },
   {
     "name": "Free-range Lamb Goulash",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 230,
     "energy_kj": 962.3,
@@ -2653,7 +2653,7 @@
   },
   {
     "name": "Free-range Lamb Leg",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 210,
     "energy_kj": 878.6,
@@ -2670,7 +2670,7 @@
   },
   {
     "name": "Free-range Lamb Mince",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 250,
     "energy_kj": 1046,
@@ -2687,7 +2687,7 @@
   },
   {
     "name": "Free-range Lamb Rump",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 215,
     "energy_kj": 899.6,
@@ -2704,7 +2704,7 @@
   },
   {
     "name": "Free-range Lamb Rump Steak",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 215,
     "energy_kj": 899.6,
@@ -2721,7 +2721,7 @@
   },
   {
     "name": "Free-range Lamb Shoulder",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 245,
     "energy_kj": 1025.1,
@@ -2738,7 +2738,7 @@
   },
   {
     "name": "Free-Range Lamb Shoulder",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 245,
     "energy_kj": 1025.1,
@@ -2755,7 +2755,7 @@
   },
   {
     "name": "Free-range Lamb Shoulder Cubes",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 245,
     "energy_kj": 1025.1,
@@ -2772,7 +2772,7 @@
   },
   {
     "name": "Free-Range Ostrich Fillet",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 140,
     "energy_kj": 585.8,
@@ -2789,7 +2789,7 @@
   },
   {
     "name": "Free-Range Ostrich Mince",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 155,
     "energy_kj": 648.5,
@@ -2806,7 +2806,7 @@
   },
   {
     "name": "Fresh Basil",
-    "category": "Fresh Herbs",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 23,
     "energy_kj": 96.2,
@@ -2823,7 +2823,7 @@
   },
   {
     "name": "Fresh Chilli",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 40,
     "energy_kj": 167.4,
@@ -2840,7 +2840,7 @@
   },
   {
     "name": "Fresh Chillies",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -2857,7 +2857,7 @@
   },
   {
     "name": "Fresh Chives",
-    "category": "Fresh Herbs",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 35,
     "energy_kj": 146.4,
@@ -2874,7 +2874,7 @@
   },
   {
     "name": "Fresh Coriander",
-    "category": "Fresh Herbs",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 23,
     "energy_kj": 96.2,
@@ -2891,7 +2891,7 @@
   },
   {
     "name": "Fresh Cream",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -2908,7 +2908,7 @@
   },
   {
     "name": "Fresh Dill",
-    "category": "Fresh Herbs",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 35,
     "energy_kj": 146.4,
@@ -2925,7 +2925,7 @@
   },
   {
     "name": "Fresh Ginger",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 80,
     "energy_kj": 334.7,
@@ -2942,7 +2942,7 @@
   },
   {
     "name": "Fresh Linguine Pasta",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 280,
     "energy_kj": 1171.5,
@@ -2959,7 +2959,7 @@
   },
   {
     "name": "Fresh Milk",
-    "category": "Produce",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -2976,7 +2976,7 @@
   },
   {
     "name": "Fresh Mint",
-    "category": "Fresh Herbs",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 44,
     "energy_kj": 184.1,
@@ -2993,7 +2993,7 @@
   },
   {
     "name": "Fresh Oregano",
-    "category": "Fresh Herbs",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 68,
     "energy_kj": 284.5,
@@ -3010,7 +3010,7 @@
   },
   {
     "name": "Fresh Parsley",
-    "category": "Fresh Herbs",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 36,
     "energy_kj": 150.6,
@@ -3027,7 +3027,7 @@
   },
   {
     "name": "Fresh Rosemary",
-    "category": "Fresh Herbs",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 131,
     "energy_kj": 548.1,
@@ -3044,7 +3044,7 @@
   },
   {
     "name": "Fresh Sage",
-    "category": "Fresh Herbs",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 115,
     "energy_kj": 481.2,
@@ -3061,7 +3061,7 @@
   },
   {
     "name": "Fresh Tagliatelle Pasta",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 280,
     "energy_kj": 1171.5,
@@ -3078,7 +3078,7 @@
   },
   {
     "name": "Fresh Thyme",
-    "category": "Fresh Herbs",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 101,
     "energy_kj": 422.6,
@@ -3095,7 +3095,7 @@
   },
   {
     "name": "Garlic Clove",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 149,
     "energy_kj": 623.4,
@@ -3112,7 +3112,7 @@
   },
   {
     "name": "Garlic Cloves",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3129,7 +3129,7 @@
   },
   {
     "name": "Gem Squash",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3146,7 +3146,7 @@
   },
   {
     "name": "Gherkins",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3163,7 +3163,7 @@
   },
   {
     "name": "Gluten-free Crumb",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3180,7 +3180,7 @@
   },
   {
     "name": "Goat's Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 290,
     "energy_kj": 1213.4,
@@ -3197,7 +3197,7 @@
   },
   {
     "name": "Gochujang",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3214,7 +3214,7 @@
   },
   {
     "name": "Gochujang Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -3231,7 +3231,7 @@
   },
   {
     "name": "Golden Sultanas",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3248,7 +3248,7 @@
   },
   {
     "name": "Golden Wine",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3265,7 +3265,7 @@
   },
   {
     "name": "Grated Cheddar & Mozzarella Cheese Mix",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -3282,7 +3282,7 @@
   },
   {
     "name": "Grated Cheddar & Mozzarella Mix",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -3299,7 +3299,7 @@
   },
   {
     "name": "Grated Cheese Mix",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -3316,7 +3316,7 @@
   },
   {
     "name": "Grated Italian Style Hard Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -3333,7 +3333,7 @@
   },
   {
     "name": "Grated Italian-style Hard Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 395,
     "energy_kj": 1652.7,
@@ -3350,7 +3350,7 @@
   },
   {
     "name": "Grated Italian-Style Hard Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 395,
     "energy_kj": 1652.7,
@@ -3367,7 +3367,7 @@
   },
   {
     "name": "Grated Mozzarella",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -3384,7 +3384,7 @@
   },
   {
     "name": "Grated Mozzarella & Cheddar Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -3401,7 +3401,7 @@
   },
   {
     "name": "Grated Mozzarella & Cheddar Cheese Mix",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -3418,7 +3418,7 @@
   },
   {
     "name": "Grated White Cheddar",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -3435,7 +3435,7 @@
   },
   {
     "name": "Greek Yoghurt",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 95,
     "energy_kj": 397.5,
@@ -3452,7 +3452,7 @@
   },
   {
     "name": "Green Beans",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 31,
     "energy_kj": 129.7,
@@ -3469,7 +3469,7 @@
   },
   {
     "name": "Green Bell Pepper",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3486,7 +3486,7 @@
   },
   {
     "name": "Green Leaves",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -3503,7 +3503,7 @@
   },
   {
     "name": "Green Pepper",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 20,
     "energy_kj": 83.7,
@@ -3520,7 +3520,7 @@
   },
   {
     "name": "Ground Almonds",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -3537,7 +3537,7 @@
   },
   {
     "name": "Ground Cumin",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -3554,7 +3554,7 @@
   },
   {
     "name": "Ground Paprika",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -3571,7 +3571,7 @@
   },
   {
     "name": "Guacamole",
-    "category": "Dips & Spreads",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 155,
     "energy_kj": 648.5,
@@ -3588,7 +3588,7 @@
   },
   {
     "name": "Hake Fillets",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 90,
     "energy_kj": 376.6,
@@ -3605,7 +3605,7 @@
   },
   {
     "name": "Halloumi",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -3622,7 +3622,7 @@
   },
   {
     "name": "Hazelnuts",
-    "category": "Nuts & Seeds",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -3639,7 +3639,7 @@
   },
   {
     "name": "Heirloom Corn Nachos",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3656,7 +3656,7 @@
   },
   {
     "name": "Hemp Seeds",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 570,
     "energy_kj": 2384.9,
@@ -3673,7 +3673,7 @@
   },
   {
     "name": "Honey",
-    "category": "Sweeteners",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 304,
     "energy_kj": 1271.9,
@@ -3690,7 +3690,7 @@
   },
   {
     "name": "Honey-Mustard Baste",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3707,7 +3707,7 @@
   },
   {
     "name": "Horseradish Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -3724,7 +3724,7 @@
   },
   {
     "name": "Hot Smoked Trout Fillets",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 170,
     "energy_kj": 711.3,
@@ -3741,7 +3741,7 @@
   },
   {
     "name": "Hummus",
-    "category": "Dips & Spreads",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 166,
     "energy_kj": 694.5,
@@ -3758,7 +3758,7 @@
   },
   {
     "name": "Indian Butter Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -3775,7 +3775,7 @@
   },
   {
     "name": "Italian-style Hard Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 395,
     "energy_kj": 1652.7,
@@ -3792,7 +3792,7 @@
   },
   {
     "name": "Italian-Style Hard Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 395,
     "energy_kj": 1652.7,
@@ -3809,7 +3809,7 @@
   },
   {
     "name": "Jalapeño Relish",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3826,7 +3826,7 @@
   },
   {
     "name": "Jasmine Rice",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -3843,7 +3843,7 @@
   },
   {
     "name": "Julienne Carrot",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3860,7 +3860,7 @@
   },
   {
     "name": "Kale",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 35,
     "energy_kj": 146.4,
@@ -3877,7 +3877,7 @@
   },
   {
     "name": "Karoo Lamb Rib Chops",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 260,
     "energy_kj": 1087.8,
@@ -3894,7 +3894,7 @@
   },
   {
     "name": "Kewpie Mayo",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -3911,7 +3911,7 @@
   },
   {
     "name": "Kidney Beans",
-    "category": "Legumes",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 120,
     "energy_kj": 502.1,
@@ -3928,7 +3928,7 @@
   },
   {
     "name": "Kimchi",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3945,7 +3945,7 @@
   },
   {
     "name": "Korean BBQ Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -3962,7 +3962,7 @@
   },
   {
     "name": "Labneh",
-    "category": "Produce",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -3979,7 +3979,7 @@
   },
   {
     "name": "Lamb Mince",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 250,
     "energy_kj": 1046,
@@ -3996,7 +3996,7 @@
   },
   {
     "name": "Lamb Rump",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 215,
     "energy_kj": 899.6,
@@ -4013,7 +4013,7 @@
   },
   {
     "name": "Lamb Shoulder",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 245,
     "energy_kj": 1025.1,
@@ -4030,7 +4030,7 @@
   },
   {
     "name": "Leeks",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4047,7 +4047,7 @@
   },
   {
     "name": "Lemon",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 29,
     "energy_kj": 121.3,
@@ -4064,7 +4064,7 @@
   },
   {
     "name": "Lemon Juice",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4081,7 +4081,7 @@
   },
   {
     "name": "Lemons",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4098,7 +4098,7 @@
   },
   {
     "name": "Lentils",
-    "category": "Legumes",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 120,
     "energy_kj": 502.1,
@@ -4115,7 +4115,7 @@
   },
   {
     "name": "Lime",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 30,
     "energy_kj": 125.5,
@@ -4132,7 +4132,7 @@
   },
   {
     "name": "Lime Juice",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4149,7 +4149,7 @@
   },
   {
     "name": "Limes",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4166,7 +4166,7 @@
   },
   {
     "name": "Line-Caught Hake Fillet",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 90,
     "energy_kj": 376.6,
@@ -4183,7 +4183,7 @@
   },
   {
     "name": "Line-caught Hake Fillets",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 90,
     "energy_kj": 376.6,
@@ -4200,7 +4200,7 @@
   },
   {
     "name": "Line-caught Tuna Fillets",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 135,
     "energy_kj": 564.8,
@@ -4217,7 +4217,7 @@
   },
   {
     "name": "Line-caught Yellowtail Fillets",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 130,
     "energy_kj": 543.9,
@@ -4234,7 +4234,7 @@
   },
   {
     "name": "Long Stem Broccoli",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4251,7 +4251,7 @@
   },
   {
     "name": "Low Fat Cottage Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -4268,7 +4268,7 @@
   },
   {
     "name": "Low Fat Plain Yoghurt",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 80,
     "energy_kj": 334.7,
@@ -4285,7 +4285,7 @@
   },
   {
     "name": "Low Sodium Soy Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -4302,7 +4302,7 @@
   },
   {
     "name": "Maple Syrup",
-    "category": "Sweeteners",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 260,
     "energy_kj": 1087.8,
@@ -4319,7 +4319,7 @@
   },
   {
     "name": "Medium Curry Powder",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4336,7 +4336,7 @@
   },
   {
     "name": "Mexican Spice Mix",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4353,7 +4353,7 @@
   },
   {
     "name": "Mild Piquanté Peppers",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4370,7 +4370,7 @@
   },
   {
     "name": "Milk",
-    "category": "Produce",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4387,7 +4387,7 @@
   },
   {
     "name": "Millet",
-    "category": "Produce",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4404,7 +4404,7 @@
   },
   {
     "name": "Mirin",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4421,7 +4421,7 @@
   },
   {
     "name": "Mirin (contains alcohol)",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4438,7 +4438,7 @@
   },
   {
     "name": "Miso Mayo",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -4455,7 +4455,7 @@
   },
   {
     "name": "Mixed Exotic Mushrooms",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4472,7 +4472,7 @@
   },
   {
     "name": "Mixed Herbs",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4489,7 +4489,7 @@
   },
   {
     "name": "Mixed Sesame Seeds",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 570,
     "energy_kj": 2384.9,
@@ -4506,7 +4506,7 @@
   },
   {
     "name": "Multigrain Fusilli",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -4523,7 +4523,7 @@
   },
   {
     "name": "Mung Bean Vermicelli Noodles",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 350,
     "energy_kj": 1464.4,
@@ -4540,7 +4540,7 @@
   },
   {
     "name": "Mushrooms",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4557,7 +4557,7 @@
   },
   {
     "name": "Mussels",
-    "category": "Fish & Seafood",
+    "category": "freezer",
     "serving_size": "100g",
     "energy_kcal": 115,
     "energy_kj": 481.2,
@@ -4574,7 +4574,7 @@
   },
   {
     "name": "Mustard Vinegar",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 22,
     "energy_kj": 92,
@@ -4591,7 +4591,7 @@
   },
   {
     "name": "Nish Nush Falafel Balls",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4608,7 +4608,7 @@
   },
   {
     "name": "NOMU African Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4625,7 +4625,7 @@
   },
   {
     "name": "NOMU BBQ Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4642,7 +4642,7 @@
   },
   {
     "name": "NOMU Beef Rub",
-    "category": "Meat",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 200,
     "energy_kj": 836.8,
@@ -4659,7 +4659,7 @@
   },
   {
     "name": "NOMU Cajun Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4676,7 +4676,7 @@
   },
   {
     "name": "NOMU Chipotle Flakes",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4693,7 +4693,7 @@
   },
   {
     "name": "NOMU Coffee Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4710,7 +4710,7 @@
   },
   {
     "name": "NOMU Indian Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4727,7 +4727,7 @@
   },
   {
     "name": "NOMU Italian Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4744,7 +4744,7 @@
   },
   {
     "name": "NOMU Lamb Rub",
-    "category": "Meat",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 230,
     "energy_kj": 962.3,
@@ -4761,7 +4761,7 @@
   },
   {
     "name": "NOMU Mexican Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4778,7 +4778,7 @@
   },
   {
     "name": "NOMU Mexican Spice Blend",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4795,7 +4795,7 @@
   },
   {
     "name": "NOMU Mexican Spice Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4812,7 +4812,7 @@
   },
   {
     "name": "NOMU Moroccan Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4829,7 +4829,7 @@
   },
   {
     "name": "NOMU One for All",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4846,7 +4846,7 @@
   },
   {
     "name": "NOMU One For All Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4863,7 +4863,7 @@
   },
   {
     "name": "NOMU Oriental Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4880,7 +4880,7 @@
   },
   {
     "name": "NOMU Provençal Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4897,7 +4897,7 @@
   },
   {
     "name": "NOMU Roast Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4914,7 +4914,7 @@
   },
   {
     "name": "NOMU Seafood Rub",
-    "category": "Fish & Seafood",
+    "category": "freezer",
     "serving_size": "100g",
     "energy_kcal": 115,
     "energy_kj": 481.2,
@@ -4931,7 +4931,7 @@
   },
   {
     "name": "NOMU Smoked Chipotle Flakes",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4948,7 +4948,7 @@
   },
   {
     "name": "NOMU Spanish Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4965,7 +4965,7 @@
   },
   {
     "name": "NOMU Tandoori Rub",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -4982,7 +4982,7 @@
   },
   {
     "name": "Non-Alcoholic White Wine",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -4999,7 +4999,7 @@
   },
   {
     "name": "Nori Sheet",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5016,7 +5016,7 @@
   },
   {
     "name": "Nutritional Yeast",
-    "category": "Nuts & Seeds",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -5033,7 +5033,7 @@
   },
   {
     "name": "Ong's Sweet Chilli Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -5050,7 +5050,7 @@
   },
   {
     "name": "Onion",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 40,
     "energy_kj": 167.4,
@@ -5067,7 +5067,7 @@
   },
   {
     "name": "Onions",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5084,7 +5084,7 @@
   },
   {
     "name": "Orange Juice",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5101,7 +5101,7 @@
   },
   {
     "name": "Orzo Pasta",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 280,
     "energy_kj": 1171.5,
@@ -5118,7 +5118,7 @@
   },
   {
     "name": "Ostrich Steak",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 140,
     "energy_kj": 585.8,
@@ -5135,7 +5135,7 @@
   },
   {
     "name": "Outcast Classic Falafel Mix",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5152,7 +5152,7 @@
   },
   {
     "name": "Outcast Crazy Falafel Mix",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5169,7 +5169,7 @@
   },
   {
     "name": "Outcast Vegan Burger Mix",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5186,7 +5186,7 @@
   },
   {
     "name": "Oyster-soy Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -5203,7 +5203,7 @@
   },
   {
     "name": "Pak Choi",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5220,7 +5220,7 @@
   },
   {
     "name": "Paneer Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -5237,7 +5237,7 @@
   },
   {
     "name": "Panko Breadcrumbs",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -5254,7 +5254,7 @@
   },
   {
     "name": "Peanuts",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -5271,7 +5271,7 @@
   },
   {
     "name": "Pearled Barley",
-    "category": "Produce",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5288,7 +5288,7 @@
   },
   {
     "name": "Pearled Spelt",
-    "category": "Produce",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5305,7 +5305,7 @@
   },
   {
     "name": "Pears",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5322,7 +5322,7 @@
   },
   {
     "name": "Peas",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 81,
     "energy_kj": 338.9,
@@ -5339,7 +5339,7 @@
   },
   {
     "name": "Pecan Nuts",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -5356,7 +5356,7 @@
   },
   {
     "name": "Pecorino Romano Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -5373,7 +5373,7 @@
   },
   {
     "name": "Pesto Princess Basil & Lemon Pesto",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -5390,7 +5390,7 @@
   },
   {
     "name": "Pesto Princess Basil Pesto",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -5407,7 +5407,7 @@
   },
   {
     "name": "Pesto Princess Chimichurri",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -5424,7 +5424,7 @@
   },
   {
     "name": "Pesto Princess Coriander & Chilli Pesto",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -5441,7 +5441,7 @@
   },
   {
     "name": "Pesto Princess Harissa",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -5458,7 +5458,7 @@
   },
   {
     "name": "Pesto Princess Harissa Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -5475,7 +5475,7 @@
   },
   {
     "name": "Pesto Princess Red Pepper Pesto",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -5492,7 +5492,7 @@
   },
   {
     "name": "Pesto Princess Rocket Pesto",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -5509,7 +5509,7 @@
   },
   {
     "name": "Pickled Bell Peppers",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5526,7 +5526,7 @@
   },
   {
     "name": "Pickled Ginger",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5543,7 +5543,7 @@
   },
   {
     "name": "Pickled Jalapeño",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5560,7 +5560,7 @@
   },
   {
     "name": "Pickled Jalapeños",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5577,7 +5577,7 @@
   },
   {
     "name": "Pickled Peppers",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5594,7 +5594,7 @@
   },
   {
     "name": "Pickling Liquid",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5611,7 +5611,7 @@
   },
   {
     "name": "Pine Nuts",
-    "category": "Nuts & Seeds",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -5628,7 +5628,7 @@
   },
   {
     "name": "Pineapple Rings",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5645,7 +5645,7 @@
   },
   {
     "name": "Pink Peppercorns",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5662,7 +5662,7 @@
   },
   {
     "name": "Piquanté Peppers",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5679,7 +5679,7 @@
   },
   {
     "name": "Pistachio Nuts",
-    "category": "Nuts & Seeds",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -5696,7 +5696,7 @@
   },
   {
     "name": "Pita Breads",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -5713,7 +5713,7 @@
   },
   {
     "name": "Pitted Dates",
-    "category": "Dried Fruits",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 300,
     "energy_kj": 1255.2,
@@ -5730,7 +5730,7 @@
   },
   {
     "name": "Pitted Green Olives",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5747,7 +5747,7 @@
   },
   {
     "name": "Pitted Kalamata Olives",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5764,7 +5764,7 @@
   },
   {
     "name": "Pizza Base",
-    "category": "Produce",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5781,7 +5781,7 @@
   },
   {
     "name": "Plain Greek Yoghurt",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 80,
     "energy_kj": 334.7,
@@ -5798,7 +5798,7 @@
   },
   {
     "name": "Plain Peanut Butter",
-    "category": "Nuts & Seeds",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -5815,7 +5815,7 @@
   },
   {
     "name": "Plain Yoghurt",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 65,
     "energy_kj": 272,
@@ -5832,7 +5832,7 @@
   },
   {
     "name": "Plum Tomato",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5849,7 +5849,7 @@
   },
   {
     "name": "Pomegranate Molasses",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5866,7 +5866,7 @@
   },
   {
     "name": "Poppadom",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5883,7 +5883,7 @@
   },
   {
     "name": "Poppadoms",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -5900,7 +5900,7 @@
   },
   {
     "name": "Pork Belly",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 390,
     "energy_kj": 1631.8,
@@ -5917,7 +5917,7 @@
   },
   {
     "name": "Pork Belly Pieces",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 390,
     "energy_kj": 1631.8,
@@ -5934,7 +5934,7 @@
   },
   {
     "name": "Pork Belly Sauce",
-    "category": "Sauces & Condiments",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -5951,7 +5951,7 @@
   },
   {
     "name": "Pork Fillet",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 145,
     "energy_kj": 606.7,
@@ -5968,7 +5968,7 @@
   },
   {
     "name": "Pork Kassler Loin Steak",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -5985,7 +5985,7 @@
   },
   {
     "name": "Pork Mince",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 210,
     "energy_kj": 878.6,
@@ -6002,7 +6002,7 @@
   },
   {
     "name": "Pork Schnitzel",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 200,
     "energy_kj": 836.8,
@@ -6019,7 +6019,7 @@
   },
   {
     "name": "Portobellini Mushrooms",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -6036,7 +6036,7 @@
   },
   {
     "name": "Potato",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 77,
     "energy_kj": 322.2,
@@ -6053,7 +6053,7 @@
   },
   {
     "name": "Potato Gnocchi",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 160,
     "energy_kj": 669.4,
@@ -6070,7 +6070,7 @@
   },
   {
     "name": "Pumpkin & Sunflower Mix",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 570,
     "energy_kj": 2384.9,
@@ -6087,7 +6087,7 @@
   },
   {
     "name": "Pumpkin & Sunflower Seed Mix",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 570,
     "energy_kj": 2384.9,
@@ -6104,7 +6104,7 @@
   },
   {
     "name": "Pumpkin Chunks",
-    "category": "Nuts & Seeds",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 570,
     "energy_kj": 2384.9,
@@ -6121,7 +6121,7 @@
   },
   {
     "name": "Pumpkin Seeds",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 559,
     "energy_kj": 2338.9,
@@ -6138,7 +6138,7 @@
   },
   {
     "name": "Radish",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -6155,7 +6155,7 @@
   },
   {
     "name": "Rainbow Baby Tomato Medley",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -6172,7 +6172,7 @@
   },
   {
     "name": "Rainbow Peppercorns",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -6189,7 +6189,7 @@
   },
   {
     "name": "Rainbow Trout Fillet",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 145,
     "energy_kj": 606.7,
@@ -6206,7 +6206,7 @@
   },
   {
     "name": "Rainbow Trout Fillets",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 145,
     "energy_kj": 606.7,
@@ -6223,7 +6223,7 @@
   },
   {
     "name": "Ranch Dressing",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -6240,7 +6240,7 @@
   },
   {
     "name": "Raspberry Vinegar",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 22,
     "energy_kj": 92,
@@ -6257,7 +6257,7 @@
   },
   {
     "name": "Red Bell Pepper",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -6274,7 +6274,7 @@
   },
   {
     "name": "Red Lentils",
-    "category": "Legumes",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 120,
     "energy_kj": 502.1,
@@ -6291,7 +6291,7 @@
   },
   {
     "name": "Red Onion",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 40,
     "energy_kj": 167.4,
@@ -6308,7 +6308,7 @@
   },
   {
     "name": "Red Onions",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -6325,7 +6325,7 @@
   },
   {
     "name": "Red Quinoa",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -6342,7 +6342,7 @@
   },
   {
     "name": "Red Wine",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -6359,7 +6359,7 @@
   },
   {
     "name": "Red Wine Vinegar",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 19,
     "energy_kj": 79.5,
@@ -6376,7 +6376,7 @@
   },
   {
     "name": "Red Wine Vinegar Dressing",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -6393,7 +6393,7 @@
   },
   {
     "name": "Rice & Lentils",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -6410,7 +6410,7 @@
   },
   {
     "name": "Rice Noodles",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 360,
     "energy_kj": 1506.2,
@@ -6427,7 +6427,7 @@
   },
   {
     "name": "Rice Wine Vinegar",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 20,
     "energy_kj": 83.7,
@@ -6444,7 +6444,7 @@
   },
   {
     "name": "Ricotta",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 150,
     "energy_kj": 627.6,
@@ -6461,7 +6461,7 @@
   },
   {
     "name": "Ricotta Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -6478,7 +6478,7 @@
   },
   {
     "name": "Risotto Rice",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -6495,7 +6495,7 @@
   },
   {
     "name": "Rocket",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -6512,7 +6512,7 @@
   },
   {
     "name": "Rocket & Baby Spinach Mix",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -6529,7 +6529,7 @@
   },
   {
     "name": "Rosé Wine",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -6546,7 +6546,7 @@
   },
   {
     "name": "Salad Dressing",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -6563,7 +6563,7 @@
   },
   {
     "name": "Salad Leaves",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 15,
     "energy_kj": 62.8,
@@ -6580,7 +6580,7 @@
   },
   {
     "name": "Salad Tomatoes",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -6597,7 +6597,7 @@
   },
   {
     "name": "Salty Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -6614,7 +6614,7 @@
   },
   {
     "name": "Sambal Oelek",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -6631,7 +6631,7 @@
   },
   {
     "name": "Schoon Burger Buns",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -6648,7 +6648,7 @@
   },
   {
     "name": "Schoon Mini Sourdough Baguette",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -6665,7 +6665,7 @@
   },
   {
     "name": "Self-raising Flour",
-    "category": "Dried Fruits",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 300,
     "energy_kj": 1255.2,
@@ -6682,7 +6682,7 @@
   },
   {
     "name": "Sesame Oil",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 884,
     "energy_kj": 3698.7,
@@ -6699,7 +6699,7 @@
   },
   {
     "name": "Sherry Dressing",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -6716,7 +6716,7 @@
   },
   {
     "name": "Shimeji Mushrooms",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -6733,7 +6733,7 @@
   },
   {
     "name": "Shredded Cabbage & Julienne Carrot",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -6750,7 +6750,7 @@
   },
   {
     "name": "Shredded Green Cabbage",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -6767,7 +6767,7 @@
   },
   {
     "name": "Sliced Chorizo",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 380,
     "energy_kj": 1589.9,
@@ -6784,7 +6784,7 @@
   },
   {
     "name": "Sliced Pickled Jalapeños",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -6801,7 +6801,7 @@
   },
   {
     "name": "Slivered Almonds",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -6818,7 +6818,7 @@
   },
   {
     "name": "Smoked Paprika",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -6835,7 +6835,7 @@
   },
   {
     "name": "Smoked Trout Ribbons",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 170,
     "energy_kj": 711.3,
@@ -6852,7 +6852,7 @@
   },
   {
     "name": "Smoky Coating",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -6869,7 +6869,7 @@
   },
   {
     "name": "Smooth Cottage Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -6886,7 +6886,7 @@
   },
   {
     "name": "Smooth Low Fat Cottage Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -6903,7 +6903,7 @@
   },
   {
     "name": "Soba Noodles",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 360,
     "energy_kj": 1506.2,
@@ -6920,7 +6920,7 @@
   },
   {
     "name": "Soft Wheat Flour Tortillas",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -6937,7 +6937,7 @@
   },
   {
     "name": "Sour Cream",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 195,
     "energy_kj": 815.9,
@@ -6954,7 +6954,7 @@
   },
   {
     "name": "Soy Marinade",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -6971,7 +6971,7 @@
   },
   {
     "name": "Soy Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 53,
     "energy_kj": 221.8,
@@ -6988,7 +6988,7 @@
   },
   {
     "name": "Soy Vinegar",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 22,
     "energy_kj": 92,
@@ -7005,7 +7005,7 @@
   },
   {
     "name": "Spice & All Things Nice Balti Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7022,7 +7022,7 @@
   },
   {
     "name": "Spice & All Things Nice Cape Malay Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7039,7 +7039,7 @@
   },
   {
     "name": "Spice & All Things Nice Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7056,7 +7056,7 @@
   },
   {
     "name": "Spice & All Things Nice Korma Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7073,7 +7073,7 @@
   },
   {
     "name": "Spice & All Things Nice Massaman Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7090,7 +7090,7 @@
   },
   {
     "name": "Spice & All Things Nice Rogan Josh Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7107,7 +7107,7 @@
   },
   {
     "name": "Spice and All Things Nice Balti Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7124,7 +7124,7 @@
   },
   {
     "name": "Spice And All Things Nice Butter Chicken Curry Paste",
-    "category": "Poultry",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 140,
     "energy_kj": 585.8,
@@ -7141,7 +7141,7 @@
   },
   {
     "name": "Spice and All Things Nice Cape Malay Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7158,7 +7158,7 @@
   },
   {
     "name": "Spice and All Things Nice Durban Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7175,7 +7175,7 @@
   },
   {
     "name": "Spice and All Things Nice Korma Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7192,7 +7192,7 @@
   },
   {
     "name": "Spicy Peanut Butter",
-    "category": "Nuts & Seeds",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -7209,7 +7209,7 @@
   },
   {
     "name": "Spinach",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 25,
     "energy_kj": 104.6,
@@ -7226,7 +7226,7 @@
   },
   {
     "name": "Spinach & Ricotta Ravioli",
-    "category": "Dairy",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -7243,7 +7243,7 @@
   },
   {
     "name": "Spring Onion",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 32,
     "energy_kj": 133.9,
@@ -7260,7 +7260,7 @@
   },
   {
     "name": "Spring Onions",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -7277,7 +7277,7 @@
   },
   {
     "name": "Squid Heads & Tubes",
-    "category": "Fish & Seafood",
+    "category": "freezer",
     "serving_size": "100g",
     "energy_kcal": 92,
     "energy_kj": 384.9,
@@ -7294,7 +7294,7 @@
   },
   {
     "name": "Stir Fry Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -7311,7 +7311,7 @@
   },
   {
     "name": "Stock & Herb Mix",
-    "category": "Soups & Stocks",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 20,
     "energy_kj": 83.7,
@@ -7328,7 +7328,7 @@
   },
   {
     "name": "Story Time Spicy Peanut Butter",
-    "category": "Nuts & Seeds",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -7345,7 +7345,7 @@
   },
   {
     "name": "Streaky Bacon",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 420,
     "energy_kj": 1757.3,
@@ -7362,7 +7362,7 @@
   },
   {
     "name": "Streaky Pork Bacon",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 420,
     "energy_kj": 1757.3,
@@ -7379,7 +7379,7 @@
   },
   {
     "name": "Sun-dried Tomato & Aubergine Ravioli",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7396,7 +7396,7 @@
   },
   {
     "name": "Sun-dried Tomatoes",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -7413,7 +7413,7 @@
   },
   {
     "name": "Sunflower Seeds",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 584,
     "energy_kj": 2443.5,
@@ -7430,7 +7430,7 @@
   },
   {
     "name": "Sweet Chilli Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 190,
     "energy_kj": 795,
@@ -7447,7 +7447,7 @@
   },
   {
     "name": "Sweet Harissa Dressing",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -7464,7 +7464,7 @@
   },
   {
     "name": "Sweet Potato",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 86,
     "energy_kj": 359.8,
@@ -7481,7 +7481,7 @@
   },
   {
     "name": "Sweet Potato Chunks",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -7498,7 +7498,7 @@
   },
   {
     "name": "Sweet Potato Gnocchi",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 280,
     "energy_kj": 1171.5,
@@ -7515,7 +7515,7 @@
   },
   {
     "name": "Sweet Sesame-Soy",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 570,
     "energy_kj": 2384.9,
@@ -7532,7 +7532,7 @@
   },
   {
     "name": "Tagliatelle",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 360,
     "energy_kj": 1506.2,
@@ -7549,7 +7549,7 @@
   },
   {
     "name": "Tagliatelle Pasta",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 280,
     "energy_kj": 1171.5,
@@ -7566,7 +7566,7 @@
   },
   {
     "name": "Tahini",
-    "category": "Pantry",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 595,
     "energy_kj": 2489.5,
@@ -7583,7 +7583,7 @@
   },
   {
     "name": "Tamari",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -7600,7 +7600,7 @@
   },
   {
     "name": "Temptations Spice Blend",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -7617,7 +7617,7 @@
   },
   {
     "name": "Teriyaki Glaze",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -7634,7 +7634,7 @@
   },
   {
     "name": "Terra Madre Spanakopita",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -7651,7 +7651,7 @@
   },
   {
     "name": "Thai Green Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7668,7 +7668,7 @@
   },
   {
     "name": "Thai red curry paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7685,7 +7685,7 @@
   },
   {
     "name": "Thai Red Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7702,7 +7702,7 @@
   },
   {
     "name": "That Mayo (Garlic)",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -7719,7 +7719,7 @@
   },
   {
     "name": "That Mayo (Original)",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -7736,7 +7736,7 @@
   },
   {
     "name": "That Mayo (Vegan)",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -7753,7 +7753,7 @@
   },
   {
     "name": "That Mayo Original",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -7770,7 +7770,7 @@
   },
   {
     "name": "The Larder Spiced Guava Chutney",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -7787,7 +7787,7 @@
   },
   {
     "name": "The Real Food Factory Coriander & Hemp Pesto",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7804,7 +7804,7 @@
   },
   {
     "name": "The Real Food Factory Hemp Seed & Coriander Pesto",
-    "category": "Nuts & Seeds",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 570,
     "energy_kj": 2384.9,
@@ -7821,7 +7821,7 @@
   },
   {
     "name": "Tikka Curry Paste",
-    "category": "Sauces & Pastes",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 220,
     "energy_kj": 920.5,
@@ -7838,7 +7838,7 @@
   },
   {
     "name": "Tomato",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 18,
     "energy_kj": 75.3,
@@ -7855,7 +7855,7 @@
   },
   {
     "name": "Tomato Passata",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -7872,7 +7872,7 @@
   },
   {
     "name": "Tomato Paste",
-    "category": "Pantry",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 82,
     "energy_kj": 343.1,
@@ -7889,7 +7889,7 @@
   },
   {
     "name": "Tomato Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -7906,7 +7906,7 @@
   },
   {
     "name": "Tomatoes",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 18,
     "energy_kj": 75.3,
@@ -7923,7 +7923,7 @@
   },
   {
     "name": "Tonkatsu Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -7940,7 +7940,7 @@
   },
   {
     "name": "Trout smoked (ribbon sliced)",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 170,
     "energy_kj": 711.3,
@@ -7957,7 +7957,7 @@
   },
   {
     "name": "Truffle",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -7974,7 +7974,7 @@
   },
   {
     "name": "Truffle Oil",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 884,
     "energy_kj": 3698.7,
@@ -7991,7 +7991,7 @@
   },
   {
     "name": "Truffle Zest",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -8008,7 +8008,7 @@
   },
   {
     "name": "Turmeric & Stock Mix",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -8025,7 +8025,7 @@
   },
   {
     "name": "Turmeric Powder",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -8042,7 +8042,7 @@
   },
   {
     "name": "Tzatziki",
-    "category": "Sauces & Condiments",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 115,
     "energy_kj": 481.2,
@@ -8059,7 +8059,7 @@
   },
   {
     "name": "Umami Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -8076,7 +8076,7 @@
   },
   {
     "name": "Vegan Burger Buns",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -8093,7 +8093,7 @@
   },
   {
     "name": "Vegetable Stock",
-    "category": "Soups & Stocks",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 20,
     "energy_kj": 83.7,
@@ -8110,7 +8110,7 @@
   },
   {
     "name": "Venison Steak",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 150,
     "energy_kj": 627.6,
@@ -8127,7 +8127,7 @@
   },
   {
     "name": "Venison Strips",
-    "category": "Meat",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 150,
     "energy_kj": 627.6,
@@ -8144,7 +8144,7 @@
   },
   {
     "name": "Vermicelli Noodles",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 360,
     "energy_kj": 1506.2,
@@ -8161,7 +8161,7 @@
   },
   {
     "name": "Vinaigrette",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -8178,7 +8178,7 @@
   },
   {
     "name": "Vinaigrette Niçoise",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -8195,7 +8195,7 @@
   },
   {
     "name": "Walnut Pieces",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 580,
     "energy_kj": 2426.7,
@@ -8212,7 +8212,7 @@
   },
   {
     "name": "Walnuts",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 654,
     "energy_kj": 2736.3,
@@ -8229,7 +8229,7 @@
   },
   {
     "name": "Wheat Flour Tortillas",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -8246,7 +8246,7 @@
   },
   {
     "name": "White Basmati Rice",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -8263,7 +8263,7 @@
   },
   {
     "name": "White Button Mushrooms",
-    "category": "Produce",
+    "category": "fruit and veg",
     "serving_size": "100g",
     "energy_kcal": 22,
     "energy_kj": 92,
@@ -8280,7 +8280,7 @@
   },
   {
     "name": "White Quinoa",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -8297,7 +8297,7 @@
   },
   {
     "name": "White Sesame Seeds",
-    "category": "Nuts & Seeds",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 573,
     "energy_kj": 2397.4,
@@ -8314,7 +8314,7 @@
   },
   {
     "name": "White Wine",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -8331,7 +8331,7 @@
   },
   {
     "name": "White Wine (optional)",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -8348,7 +8348,7 @@
   },
   {
     "name": "White Wine Vinegar",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 19,
     "energy_kj": 79.5,
@@ -8365,7 +8365,7 @@
   },
   {
     "name": "Whole Italian-Style Hard Cheese",
-    "category": "Dairy",
+    "category": "dairy products",
     "serving_size": "100g",
     "energy_kcal": 320,
     "energy_kj": 1338.9,
@@ -8382,7 +8382,7 @@
   },
   {
     "name": "Whole Red Peppers",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -8399,7 +8399,7 @@
   },
   {
     "name": "Whole Spices",
-    "category": "Spices & Seasonings",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 310,
     "energy_kj": 1297,
@@ -8416,7 +8416,7 @@
   },
   {
     "name": "Whole Wheat Cocktail Rotis",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -8433,7 +8433,7 @@
   },
   {
     "name": "Whole Wheat Couscous",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -8450,7 +8450,7 @@
   },
   {
     "name": "Whole Wheat Fusilli Pasta",
-    "category": "Pasta & Grains",
+    "category": "grains",
     "serving_size": "100g",
     "energy_kcal": 280,
     "energy_kj": 1171.5,
@@ -8467,7 +8467,7 @@
   },
   {
     "name": "Whole Wheat Pita Breads",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -8484,7 +8484,7 @@
   },
   {
     "name": "Whole Wheat Roti",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 290,
     "energy_kj": 1213.4,
@@ -8501,7 +8501,7 @@
   },
   {
     "name": "Whole Wheat Rotis",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 290,
     "energy_kj": 1213.4,
@@ -8518,7 +8518,7 @@
   },
   {
     "name": "Whole Wheat Tortillas",
-    "category": "Bakery",
+    "category": "bakery",
     "serving_size": "100g",
     "energy_kcal": 285,
     "energy_kj": 1192.4,
@@ -8535,7 +8535,7 @@
   },
   {
     "name": "Wholegrain Mustard",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 140,
     "energy_kj": 585.8,
@@ -8552,7 +8552,7 @@
   },
   {
     "name": "Wholegrain Mustard Dressing",
-    "category": "Pasta & Grains",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 355,
     "energy_kj": 1485.3,
@@ -8569,7 +8569,7 @@
   },
   {
     "name": "Willow Creek Cabernet Sauvignon Vinegar",
-    "category": "Oils & Vinegars",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 22,
     "energy_kj": 92,
@@ -8586,7 +8586,7 @@
   },
   {
     "name": "Wooden Skewers",
-    "category": "Produce",
+    "category": "other",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -8603,7 +8603,7 @@
   },
   {
     "name": "Worcestershire Sauce",
-    "category": "Sauces & Condiments",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 180,
     "energy_kj": 753.1,
@@ -8620,7 +8620,7 @@
   },
   {
     "name": "Yellow Bell Pepper",
-    "category": "Produce",
+    "category": "sauce and spice",
     "serving_size": "100g",
     "energy_kcal": 45,
     "energy_kj": 188.3,
@@ -8637,7 +8637,7 @@
   },
   {
     "name": "Yellowtail Fillet",
-    "category": "Fish & Seafood",
+    "category": "butcher",
     "serving_size": "100g",
     "energy_kcal": 130,
     "energy_kj": 543.9,

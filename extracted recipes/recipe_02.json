@@ -119,15 +119,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 667.0,
-    "energy_kcal": 159.0,
+    "energy_kj": 667,
+    "energy_kcal": 159,
     "protein_g": 9.4,
-    "carbs_g": 11.0,
-    "sugars_g": 3.0,
+    "carbs_g": 11,
+    "sugars_g": 3,
     "fibre_g": 1.7,
     "fat_g": 5.7,
     "saturated_fat_g": 2.8,
-    "sodium_mg": 138.0
+    "sodium_mg": 138
   },
   "allergens": [
     "Egg",
@@ -137,5 +137,6 @@
   ],
   "chef_tip": "Meat continues to cook while resting. Remember this when cooking the fillet to your preference.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 762
 }

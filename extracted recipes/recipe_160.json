@@ -135,5 +135,6 @@
   ],
   "chef_tip": "Quinoa is a great high-protein, high-fiber alternative to other grains. Plus, it's high in magnesium, which helps to produce oxygen-carrying red blood cells. It can be eaten warm as a side, or cool as a healthy addition to a salad.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 446
 }

@@ -1,0 +1,101 @@
+{
+  "recipe_number": 193,
+  "title": "Avocado & Black Bean Power Bowl",
+  "subtitle": "High Protein • Meal Prep Friendly",
+  "description": "Nutritious, delicious avocado & black bean power bowl with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Lunch",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 25,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "small avo ±140g"
+    },
+    {
+      "name": "Black Beans",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Feta Cheese",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Quinoa",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Sweet Corn Kernels",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Cook grains (quinoa or brown rice) according to package instructions and allow to cool slightly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Chop fresh vegetables (cucumbers, tomatoes, greens, avocado) into bite-sized pieces."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook or prepare the protein seasoned with herbs and lemon juice."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Whisk together the light dressing with lemon juice, mustard, salt, and pepper."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Assemble the power bowl by arranging grains, vegetables, and protein in sections, then drizzle with dressing."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 766.9,
+    "energy_kcal": 183.3,
+    "protein_g": 8.5,
+    "carbs_g": 18.8,
+    "sugars_g": 4.7,
+    "fibre_g": 15.8,
+    "fat_g": 4.5,
+    "saturated_fat_g": 1.3,
+    "sodium_mg": 149
+  },
+  "allergens": [
+    "Dairy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 605
+}

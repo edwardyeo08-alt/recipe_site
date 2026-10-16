@@ -1,0 +1,102 @@
+{
+  "recipe_number": 209,
+  "title": "Honey-garlic Salmon & Roasted Broccoli",
+  "subtitle": "High Protein • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious honey-garlic salmon & roasted broccoli with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 25,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Honey",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "1g ± 1.1ml"
+    },
+    {
+      "name": "Fresh Salmon Fillet",
+      "quantity": 110,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Soy Sauce",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "ml = g"
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Prepare all fresh ingredients and season the protein thoroughly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a cooking skillet or oven to appropriate temperature with light cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook the main protein over medium-high heat until nicely browned and cooked through."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 489.9,
+    "energy_kcal": 117.1,
+    "protein_g": 7.7,
+    "carbs_g": 5.7,
+    "sugars_g": 1.4,
+    "fibre_g": 1.1,
+    "fat_g": 7.1,
+    "saturated_fat_g": 2,
+    "sodium_mg": 158
+  },
+  "allergens": [
+    "Fish & Seafood",
+    "Soy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 410
+}

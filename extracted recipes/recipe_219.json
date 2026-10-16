@@ -1,0 +1,120 @@
+{
+  "recipe_number": 219,
+  "title": "Sticky Baked Sweet Potatoe And Tuna Salad",
+  "subtitle": "High Protein • Low Calorie • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious sticky baked sweet potatoe and tuna salad with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Lunch",
+  "servings": 1,
+  "hands_on_time_minutes": 10,
+  "overall_time_minutes": 30,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Baby Lettuce",
+      "quantity": 35,
+      "unit": "g",
+      "prep": "one head ± 450g"
+    },
+    {
+      "name": "Fat-Free Feta Cheese",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Light Mayo",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "1g ± 1.1ml"
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Sriracha",
+      "quantity": 1,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Sweet Corn Kernels",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Sweet Potato",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Tuna in Brine",
+      "quantity": 120,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Cook grains (quinoa or brown rice) according to package instructions and allow to cool slightly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Chop fresh vegetables (cucumbers, tomatoes, greens, avocado) into bite-sized pieces."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook or prepare the protein seasoned with herbs and lemon juice."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Whisk together the light dressing with lemon juice, mustard, salt, and pepper."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Assemble the power bowl by arranging grains, vegetables, and protein in sections, then drizzle with dressing."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 314.6,
+    "energy_kcal": 75.2,
+    "protein_g": 6.3,
+    "carbs_g": 7.3,
+    "sugars_g": 1.8,
+    "fibre_g": 1.7,
+    "fat_g": 1.9,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 234
+  },
+  "allergens": [
+    "Dairy",
+    "Fish & Seafood"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 392
+}

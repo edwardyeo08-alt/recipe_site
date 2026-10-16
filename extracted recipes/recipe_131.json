@@ -135,5 +135,6 @@
   ],
   "chef_tip": "Deglazing is a cooking technique for lifting browned food residue from the base of a pan by adding in liquid and stirring it into the residue using a cooking utensil. This mixture is then used to add flavour sauces, soups, and gravies.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 743
 }

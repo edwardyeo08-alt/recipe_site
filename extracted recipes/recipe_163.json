@@ -117,15 +117,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 838.0,
-    "energy_kcal": 200.0,
+    "energy_kj": 838,
+    "energy_kcal": 200,
     "protein_g": 7.4,
-    "carbs_g": 26.0,
+    "carbs_g": 26,
     "sugars_g": 6.1,
     "fibre_g": 6.7,
     "fat_g": 6.2,
     "saturated_fat_g": 1.2,
-    "sodium_mg": 403.0
+    "sodium_mg": 403
   },
   "allergens": [
     "Gluten",
@@ -139,5 +139,6 @@
   ],
   "chef_tip": "Rinsing tinned beans and legumes before use reduces the amount of sodium and sugar content you're adding to your meal while improving the flavour and texture.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 875
 }

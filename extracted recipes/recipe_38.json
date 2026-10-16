@@ -13,67 +13,67 @@
   "ingredients": [
     {
       "name": "Crème Fraîche",
-      "quantity": 60.0,
+      "quantity": 60,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "White Wine Vinegar",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Baby Tomatoes",
-      "quantity": 160.0,
+      "quantity": 160,
       "unit": "g",
       "prep": "rinsed & quartered"
     },
     {
       "name": "Onion",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "peeled & diced"
     },
     {
       "name": "Pickled Jalapeños",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": "drained & roughly chopped"
     },
     {
       "name": "Corn",
-      "quantity": 150.0,
+      "quantity": 150,
       "unit": "g",
       "prep": "drained"
     },
     {
       "name": "Free-range Beef Sirloin",
-      "quantity": 320.0,
+      "quantity": 320,
       "unit": "g",
       "prep": null
     },
     {
       "name": "NOMU Mexican Spice Blend",
-      "quantity": 15.0,
+      "quantity": 15,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Soft Wheat Flour Tortillas",
-      "quantity": 4.0,
+      "quantity": 4,
       "unit": null,
       "prep": null
     },
     {
       "name": "Pesto Princess Chimichurri",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Green Leaves",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": "rinsed & roughly shredded"
     }
@@ -114,15 +114,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 673.0,
-    "energy_kcal": 163.0,
+    "energy_kj": 673,
+    "energy_kcal": 163,
     "protein_g": 8.2,
-    "carbs_g": 14.0,
+    "carbs_g": 14,
     "sugars_g": 2.7,
     "fibre_g": 1.7,
     "fat_g": 5.6,
     "saturated_fat_g": 2.3,
-    "sodium_mg": 278.0
+    "sodium_mg": 278
   },
   "allergens": [
     "Gluten",
@@ -133,5 +133,6 @@
   ],
   "chef_tip": "You can reserve any liquid from the pickled jalapeños and use it to season the meal further if you'd like some extra tang.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 786
 }

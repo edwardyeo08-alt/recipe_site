@@ -105,15 +105,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 545.0,
-    "energy_kcal": 130.0,
+    "energy_kj": 545,
+    "energy_kcal": 130,
     "protein_g": 10.1,
-    "carbs_g": 16.0,
+    "carbs_g": 16,
     "sugars_g": 3.9,
     "fibre_g": 1.5,
     "fat_g": 2.6,
     "saturated_fat_g": 0.5,
-    "sodium_mg": 240.0
+    "sodium_mg": 240
   },
   "allergens": [
     "Gluten",
@@ -125,5 +125,6 @@
   ],
   "chef_tip": "Avoid overcrowding the pan when frying the mushrooms and cook them in batches if necessary, adding more oil in between. Mushrooms release water, so if there are too many in the pan, they can end up boiled instead of caramelised!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 622
 }

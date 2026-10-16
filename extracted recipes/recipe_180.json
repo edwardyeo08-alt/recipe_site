@@ -113,15 +113,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 594.0,
-    "energy_kcal": 142.0,
+    "energy_kj": 594,
+    "energy_kcal": 142,
     "protein_g": 8.5,
-    "carbs_g": 11.0,
+    "carbs_g": 11,
     "sugars_g": 2.8,
     "fibre_g": 1.9,
     "fat_g": 6.5,
     "saturated_fat_g": 2.2,
-    "sodium_mg": 204.0
+    "sodium_mg": 204
   },
   "allergens": [
     "Egg",
@@ -132,5 +132,6 @@
   ],
   "chef_tip": "The temperature of oven grills varies, so keep a close eye on the cheese when melting it over the baby potatoes. Make sure it doesn't burn!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 834
 }

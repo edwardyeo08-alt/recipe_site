@@ -1,0 +1,125 @@
+{
+  "recipe_number": 214,
+  "title": "Not So Naughty Nachos",
+  "subtitle": "High Protein • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious not so naughty nachos with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 15,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "small avo ±140g"
+    },
+    {
+      "name": "Extra Lean Beef Mince",
+      "quantity": 120,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Smooth Cottage Cheese",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Lime Juice",
+      "quantity": 5,
+      "unit": "ml",
+      "prep": "one lemon ± 30ml"
+    },
+    {
+      "name": "Paprika",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Pop Chips",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salsa",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cooking Spray",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Tomato & Onion Mix",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Prepare all fresh ingredients and season the protein thoroughly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a cooking skillet or oven to appropriate temperature with light cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook the main protein over medium-high heat until nicely browned and cooked through."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 436,
+    "energy_kcal": 104.2,
+    "protein_g": 8.9,
+    "carbs_g": 7.9,
+    "sugars_g": 2,
+    "fibre_g": 1.5,
+    "fat_g": 4,
+    "saturated_fat_g": 1.1,
+    "sodium_mg": 181
+  },
+  "allergens": [
+    "Dairy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 420
+}

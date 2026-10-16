@@ -1,0 +1,119 @@
+{
+  "recipe_number": 210,
+  "title": "Korean Fried Chicken",
+  "subtitle": "High Protein • Meal Prep Friendly",
+  "description": "Nutritious, delicious korean fried chicken with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 25,
+  "overall_time_minutes": 25,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Gochujang",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Honey",
+      "quantity": 35,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Maizena",
+      "quantity": 17,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Soy Sauce",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "ml = g"
+    },
+    {
+      "name": "Vegetable Oil",
+      "quantity": 0.5,
+      "unit": "tbsp",
+      "prep": null
+    },
+    {
+      "name": "White Wine Vinegar",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "ml=g"
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Prepare all fresh ingredients and season the protein thoroughly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a cooking skillet or oven to appropriate temperature with light cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook the main protein over medium-high heat until nicely browned and cooked through."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 488.3,
+    "energy_kcal": 116.7,
+    "protein_g": 11.8,
+    "carbs_g": 12,
+    "sugars_g": 3,
+    "fibre_g": 0.2,
+    "fat_g": 2.2,
+    "saturated_fat_g": 0.6,
+    "sodium_mg": 184
+  },
+  "allergens": [
+    "Soy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 476
+}

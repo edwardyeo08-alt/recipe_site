@@ -96,15 +96,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 386.0,
-    "energy_kcal": 92.0,
+    "energy_kj": 386,
+    "energy_kcal": 92,
     "protein_g": 7.7,
-    "carbs_g": 12.0,
+    "carbs_g": 12,
     "sugars_g": 5.2,
-    "fibre_g": 2.0,
+    "fibre_g": 2,
     "fat_g": 1.6,
     "saturated_fat_g": 0.4,
-    "sodium_mg": 54.0
+    "sodium_mg": 54
   },
   "allergens": [
     "Allium",
@@ -112,5 +112,6 @@
   ],
   "chef_tip": "The purpose of cutting cross-hatch into the duck skin is to allow the fat to melt and leave you with crispy duck skin! If you have any leftover duck fat, keep it for another use; it's great as an oil replacement for roasting crispy potatoes, or use it to veggies or meat.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 424
 }

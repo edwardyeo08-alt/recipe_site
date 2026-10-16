@@ -144,5 +144,6 @@
   ],
   "chef_tip": "Making kimchi involves lacto-fermentation. This gives kimchi its impressive probiotic content!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 740
 }

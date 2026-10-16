@@ -112,15 +112,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 458.0,
-    "energy_kcal": 109.0,
+    "energy_kj": 458,
+    "energy_kcal": 109,
     "protein_g": 10.1,
-    "carbs_g": 4.0,
-    "sugars_g": 1.0,
+    "carbs_g": 4,
+    "sugars_g": 1,
     "fibre_g": 1.2,
     "fat_g": 5.2,
     "saturated_fat_g": 3.1,
-    "sodium_mg": 307.0
+    "sodium_mg": 307
   },
   "allergens": [
     "Egg",
@@ -130,5 +130,6 @@
   ],
   "chef_tip": "If you don't have a pestle and mortar, you can crush the peppercorns using a pot! Press down on the peppercorns with the bottom edge of the pot, slowly moving it back and forth – and voilà!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 324
 }

@@ -113,15 +113,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 550.0,
-    "energy_kcal": 131.0,
+    "energy_kj": 550,
+    "energy_kcal": 131,
     "protein_g": 5.4,
-    "carbs_g": 16.0,
+    "carbs_g": 16,
     "sugars_g": 4.2,
     "fibre_g": 5.6,
     "fat_g": 3.7,
     "saturated_fat_g": 0.2,
-    "sodium_mg": 371.0
+    "sodium_mg": 371
   },
   "allergens": [
     "Allium",
@@ -130,5 +130,6 @@
   ],
   "chef_tip": "Draining and rinsing tinned beans, lentils, and chickpeas before use drastically reduces the amount of sodium you're adding to your meal.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 591
 }

@@ -1,0 +1,132 @@
+{
+  "recipe_number": 220,
+  "title": "Sunday Morning Shakshuka",
+  "subtitle": "High Protein • Low Calorie • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious sunday morning shakshuka with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 15,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Baby Spinach",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chilli Flakes",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Eggs",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Feta Cheese",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Rye Bread Slice",
+      "quantity": 70,
+      "unit": "g",
+      "prep": "one loaf ± 400g"
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Cooking Spray",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Tomato & Onion Mix",
+      "quantity": 250,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Heat a small deep pan over medium heat and lightly spray with cooking spray."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Add the tinned tomato & onion mix, garlic powder, salt, pepper, and chilli flakes (if using). Stir and bring to a simmer."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Add the spinach and let it wilt, allowing the sauce to reduce slightly."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Make two small wells in the sauce and crack in the eggs."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Cover with a lid and cook until the eggs reach your preferred doneness."
+    },
+    {
+      "step": 6,
+      "title": "",
+      "text": "Remove from heat and sprinkle with crumbled feta."
+    },
+    {
+      "step": 7,
+      "title": "",
+      "text": "Serve straight from the pan with crispy toast for dipping - devour! Tip: Like i/ hop Throw in some fresh chilli 40 }urn up heaf queen/"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 283.7,
+    "energy_kcal": 67.8,
+    "protein_g": 4.6,
+    "carbs_g": 8.1,
+    "sugars_g": 2,
+    "fibre_g": 0.9,
+    "fat_g": 1.9,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 256
+  },
+  "allergens": [
+    "Dairy",
+    "Gluten",
+    "Wheat",
+    "Egg"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 385
+}

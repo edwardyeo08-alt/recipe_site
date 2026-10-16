@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 676.0,
-    "energy_kcal": 162.0,
+    "energy_kj": 676,
+    "energy_kcal": 162,
     "protein_g": 9.5,
-    "carbs_g": 13.0,
+    "carbs_g": 13,
     "sugars_g": 2.1,
     "fibre_g": 2.1,
     "fat_g": 6.1,
     "saturated_fat_g": 2.8,
-    "sodium_mg": 201.0
+    "sodium_mg": 201
   },
   "allergens": [
     "Egg",
@@ -136,5 +136,6 @@
   ],
   "chef_tip": "A gremolata is a green sauce made of parsley, lemon zest and fresh garlic. It is often served with steak or roasted veggies. If the raw garlic is too pungent, fry for 1-2 minutes until fragrant.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 972
 }

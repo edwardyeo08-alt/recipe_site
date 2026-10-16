@@ -1,0 +1,153 @@
+{
+  "recipe_number": 218,
+  "title": "Spicy Burger Salad Bowl",
+  "subtitle": "High Protein • Low Calorie • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious spicy burger salad bowl with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 15,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Baby Lettuce",
+      "quantity": 70,
+      "unit": "g",
+      "prep": "one head ± 450g"
+    },
+    {
+      "name": "Extra Lean Beef Mince",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Gherkins",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Gherkin Juice",
+      "quantity": 1,
+      "unit": "tbsp",
+      "prep": null
+    },
+    {
+      "name": "Light Mayo",
+      "quantity": 15,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Mustard",
+      "quantity": 5,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "one onion ± 150g"
+    },
+    {
+      "name": "Onion Marmalade",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Rosa Tomatoes",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Cooking Spray",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Sriracha",
+      "quantity": 5,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Tomato Sauce",
+      "quantity": 15,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Tomato & Basil Pasta Sauce",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Shape the lean mince or patties into even rounds, seasoning generously with salt, pepper, and garlic powder."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Preheat a heavy skillet or grill pan over medium-high heat with cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Sear the burger patties for 4-5 minutes per side until cooked through and nicely charred."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Lightly toast the burger buns. If making homemade fries, air fry the potato wedges at 200°C for 18-20 minutes."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Assemble each burger with crisp lettuce, fresh tomato slices, sauce, and the cooked patties. Serve hot!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 234.3,
+    "energy_kcal": 56,
+    "protein_g": 5.5,
+    "carbs_g": 3.8,
+    "sugars_g": 1,
+    "fibre_g": 0.8,
+    "fat_g": 1.9,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 285
+  },
+  "allergens": [],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 355
+}

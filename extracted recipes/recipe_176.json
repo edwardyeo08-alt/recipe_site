@@ -107,15 +107,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 651.0,
-    "energy_kcal": 156.0,
+    "energy_kj": 651,
+    "energy_kcal": 156,
     "protein_g": 13.8,
-    "carbs_g": 16.0,
+    "carbs_g": 16,
     "sugars_g": 3.3,
     "fibre_g": 2.7,
     "fat_g": 4.1,
     "saturated_fat_g": 1.1,
-    "sodium_mg": 391.0
+    "sodium_mg": 391
   },
   "allergens": [
     "Gluten",
@@ -128,5 +128,6 @@
   ],
   "chef_tip": "If you're feeling fancy, slice the green parts of the spring onion into long, thin strips and place them in a bowl of ice water to make them curly for your garnish!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 630
 }

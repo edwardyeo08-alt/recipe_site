@@ -126,15 +126,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 736.0,
-    "energy_kcal": 183.0,
+    "energy_kj": 736,
+    "energy_kcal": 183,
     "protein_g": 6.2,
-    "carbs_g": 19.0,
+    "carbs_g": 19,
     "sugars_g": 2.1,
     "fibre_g": 1.3,
     "fat_g": 8.3,
     "saturated_fat_g": 6.6,
-    "sodium_mg": 356.0
+    "sodium_mg": 356
   },
   "allergens": [
     "Gluten",
@@ -145,5 +145,6 @@
   ],
   "chef_tip": "To knead dough is to work it with your hands by stretching, folding, and pushing. If you don't have a rolling pin, just use a glass jar or bottle.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 1270
 }

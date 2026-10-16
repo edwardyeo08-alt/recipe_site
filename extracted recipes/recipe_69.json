@@ -13,73 +13,73 @@
   "ingredients": [
     {
       "name": "Pumpkin Chunks",
-      "quantity": 500.0,
+      "quantity": 500,
       "unit": "g",
       "prep": "cut into bite-sized pieces"
     },
     {
       "name": "NOMU Moroccan Rub",
-      "quantity": 10.0,
+      "quantity": 10,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Lentils",
-      "quantity": 120.0,
+      "quantity": 120,
       "unit": "g",
       "prep": "drained & rinsed"
     },
     {
       "name": "Free-range Chicken Mince",
-      "quantity": 300.0,
+      "quantity": 300,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Garlic Cloves",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "Pumpkin Seeds",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Hummus",
-      "quantity": 100.0,
+      "quantity": 100,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Pomegranate Molasses",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Peas",
-      "quantity": 80.0,
+      "quantity": 80,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Salad Leaves",
-      "quantity": 40.0,
+      "quantity": 40,
       "unit": "g",
       "prep": "rinsed"
     },
     {
       "name": "Fresh Mint",
-      "quantity": 5.0,
+      "quantity": 5,
       "unit": "g",
       "prep": "rinsed, picked & roughly chopped"
     },
     {
       "name": "Spring Onions",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "thinly sliced"
     }
@@ -123,15 +123,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 461.0,
-    "energy_kcal": 110.0,
+    "energy_kj": 461,
+    "energy_kcal": 110,
     "protein_g": 7.9,
-    "carbs_g": 12.0,
+    "carbs_g": 12,
     "sugars_g": 3.4,
     "fibre_g": 3.7,
     "fat_g": 3.3,
     "saturated_fat_g": 0.9,
-    "sodium_mg": 104.0
+    "sodium_mg": 104
   },
   "allergens": [
     "Allium",
@@ -140,5 +140,6 @@
   ],
   "chef_tip": "To check if your patties are seasoned enough, fry a bite-size piece of the patty mixture with a drizzle of oil for 1-2 minutes until cooked. Taste and add more seasoning to the raw mixture if needed.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 729
 }

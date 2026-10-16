@@ -119,15 +119,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 536.0,
-    "energy_kcal": 128.0,
+    "energy_kj": 536,
+    "energy_kcal": 128,
     "protein_g": 3.3,
-    "carbs_g": 11.0,
-    "sugars_g": 3.0,
+    "carbs_g": 11,
+    "sugars_g": 3,
     "fibre_g": 3.7,
     "fat_g": 8.4,
-    "saturated_fat_g": 4.0,
-    "sodium_mg": 116.0
+    "saturated_fat_g": 4,
+    "sodium_mg": 116
   },
   "allergens": [
     "Egg",
@@ -139,5 +139,6 @@
   ],
   "chef_tip": "For the best results, boil the gnocchi in batches to prevent crowding the pot and overcooking.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 733
 }

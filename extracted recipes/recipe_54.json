@@ -102,15 +102,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 571.0,
-    "energy_kcal": 136.0,
+    "energy_kj": 571,
+    "energy_kcal": 136,
     "protein_g": 12.2,
-    "carbs_g": 16.0,
+    "carbs_g": 16,
     "sugars_g": 2.5,
     "fibre_g": 2.8,
     "fat_g": 2.1,
     "saturated_fat_g": 0.5,
-    "sodium_mg": 251.0
+    "sodium_mg": 251
   },
   "allergens": [
     "Gluten",
@@ -120,5 +120,6 @@
   ],
   "chef_tip": "Cooking pasta in salted water allows it to absorb the salt, enhancing its flavour, because the salt is dispersed throughout the dish and not just on the surface of the pasta, so you get a better end result!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 428
 }

@@ -111,15 +111,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 441.0,
-    "energy_kcal": 106.0,
+    "energy_kj": 441,
+    "energy_kcal": 106,
     "protein_g": 8.1,
-    "carbs_g": 15.0,
+    "carbs_g": 15,
     "sugars_g": 4.8,
     "fibre_g": 1.9,
     "fat_g": 1.6,
     "saturated_fat_g": 0.6,
-    "sodium_mg": 318.0
+    "sodium_mg": 318
   },
   "allergens": [
     "Gluten",
@@ -131,5 +131,6 @@
   ],
   "chef_tip": "You can use a wok for this recipe if you have one. The best thing about a wok is that it distributes heat more evenly and so requires less oil. It also ensures that food tossed during stir frying lands back in the pan and not all over the stove!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 633
 }

@@ -1,0 +1,114 @@
+{
+  "recipe_number": 217,
+  "title": "Snappy Chicken Ramen Bowl",
+  "subtitle": "High Protein • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious snappy chicken ramen bowl with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Lunch",
+  "servings": 1,
+  "hands_on_time_minutes": 10,
+  "overall_time_minutes": 10,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Bok Choy",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chicken Breast",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chilli Oil",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "1g ± 1.1ml"
+    },
+    {
+      "name": "Everything Bagel Seasoning",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Instant Noodles",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Mushrooms",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 0.5,
+      "unit": null,
+      "prep": "one bunch = many units"
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 250,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Cook grains (quinoa or brown rice) according to package instructions and allow to cool slightly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Chop fresh vegetables (cucumbers, tomatoes, greens, avocado) into bite-sized pieces."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook or prepare the protein seasoned with herbs and lemon juice."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Whisk together the light dressing with lemon juice, mustard, salt, and pepper."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Assemble the power bowl by arranging grains, vegetables, and protein in sections, then drizzle with dressing."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 276.6,
+    "energy_kcal": 66.1,
+    "protein_g": 5.8,
+    "carbs_g": 4.5,
+    "sugars_g": 1.1,
+    "fibre_g": 0.7,
+    "fat_g": 2.6,
+    "saturated_fat_g": 0.7,
+    "sodium_mg": 311
+  },
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 456
+}

@@ -123,5 +123,6 @@
   ],
   "chef_tip": "If time is on your side, marinate the lamb chops for an hour or two before cooking. You can even do step 1 the day before and allow them to marinate overnight! Just remember to cook them within 2 days.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 584
 }

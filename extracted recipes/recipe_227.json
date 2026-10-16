@@ -1,0 +1,144 @@
+{
+  "recipe_number": 227,
+  "title": "Zesty Lemon & Garlic Prawn Pasta",
+  "subtitle": "High Protein • Meal Prep Friendly",
+  "description": "Nutritious, delicious zesty lemon & garlic prawn pasta with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 20,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Baby Spinach",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chilli Flakes",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 10,
+      "unit": "g",
+      "prep": "1g ± 1.1ml"
+    },
+    {
+      "name": "Paprika",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Parmesan Cheese",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Prawns",
+      "quantity": 130,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Rosa Tomatoes",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Vegetable Stock",
+      "quantity": 125,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Wholewheat Asian Noodle Nest",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Boil a large pot of salted water and cook the pasta according to package directions until al dente."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "In a separate skillet, brown the protein with minced garlic and herbs over medium heat."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Stir in the sauce and diced vegetables, allowing the flavours to simmer together for 8-10 minutes."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Toss the drained pasta directly into the sauce so every strand is evenly coated."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Garnish with grated parmesan or fresh herbs and divide evenly into meal prep bowls."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 328.4,
+    "energy_kcal": 78.5,
+    "protein_g": 5.7,
+    "carbs_g": 8.8,
+    "sugars_g": 2.2,
+    "fibre_g": 1.2,
+    "fat_g": 2.6,
+    "saturated_fat_g": 0.7,
+    "sodium_mg": 261
+  },
+  "allergens": [
+    "Dairy",
+    "Fish & Seafood"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 456
+}

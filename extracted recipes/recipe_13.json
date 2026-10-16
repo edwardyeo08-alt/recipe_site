@@ -123,5 +123,6 @@
   ],
   "chef_tip": "Pop any leftover chilli in a bag and store it in the freezer. It's fantastic when finely grated directly from frozen, creating tasty chilli dust that's great for cooking or sprinkling over dishes!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 960
 }

@@ -1,0 +1,131 @@
+{
+  "recipe_number": 201,
+  "title": "Chinesse Velvet Chicken Stirfry",
+  "subtitle": "High Protein • Meal Prep Friendly",
+  "description": "Nutritious, delicious chinesse velvet chicken stirfry with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 50,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Baking Soda",
+      "quantity": 1,
+      "unit": "tbsp",
+      "prep": null
+    },
+    {
+      "name": "Cabbage",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "1 = 1kg"
+    },
+    {
+      "name": "Chicken Breast",
+      "quantity": 130,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chilli Oil",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "1g ± 1.1ml"
+    },
+    {
+      "name": "Everything Bagel Seasoning",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Soy Sauce",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "ml = g"
+    },
+    {
+      "name": "Teriyaki Sauce",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "can be made with soya sauce and vinagar"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "ml=g"
+    },
+    {
+      "name": "Wholewheat Asian Noodle Nest",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Slice the protein into thin strips and toss with soy sauce and cornstarch for a velvety texture."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a wok or large skillet over high heat with cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Stir-fry the protein rapidly for 3-4 minutes until cooked through, then transfer to a plate."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Toss in the mixed vegetables and stir-fry for 2-3 minutes until crisp-tender."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Return the protein to the pan, pour in the stir-fry sauce, and toss everything together for 1 minute before serving over rice or noodles."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 387.9,
+    "energy_kcal": 92.7,
+    "protein_g": 8.5,
+    "carbs_g": 10.7,
+    "sugars_g": 2.7,
+    "fibre_g": 1.8,
+    "fat_g": 1.6,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 228
+  },
+  "allergens": [
+    "Soy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 469
+}

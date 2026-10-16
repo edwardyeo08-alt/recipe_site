@@ -131,15 +131,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 383.0,
-    "energy_kcal": 92.0,
+    "energy_kj": 383,
+    "energy_kcal": 92,
     "protein_g": 4.6,
-    "carbs_g": 7.0,
+    "carbs_g": 7,
     "sugars_g": 2.6,
     "fibre_g": 2.4,
     "fat_g": 4.4,
-    "saturated_fat_g": 3.0,
-    "sodium_mg": 251.0
+    "saturated_fat_g": 3,
+    "sodium_mg": 251
   },
   "allergens": [
     "Dairy",
@@ -149,5 +149,6 @@
   ],
   "chef_tip": "When simmering for an extended period of time, always stir occasionally to prevent the sauce from catching on the bottom of the pan.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 619
 }

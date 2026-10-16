@@ -1,0 +1,102 @@
+{
+  "recipe_number": 246,
+  "title": "Strawberry Cheesecake Pancake Bowl Pancakes, But No Flippin' Required!",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein s t raw berry cheesecake pancake bowl pancakes, but no flippin' required! this beautiful bowl delivers a divine cakey texture with a creamy, tangy twist - like cheesecake and pancakes had a dessert baby the ultimate meal-prep-friendly brekkie that you can heat and eat all week long. prep: 10 mins total: 25 mins 1 serving calories 15 pinch salt spray & cook qpflqngliqppjng; protein carbs fat fibre 30 g 47 g ingredients 50g oats 15g whey protein powder (vanilla) 1 whole egg 60g unsweetened almond milk 60g fat-free smooth cottage cheese 100g chopped strawberries 2g powdered sweetener* 1/2 tsp vanilla essence 1/2 tsp baking powder h tsp cinnamon instructions i.preheat the oven or air fryer to 1800c. ioog double cream greek yoghurt ioog chopped strawberries additional macros: (129c / plog / c12g / f5g / fibre 2g) 2. in a blender, add all ingredients except the strawberries and blend until smooth. 3. lightly spray an oven-safe bowl with cooking spray. 4. pour the batter into the bowl. 5.add the chopped strawberries on top. 6. bake for 12-15 minutes, or until the center is firm. (for a thick cake batter texture, bake for only 10-12 minutes.) 7. (optional) top with greek yoghurt and chopped strawberries. 8. serve and enjoy! no+es: from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 10,
+  "overall_time_minutes": 20,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whey Protein Powder",
+      "quantity": 15,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Egg Whites",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Strawberries",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "sliced"
+    },
+    {
+      "name": "Fat-Free Smooth Cottage Cheese",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Baking Powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "In a blender or mixing bowl, combine oats/flour, protein powder, egg whites, and baking powder."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Blend until a smooth, pourable batter forms. Let rest for 2 minutes."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Heat a non-stick skillet over medium-low heat and lightly coat with cooking spray."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Pour 2-3 tablespoons of batter per pancake. Cook until bubbles form on top (about 2 minutes), then flip and cook for another minute."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Stack high, drizzle with sugar-free syrup or honey, and serve warm!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 694.1,
+    "energy_kcal": 165.9,
+    "protein_g": 11.1,
+    "carbs_g": 16.1,
+    "sugars_g": 4,
+    "fibre_g": 13.8,
+    "fat_g": 4.6,
+    "saturated_fat_g": 1.3,
+    "sodium_mg": 98
+  },
+  "allergens": [
+    "Dairy",
+    "Egg"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 360
+}

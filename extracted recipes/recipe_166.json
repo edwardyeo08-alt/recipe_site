@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 633.0,
-    "energy_kcal": 151.0,
+    "energy_kj": 633,
+    "energy_kcal": 151,
     "protein_g": 5.9,
-    "carbs_g": 21.0,
+    "carbs_g": 21,
     "sugars_g": 2.2,
     "fibre_g": 2.5,
-    "fat_g": 4.0,
+    "fat_g": 4,
     "saturated_fat_g": 1.7,
-    "sodium_mg": 593.0
+    "sodium_mg": 593
   },
   "allergens": [
     "Egg",
@@ -137,5 +137,6 @@
   ],
   "chef_tip": "Taste the risotto as you go because you may not need to use all of the stock. However, if the rice isn't cooked after you've added it all, simply stir in a ladle of water to continue the cooking process.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 910
 }

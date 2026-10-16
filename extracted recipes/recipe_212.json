@@ -1,0 +1,138 @@
+{
+  "recipe_number": 212,
+  "title": "Mom's Traditional Chicken Pie",
+  "subtitle": "High Protein • Meal Prep Friendly",
+  "description": "Nutritious, delicious mom's traditional chicken pie with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chicken Breast",
+      "quantity": 110,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Egg Whites",
+      "quantity": 0.5,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Milk",
+      "quantity": 40,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Mushrooms",
+      "quantity": 75,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "one onion ± 150g"
+    },
+    {
+      "name": "Peas",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Puff Pastry",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Reduced Fat Coconut Milk",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "1g ± 1ml"
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Cooking Spray",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Prepare all fresh ingredients and season the protein thoroughly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a cooking skillet or oven to appropriate temperature with light cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook the main protein over medium-high heat until nicely browned and cooked through."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 306.3,
+    "energy_kcal": 73.2,
+    "protein_g": 5.7,
+    "carbs_g": 5.7,
+    "sugars_g": 1.4,
+    "fibre_g": 0.8,
+    "fat_g": 2.7,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 279
+  },
+  "allergens": [
+    "Dairy",
+    "Egg"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 453
+}

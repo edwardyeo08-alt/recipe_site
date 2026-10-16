@@ -1,0 +1,120 @@
+{
+  "recipe_number": 233,
+  "title": "Big Ole' Breakfast Wrap",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein big ole' breakfast wrap meet the big ole breakfast wrap: a classic cheesy omelette, hugged by a toasty tortilla. built for savoury sisters with hungry hearts, this one's a breakfast you'll keep coming back to! prep: 15 mins k total: 15 mins 1 serving v, gf*, calories 13 protein carbs fat fibre 28 g 1 og ingredients 1 whole egg 90g egg whites (3) i small/medium wrap (100-120 calories) ioog mushrooms 20g baby spinach ic)g mature cheddar cheese ebtb seasoning salt & pepper spray & cook instructions i. heat a medium non-stick pan and lightly spray with cooking spray. 2. chop the mushrooms and spinach, then add them to the pan. season with salt and pepper and saut‚ until soft. remove from the pan and set aside. 3.1n a small bowl, whisk the whole egg and egg whites with a pinch of salt and pepper. 4. respray the pan and pour in the egg mixture. cook for 1-2 minutes until just set. 5. place the wrap directly on top of the eggs, pressing gently to adhere. flip and toast for another minute. 6. transfer to a plate, top with the saut‚ed mushrooms, spinach, and grated cheddar. 7. sprinkle with ebtb seasoning, fold, and enjoy! no}es: from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 25,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Egg",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Egg Whites",
+      "quantity": 90,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Wholewheat Tortilla Wrap",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Button Mushrooms",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "sliced"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Everything Bagel Seasoning",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Heat a medium non-stick pan and lightly spray with cooking spray."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Chop the mushrooms and spinach, then add them to the pan. Season with salt and pepper and saut‚ until soft. Remove from the pan and set aside."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "1n a small bowl, whisk the whole egg and egg whites with a pinch of salt and pepper."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Respray the pan and pour in the egg mixture. Cook for 1-2 minutes until just set."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Place the wrap directly on top of the eggs, pressing gently to adhere. Flip and toast for another minute."
+    },
+    {
+      "step": 6,
+      "title": "",
+      "text": "Transfer to a plate, top with the saut‚ed mushrooms, spinach, and grated cheddar."
+    },
+    {
+      "step": 7,
+      "title": "",
+      "text": "Sprinkle with EBTB seasoning, fold, and enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 464.8,
+    "energy_kcal": 111.1,
+    "protein_g": 7.4,
+    "carbs_g": 10.8,
+    "sugars_g": 2.7,
+    "fibre_g": 8.6,
+    "fat_g": 3.1,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 146
+  },
+  "allergens": [
+    "Dairy",
+    "Gluten",
+    "Wheat",
+    "Egg"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 360
+}

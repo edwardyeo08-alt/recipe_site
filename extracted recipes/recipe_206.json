@@ -1,0 +1,116 @@
+{
+  "recipe_number": 206,
+  "title": "Creamy Comforting Carbonara",
+  "subtitle": "High Protein • Meal Prep Friendly",
+  "description": "Nutritious, delicious creamy comforting carbonara with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 20,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Egg Whites",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Milk",
+      "quantity": 30,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Smooth Cottage Cheese",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Lean Bacon",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Parmesan Cheese",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Spaghetti",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Boil a large pot of salted water and cook the pasta according to package directions until al dente."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "In a separate skillet, brown the protein with minced garlic and herbs over medium heat."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Stir in the sauce and diced vegetables, allowing the flavours to simmer together for 8-10 minutes."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Toss the drained pasta directly into the sauce so every strand is evenly coated."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Garnish with grated parmesan or fresh herbs and divide evenly into meal prep bowls."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 561.9,
+    "energy_kcal": 134.3,
+    "protein_g": 10.5,
+    "carbs_g": 15.7,
+    "sugars_g": 3.9,
+    "fibre_g": 0.9,
+    "fat_g": 2.8,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 146
+  },
+  "allergens": [
+    "Dairy",
+    "Gluten",
+    "Wheat",
+    "Egg"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 435
+}

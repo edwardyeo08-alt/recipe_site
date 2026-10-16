@@ -138,5 +138,6 @@
   ],
   "chef_tip": "You will notice the prep action for squid is 'quills removed'. The quill is found in the squid tubes and looks like a long piece of plastic. To remove it, simply grab it and pull it out slowly.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 719
 }

@@ -1,0 +1,143 @@
+{
+  "recipe_number": 199,
+  "title": "Butter Chicken Curry",
+  "subtitle": "High Protein • Low Calorie • Meal Prep Friendly",
+  "description": "Nutritious, delicious butter chicken curry with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 30,
+  "overall_time_minutes": 30,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Coriander",
+      "quantity": 2,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cumin",
+      "quantity": 2,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Greek Yoghurt",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garam Masala",
+      "quantity": 4,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Clove",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 2,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Ground Ginger",
+      "quantity": 2,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 5,
+      "unit": "g",
+      "prep": "1g ± 1.1ml"
+    },
+    {
+      "name": "Onion",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "one onion ± 150g"
+    },
+    {
+      "name": "Paprika",
+      "quantity": 2,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Tomato",
+      "quantity": 80,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Cut the chicken breasts into bite-sized pieces and season with curry powder, cumin, turmeric, and salt."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a deep skillet or pot over medium heat. Sear the chicken pieces until lightly browned on all sides."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Add diced aromatics (onion, garlic, ginger) and saute until fragrant."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Stir in the tomato puree, light coconut milk or yoghurt, and simmer gently for 10-12 minutes until chicken is tender."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Serve hot over basmati rice or with warmed roti, garnished with fresh coriander."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 266.9,
+    "energy_kcal": 63.8,
+    "protein_g": 7.7,
+    "carbs_g": 5,
+    "sugars_g": 1.3,
+    "fibre_g": 1.2,
+    "fat_g": 1.5,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 216
+  },
+  "allergens": [
+    "Dairy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 307
+}

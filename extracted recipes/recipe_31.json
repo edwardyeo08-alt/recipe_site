@@ -140,5 +140,6 @@
   ],
   "chef_tip": "For a nuttier flavour, place the peanuts in a pan over a medium heat. Toast for 3-5 minutes until golden, shifting occasionally. Remove from the pan and roughly chop.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 999
 }

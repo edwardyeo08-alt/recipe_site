@@ -142,5 +142,6 @@
   ],
   "chef_tip": "The purpose of cutting cross-hatch into the duck skin is to allow the fat to melt and leave you with crispy duck skin! If you have any leftover duck fat, keep it for another use",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 865
 }

@@ -98,15 +98,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 341.0,
-    "energy_kcal": 82.0,
+    "energy_kj": 341,
+    "energy_kcal": 82,
     "protein_g": 7.2,
-    "carbs_g": 8.0,
+    "carbs_g": 8,
     "sugars_g": 1.4,
     "fibre_g": 2.3,
-    "fat_g": 2.0,
+    "fat_g": 2,
     "saturated_fat_g": 0.4,
-    "sodium_mg": 205.0
+    "sodium_mg": 205
   },
   "allergens": [
     "Allium",
@@ -114,5 +114,6 @@
   ],
   "chef_tip": "If you don't own a blender, make a rustic bean purée. After simmering your beans, simply mash with a potato masher or fork, pour in the milk or splash of water and mix, mix, mix!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 257
 }

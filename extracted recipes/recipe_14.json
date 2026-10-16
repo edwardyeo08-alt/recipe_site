@@ -112,15 +112,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 451.0,
-    "energy_kcal": 108.0,
-    "protein_g": 8.0,
-    "carbs_g": 7.0,
+    "energy_kj": 451,
+    "energy_kcal": 108,
+    "protein_g": 8,
+    "carbs_g": 7,
     "sugars_g": 1.7,
     "fibre_g": 1.4,
     "fat_g": 3.1,
     "saturated_fat_g": 1.2,
-    "sodium_mg": 132.0
+    "sodium_mg": 132
   },
   "allergens": [
     "Dairy",
@@ -128,5 +128,6 @@
   ],
   "chef_tip": "If you have an air fryer, why not use it to cook the butternut? Coat in oil, season, and pop in the air fryer at 200°C. Cook for 30-35 minutes or until cooked through and crispy.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 577
 }

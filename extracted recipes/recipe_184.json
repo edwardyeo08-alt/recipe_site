@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 409.0,
-    "energy_kcal": 98.0,
+    "energy_kj": 409,
+    "energy_kcal": 98,
     "protein_g": 6.7,
-    "carbs_g": 10.0,
+    "carbs_g": 10,
     "sugars_g": 2.6,
     "fibre_g": 1.9,
     "fat_g": 3.6,
     "saturated_fat_g": 1.3,
-    "sodium_mg": 330.0
+    "sodium_mg": 330
   },
   "allergens": [
     "Dairy",
@@ -136,5 +136,6 @@
   ],
   "chef_tip": "Ingredients of Clark's Kitchen Bourbon BBQ sauce: Tomato paste, Vegetable oil (Canola seed), Vinegar, Molasses, Water, Bourbon (Jack Daniels), Garlic, Salt, Mustard, Spices.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 730
 }

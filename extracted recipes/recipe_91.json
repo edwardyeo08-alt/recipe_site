@@ -119,15 +119,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 291.0,
-    "energy_kcal": 70.0,
+    "energy_kj": 291,
+    "energy_kcal": 70,
     "protein_g": 4.7,
-    "carbs_g": 8.0,
+    "carbs_g": 8,
     "sugars_g": 2.1,
     "fibre_g": 1.3,
     "fat_g": 1.6,
     "saturated_fat_g": 0.3,
-    "sodium_mg": 74.0
+    "sodium_mg": 74
   },
   "allergens": [
     "Allium",
@@ -135,5 +135,6 @@
   ],
   "chef_tip": "Traditionally, the potatoes are peeled, so once cool enough to handle, peel the skin off using a knife, if you fancy and you can crisp them up in the pan with a drizzle of oil and a knob of butter.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 348
 }

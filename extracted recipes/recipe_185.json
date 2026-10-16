@@ -124,15 +124,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 584.0,
-    "energy_kcal": 139.0,
+    "energy_kj": 584,
+    "energy_kcal": 139,
     "protein_g": 7.4,
-    "carbs_g": 8.0,
+    "carbs_g": 8,
     "sugars_g": 3.3,
     "fibre_g": 1.5,
     "fat_g": 8.3,
     "saturated_fat_g": 2.4,
-    "sodium_mg": 72.0
+    "sodium_mg": 72
   },
   "allergens": [
     "Gluten",
@@ -143,5 +143,6 @@
   ],
   "chef_tip": "Remove the rind from the pork belly using a sharp knife. Cut it into strips and roast in the hot oven for delicious crackling!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 892
 }

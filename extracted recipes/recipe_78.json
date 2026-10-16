@@ -140,5 +140,6 @@
   ],
   "chef_tip": "If you don't feel like frying the poppadoms, you can cook them in the microwave! Simply heat them one at a time in 10 second bursts. Do this until puffed up and crispy – about 30 seconds.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 765
 }

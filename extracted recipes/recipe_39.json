@@ -13,67 +13,67 @@
   "ingredients": [
     {
       "name": "Sweet Potato",
-      "quantity": 500.0,
+      "quantity": 500,
       "unit": "g",
       "prep": "rinsed & cut into wedges"
     },
     {
       "name": "Sesame Oil",
-      "quantity": 15.0,
+      "quantity": 15,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Garlic Cloves",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "Fresh Ginger",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "g",
       "prep": "peeled & grated"
     },
     {
       "name": "Fresh Chilli",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "deseeded & finely sliced"
     },
     {
       "name": "White Sesame Seeds",
-      "quantity": 10.0,
+      "quantity": 10,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Edamame Beans",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": "shelled"
     },
     {
       "name": "Cornflour",
-      "quantity": 5.0,
+      "quantity": 5,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Pak Choi",
-      "quantity": 300.0,
+      "quantity": 300,
       "unit": "g",
       "prep": "trimmed at the base"
     },
     {
       "name": "Teriyaki Glaze",
-      "quantity": 120.0,
+      "quantity": 120,
       "unit": "ml",
       "prep": "(65ml Low Sodium Soy Sauce, 45ml Honey & 10ml Rice Wine Vinegar)"
     },
     {
       "name": "Free-range Beef Rump",
-      "quantity": 320.0,
+      "quantity": 320,
       "unit": "g",
       "prep": null
     }
@@ -117,15 +117,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 496.0,
-    "energy_kcal": 118.0,
-    "protein_g": 7.0,
-    "carbs_g": 12.0,
+    "energy_kj": 496,
+    "energy_kcal": 118,
+    "protein_g": 7,
+    "carbs_g": 12,
     "sugars_g": 6.3,
     "fibre_g": 1.4,
     "fat_g": 3.1,
     "saturated_fat_g": 0.7,
-    "sodium_mg": 199.0
+    "sodium_mg": 199
   },
   "allergens": [
     "Gluten",
@@ -137,5 +137,6 @@
   ],
   "chef_tip": "To make sure your sweet potato does get crispy, spread it out with a little space between each piece and don't overcrow the tray – use two trays if necessary.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 950
 }

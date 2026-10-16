@@ -13,73 +13,73 @@
   "ingredients": [
     {
       "name": "Black Rice",
-      "quantity": 150.0,
+      "quantity": 150,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Spice & All Things Nice Balti Curry Paste",
-      "quantity": 20.0,
+      "quantity": 20,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Cashew Nuts",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Onion",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "peeled & finely diced"
     },
     {
       "name": "Carrot",
-      "quantity": 240.0,
+      "quantity": 240,
       "unit": "g",
       "prep": "rinsed, trimmed & finely diced"
     },
     {
       "name": "Garlic Cloves",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "Fresh Chilli",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": null,
       "prep": "deseeded & roughly chopped"
     },
     {
       "name": "Cooked Chopped Tomato",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Coconut Cream",
-      "quantity": 200.0,
+      "quantity": 200,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Free-range Chicken Breasts",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "cut into bite sized pieces"
     },
     {
       "name": "Spinach",
-      "quantity": 100.0,
+      "quantity": 100,
       "unit": "g",
       "prep": "rinsed & roughly shredded"
     },
     {
       "name": "Spring Onions",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "finely sliced"
     }
@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 510.0,
-    "energy_kcal": 122.0,
+    "energy_kj": 510,
+    "energy_kcal": 122,
     "protein_g": 7.1,
-    "carbs_g": 12.0,
+    "carbs_g": 12,
     "sugars_g": 2.5,
     "fibre_g": 2.2,
     "fat_g": 4.7,
     "saturated_fat_g": 2.7,
-    "sodium_mg": 138.0
+    "sodium_mg": 138
   },
   "allergens": [
     "Allium",
@@ -135,5 +135,6 @@
   ],
   "chef_tip": "In Ancient China, black rice was believed to be superior to other types of rice due to its medicinal properties. During cooking, black rice releases a natural black dye, so we advise using a stainless steel pot.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 756
 }

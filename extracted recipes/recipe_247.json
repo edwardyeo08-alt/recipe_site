@@ -1,0 +1,70 @@
+{
+  "recipe_number": 247,
+  "title": "S T Raw Berry Cheesecake Pancake Bowl Pancakes, But No Flippin' Required!",
+  "subtitle": "Cookbook Special • High Protein • Low Calorie • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious s t raw berry cheesecake pancake bowl pancakes, but no flippin' required! with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 10,
+  "overall_time_minutes": 25,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whey Protein Powder",
+      "quantity": 25,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Preheat oven or heat a non-stick pan over medium heat with cooking spray."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Mix measured ingredients together in a prep bowl or blender until well combined."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook or bake until thoroughly done, aromatic, and lightly golden."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Garnish with remaining toppings and enjoy immediately or pack for meal prep."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 20.9,
+    "energy_kcal": 5,
+    "protein_g": 8.3,
+    "carbs_g": 11.7,
+    "sugars_g": 2.9,
+    "fibre_g": 10,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 135
+  },
+  "allergens": [],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 15
+}

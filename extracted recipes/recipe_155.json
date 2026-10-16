@@ -111,15 +111,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 500.0,
-    "energy_kcal": 120.0,
-    "protein_g": 3.0,
-    "carbs_g": 19.0,
-    "sugars_g": 5.0,
-    "fibre_g": 4.0,
+    "energy_kj": 500,
+    "energy_kcal": 120,
+    "protein_g": 3,
+    "carbs_g": 19,
+    "sugars_g": 5,
+    "fibre_g": 4,
     "fat_g": 2.9,
     "saturated_fat_g": 0.6,
-    "sodium_mg": 106.0
+    "sodium_mg": 106
   },
   "allergens": [
     "Allium",
@@ -128,5 +128,6 @@
   ],
   "chef_tip": "In Ancient China, black rice was believed to be superior to other types of rice due to its rich health benefits and powerful medicinal properties. During cooking, it releases a natural dye, so avoid staining by using a stainless steel pot.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 675
 }

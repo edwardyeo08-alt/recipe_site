@@ -1,0 +1,121 @@
+{
+  "recipe_number": 205,
+  "title": "Creamy Chicken Mayo",
+  "subtitle": "High Protein • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious creamy chicken mayo with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 10,
+  "overall_time_minutes": 10,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Brown Bread Slice",
+      "quantity": 100,
+      "unit": "g",
+      "prep": "2 slices"
+    },
+    {
+      "name": "Chicken Breast",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Everything Bagel Seasoning",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Smooth Cottage Cheese",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Light Mayo",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Pickled Onion",
+      "quantity": 15,
+      "unit": "g",
+      "prep": "ed is happy with girkins"
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Spring Onion",
+      "quantity": 1,
+      "unit": null,
+      "prep": "one bunch = many units"
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Prepare all fresh ingredients and season the protein thoroughly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a cooking skillet or oven to appropriate temperature with light cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook the main protein over medium-high heat until nicely browned and cooked through."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 469,
+    "energy_kcal": 112.1,
+    "protein_g": 10.1,
+    "carbs_g": 11.4,
+    "sugars_g": 2.9,
+    "fibre_g": 1.6,
+    "fat_g": 3,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 197
+  },
+  "allergens": [
+    "Dairy",
+    "Gluten",
+    "Wheat"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 490
+}

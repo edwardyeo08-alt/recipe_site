@@ -1,0 +1,139 @@
+{
+  "recipe_number": 204,
+  "title": "Creamy Chicken Lasagna",
+  "subtitle": "High Protein • Low Calorie • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious creamy chicken lasagna with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 45,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "quantity": 12.5,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Chicken Breast",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Feta Cheese",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Milk",
+      "quantity": 125,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Lasagna",
+      "quantity": 25,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Maizena",
+      "quantity": 6.25,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Mushrooms",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "one onion ± 150g"
+    },
+    {
+      "name": "Pinch Thyme",
+      "quantity": 0.25,
+      "unit": null,
+      "prep": "pinch"
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Cooking Spray",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Boil a large pot of salted water and cook the pasta according to package directions until al dente."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "In a separate skillet, brown the protein with minced garlic and herbs over medium heat."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Stir in the sauce and diced vegetables, allowing the flavours to simmer together for 8-10 minutes."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Toss the drained pasta directly into the sauce so every strand is evenly coated."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Garnish with grated parmesan or fresh herbs and divide evenly into meal prep bowls."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 289.5,
+    "energy_kcal": 69.2,
+    "protein_g": 6.8,
+    "carbs_g": 6.3,
+    "sugars_g": 1.6,
+    "fibre_g": 0.4,
+    "fat_g": 1.5,
+    "saturated_fat_g": 0.4,
+    "sodium_mg": 243
+  },
+  "allergens": [
+    "Dairy",
+    "Gluten",
+    "Wheat"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 374
+}

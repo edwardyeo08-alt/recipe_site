@@ -132,7 +132,7 @@
           state.plan = parsed.plan
             .map(p => ({
               id: Number(p.id),
-              portions: Math.max(1, Math.min(12, Number(p.portions) || 4))
+              portions: Math.max(0.25, Math.min(24, Math.round((Number(p.portions) || 4) * 100) / 100))
             }))
             .filter(p => !isNaN(p.id) && p.id > 0);
         }
@@ -257,14 +257,40 @@
     return buildEnrichedRecipe(r, 'Vegetarian');
   }
 
+  function getRecipeCalories(recipe) {
+    if (!recipe) return 0;
+    if (typeof recipe.calories_per_serving === 'number' && recipe.calories_per_serving > 0) {
+      return recipe.calories_per_serving;
+    }
+    const n = recipe.nutrition_per_100g || {};
+    const num = Number(recipe.recipe_number);
+    if (num === 26 || num === 42) {
+      return n.energy_kcal || 700;
+    }
+    let totalW = 0;
+    (recipe.ingredients || []).forEach(i => {
+      let w = i.quantity || 50;
+      if (i.unit === 'kg') w *= 1000;
+      else if (i.unit === 'tsp') w *= 4;
+      else if (i.unit === 'tbsp') w *= 12;
+      else if (!i.unit) w = 60;
+      totalW += w;
+    });
+    if (totalW < 100) totalW = 300;
+    const servingW = totalW / (recipe.servings || 1);
+    return Math.round(servingW * ((n.energy_kcal || 120) / 100));
+  }
+
   function buildEnrichedRecipe(r, protein) {
     const ingText = (r.ingredients || []).map(i => i.name).join(' ').toLowerCase();
     const numStr = String(r.recipe_number).padStart(2, '0');
     const imagePath = `extracted recipes/recipe_${numStr}_dish.jpg`;
+    const calories_per_serving = getRecipeCalories(r);
 
     return {
       ...r,
       protein,
+      calories_per_serving,
       imagePath,
       searchCorpus: `${r.title} ${r.subtitle || ''} ${r.chef || ''} ${r.category || ''} ${protein} ${ingText}`.toLowerCase()
     };
@@ -691,7 +717,8 @@
     const item = state.plan.find(p => Number(p.id) === numId);
     if (!item) return;
 
-    item.portions = Math.max(1, Math.min(12, Number(newPortions) || 4));
+    const rounded = Math.round(Number(newPortions) * 100) / 100;
+    item.portions = Math.max(0.25, Math.min(24, rounded));
     saveState();
     updateBadgeCounts();
     renderPlan();
@@ -808,17 +835,30 @@
 
       totalPortions += item.portions;
 
+      const portionDisplay = Number.isInteger(item.portions)
+        ? item.portions
+        : item.portions.toFixed(2).replace(/\.?0+$/, '');
+      const portionLabel = item.portions === 1 ? 'portion' : 'portions';
+
+      const cals = getRecipeCalories(recipe);
+
       const card = document.createElement('div');
       card.className = 'plan-item-card';
       card.innerHTML = `
         <img src="${recipe.imagePath}" alt="${escapeHtml(recipe.title)}" class="plan-item-img" loading="lazy">
         <div class="plan-item-info">
           <h4 class="plan-item-title">${escapeHtml(recipe.title)}</h4>
-          <span class="plan-item-meta">Default: ${recipe.servings} servings | ⏱ ${recipe.overall_time_minutes || 45}m</span>
+          <div class="plan-item-meta">
+            <span>Default: ${recipe.servings} serv</span>
+            <span>•</span>
+            <span>⏱ ${recipe.overall_time_minutes || 45}m</span>
+            <span>•</span>
+            <span class="plan-item-cal">🔥 ${cals} kcal / 1 serving</span>
+          </div>
         </div>
         <div class="portion-stepper" aria-label="Portion stepper">
           <button class="stepper-btn" data-action="decrement" aria-label="Decrease portions">-</button>
-          <span class="stepper-val">${item.portions} portions</span>
+          <span class="stepper-val">${portionDisplay} ${portionLabel}</span>
           <button class="stepper-btn" data-action="increment" aria-label="Increase portions">+</button>
         </div>
         <button class="plan-item-remove-btn" title="Remove meal from plan" aria-label="Remove meal">
@@ -826,12 +866,12 @@
         </button>
       `;
 
-      // Stepper button events
+      // Stepper button events (0.25 portion increments)
       card.querySelector('[data-action="decrement"]').addEventListener('click', () => {
-        setPlanPortions(planId, item.portions - 1);
+        setPlanPortions(planId, Math.round((item.portions - 0.25) * 100) / 100);
       });
       card.querySelector('[data-action="increment"]').addEventListener('click', () => {
-        setPlanPortions(planId, item.portions + 1);
+        setPlanPortions(planId, Math.round((item.portions + 0.25) * 100) / 100);
       });
       card.querySelector('.plan-item-remove-btn').addEventListener('click', () => {
         removeRecipeFromPlan(planId);
@@ -841,7 +881,7 @@
     });
 
     elements.planTotalMeals.textContent = planItems.length;
-    elements.planTotalPortions.textContent = totalPortions;
+    elements.planTotalPortions.textContent = Math.round(totalPortions * 100) / 100;
     elements.planItemsList.appendChild(fragment);
 
     const shoppingItems = calculateAggregatedShopping();
@@ -1347,6 +1387,10 @@ Please start now by greeting me, introducing the dish and portion count, and tel
         </li>
       `).join('');
 
+      const cals = getRecipeCalories(recipe);
+      const totalPlannedCals = Math.round(cals * planItem.portions);
+      const calSuffix = planItem.portions !== 1 ? ` (${totalPlannedCals} kcal for ${planItem.portions} portions)` : '';
+
       card.innerHTML = `
         <div class="cook-header-row">
           <img src="${recipe.imagePath}" alt="${escapeHtml(recipe.title)}" class="cook-dish-img" loading="lazy">
@@ -1355,7 +1399,8 @@ Please start now by greeting me, introducing the dish and portion count, and tel
             <p class="cook-subtitle">${escapeHtml(recipe.subtitle || '')}</p>
             <div class="cook-meta-chips">
               <span class="cook-meta-tag">🍽️ Scaled to: <strong>${planItem.portions} portions</strong></span>
-              <span class="cook-meta-tag">⏱ Total Time: ${recipe.overall_time_minutes || 45} mins</span>
+              <span class="cook-meta-tag">⏱ Prep: ${recipe.hands_on_time_minutes || 15}m (Total: ${recipe.overall_time_minutes || 45}m)</span>
+              <span class="cook-meta-tag">🔥 <strong>${cals} kcal</strong> per 1 serving${calSuffix}</span>
               <span class="cook-meta-tag">👨‍🍳 By ${escapeHtml(recipe.chef || 'Chef')}</span>
               <button class="btn-voice-prompt print-hide" data-action="copy-ai-prompt" data-id="${planId}" title="Copy hands-free AI voice cooking prompt for Gemini or ChatGPT">
                 <span class="voice-prompt-icon">🎙️</span>
@@ -1481,9 +1526,10 @@ Please start now by greeting me, introducing the dish and portion count, and tel
         <h2 id="modalTitle" class="modal-title">${escapeHtml(recipe.title)}</h2>
         <p class="modal-subtitle">${escapeHtml(recipe.subtitle || recipe.description || '')}</p>
 
-        <div style="display: flex; gap: 8px; margin-bottom: 14px; flex-wrap: wrap;">
+        <div style="display: flex; gap: 8px; margin-bottom: 14px; flex-wrap: wrap; align-items: center;">
           <span class="badge badge-protein">${escapeHtml(recipe.protein)}</span>
-          <span class="badge badge-time">⏱ ${recipe.overall_time_minutes || 45} mins</span>
+          <span class="badge badge-time">⏱ Prep: ${recipe.hands_on_time_minutes || 15}m (Total: ${recipe.overall_time_minutes || 45}m)</span>
+          <span class="badge" style="background: var(--primary-light); color: var(--primary); font-weight: 700;">🔥 ${getRecipeCalories(recipe)} kcal / 1 serving</span>
           <span class="badge" style="background: var(--bg-subtle); color: var(--text);">👨‍🍳 ${escapeHtml(recipe.chef || 'Chef')}</span>
         </div>
 

@@ -6,9 +6,9 @@ Write-Host "Found $($files.Count) dish images to resize."
 
 $codec = [System.Drawing.Imaging.ImageCodecInfo]::GetImageEncoders() | Where-Object { $_.MimeType -eq "image/jpeg" }
 $encoderParams = New-Object System.Drawing.Imaging.EncoderParameters(1)
-$encoderParams.Param[0] = New-Object System.Drawing.Imaging.EncoderParameter([System.Drawing.Imaging.Encoder]::Quality, [long]75)
+$encoderParams.Param[0] = New-Object System.Drawing.Imaging.EncoderParameter([System.Drawing.Imaging.Encoder]::Quality, [long]60)
 
-$maxDim = 640.0
+$maxDim = 520.0
 $totalBefore = 0
 $totalAfter = 0
 $count = 0
@@ -25,12 +25,7 @@ foreach ($file in $files) {
         $origH = $orig.Height
 
         $ratio = [Math]::Min($maxDim / $origW, $maxDim / $origH)
-        if ($ratio -ge 1.0) {
-            # Already smaller than maxDim
-            $orig.Dispose()
-            $totalAfter += $fileSizeBefore
-            continue
-        }
+        if ($ratio -gt 1.0) { $ratio = 1.0 }
 
         $newW = [int]($origW * $ratio)
         $newH = [int]($origH * $ratio)
@@ -57,7 +52,7 @@ foreach ($file in $files) {
         $totalAfter += $fileSizeAfter
         $count++
 
-        if ($count % 20 -eq 0 -or $count -eq $files.Count) {
+        if ($count % 30 -eq 0 -or $count -eq $files.Count) {
             Write-Host "Resized $count / $($files.Count) images... Current total: $([Math]::Round($totalAfter / 1MB, 2)) MB"
         }
     } catch {

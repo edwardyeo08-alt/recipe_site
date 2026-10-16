@@ -744,21 +744,30 @@ button:disabled {
   background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: var(--radius-md);
-  padding: 14px;
+  padding: 14px 16px;
   box-shadow: var(--shadow-sm);
   display: grid;
-  grid-template-columns: 80px 1fr;
-  gap: 14px;
+  grid-template-columns: 74px 1fr auto;
+  grid-template-rows: auto auto;
+  grid-template-areas:
+    "img info remove"
+    "img stepper remove";
+  gap: 10px 14px;
   align-items: center;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 650px) {
   .plan-item-card {
-    grid-template-columns: 100px 1fr auto auto;
+    grid-template-columns: 88px 1fr auto auto;
+    grid-template-rows: auto;
+    grid-template-areas: "img info stepper remove";
+    gap: 18px;
+    padding: 16px 20px;
   }
 }
 
 .plan-item-img {
+  grid-area: img;
   width: 100%;
   aspect-ratio: 1;
   border-radius: var(--radius-sm);
@@ -767,6 +776,7 @@ button:disabled {
 }
 
 .plan-item-info {
+  grid-area: info;
   min-width: 0;
 }
 
@@ -778,17 +788,36 @@ button:disabled {
 }
 
 .plan-item-meta {
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   color: var(--text-muted);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 6px;
+  line-height: 1.35;
+}
+
+.plan-item-cal {
+  font-weight: 700;
+  color: var(--primary);
+  background: var(--primary-light);
+  padding: 1px 7px;
+  border-radius: var(--radius-full);
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  white-space: nowrap;
 }
 
 .portion-stepper {
+  grid-area: stepper;
   display: inline-flex;
   align-items: center;
   background: var(--bg-subtle);
   border: 1px solid var(--border);
   border-radius: var(--radius-full);
-  padding: 2px;
+  padding: 3px;
+  justify-self: start;
 }
 
 .stepper-btn {
@@ -803,35 +832,54 @@ button:disabled {
   align-items: center;
   justify-content: center;
   box-shadow: var(--shadow-sm);
-  transition: transform 0.1s ease;
+  transition: transform 0.1s ease, background 0.15s ease;
+  user-select: none;
+}
+.stepper-btn:hover {
+  background: var(--card-hover);
 }
 .stepper-btn:active {
   transform: scale(0.9);
 }
 
 .stepper-val {
-  min-width: 70px;
+  min-width: 96px;
   text-align: center;
   font-size: 0.85rem;
   font-weight: 700;
   color: var(--text);
-  padding: 0 6px;
+  padding: 0 8px;
+  white-space: nowrap;
+  user-select: none;
 }
 
 .plan-item-remove-btn {
-  width: 36px;
-  height: 36px;
+  grid-area: remove;
+  width: 40px;
+  height: 40px;
   border-radius: var(--radius-sm);
-  color: var(--text-light);
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.1rem;
+  font-size: 1.15rem;
+  cursor: pointer;
   transition: all 0.15s ease;
+  justify-self: end;
+  align-self: center;
+  flex-shrink: 0;
+  margin-left: 12px;
 }
 .plan-item-remove-btn:hover {
   color: var(--danger);
   background: var(--danger-light);
+  border-color: rgba(186, 51, 41, 0.3);
+  transform: scale(1.05);
+}
+.plan-item-remove-btn:active {
+  transform: scale(0.95);
 }
 
 /* ==========================================================================
@@ -1500,6 +1548,18 @@ button:disabled {
   .cook-dish-img {
     max-width: 140px;
     height: auto;
+  }
+
+  .cook-meta-chips {
+    gap: 6px !important;
+  }
+
+  .cook-meta-tag {
+    background: #FFFFFF !important;
+    border: 1px solid #CCC !important;
+    color: #000000 !important;
+    font-size: 8.5pt !important;
+    padding: 2px 6px !important;
   }
 
   .cook-ingredients-box {

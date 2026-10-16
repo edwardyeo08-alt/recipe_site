@@ -119,15 +119,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 704.0,
-    "energy_kcal": 168.0,
+    "energy_kj": 704,
+    "energy_kcal": 168,
     "protein_g": 13.5,
-    "carbs_g": 25.0,
+    "carbs_g": 25,
     "sugars_g": 2.1,
-    "fibre_g": 6.0,
+    "fibre_g": 6,
     "fat_g": 2.4,
     "saturated_fat_g": 0.7,
-    "sodium_mg": 26.0
+    "sodium_mg": 26
   },
   "allergens": [
     "Dairy",
@@ -135,5 +135,6 @@
   ],
   "chef_tip": "Your mint and coriander have been packaged together to prevent the use of unnecessary extra plastic. If you struggle to tell the difference between them, do a quick online search to find some pics for reference!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 685
 }

@@ -111,15 +111,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 692.0,
-    "energy_kcal": 165.0,
+    "energy_kj": 692,
+    "energy_kcal": 165,
     "protein_g": 8.1,
-    "carbs_g": 17.0,
+    "carbs_g": 17,
     "sugars_g": 2.8,
     "fibre_g": 2.6,
     "fat_g": 5.5,
     "saturated_fat_g": 2.1,
-    "sodium_mg": 52.0
+    "sodium_mg": 52
   },
   "allergens": [
     "Gluten",
@@ -132,5 +132,6 @@
   ],
   "chef_tip": "Mixing pasta water into your sauce is a great way to enhance it! The starch content adds a silky richness to the texture and the salt content lends extra flavour.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 668
 }

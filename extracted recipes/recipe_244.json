@@ -1,0 +1,95 @@
+{
+  "recipe_number": 244,
+  "title": "Feta Breakfast Frittata",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein feta breakfast frittata busy morning? prep this one-pan wonder! this cheesy egg bake comes together in minutes and makes not one, but four big, beautiful slices. bake it, slice it, and you've got a heat-and-eat brekkie that feels straight-up gourmet girl! [e prep: 10 mins total: 30 mins protein carbs fibre 16 g 4 serving calories 3 ingredients 3 whole eggs 200g egg whites (7) 125g mushrooms ioog cherry tomatoes 40g baby spinach 60g fat-free feta instructions 1. preheat the oven or air fryer to 1800c. 2. slice the mushrooms and cherry tomatoes. 20g mature cheddar cheese 1 tsp garlic powder salt & pepper chilli flakes (optional) spray & cook 3.1n a large bowl, whisk together the egg whites, whole eggs, garlic powder, salt, and pepper. 4. stir in the mushrooms, cherry tomatoes, and baby spinach. 5. lightly spray a non-stick baking tray with cooking spray. 6. pour the egg and veggie mixture into the prepared tray. 7.sprinkie the crumbled feta and grated cheddar evenly over the top. 8.air fry for 20 minutes or bake for 25 minutes, until the eggs are set and the top is lightly golden. 9. cut into 4 equal slices and serve warm - or store for meal prep! pro 4ip: serve wi+h a crus}y slice of bread and some smashed avocado/ no}es: meal prep friendly from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 10,
+  "overall_time_minutes": 20,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whey Protein Powder",
+      "quantity": 25,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Preheat the oven or air fryer to 180°C."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Slice the mushrooms and cherry tomatoes. 20g Mature Cheddar Cheese 1 Tsp Garlic Powder Salt & Pepper Chilli Flakes (Optional) Spray & Cook"
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "1n a large bowl, whisk together the egg whites, whole eggs, garlic powder, salt, and pepper."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Stir in the mushrooms, cherry tomatoes, and baby spinach."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Lightly spray a non-stick baking tray with cooking spray."
+    },
+    {
+      "step": 6,
+      "title": "",
+      "text": "Pour the egg and veggie mixture into the prepared tray."
+    },
+    {
+      "step": 7,
+      "title": "",
+      "text": "SprinkIe the crumbled feta and grated cheddar evenly over the top."
+    },
+    {
+      "step": 8,
+      "title": "",
+      "text": "Air fry for 20 minutes or bake for 25 minutes, until the eggs are set and the top is lightly golden."
+    },
+    {
+      "step": 9,
+      "title": "",
+      "text": "Cut into 4 equal slices and serve warm - or store for meal prep!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 502.1,
+    "energy_kcal": 120,
+    "protein_g": 8,
+    "carbs_g": 11.7,
+    "sugars_g": 2.9,
+    "fibre_g": 5.3,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 135
+  },
+  "allergens": [],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 360
+}

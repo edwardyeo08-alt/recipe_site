@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 617.0,
-    "energy_kcal": 147.0,
+    "energy_kj": 617,
+    "energy_kcal": 147,
     "protein_g": 6.6,
-    "carbs_g": 16.0,
+    "carbs_g": 16,
     "sugars_g": 2.9,
     "fibre_g": 1.8,
-    "fat_g": 6.0,
+    "fat_g": 6,
     "saturated_fat_g": 2.8,
-    "sodium_mg": 223.0
+    "sodium_mg": 223
   },
   "allergens": [
     "Gluten",
@@ -138,5 +138,6 @@
   ],
   "chef_tip": "Ensure that the squid is patted completely dry before marinating it. Fry it in batches if necessary to avoid overcrowding the pan and ending up with mushy or tough squid, instead of deliciously crispy squid!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 595
 }

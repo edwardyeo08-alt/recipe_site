@@ -100,15 +100,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 472.0,
-    "energy_kcal": 113.0,
+    "energy_kj": 472,
+    "energy_kcal": 113,
     "protein_g": 6.9,
-    "carbs_g": 10.0,
+    "carbs_g": 10,
     "sugars_g": 3.1,
     "fibre_g": 2.2,
     "fat_g": 3.3,
     "saturated_fat_g": 0.8,
-    "sodium_mg": 89.0
+    "sodium_mg": 89
   },
   "allergens": [
     "Allium",
@@ -117,5 +117,6 @@
   ],
   "chef_tip": "Tomatoes are high in antioxidants and vitamin C. Cherry tomatoes in particular have a slightly higher beta-carotene content than regular, large tomatoes.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 688
 }

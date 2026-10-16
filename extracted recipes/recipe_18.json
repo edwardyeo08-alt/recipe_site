@@ -114,15 +114,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 536.0,
-    "energy_kcal": 128.0,
+    "energy_kj": 536,
+    "energy_kcal": 128,
     "protein_g": 7.2,
-    "carbs_g": 9.0,
+    "carbs_g": 9,
     "sugars_g": 2.1,
     "fibre_g": 1.1,
     "fat_g": 4.9,
-    "saturated_fat_g": 1.0,
-    "sodium_mg": 89.0
+    "saturated_fat_g": 1,
+    "sodium_mg": 89
   },
   "allergens": [
     "Allium",
@@ -130,5 +130,6 @@
   ],
   "chef_tip": "Meat continues to cook while resting. Remember this when cooking the beef rump to your preference.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 719
 }

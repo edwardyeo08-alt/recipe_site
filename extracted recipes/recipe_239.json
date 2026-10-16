@@ -1,0 +1,120 @@
+{
+  "recipe_number": 239,
+  "title": "Fancy Protein French Toast",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein fancy protein french toast golden and gorgeous - this french toast is as fast as she is fancy! top with a dollop of yogurt. fresh berries, and a drizzle of honey. bon app‚tit. ma ch‚rie! [ed prep: 10 mins total: 10 mins 1 serving calories 2 lopping; protein carbs fat fibre 29 g 61 g ingredients 1 whole egg 90g egg whites (3) 3 slices of low kj bread or 2 slices brown (ioog) 3g powdered sweetener* i tsp vanilla essence pinch salt h tsp cinnamon spray & cook instructions 50g low-fat greek/plain yoghurt 60g strawberries 10g honey extra cinnamon & sweetener (optional) i.in a bowl, whisk together the egg, egg whites, sweetener, vanilla essence, salt, and cinnamon. 2. heat a non-stick pan over medium heat and lightly spray with cooking spray. 3. dip each slice of bread into the egg mixture, coating both sides well. 4.place the soaked bread into the pan and cook for a few minutes on each side until golden brown. 5. transfer to a plate and top with yoghurt, sliced strawberries, and a drizzle of honey. 6.sprinkie with extra cinnamon and sweetener if desired - dig in! 4ip: use sugar-free syrup or your favourife nd buáer 40 jazz fhese up a liále more/ no'es: from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 10,
+  "overall_time_minutes": 20,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Egg",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Egg Whites",
+      "quantity": 90,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Brown Bread Slice",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Low Fat Greek Yoghurt",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fresh Strawberries",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "sliced"
+    },
+    {
+      "name": "Honey",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Ground Cinnamon",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "50g Low-Fat Greek/Plain Yoghurt 60g Strawberries 10g Honey Extra Cinnamon & Sweetener (Optional)"
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "In a bowl, whisk together the egg, egg whites, sweetener, vanilla essence, salt, and cinnamon."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Heat a non-stick pan over medium heat and lightly spray with cooking spray."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Dip each slice of bread into the egg mixture, coating both sides well."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Place the soaked bread into the pan and cook for a few minutes on each side until golden brown."
+    },
+    {
+      "step": 6,
+      "title": "",
+      "text": "Transfer to a plate and top with yoghurt, sliced strawberries, and a drizzle of honey."
+    },
+    {
+      "step": 7,
+      "title": "",
+      "text": "SprinkIe with extra cinnamon and sweetener if desired - dig in! 4ip: use sugar-free syrup or your favourife nd buáer 40 jazz fhese up a liále more/ No'es:"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 453.5,
+    "energy_kcal": 108.4,
+    "protein_g": 7.2,
+    "carbs_g": 10.5,
+    "sugars_g": 2.6,
+    "fibre_g": 8.7,
+    "fat_g": 3,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 149
+  },
+  "allergens": [
+    "Dairy",
+    "Gluten",
+    "Wheat",
+    "Egg"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 360
+}

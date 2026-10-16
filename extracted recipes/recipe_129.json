@@ -13,61 +13,61 @@
   "ingredients": [
     {
       "name": "Pumpkin Seeds",
-      "quantity": 30.0,
+      "quantity": 30,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Butternut Gnocchi",
-      "quantity": 525.0,
+      "quantity": 525,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Onions",
-      "quantity": 2.0,
+      "quantity": 2,
       "unit": null,
       "prep": "1½ peeled & finely diced"
     },
     {
       "name": "Carrot",
-      "quantity": 360.0,
+      "quantity": 360,
       "unit": "g",
       "prep": "rinsed, trimmed & roughly chopped"
     },
     {
       "name": "Garlic Cloves",
-      "quantity": 3.0,
+      "quantity": 3,
       "unit": null,
       "prep": "peeled & grated"
     },
     {
       "name": "Cooked Chopped Tomato",
-      "quantity": 600.0,
+      "quantity": 600,
       "unit": "g",
       "prep": null
     },
     {
       "name": "Streaky Pork Bacon",
-      "quantity": 9.0,
+      "quantity": 9,
       "unit": "strips",
       "prep": null
     },
     {
       "name": "Spinach",
-      "quantity": 60.0,
+      "quantity": 60,
       "unit": "g",
       "prep": "rinsed"
     },
     {
       "name": "Grated Italian-style Hard Cheese",
-      "quantity": 90.0,
+      "quantity": 90,
       "unit": "ml",
       "prep": null
     },
     {
       "name": "Fresh Parsley",
-      "quantity": 12.0,
+      "quantity": 12,
       "unit": "g",
       "prep": "rinsed, picked & roughly chopped"
     }
@@ -108,15 +108,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 438.0,
-    "energy_kcal": 105.0,
+    "energy_kj": 438,
+    "energy_kcal": 105,
     "protein_g": 4.3,
-    "carbs_g": 14.0,
+    "carbs_g": 14,
     "sugars_g": 2.8,
     "fibre_g": 2.2,
-    "fat_g": 3.0,
-    "saturated_fat_g": 1.0,
-    "sodium_mg": 236.0
+    "fat_g": 3,
+    "saturated_fat_g": 1,
+    "sodium_mg": 236
   },
   "allergens": [
     "Egg",
@@ -129,5 +129,6 @@
   ],
   "chef_tip": "Make sure you use a large enough pot to boil the gnocchi, so that they don't end up sticking together from overcrowding. You can boil them in batches if necessary.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 632
 }

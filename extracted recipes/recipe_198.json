@@ -1,0 +1,125 @@
+{
+  "recipe_number": 198,
+  "title": "Boss Burger & Fries",
+  "subtitle": "High Protein • Low Calorie • Meal Prep Friendly",
+  "description": "Nutritious, delicious boss burger & fries with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 20,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Baby Lettuce",
+      "quantity": 25,
+      "unit": "g",
+      "prep": "one head ± 450g"
+    },
+    {
+      "name": "Brown Hamburger Roll",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "one roll ± 60g"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "quantity": 15,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Everything Bagel Seasoning",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Extra Lean Beef Mince",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Gherkins",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Cooking Spray",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Tomato",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Zucchini",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Shape the lean mince or patties into even rounds, seasoning generously with salt, pepper, and garlic powder."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Preheat a heavy skillet or grill pan over medium-high heat with cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Sear the burger patties for 4-5 minutes per side until cooked through and nicely charred."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Lightly toast the burger buns. If making homemade fries, air fry the potato wedges at 200°C for 18-20 minutes."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Assemble each burger with crisp lettuce, fresh tomato slices, sauce, and the cooked patties. Serve hot!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 213,
+    "energy_kcal": 50.9,
+    "protein_g": 4.9,
+    "carbs_g": 5.3,
+    "sugars_g": 1.3,
+    "fibre_g": 0.9,
+    "fat_g": 1,
+    "saturated_fat_g": 0.3,
+    "sodium_mg": 306
+  },
+  "allergens": [
+    "Dairy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 346
+}

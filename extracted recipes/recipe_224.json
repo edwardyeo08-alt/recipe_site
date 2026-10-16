@@ -1,0 +1,128 @@
+{
+  "recipe_number": 224,
+  "title": "Toasty Tuna Pita Pocket",
+  "subtitle": "High Protein • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious toasty tuna pita pocket with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Lunch",
+  "servings": 1,
+  "hands_on_time_minutes": 10,
+  "overall_time_minutes": 10,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "quantity": 30,
+      "unit": "g",
+      "prep": "small avo ±140g"
+    },
+    {
+      "name": "Baby Cucumber",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Everything Bagel Seasoning",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Feta Cheese",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Light Mayo",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Onion",
+      "quantity": 75,
+      "unit": "g",
+      "prep": "one onion ± 150g"
+    },
+    {
+      "name": "Rosa Tomatoes",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Tuna in Brine",
+      "quantity": 120,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Wholewheat Pita Bread",
+      "quantity": 1,
+      "unit": null,
+      "prep": "medium, 80g each"
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Prepare all fresh ingredients and season the protein thoroughly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a cooking skillet or oven to appropriate temperature with light cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook the main protein over medium-high heat until nicely browned and cooked through."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 343.9,
+    "energy_kcal": 82.2,
+    "protein_g": 7.3,
+    "carbs_g": 9.5,
+    "sugars_g": 2.4,
+    "fibre_g": 1.8,
+    "fat_g": 1.8,
+    "saturated_fat_g": 0.5,
+    "sodium_mg": 245
+  },
+  "allergens": [
+    "Dairy",
+    "Gluten",
+    "Wheat",
+    "Fish & Seafood"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 448
+}

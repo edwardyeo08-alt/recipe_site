@@ -1,0 +1,80 @@
+{
+  "recipe_number": 236,
+  "title": "Wake Me Up Chocolate Overnight Oats",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein wake me up chocolate overnight oats a chocolate lover's dream! these rich, double choc overnight oats bring together the perfect mix of creamy, crunchy, and fruity - finished with a cheeky hit of cadbury flake. because honestly, can a day be bad after a start like this? [e prep: 15 mins c) total: 1-2 hours/ overnight ingredients 35g rolled oats serving calories 8 iqpplng; protein carbs f at fibre 25g 48 g 15 g iog whey protein powder (vanilla) ioog almond unsweetend milk 65g smooth fat-free cottage cheese 7g cocoa powder 20g all bran flakes 2g powdered sweetener* pinch salt 1/2 tsp cinnamon instructions 40g blueberries 40g raspberries 8g flake cadbury 1. in a bowl, combine the rolled oats, almond milk, cottage cheese, all bran flakes, cocoa powder, whey protein, salt, cinnamon, and sweetener. mix well. 2. transfer to a serving bowl and smooth the top with the back of a spoon. 3. top with blueberries, raspberries, and crumbled flake chocolate. 4. cover and refrigerate for a few hours or overnight. 5.serve chilled and enjoy! these are meal prep magic - }hey only gel leger by 'he day/ for 'he freshes' flavor, add 'he frui'jus/ before serving. meal prep friendly freezer friendly x tried it favourite from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 25,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whey Protein Powder",
+      "quantity": 25,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "40g Blueberries 40g Raspberries 8g Flake Cadbury"
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "In a bowl, combine the rolled oats, almond milk, cottage cheese, All Bran Flakes, cocoa powder, whey protein, salt, cinnamon, and sweetener. Mix well."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Transfer to a serving bowl and smooth the top with the back of a spoon."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Top with blueberries, raspberries, and crumbled Flake chocolate."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Cover and refrigerate for a few hours or overnight."
+    },
+    {
+      "step": 6,
+      "title": "",
+      "text": "Serve chilled and enjoy! These are meal prep magic - }hey only gel Leger by 'he day/ For 'he freshes' flavor, add 'he frui'jus/ before serving. Meal Prep Friendly Freezer Friendly x TRIED IT FAVOURITE"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 502.1,
+    "energy_kcal": 120,
+    "protein_g": 8,
+    "carbs_g": 11.7,
+    "sugars_g": 2.9,
+    "fibre_g": 8.3,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 135
+  },
+  "allergens": [],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 360
+}

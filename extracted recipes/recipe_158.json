@@ -158,5 +158,6 @@
   ],
   "chef_tip": "Your mint and coriander have been packaged together to prevent the use of unnecessary extra plastic. If you struggle to tell the difference between them, do a quick online search to find some pics for reference!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 494
 }

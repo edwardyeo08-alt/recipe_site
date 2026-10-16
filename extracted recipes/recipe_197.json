@@ -1,0 +1,131 @@
+{
+  "recipe_number": 197,
+  "title": "Bold Cheesy Beef Gnocchi",
+  "subtitle": "High Protein • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious bold cheesy beef gnocchi with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 15,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Baby Spinach",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Cajun Spice",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Cheddar Cheese",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Extra Lean Beef Mince",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Gnocchi",
+      "quantity": 150,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Mushrooms",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Rosa Tomatoes",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Salt And Pepper",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Cooking Spray",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Tomato & Basil Pasta Sauce",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Bring a pot of salted water to a rolling boil and cook the gnocchi for 2-3 minutes until they float, then drain."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a skillet over medium heat with cooking spray. Brown the lean mince with diced onion and seasonings."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Pour in marinara sauce or passata and simmer on low for 5 minutes until rich and fragrant."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Gently fold the boiled gnocchi into the simmering beef sauce."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Top with cheese, cover with a lid for 2 minutes until melted and bubbly, then portion out."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 327.6,
+    "energy_kcal": 78.3,
+    "protein_g": 5.2,
+    "carbs_g": 6.1,
+    "sugars_g": 1.5,
+    "fibre_g": 0.7,
+    "fat_g": 3.4,
+    "saturated_fat_g": 1,
+    "sodium_mg": 249
+  },
+  "allergens": [
+    "Dairy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 434
+}

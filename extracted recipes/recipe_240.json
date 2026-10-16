@@ -1,0 +1,70 @@
+{
+  "recipe_number": 240,
+  "title": "Tropical Parfait Zing",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein tropical parfait zing a tropical summer in a glass! this brekkie parfait layers juicy mango, sweet pineapple, and creamy yoghurt with golden, honey-toasted oats for the perfect crunchy contrast. [e prep: 15 mins total: 15 mins 1 serving calories 3b protein carbs fat fibre 13 g 60 g ingredients 20g rolled oats ioog mango ioog pineapple 250g low-fat plain/greek yoghurt iog honey h tsp cinnamon instructions 1. heat a non-stick pan over medium heat. 2.add the rolled oats, cinnamon, and honey, stirring occasionally until golden brown and fragrant. remove from heat and let cool. 3. peel the pineapple and mango and cut into small bite-sized cubes. 4. in a glass or serving bowl, layer the fruit, yoghurt, and toasted oats until all ingredients are used - smile and savour! no}es: from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 25,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whey Protein Powder",
+      "quantity": 25,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Heat a non-stick pan over medium heat."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Add the rolled oats, cinnamon, and honey, stirring occasionally until golden brown and fragrant. Remove from heat and let cool."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Peel the pineapple and mango and cut into small bite-sized cubes."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "In a glass or serving bowl, layer the fruit, yoghurt, and toasted oats until all ingredients are used - smile and savour!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 502.1,
+    "energy_kcal": 120,
+    "protein_g": 8,
+    "carbs_g": 11.7,
+    "sugars_g": 2.9,
+    "fibre_g": 4.3,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 135
+  },
+  "allergens": [],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 360
+}

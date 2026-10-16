@@ -108,15 +108,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 366.0,
-    "energy_kcal": 88.0,
+    "energy_kj": 366,
+    "energy_kcal": 88,
     "protein_g": 7.2,
-    "carbs_g": 11.0,
+    "carbs_g": 11,
     "sugars_g": 3.5,
     "fibre_g": 2.5,
     "fat_g": 1.3,
     "saturated_fat_g": 0.5,
-    "sodium_mg": 49.0
+    "sodium_mg": 49
   },
   "allergens": [
     "Egg",
@@ -125,5 +125,6 @@
   ],
   "chef_tip": "To prevent the coating from sticking to your hands instead of the schnitzel, make sure to use one hand to coat in the egg mixture and the other hand to coat in the flour.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 658
 }

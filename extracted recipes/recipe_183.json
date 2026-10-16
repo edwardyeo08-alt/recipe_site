@@ -119,10 +119,10 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 470.0,
-    "energy_kcal": 112.0,
+    "energy_kj": 470,
+    "energy_kcal": 112,
     "protein_g": 7.4,
-    "carbs_g": 11.0,
+    "carbs_g": 11,
     "sugars_g": 3.6,
     "fibre_g": 1.5,
     "fat_g": 3.7,
@@ -137,5 +137,6 @@
   ],
   "chef_tip": "Garlic contains an amino acid called allicin, which has antiviral and antibacterial properties and has also been shown to reduce inflammation. Plus, these little nuggets make any savoury dish just that much more flavourful!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 862
 }

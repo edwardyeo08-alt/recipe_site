@@ -1,0 +1,132 @@
+{
+  "recipe_number": 243,
+  "title": "Glazed Churro Baked Oats",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein glazed churro baked oats fashioned after a crunchy, cinnamon-dusted mexican treat, this baked oats is a community favourite for its unbeatable moist cake texture. enjoy warm, loved up with a drizzle of sugar-free syrup or honey! prep: 10 mins total: 20 mins 1 serving (9 v, gf*, protein calories carbs fat 94 fibre igppjng; 1 tsp cinnamon 1 tsp sugar 19 g 44 g ingredients 40g oat flour iog whey protein powder (vanilla) ioog unsweetened almond milk 30g egg white (1) 40g banana (mashed) 3g powdered sweetener* h tsp vanilla essence 1/2 tsp baking powder spray & cook instructions i.preheat the oven to 1800c. 2. lightly spray a small oven-safe dish with cooking spray. 3. in a mixing bowl, combine the oat flour, whey protein powder, baking powder, and sweetener. 4.add the almond milk, egg white, mashed banana, and vanilla essence. mix until smooth. 5. pour the batter into the prepared dish. 6. sprinkle with cinnamon and sugar. 7. bake for 12-15 minutes or until the center is fully cooked. 8.serve warm with sugar-free syrup or honey and enjoy! nofes: from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 10,
+  "overall_time_minutes": 20,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Oat Flour",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whey Protein Powder",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Almond Milk",
+      "quantity": 80,
+      "unit": "ml",
+      "prep": null
+    },
+    {
+      "name": "Egg Whites",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Banana",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "mashed"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Sugar",
+      "quantity": 1,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Baking Powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Lightly spray a small oven-safe dish with cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "In a mixing bowl, combine the oat flour, whey protein powder, baking powder, and sweetener."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Add the almond milk, egg white, mashed banana, and vanilla essence. Mix until smooth."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Pour the batter into the prepared dish."
+    },
+    {
+      "step": 6,
+      "title": "",
+      "text": "Sprinkle with cinnamon and sugar."
+    },
+    {
+      "step": 7,
+      "title": "",
+      "text": "Bake for 12-15 minutes or until the center is fully cooked."
+    },
+    {
+      "step": 8,
+      "title": "",
+      "text": "Serve warm with sugar-free syrup or honey and enjoy! Nofes:"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 665.7,
+    "energy_kcal": 159.1,
+    "protein_g": 10.9,
+    "carbs_g": 15.9,
+    "sugars_g": 4,
+    "fibre_g": 1.8,
+    "fat_g": 42.7,
+    "saturated_fat_g": 12,
+    "sodium_mg": 99
+  },
+  "allergens": [
+    "Dairy",
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Nuts"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 350
+}

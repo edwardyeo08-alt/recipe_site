@@ -144,5 +144,6 @@
   ],
   "chef_tip": "Make sure you use a large enough pot to boil the gnocchi so that they don't end up sticking together from overcrowding. You can boil them in batches if necessary.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 1004
 }

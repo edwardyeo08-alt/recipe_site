@@ -1,0 +1,85 @@
+{
+  "recipe_number": 238,
+  "title": "Berry Baked Oats",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein berry baked oats cake for breakfast? we're in! these berry-studded baked oats are warm, fluffy, and oh-so-filling. if you're after something cute and cozy, just mix, bake, and dive in, doll! 24 g prep: 5 mins k total: 20 mins ingredients 50g oats 90g egg whites (3) serving calories protein carbs fat fibre 80g smooth fat-free cottage cheese 3g powdered sweetener* pinch of salt instructions 1. preheat the oven to 1800c. 1/2 tsp baking powder pinch of cinnamon spray & cook 40g blueberries 40g raspberries 2. in a blender, combine the oats, sweetener. salt, baking powder, cinnamon, egg whites, and cottage cheese. blend until smooth. 3. lightly spray an oven-safe bowl with cooking spray. 4. pour the blended mixture into the bowl and gently fold in the blueberries and raspberries. 5. sprinkle with a little extra cinnamon. 6. bake for 15-20 minutes or until golden brown. 7. serve and enjoy warm! mo} 4ip: if you love a semi-baked, cake \"her-like lex'ure, bake for 12-15 minu+es/ easy subs: frozen berries work perfec+ly here/ i always keep a dash in 'he freezer - no' only are +hey more cos'- effec+ive. +hey day fresh much longer +00/ no/es: meal prep friendly freezer friendly x *see substitutions section 64 tried it favourite from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 5,
+  "overall_time_minutes": 15,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whey Protein Powder",
+      "quantity": 25,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Preheat the oven to 180°C. 1/2 Tsp Baking Powder Pinch of Cinnamon Spray & Cook 40g Blueberries 40g Raspberries"
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "In a blender, combine the oats, sweetener. salt, baking powder, cinnamon, egg whites, and cottage cheese. Blend until smooth."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Lightly spray an oven-safe bowl with cooking spray."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Pour the blended mixture into the bowl and gently fold in the blueberries and raspberries."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Sprinkle with a little extra cinnamon."
+    },
+    {
+      "step": 6,
+      "title": "",
+      "text": "Bake for 15-20 minutes or until golden brown."
+    },
+    {
+      "step": 7,
+      "title": "",
+      "text": "Serve and enjoy warm! Mo} 4ip: If you love a semi-baked, cake \"her-like lex'ure, bake for 12-15 minu+es/ Easy subs: Frozen berries work perfec+ly here/ I always keep a dash in 'he freezer - no' only are +hey more cos'- effec+ive. +hey day fresh much longer +00/ No/es: Meal Prep Friendly Freezer Friendly x *See substitutions section 64 TRIED IT FAVOURITE"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 488.3,
+    "energy_kcal": 116.7,
+    "protein_g": 8,
+    "carbs_g": 11.7,
+    "sugars_g": 2.9,
+    "fibre_g": 26.7,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 135
+  },
+  "allergens": [],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 350
+}

@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 650.0,
-    "energy_kcal": 155.0,
+    "energy_kj": 650,
+    "energy_kcal": 155,
     "protein_g": 7.9,
-    "carbs_g": 13.0,
+    "carbs_g": 13,
     "sugars_g": 1.9,
     "fibre_g": 2.3,
     "fat_g": 7.9,
     "saturated_fat_g": 3.3,
-    "sodium_mg": 273.0
+    "sodium_mg": 273
   },
   "allergens": [
     "Dairy",
@@ -135,5 +135,6 @@
   ],
   "chef_tip": "The butternut skin adds flavour, texture, and nutrients, but can be removed if you prefer!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 998
 }

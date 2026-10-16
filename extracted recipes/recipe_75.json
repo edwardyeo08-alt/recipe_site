@@ -123,15 +123,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 518.0,
-    "energy_kcal": 124.0,
+    "energy_kj": 518,
+    "energy_kcal": 124,
     "protein_g": 5.1,
-    "carbs_g": 13.0,
+    "carbs_g": 13,
     "sugars_g": 2.6,
     "fibre_g": 1.9,
     "fat_g": 5.8,
     "saturated_fat_g": 3.5,
-    "sodium_mg": 274.0
+    "sodium_mg": 274
   },
   "allergens": [
     "Allium",
@@ -140,5 +140,6 @@
   ],
   "chef_tip": "To check if your meatball mince mixture is seasoned enough, first fry a bite-sized piece for 1-2 minutes until cooked through. Taste to test and add more seasoning to the raw mixture if needed.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 986
 }

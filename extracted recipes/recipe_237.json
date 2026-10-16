@@ -1,0 +1,90 @@
+{
+  "recipe_number": 237,
+  "title": "Protein Pumped Eggs & Avo On Toast",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein protein pumped eggs & avo on toast wake up starving? this pretty, protein-pumped avo & egg toast is designed to keep hunger gone for the next 6 hours! finished with microgreens and a sprinkle of ebtb seasoning - you're golden, girl! prep: 15 mins total: 15 mins 1 serving (9 calories 46 protein carbs fat fibre 30 g 56 g 13 g ingredients 1 whole egg 90g egg whites (3) 40g avocado 30g smooth fat-free cottage cheese 2 slices of sourdough/rye bread (ioog) 15g microgreens 1/2 tsp garlic powder salt & pepper ebtb seasoning instructions 1. bring a saucepan of water to a boil. 2.add the eggs and boil for 6 minutes and 30 seconds. transfer to cold water. let cool, then peel. 3. remove the yolks from three eggs, keeping one whole egg and three egg whites. chop them. 4. in a bowl, mash the avocado and mix with cottage cheese, garlic powder, salt. and pepper. 5. toast the sourdough or rye until golden brown. 6. spread the avocado mixture evenly over the toast. 7.top with chopped eggs and microgreens. 8. sprinkle with ebtb seasoning and garnish with extra greens! no+es: meal prep friendly x freezer friendly x tried it from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 15,
+  "overall_time_minutes": 25,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whey Protein Powder",
+      "quantity": 25,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Bring a saucepan Of water to a boil."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Add the eggs and boil for 6 minutes and 30 seconds. Transfer to cold water. let cool, then peel."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Remove the yolks from three eggs, keeping one Whole egg and three egg whites. Chop them."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "In a bowl, mash the avocado and mix with cottage cheese, garlic powder, salt. and pepper."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Toast the sourdough or rye until golden brown."
+    },
+    {
+      "step": 6,
+      "title": "",
+      "text": "Spread the avocado mixture evenly over the toast."
+    },
+    {
+      "step": 7,
+      "title": "",
+      "text": "Top with chopped eggs and microgreens."
+    },
+    {
+      "step": 8,
+      "title": "",
+      "text": "Sprinkle with EBTB seasoning and garnish with extra greens!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 502.1,
+    "energy_kcal": 120,
+    "protein_g": 8,
+    "carbs_g": 11.7,
+    "sugars_g": 2.9,
+    "fibre_g": 10,
+    "fat_g": 3.3,
+    "saturated_fat_g": 0.9,
+    "sodium_mg": 135
+  },
+  "allergens": [],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 360
+}

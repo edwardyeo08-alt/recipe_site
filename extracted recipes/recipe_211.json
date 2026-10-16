@@ -1,0 +1,95 @@
+{
+  "recipe_number": 211,
+  "title": "Mince And Sweet Potatoe",
+  "subtitle": "High Protein • Low Calorie • Meal Prep Friendly",
+  "description": "Nutritious, delicious mince and sweet potatoe with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Dinner",
+  "servings": 1,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 20,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "quantity": 20,
+      "unit": "g",
+      "prep": "small avo ±140g"
+    },
+    {
+      "name": "Extra Lean Beef Mince",
+      "quantity": 100,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Feta Cheese",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Rosa Tomatoes",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Sweet Potato",
+      "quantity": 200,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Prepare all fresh ingredients and season the protein thoroughly."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Heat a cooking skillet or oven to appropriate temperature with light cooking spray."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook the main protein over medium-high heat until nicely browned and cooked through."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Add accompanying vegetables and simmer sauce until rich, thick, and well-blended."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Portion out into meal prep containers or serve hot immediately. Enjoy!"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 418.4,
+    "energy_kcal": 100,
+    "protein_g": 7.7,
+    "carbs_g": 11.5,
+    "sugars_g": 2.9,
+    "fibre_g": 2.1,
+    "fat_g": 2.3,
+    "saturated_fat_g": 0.6,
+    "sodium_mg": 176
+  },
+  "allergens": [
+    "Dairy"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 390
+}

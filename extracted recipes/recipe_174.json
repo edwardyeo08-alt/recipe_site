@@ -118,15 +118,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 581.0,
-    "energy_kcal": 139.0,
+    "energy_kj": 581,
+    "energy_kcal": 139,
     "protein_g": 5.2,
-    "carbs_g": 22.0,
+    "carbs_g": 22,
     "sugars_g": 4.8,
-    "fibre_g": 7.0,
+    "fibre_g": 7,
     "fat_g": 2.9,
     "saturated_fat_g": 0.3,
-    "sodium_mg": 293.0
+    "sodium_mg": 293
   },
   "allergens": [
     "Gluten",
@@ -138,5 +138,6 @@
   ],
   "chef_tip": "For this recipe, you can peel your carrots when prepping them if you don't like the skin – and you have the extra time and energy!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 615
 }

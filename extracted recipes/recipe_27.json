@@ -105,15 +105,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 631.0,
-    "energy_kcal": 151.0,
+    "energy_kj": 631,
+    "energy_kcal": 151,
     "protein_g": 7.9,
-    "carbs_g": 11.0,
+    "carbs_g": 11,
     "sugars_g": 3.5,
-    "fibre_g": 2.0,
+    "fibre_g": 2,
     "fat_g": 8.3,
     "saturated_fat_g": 3.9,
-    "sodium_mg": 152.0
+    "sodium_mg": 152
   },
   "allergens": [
     "Dairy",
@@ -122,5 +122,6 @@
   ],
   "chef_tip": "Meat continues to cook while resting. Remember this when cooking the delicious lamb leg to your preference.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 800
 }

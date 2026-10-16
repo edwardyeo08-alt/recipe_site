@@ -1,0 +1,108 @@
+{
+  "recipe_number": 226,
+  "title": "Veggie Omelette",
+  "subtitle": "High Protein • Low Calorie • Quick & Easy • Meal Prep Friendly",
+  "description": "Nutritious, delicious veggie omelette with balanced macros and simple prep.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 10,
+  "overall_time_minutes": 10,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Baby Spinach",
+      "quantity": 20,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Eggs",
+      "quantity": 1,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Egg Whites",
+      "quantity": 3,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Feta Cheese",
+      "quantity": 10,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Fat-Free Smooth Cottage Cheese",
+      "quantity": 30,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Mushrooms",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Tomato",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Heat a skillet over medium heat with cooking spray and saute peppers, onions, and garlic until soft."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Pour in crushed tomatoes and spices (cumin, paprika, salt, pepper) and let simmer for 5-8 minutes."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Use a spoon to make small wells in the sauce, then crack the eggs gently into each well."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Cover the skillet with a lid and cook on low heat for 5-7 minutes until the egg whites are set but yolks remain soft."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Sprinkle with fresh herbs and crumbled feta, and serve immediately with toasted crusty bread."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 328.9,
+    "energy_kcal": 78.6,
+    "protein_g": 9.6,
+    "carbs_g": 2.1,
+    "sugars_g": 0.5,
+    "fibre_g": 0.4,
+    "fat_g": 2.5,
+    "saturated_fat_g": 0.7,
+    "sodium_mg": 126
+  },
+  "allergens": [
+    "Dairy",
+    "Egg"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 220
+}

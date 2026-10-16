@@ -1,0 +1,128 @@
+{
+  "recipe_number": 232,
+  "title": "Bang In' Breakfast Stack",
+  "subtitle": "Cookbook Special • Meal Prep Friendly",
+  "description": "Delicious, high-protein bang in' breakfast stack dazzling all your classic brekkie flavours, this simple yet sexy stack is egg-ceptional! with jammy eggs, crispy chicken rashers, creamy avo. and perfectly roasted veggies, she's a breakfast beauty you'll be making on repeat. [13 prep: 20 mins @ total: 20 mins 1 serving calories 434 protein carbs fibre 32 g 20 g ingredients 2 whole eggs 40g chicken rashers 60g mushrooms 50g baby tomatoes 50g baby spinach instructions i.heat a non-stick pan and lightly spray with cooking spray. 1 multi-seed sandwich thin 40g avocado salt & pepper chilli flakes (optional) spray & cook 2.chop the mushrooms, spinach, and baby tomatoes, then add them to the pan. season and saut‚ until soft, then remove from the pan and set aside. 3.respray the pan, return to medium heat, and add the chicken rashers. flip after 3 minutes, allowing each side to crisp and cook through. 4.using egg rings, crack the eggs directly into the pan alongside the rashers. cook until the whites are set and the yolks reach your preferred doneness. remove from the pan. 5. toast the multiseed sandwich thin until golden brown. 6.spread the avocado evenly over the toasted bread and season. 7.layer with the saut‚ed veggies, crispy chicken rashers, and pan-fried eggs. 8. serve and enjoy! pro {p: use a non-s+ick egg ring 40 make perfec+ly round pan fried eggs/ asy subs: swap chicken rashers for 1+09 lean round cu+ bacon no+es: from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 30,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "quantity": 2,
+      "unit": null,
+      "prep": null
+    },
+    {
+      "name": "Chicken Rashers",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Button Mushrooms",
+      "quantity": 60,
+      "unit": "g",
+      "prep": "sliced"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": 50,
+      "unit": "g",
+      "prep": "halved"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": 50,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Multi-Seed Sandwich Thin",
+      "quantity": 1,
+      "unit": null,
+      "prep": "toasted"
+    },
+    {
+      "name": "Avocado",
+      "quantity": 40,
+      "unit": "g",
+      "prep": "mashed"
+    },
+    {
+      "name": "Chilli Flakes",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Heat a non-stick pan and lightly spray with cooking spray. 1 Multi-seed Sandwich Thin 40g Avocado Salt & Pepper Chilli Flakes (Optional) Spray & Cook"
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Chop the mushrooms, spinach, and baby tomatoes, then add them to the pan. Season and saut‚ until soft, then remove from the pan and set aside."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Respray the pan, return to medium heat, and add the chicken rashers. Flip after 3 minutes, allowing each side to crisp and cook through."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Using egg rings, crack the eggs directly into the pan alongside the rashers. Cook until the whites are set and the yolks reach your preferred doneness. Remove from the pan."
+    },
+    {
+      "step": 5,
+      "title": "",
+      "text": "Toast the multiseed sandwich thin until golden brown."
+    },
+    {
+      "step": 6,
+      "title": "",
+      "text": "Spread the avocado evenly over the toasted bread and season."
+    },
+    {
+      "step": 7,
+      "title": "",
+      "text": "Layer with the saut‚ed veggies, crispy chicken rashers, and pan-fried eggs."
+    },
+    {
+      "step": 8,
+      "title": "",
+      "text": "Serve and enjoy! Pro {p: use a non-s+ick egg ring 40 make perfec+ly round pan fried eggs/ asy subs: Swap chicken rashers for 1+09 lean round cu+ bacon"
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 501.7,
+    "energy_kcal": 119.9,
+    "protein_g": 6.6,
+    "carbs_g": 9.7,
+    "sugars_g": 2.4,
+    "fibre_g": 8.8,
+    "fat_g": 2.8,
+    "saturated_fat_g": 0.8,
+    "sodium_mg": 163
+  },
+  "allergens": [
+    "Egg"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 434
+}

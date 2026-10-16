@@ -119,15 +119,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 474.0,
-    "energy_kcal": 113.0,
+    "energy_kj": 474,
+    "energy_kcal": 113,
     "protein_g": 4.8,
-    "carbs_g": 11.0,
+    "carbs_g": 11,
     "sugars_g": 3.5,
     "fibre_g": 2.1,
     "fat_g": 4.4,
     "saturated_fat_g": 1.7,
-    "sodium_mg": 126.0
+    "sodium_mg": 126
   },
   "allergens": [
     "Gluten",
@@ -139,5 +139,6 @@
   ],
   "chef_tip": "If you have the time, allow the lamb curry to continue simmering on a low heat for an extra 30-40 minutes to get that meat even more tender!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 944
 }

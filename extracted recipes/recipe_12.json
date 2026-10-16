@@ -112,15 +112,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 487.0,
-    "energy_kcal": 116.0,
+    "energy_kj": 487,
+    "energy_kcal": 116,
     "protein_g": 7.4,
-    "carbs_g": 10.0,
+    "carbs_g": 10,
     "sugars_g": 2.5,
     "fibre_g": 2.1,
     "fat_g": 3.3,
     "saturated_fat_g": 0.6,
-    "sodium_mg": 162.0
+    "sodium_mg": 162
   },
   "allergens": [
     "Allium",
@@ -129,5 +129,6 @@
   ],
   "chef_tip": "The butternut skin adds flavour, texture, and nutrients, but can be removed if you prefer!",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 806
 }

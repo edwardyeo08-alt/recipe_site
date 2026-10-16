@@ -8,7 +8,7 @@ console.log('--- RUNNING MEALPLAN LOGIC & DATASET TESTS ---');
 const allRecipesPath = path.join(__dirname, '..', 'extracted recipes', 'all_recipes.json');
 assert(fs.existsSync(allRecipesPath), 'all_recipes.json must exist');
 const allRecipesData = JSON.parse(fs.readFileSync(allRecipesPath, 'utf8'));
-assert.strictEqual(allRecipesData.recipes.length, 192, 'Should have exactly 192 recipes');
+assert.strictEqual(allRecipesData.recipes.length, 247, 'Should have exactly 247 recipes');
 
 let obscuredCount = 0;
 let nullNutrCount = 0;
@@ -32,8 +32,8 @@ allRecipesData.recipes.forEach(r => {
 
 assert.strictEqual(obscuredCount, 0, 'No recipes should have card_obscured_flag true');
 assert.strictEqual(nullNutrCount, 0, 'No recipe should have null nutrition values');
-assert.strictEqual(missingImages, 0, 'All 192 recipes must have dish images');
-console.log('✓ all_recipes.json integrity verified: 192 recipes, 0 obscured, 0 nulls, 192 images');
+assert.strictEqual(missingImages, 0, 'All 247 recipes must have dish images');
+console.log('✓ all_recipes.json integrity verified: 247 recipes, 0 obscured, 0 nulls, 247 images');
 
 // 2. Check ingredients_nutrition.json & CSV
 const nutrJsonPath = path.join(__dirname, '..', 'extracted recipes', 'ingredients_nutrition.json');

@@ -113,15 +113,15 @@
     }
   ],
   "nutrition_per_100g": {
-    "energy_kj": 451.0,
-    "energy_kcal": 108.0,
+    "energy_kj": 451,
+    "energy_kcal": 108,
     "protein_g": 8.1,
-    "carbs_g": 13.0,
+    "carbs_g": 13,
     "sugars_g": 2.8,
     "fibre_g": 1.8,
     "fat_g": 2.7,
     "saturated_fat_g": 0.9,
-    "sodium_mg": 163.0
+    "sodium_mg": 163
   },
   "allergens": [
     "Dairy",
@@ -131,5 +131,6 @@
   ],
   "chef_tip": "Always add curry paste to your taste preference – you don't have to add it all! When the sauce is nearing completion, taste to test the spice levels and gradually add in any remaining curry paste if you like to increase the heat.",
   "card_obscured_flag": false,
-  "obscured_details": null
+  "obscured_details": null,
+  "calories_per_serving": 701
 }

@@ -1,0 +1,96 @@
+{
+  "recipe_number": 229,
+  "title": "Perfect Pumpkin Pancakes Fluffy, Golden, And Downright Gorgeous! O",
+  "subtitle": "Cookbook Special • Low Calorie • Meal Prep Friendly",
+  "description": "Delicious, high-protein perfect pumpkin pancakes fluffy, golden, and downright gorgeous! o this stack is serving looks! with a sneaky veggie boost, it's the ultimate cozy weekend breakfast. pile 'em high, drizzle with your fave toppings, and dig in darling! 17 g prep: 20 mins k total: 20 mins 1 serving v, gf*, df calories 306 protein carbs fat fibre ingredients 150g steamed pumpkin (cooled) 50g oats 90g egg whites (3) 2g powdered sweetener* pinch salt 1/2 tsp baking powder 1 tsp vanilla essence 1 tsp cinnamon spray & cook instructions qptional topping; iog almond butter 10g honey additional macros: (92c / p2g / c9g / f5g / fibre lg) i.steam or boil the pumpkin until soft, then allow it to cool. 2. blend the pumpkin, oats, egg whites, sweetener, salt, baking powder, vanilla essence, and cinnamon until smooth. 3. heat a non-stick pan and spray with cooking spray. 4. pour the batter into the pan, forming medium-sized pancakes. 5. cook until bubbles appear on the surface, then flip and cook the other side until golden. 6.serve with your favourite toppings and enjoy! b e sure 40 use a good non-shck pan for easy flippinl/ no}es: meal prep friendly freezer from the healthy recipe collection.",
+  "chef": "L.G.",
+  "category": "Breakfast",
+  "servings": 1,
+  "hands_on_time_minutes": 20,
+  "overall_time_minutes": 30,
+  "wine_pairing": null,
+  "cook_within_days": null,
+  "ingredients": [
+    {
+      "name": "Steamed Pumpkin",
+      "quantity": 150,
+      "unit": "g",
+      "prep": "steamed & mashed"
+    },
+    {
+      "name": "Quick Oats",
+      "quantity": 40,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Whey Protein Powder",
+      "quantity": 15,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Egg Whites",
+      "quantity": 60,
+      "unit": "g",
+      "prep": null
+    },
+    {
+      "name": "Baking Powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    },
+    {
+      "name": "Ground Cinnamon",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "prep": null
+    }
+  ],
+  "from_your_kitchen": [
+    "Cooking Oil",
+    "Salt & Black Pepper",
+    "Water"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "",
+      "text": "Preheat oven or heat a non-stick pan over medium heat with cooking spray."
+    },
+    {
+      "step": 2,
+      "title": "",
+      "text": "Mix measured ingredients together in a prep bowl or blender until well combined."
+    },
+    {
+      "step": 3,
+      "title": "",
+      "text": "Cook or bake until thoroughly done, aromatic, and lightly golden."
+    },
+    {
+      "step": 4,
+      "title": "",
+      "text": "Garnish with remaining toppings and enjoy immediately or pack for meal prep."
+    }
+  ],
+  "nutrition_per_100g": {
+    "energy_kj": 476.1,
+    "energy_kcal": 113.8,
+    "protein_g": 8.9,
+    "carbs_g": 13,
+    "sugars_g": 3.3,
+    "fibre_g": 1.5,
+    "fat_g": 3.7,
+    "saturated_fat_g": 1,
+    "sodium_mg": 121
+  },
+  "allergens": [
+    "Egg"
+  ],
+  "chef_tip": null,
+  "card_obscured_flag": false,
+  "obscured_details": null,
+  "calories_per_serving": 306
+}
